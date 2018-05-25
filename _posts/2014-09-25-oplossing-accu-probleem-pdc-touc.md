@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/09/oplossing-accu-probleem-pdc-touch.html
 blogger_thumbnail:
-  - /content/images/2014/Sep/PDC_Touch.jpg
+  - /images/2014/Sep/PDC_Touch.jpg
 wp_review_location:
   - bottom
 wp_review_desc_title:

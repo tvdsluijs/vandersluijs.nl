@@ -28,7 +28,7 @@ categories:
   - My Life
 ---
 <div style="clear: both; text-align: center;">
-  <a href="https://vandersluijs.nl/wp-content/uploads/2013/08/pomodoro-technique.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="159" src="https://vandersluijs.nl/wp-content/uploads/2013/08/pomodoro-technique-300x239.jpg" width="200" /></a>
+  <a href="/images/2013/08/pomodoro-technique.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="159" src="/images/2013/08/pomodoro-technique-300x239.jpg" width="200" /></a>
 </div>
 
 Wat is de Pomodoro techniek? Nogal wat!
@@ -137,7 +137,7 @@ Bij deze techniek gebruik je dus een een kookwekker (in echte of digitale vorm) 
 </div>
 
 <div style="clear: both; text-align: center;">
-  <a href="https://vandersluijs.nl/wp-content/uploads/2013/08/theo_van_der_sluijs_pomodoro_time.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="https://vandersluijs.nl/wp-content/uploads/2013/08/theo_van_der_sluijs_pomodoro_time-300x225.jpg" width="640" /></a>
+  <a href="/images/2013/08/theo_van_der_sluijs_pomodoro_time.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="480" src="/images/2013/08/theo_van_der_sluijs_pomodoro_time-300x225.jpg" width="640" /></a>
 </div>
 
 <div style="clear: both; text-align: center;">
@@ -162,7 +162,7 @@ Bij deze techniek gebruik je dus een een kookwekker (in echte of digitale vorm) 
 </div>
 
 <div style="clear: both; text-align: center;">
-  <a href="https://vandersluijs.nl/wp-content/uploads/2013/08/photo-1-.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="Theo van der Sluijs Love's it when a plan comes together!" border="0" height="200" src="https://vandersluijs.nl/wp-content/uploads/2013/08/photo-1--300x300.jpg" title="Theo van der Sluijs Love's it when a plan comes together!" width="200" /></a>
+  <a href="/images/2013/08/photo-1-.jpg" style="margin-left: 1em; margin-right: 1em;"><img alt="Theo van der Sluijs Love's it when a plan comes together!" border="0" height="200" src="/images/2013/08/photo-1--300x300.jpg" title="Theo van der Sluijs Love's it when a plan comes together!" width="200" /></a>
 </div>
 
 <div style="clear: both; text-align: left;">

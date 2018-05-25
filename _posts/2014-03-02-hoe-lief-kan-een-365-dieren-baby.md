@@ -28,7 +28,7 @@ categories:
   - Grumpy
 ---
 <div style="clear: both; text-align: center;">
-  <a href="https://vandersluijs.nl/wp-content/uploads/2014/03/IMG_0058.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.nl/wp-content/uploads/2014/03/IMG_0058.jpg" height="200" width="198" /></a>
+  <a href="/images/2014/03/IMG_0058.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/2014/03/IMG_0058.jpg" height="200" width="198" /></a>
 </div>
 
 Een kalender op de Wc, wie heeft hem niet hangen.
@@ -44,7 +44,7 @@ Veel mensen zetten dan ook de verjaardagen er op van kennissen, vrienden, famili
 Je hebt kalenders met een mop op iedere pagina of of met een dagelijkse levensleus. Je hebt kalenders met foto&#8217;s van de beroemdheden, natuur, dieren, auto&#8217;s, motoren, muziek-instrumenten, huizen, steden en zelfs van de ruimte. Geloof me, bedenk het en ze hebben er een Wc kalender van.
 
 <div style="clear: both; text-align: center;">
-  <a href="https://vandersluijs.nl/wp-content/uploads/2014/03/IMG_0054.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.nl/wp-content/uploads/2014/03/IMG_0054.jpg" height="200" width="150" /></a>
+  <a href="/images/2014/03/IMG_0054.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/2014/03/IMG_0054.jpg" height="200" width="150" /></a>
 </div>
 
 Wij hebben op dit moment een grote maand kalender met maar liefst 365 mooiste dieren baby&#8217;s er op.
@@ -64,7 +64,7 @@ Niets is minder waar. Om eerlijk te zeggen, vraag ik me nu ook af of iedereen (j
 Deze foto.
 
 <div style="clear: both; text-align: center;">
-  <a href="https://vandersluijs.nl/wp-content/uploads/2014/03/IMG_0055.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.nl/wp-content/uploads/2014/03/IMG_0055.jpg" height="320" width="240" /></a>
+  <a href="/images/2014/03/IMG_0055.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/2014/03/IMG_0055.jpg" height="320" width="240" /></a>
 </div>
 
 Wat doet die wolf met een net afgebeten hertenpoot in zijn bek in een 365 dieren baby kalender?

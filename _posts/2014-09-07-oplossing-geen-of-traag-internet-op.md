@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/09/oplossing-geen-of-traag-internet-op.html
 blogger_thumbnail:
-  - /content/images/2014/Sep/netwerk1.jpg
+  - /images/2014/Sep/netwerk1.jpg
 hits:
   - "25"
 itrr_another_apply:
@@ -63,29 +63,29 @@ Maar als ik alles via de Google DNS laat lopen gaat het plots wel!
 
 Ga naar de **settings** van je TV en kies daar **network** 
 
-![TV](/content/images/2014/Sep/netwerk1.jpg)
+![TV](/images/2014/Sep/netwerk1.jpg)
 
 Selecteer **Select Network Settings** 
 
-![Select Network Settings](/content/images/2014/Sep/netwerk2.jpg)
+![Select Network Settings](/images/2014/Sep/netwerk2.jpg)
 
 Klik **Start** om je netwerk te testen. 
 
-![netwerk testen op smart tv samsung](/content/images/2014/Sep/netwerk3.jpg)
+![netwerk testen op smart tv samsung](/images/2014/Sep/netwerk3.jpg)
 
 Als alle testen zijn gedaan, klik dan op **IP Settings** 
 
-![IP Settings](/content/images/2014/Sep/netwerk4.jpg)
+![IP Settings](/images/2014/Sep/netwerk4.jpg)
 
 Verander **DNS Mode** naar **Manual** 
 
-![DNS mode samsung smart TV](/content/images/2014/Sep/netwerk5.jpg)
+![DNS mode samsung smart TV](/images/2014/Sep/netwerk5.jpg)
 
 Zet daarna je **DNS server** ip adres op : 
 
 8.8.8.8 of 8.8.4.4 
 
-![DNS Server](/content/images/2014/Sep/netwerk6.jpg)  
+![DNS Server](/images/2014/Sep/netwerk6.jpg)  
 Hierboven zie je wat je eventueel kan instellen als je Netflix vanuit een ander land wil ontvangen via Unotelly bijvoorbeeld.
 
 Klaar!!!

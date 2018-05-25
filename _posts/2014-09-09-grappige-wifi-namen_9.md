@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/09/grappige-wifi-namen_9.html
 blogger_thumbnail:
-  - /content/images/2014/Sep/klein_blijdorp.png
+  - /images/2014/Sep/klein_blijdorp.png
 wp_review_location:
   - bottom
 wp_review_desc_title:

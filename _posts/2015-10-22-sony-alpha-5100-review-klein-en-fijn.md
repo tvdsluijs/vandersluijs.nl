@@ -68,7 +68,7 @@ Raar dus dat Sony zijn modellen vernoemt naar iets wat nog lang niet af is. Toch
 
 ## Alpha 5100 lekker licht met lange accu
 
-<img class="alignleft size-medium wp-image-1579" src="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/IMG_1632-225x300.jpg" alt="Sony Alpha 5100" width="225" height="300" srcset="https://vandersluijs.nl/wp-content/uploads/2015/10/IMG_1632-225x300.jpg 225w, https://vandersluijs.nl/wp-content/uploads/2015/10/IMG_1632-768x1024.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2015/10/IMG_1632.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />De Sony alpha 5100 is lekker licht. En dat met bijna het zelfde objectief. Hij ligt prettig in de hand en je kan hem vrij eenvoudig met één hand bedienen.
+<img class="alignleft size-medium wp-image-1579" src="/images/2015/10/IMG_1632-225x300.jpg" alt="Sony Alpha 5100" width="225" height="300" srcset="/images/2015/10/IMG_1632-225x300.jpg 225w, /images/2015/10/IMG_1632-768x1024.jpg 768w, /images/2015/10/IMG_1632.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />De Sony alpha 5100 is lekker licht. En dat met bijna het zelfde objectief. Hij ligt prettig in de hand en je kan hem vrij eenvoudig met één hand bedienen.
 
 Daarnaast valt me op dat de accu lekker lang mee gaat. Het lijk ook wel veel langer dan de Canon. De body is klein en het objectief ook. Daardoor pat hij lekker makkelijk in bijna iedere tas.
 
@@ -84,7 +84,7 @@ Waar ik wel bang voor was, is de snelheid waarmee je in en uit kan zoomen. Bij m
 
 ## Alpha 5100 instellingen
 
-<img class="alignright size-thumbnail wp-image-1576" src="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/IMG_1622-150x150.jpg" alt="sony alpha 5100" width="150" height="150" srcset="https://vandersluijs.nl/wp-content/uploads/2015/10/IMG_1622-150x150.jpg 150w, https://vandersluijs.nl/wp-content/uploads/2015/10/IMG_1622-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />De instellingen van de 5100 gaan niet via een draaiwiel boven op maar via het scherm achter op. Dat  is jammer, want het zoeken naar de juiste instellingen gaat bij mij intuïtief beter boven op dan achter op.
+<img class="alignright size-thumbnail wp-image-1576" src="/images/2015/10/IMG_1622-150x150.jpg" alt="sony alpha 5100" width="150" height="150" srcset="/images/2015/10/IMG_1622-150x150.jpg 150w, /images/2015/10/IMG_1622-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />De instellingen van de 5100 gaan niet via een draaiwiel boven op maar via het scherm achter op. Dat  is jammer, want het zoeken naar de juiste instellingen gaat bij mij intuïtief beter boven op dan achter op.
 
 Maar goed dat is een kwestie van wennen denk ik. De instellingen zijn overigens meer dan voldoende. Mooi is ook dat ze twee automatische programma&#8217;s hebben. Het normale groene automatische programma en het soort van GOLD + programma wat echt fantastische automatische plaatjes voor je schiet. (zoals HDR)
 

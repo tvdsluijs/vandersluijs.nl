@@ -101,7 +101,7 @@ Daarna ben ik met mijn Facebook account aan de slag gegaan. Opzeggen wil ik het 
 
 ## Stoppen met Facebook
 
-<img class="alignleft size-thumbnail wp-image-3597" src="https://vandersluijs.nl/wp-content/uploads/2016/12/keep-calm-and-good-bye-facebook-1-150x150.png" alt="" width="150" height="150" srcset="https://vandersluijs.nl/wp-content/uploads/2016/12/keep-calm-and-good-bye-facebook-1-150x150.png 150w, https://vandersluijs.nl/wp-content/uploads/2016/12/keep-calm-and-good-bye-facebook-1-65x65.png 65w, https://vandersluijs.nl/wp-content/uploads/2016/12/keep-calm-and-good-bye-facebook-1-50x50.png 50w" sizes="(max-width: 150px) 100vw, 150px" />Als je wilt stoppen met Facebook kan je het beste je account echt laten verwijderen. Dus niet deactiveren (want zodra je inlogt via bijvoorbeeld Spotify komt je profiel weer online) maar echt laten verwijderen.
+<img class="alignleft size-thumbnail wp-image-3597" src="/images/2016/12/keep-calm-and-good-bye-facebook-1-150x150.png" alt="" width="150" height="150" srcset="/images/2016/12/keep-calm-and-good-bye-facebook-1-150x150.png 150w, /images/2016/12/keep-calm-and-good-bye-facebook-1-65x65.png 65w, /images/2016/12/keep-calm-and-good-bye-facebook-1-50x50.png 50w" sizes="(max-width: 150px) 100vw, 150px" />Als je wilt stoppen met Facebook kan je het beste je account echt laten verwijderen. Dus niet deactiveren (want zodra je inlogt via bijvoorbeeld Spotify komt je profiel weer online) maar echt laten verwijderen.
 
 Voordat je stopt met Facebook stel ik voor dat je eerst even al je posts, foto&#8217;s en filmpjes download. Dat kan heel makkelijk!
 

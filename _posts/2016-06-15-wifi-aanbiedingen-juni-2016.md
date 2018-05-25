@@ -31,16 +31,12 @@ Let op! Deze prijzen zijn vastgezet op 15 Juni. Ze kunnen dus afwijken van de pr
 
 Over het algemeen hebben draadloze routers de volgende eigenschappen: LAN poorten (meestal 4) voor een bekabeld netwerk. Een WAN poort, om te verbinden met het modem/internet. Een WiFi antenne (sommige modellen beschikken over 2 antennes)
   
-[show-product-by-ean ean=&#8221;&#8216;8716502029785&#8242;,&#8217;8716502027637&#8242;,&#8217;6935364092955&#8242;,&#8217;6935364092276&#8217;,&#8217;4716659989721&#8242;&#8221;]
 
 ## Access Points
 
 Een **access point** is een draadloos toegangspunt in een wifi netwerk. Het**accesspoint** is de draadloze server die de gegevens via het bedrade UTP netwerk krijgt en deze middels een antenne verzendt. Dit verzenden gaat via radio golven, de wifi technologie.
   
-[show-product-by-ean ean=&#8221;&#8216;8716502027118&#8242;,&#8217;0790069331251&#8242;,&#8217;6935364051426&#8242;,&#8217;6935364071837&#8217;,&#8217;4260184663392&#8242;&#8221;]
 
 ## Powerline Adapters
 
 Met powerline adapters leid je het internet via het stopcontact naar alle kanten van het huis. Naar een andere verdieping, of gewoon naar de andere kant van de kamer. De adapters maken gebruik van het bestaande stroomnet in je huis. Lange kabels trekken en gaten boren is overbodig.
-  
-[show-product-by-ean ean=&#8221;&#8216;4250059693814&#8242;,&#8217;4250059691186&#8217;,&#8217;6935364092115&#8242;&#8221;]

@@ -30,7 +30,7 @@ categories:
   - Tech
 ---
 <div>
-  <a href="https://vandersluijs.nl/wp-content/uploads/2012/11/canon_mp970.jpg"><img border="0" src="https://vandersluijs.nl/wp-content/uploads/2012/11/canon_mp970-300x225.jpg" height="150" width="200" /></a>
+  <a href="/images/2012/11/canon_mp970.jpg"><img border="0" src="/images/2012/11/canon_mp970-300x225.jpg" height="150" width="200" /></a>
 </div>
 
 Gisteren kwam ik er achter dat er één van mijn inktpatronen leeg was in mijn Canon MP970 printer/scanner.
@@ -41,7 +41,7 @@ Ik kon helemaal niet scannen omdat de melding dat er een inktpatroon leeg was in
 <a href="https://vandersluijs.nl/" name="more"></a>De melding :
 
 <div>
-  <a href="https://vandersluijs.nl/wp-content/uploads/2012/11/U163_The_following_ink_has_run_out_Replace_the_ink_tank..png"><img border="0" src="https://vandersluijs.nl/wp-content/uploads/2012/11/U163_The_following_ink_has_run_out_Replace_the_ink_tank..png" /></a>
+  <a href="/images/2012/11/U163_The_following_ink_has_run_out_Replace_the_ink_tank..png"><img border="0" src="/images/2012/11/U163_The_following_ink_has_run_out_Replace_the_ink_tank..png" /></a>
 </div>
 
 > U163: The following ink has run out. Replace the ink tank.
@@ -82,7 +82,7 @@ bleeft wat ik ook probeerde in beeld staan!
 <table align="center" cellpadding="0" cellspacing="0">
   <tr>
     <td>
-      <a href="https://vandersluijs.nl/wp-content/uploads/2012/11/IMG_20121110_102945.jpg"><img border="0" src="https://vandersluijs.nl/wp-content/uploads/2012/11/IMG_20121110_102945-300x225.jpg" height="300" width="400" /></a>
+      <a href="/images/2012/11/IMG_20121110_102945.jpg"><img border="0" src="/images/2012/11/IMG_20121110_102945-300x225.jpg" height="300" width="400" /></a>
     </td>
   </tr>
   

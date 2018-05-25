@@ -61,7 +61,7 @@ En dan kwamen nu de Dikke Delta Deal&#8217;s er aan&#8230; jaaaaa dacht ik&#8230
 
 ## Bestaande Delta klant krijg 30 euro korting
 
-<img class="aligncenter size-full wp-image-3587" src="https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-20.20.35.png" alt="delta dikke deal" width="2292" height="608" srcset="https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-20.20.35.png 2292w, https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-20.20.35-300x80.png 300w, https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-20.20.35-768x204.png 768w, https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-20.20.35-1024x272.png 1024w, https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-20.20.35-940x249.png 940w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+<img class="aligncenter size-full wp-image-3587" src="/images/2016/12/Screen-Shot-2016-12-07-at-20.20.35.png" alt="delta dikke deal" width="2292" height="608" srcset="/images/2016/12/Screen-Shot-2016-12-07-at-20.20.35.png 2292w, /images/2016/12/Screen-Shot-2016-12-07-at-20.20.35-300x80.png 300w, /images/2016/12/Screen-Shot-2016-12-07-at-20.20.35-768x204.png 768w, /images/2016/12/Screen-Shot-2016-12-07-at-20.20.35-1024x272.png 1024w, /images/2016/12/Screen-Shot-2016-12-07-at-20.20.35-940x249.png 940w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 
 Eindelijk kon ik mijn aanbod zien. Ik logde in op de pip omgeving van Zeelandnet&#8230; en daar stond het!
 
@@ -111,7 +111,7 @@ Dus daar kwam het antwoord!
 
 Ummm sorry&#8230;.. hoe bedoel je, ook als ik geen premium had zou ik dit ook niet krijgen? Welke imbeciel heeft dat dan zo in mijn ZeelandNet Pip pagina geprogrammeerd!
 
-<img class="aligncenter wp-image-3585 size-full" title="zeelandnet pip fockup" src="https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-19.07.35.png" width="1174" height="216" srcset="https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-19.07.35.png 1174w, https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-19.07.35-300x55.png 300w, https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-19.07.35-768x141.png 768w, https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-19.07.35-1024x188.png 1024w, https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-07-at-19.07.35-940x173.png 940w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+<img class="aligncenter wp-image-3585 size-full" title="zeelandnet pip fockup" src="/images/2016/12/Screen-Shot-2016-12-07-at-19.07.35.png" width="1174" height="216" srcset="/images/2016/12/Screen-Shot-2016-12-07-at-19.07.35.png 1174w, /images/2016/12/Screen-Shot-2016-12-07-at-19.07.35-300x55.png 300w, /images/2016/12/Screen-Shot-2016-12-07-at-19.07.35-768x141.png 768w, /images/2016/12/Screen-Shot-2016-12-07-at-19.07.35-1024x188.png 1024w, /images/2016/12/Screen-Shot-2016-12-07-at-19.07.35-940x173.png 940w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 
 Ik vertelde Delta, met tekst en screenshot dat het er toch echt stond! Waarop Delta antwoordde:
 

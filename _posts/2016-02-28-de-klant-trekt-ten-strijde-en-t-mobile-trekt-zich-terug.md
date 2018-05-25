@@ -100,7 +100,3 @@ Nou T-Mobile, ik zal je zeggen in Wolphaartsdijk is het nooit wat geweest!
 En ze wilden natuurlijk helemaal geen extra Mast bij Wolphaartsdijk. Maar ze dachten&#8230; oh een beetje extra reclame is nooit weg. Maar nu Goes ze ter wille wil zijn, krijgen ze het in eens te warm onder hun voetjes.
 
 Een mast in Wolphaartsdijk? Nee dat nooit!
-
-&nbsp;
-
-[button href=&#8221;http://tc.tradetracker.net/?c=2267&m=12&a=97738&u=%2F&#8221; style=&#8221;emboss&#8221; size=&#8221;large&#8221; color=&#8221;#dd9d3e&#8221; hovercolor=&#8221;#4887bf&#8221; textcolor=&#8221;#000000&#8243; texthovercolor=&#8221;#ffffff&#8221; target=&#8221;_blank&#8221;]Goed en goedkoop mobiel bellen![/button]

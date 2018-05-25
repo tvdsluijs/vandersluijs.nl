@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/05/mijn-blog-vanaf-vandaag-op-ghostorg.html
 blogger_thumbnail:
-  - /content/images/2014/May/IMG_0667.JPG
+  - /images/2014/May/IMG_0667.JPG
 hits:
   - "1452"
 itrr_another_apply:
@@ -27,7 +27,7 @@ itrr_another_apply:
 categories:
   - Tech
 ---
-![Donkere Wolken](/content/images/2014/May/IMG_0667.JPG)  
+![Donkere Wolken](/images/2014/May/IMG_0667.JPG)  
 Okay&#8230; da&#8217;s niet helemaal waar. Eigenlijk zit ik al sinds 17 februari met een [blog](http://itheo.nl) op Ghost.org maar ik heb dus vandaag mijn complete [blogger](http://www.blogger.com) blog overgezet naar [ghost.org](http://www.ghost.org). 
 
 En dat ging niet makkelijk&#8230;.. 

@@ -28,7 +28,7 @@ categories:
   - My Life
 ---
 <div style="clear: both; text-align: center;">
-  <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="https://vandersluijs.nl/wp-content/uploads/2014/03/theo_van_der_sluijs_boek.jpg"><img src="https://vandersluijs.nl/wp-content/uploads/2014/03/theo_van_der_sluijs_boek.jpg" alt="" width="200" height="142" border="0" /></a>
+  <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="/images/2014/03/theo_van_der_sluijs_boek.jpg"><img src="/images/2014/03/theo_van_der_sluijs_boek.jpg" alt="" width="200" height="142" border="0" /></a>
 </div>
 
 En plots daar was hij dan, mijn boek! Zo maar in de boekhandel.
@@ -54,7 +54,7 @@ Ik liet het aan wat collega&#8217;s zien en &#8217;s avonds vond één van die c
 Dus photoshopte hij deze foto in elkaar. 
 
 <div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://vandersluijs.nl/wp-content/uploads/2014/03/theo_van_der_sluijs_boek1.jpg"><img src="https://vandersluijs.nl/wp-content/uploads/2014/03/theo_van_der_sluijs_boek1.jpg" alt="" width="640" height="456" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="/images/2014/03/theo_van_der_sluijs_boek1.jpg"><img src="/images/2014/03/theo_van_der_sluijs_boek1.jpg" alt="" width="640" height="456" border="0" /></a>
 </div>
 
 <div style="clear: both; text-align: center;">
@@ -68,7 +68,7 @@ Dus photoshopte hij deze foto in elkaar.
 </div>
 
 <div style="clear: both; text-align: center;">
-  <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="https://vandersluijs.nl/wp-content/uploads/2014/03/twitter_book.png"><img src="https://vandersluijs.nl/wp-content/uploads/2014/03/twitter_book.png" alt="" width="200" height="187" border="0" /></a>
+  <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="/images/2014/03/twitter_book.png"><img src="/images/2014/03/twitter_book.png" alt="" width="200" height="187" border="0" /></a>
 </div>
 
 Een bekende op twitter feliciteerde me gelijk! En zag twee seconden later dat hij er ook in was getrapt!
@@ -84,5 +84,5 @@ Maar &#8230;&#8230;&#8230;.
 </div>
 
 <div style="clear: both; text-align: center;">
-  <a style="margin-left: 1em; margin-right: 1em;" href="https://vandersluijs.nl/wp-content/uploads/2014/03/SteveBiography295.jpg"><img src="https://vandersluijs.nl/wp-content/uploads/2014/03/SteveBiography295.jpg" alt="" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em;" href="/images/2014/03/SteveBiography295.jpg"><img src="/images/2014/03/SteveBiography295.jpg" alt="" border="0" /></a>
 </div>

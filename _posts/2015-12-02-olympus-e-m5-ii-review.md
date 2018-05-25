@@ -51,7 +51,7 @@ tags:
 ---
 Bijna vergeten was ik dit merk! Olympus! Hoe kon ik het vergeten!!
 
-Gelukkig was [Foto Tuerlings](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/12/www.fototuerlings.nl) zo aardig om me niet alleen hier op te duiden, maar ook om me een Olympus E-M5II te lenen voor een review.
+Gelukkig was [Foto Tuerlings](/images/2015/12/www.fototuerlings.nl) zo aardig om me niet alleen hier op te duiden, maar ook om me een Olympus E-M5II te lenen voor een review.
 
 En wat voor een camera!! Een prachtig apparaat! Helaas kwam hij niet in originele doos, dus geen uitpak party.<!--more-->Ik had een tweede gelukje bij deze review! Want ik kreeg de camera ook nog eens op tijd om hem te testen tijdens mijn uitstapje naar London!
 
@@ -103,7 +103,7 @@ Maar ja&#8230; die prijs hé! Meer dan 1000 euro moet je er voor neer tellen! En
   * Best wel pittige prijs!
   * Met 417 g redelijk aan de zware kant.
 
-Meer weten over deze camera of gelijk ééntje kopen? Ga dan snel naar de site van <a href="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/12/olympus-e-m5ii-1250-kit-slv-blk-e-m5-mark-ii-silver-ez.html" target="_blank">Foto Tuerlings</a>!
+Meer weten over deze camera of gelijk ééntje kopen? Ga dan snel naar de site van <a href="/images/2015/12/olympus-e-m5ii-1250-kit-slv-blk-e-m5-mark-ii-silver-ez.html" target="_blank">Foto Tuerlings</a>!
 
 [FAG id=2203]
 

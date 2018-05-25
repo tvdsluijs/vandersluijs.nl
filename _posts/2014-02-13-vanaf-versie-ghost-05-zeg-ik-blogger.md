@@ -28,7 +28,7 @@ categories:
   - Tech
 ---
 <div style="clear: both;">
-  <a href="https://vandersluijs.nl/wp-content/uploads/2014/02/import_tool_PNG.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.nl/wp-content/uploads/2014/02/import_tool_PNG.png" height="107" width="320" /></a>
+  <a href="/images/2014/02/import_tool_PNG.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/2014/02/import_tool_PNG.png" height="107" width="320" /></a>
 </div>
 
 Het ziet er naar uit dat het niet lang meer gaat duren dat ik nog een blog heb via Blogger.com. Ghost is mij zo goed bevallen dat ik bij&nbsp;<a href="https://github.com/TryGhost/Ghost/wiki/Roadmap#wiki-milestone-5---version-050---apps--import" target="_blank">versie 0.5</a>&nbsp;mijn overstap ga maken.

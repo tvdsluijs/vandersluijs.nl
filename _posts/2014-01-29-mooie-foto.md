@@ -58,4 +58,4 @@ Ook al heb ik nu de Canon D350 en een Peleng objectief.
 
 Ik zou zeggen, ga snel eens kijken of deze site, met echt geweldig mooie foto’s
 
-[www.wildthingsphotography.com](https://dezeeuwsefotograaf.nl/wp-content/uploads/2014/01/www.wildthingsphotography.com)
+[www.wildthingsphotography.com](/images/2014/01/www.wildthingsphotography.com)

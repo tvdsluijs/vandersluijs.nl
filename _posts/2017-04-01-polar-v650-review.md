@@ -31,7 +31,7 @@ Ik had al zitten kijken naar de Garmin Edge Explore 820 GPS en de Garmin Edge 82
 <div id="ember2234" class="ember-view">
   <div class="gh-image-uploader -with-image">
     <div>
-      <img src="https://itheo.nl/content/images/2017/04/polar-v650---5.jpg" />
+      <img src="https://itheo.nl/images/2017/04/polar-v650---5.jpg" />
     </div>
   </div>
 </div></section> 
@@ -47,7 +47,7 @@ Het is betaalbaar! Je krijgt echt een complete fietscomputer voor nog geen 200 e
 <div id="ember2238" class="ember-view">
   <div class="gh-image-uploader -with-image">
     <div>
-      <img src="https://itheo.nl/content/images/2017/04/polar-v650---8.jpg" />
+      <img src="https://itheo.nl/images/2017/04/polar-v650---8.jpg" />
     </div>
   </div>
 </div></section> 
@@ -65,7 +65,7 @@ Onder tussen zit er dus wel routes in en kan je tot 450 bij 450 km er in zetten.
 <div id="ember2242" class="ember-view">
   <div class="gh-image-uploader -with-image">
     <div>
-      <img src="https://itheo.nl/content/images/2017/04/polar-v650---3.jpg" />
+      <img src="https://itheo.nl/images/2017/04/polar-v650---3.jpg" />
     </div>
   </div>
 </div></section> 
@@ -83,7 +83,7 @@ Zorg dat je de schermen van te voren indeelt want ik was niet blij met mijn eers
 <div id="ember2246" class="ember-view">
   <div class="gh-image-uploader -with-image">
     <div>
-      <img src="https://itheo.nl/content/images/2017/04/polar-v650---6.jpg" />
+      <img src="https://itheo.nl/images/2017/04/polar-v650---6.jpg" />
     </div>
   </div>
 </div></section> 
@@ -106,16 +106,7 @@ Al met al is de Polar redelijk compleet, ligt voor nog geen 170 euro in de winke
 <div id="ember2250" class="ember-view">
   <div class="gh-image-uploader -with-image">
     <div>
-      <img src="https://itheo.nl/content/images/2017/04/polar-v650---9.jpg" />
+      <img src="https://itheo.nl/images/2017/04/polar-v650---9.jpg" />
     </div>
   </div>
 </div></section> 
-
-#### Lees ook mijn andere Polar artikelen eens! {#leesookmijnanderepolarartikeleneens}
-
-  * [Oplossing koppel probleem polar m400 v800 en h7](https://40enfit.nl/oplossing-koppel-probleem-polar-m400-v800-en-h7/)
-  * [Polar h7 hartslagband niet geschikt voor mudruns](https://40enfit.nl/polar-h7-hartslagband-geschikt-mudruns/)
-  * [Hoe reset je de polar h7 bluetooth hartslag sensor](https://40enfit.nl/hoe-reset-polar-h7-bluetooth-hartslag-sensor/)
-  * [Zwemmen met de polar m400](https://40enfit.nl/zwemmen-met-de-polar-m400/)
-  * [10 redenen om de polar m400 niet te kopen](https://40enfit.nl/10-redenen-om-de-polar-m400-niet-te/)
-  * [Andere Polar artikelen op 40enfit.nl](https://40enfit.nl/tag/polar/)

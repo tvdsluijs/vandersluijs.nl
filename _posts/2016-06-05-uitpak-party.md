@@ -57,7 +57,7 @@ Niet alleen heb ik lang lang lang geleden bij zowel Zeelandnet als bij Delta gew
 
 ## Cisco 3940 Modem 2.4Ghz en 5Ghz
 
-<img class="size-medium wp-image-2859 alignleft" src="https://vandersluijs.nl/wp-content/uploads/2016/06/Zeelandnet_Cisco_EPC3940-300x289.jpg" alt="ZeelandNet Cisco EPC 3940" width="300" height="289" srcset="https://vandersluijs.nl/wp-content/uploads/2016/06/Zeelandnet_Cisco_EPC3940-300x289.jpg 300w, https://vandersluijs.nl/wp-content/uploads/2016/06/Zeelandnet_Cisco_EPC3940-416x400.jpg 416w, https://vandersluijs.nl/wp-content/uploads/2016/06/Zeelandnet_Cisco_EPC3940.jpg 550w" sizes="(max-width: 300px) 100vw, 300px" />Het laatst uitgebrachte modem van Zeelandnet is het zogenaamde Cisco EPC3940 modem. In dit artikel noem ik het gewoon Modem waarbij het dus alleen om dit type gaat.
+<img class="size-medium wp-image-2859 alignleft" src="/images/2016/06/Zeelandnet_Cisco_EPC3940-300x289.jpg" alt="ZeelandNet Cisco EPC 3940" width="300" height="289" srcset="/images/2016/06/Zeelandnet_Cisco_EPC3940-300x289.jpg 300w, /images/2016/06/Zeelandnet_Cisco_EPC3940-416x400.jpg 416w, /images/2016/06/Zeelandnet_Cisco_EPC3940.jpg 550w" sizes="(max-width: 300px) 100vw, 300px" />Het laatst uitgebrachte modem van Zeelandnet is het zogenaamde Cisco EPC3940 modem. In dit artikel noem ik het gewoon Modem waarbij het dus alleen om dit type gaat.
 
 Het modem wat is voorbereid om zowel 2.4Ghz als 5Ghz te gebruiken komt in een nette bruine stevige Cisco doos. In de doos vind je een coax kabel met een niet al te grote lengte.
 
@@ -69,10 +69,5 @@ Naast de boekjes en het modem zit ook nog een adapter en stekker in de doos om h
 
 Wat me direct opvalt zijn de twee schroefgaten in het modem. Daarmee suggereert het dat je het kan ophangen, echter zit er zo&#8217;n brede voet onder het modem dat het hierdoor schuin komt te hangen. Wellicht dat je dit kan oplossen door een klein balkje tegen de muur te schroeven waarna je daar het modem weer aan hangt, maar handig is anders.
 
-## Uitpak party video ZeelandNet modem
-
-
-
-Overigens kreeg ik ook nog een [TP-Link AV-1200](https://vandersluijs.nl/blog/2016/06/uitpakparty-zeelandnet-tp-link-av-1200.html) Powerline set mee naar huis. Het artikel over die uitpak party kan hier</a> vinden.
 
 _Foto door : <a class="owner-name truncate" title="Go to Karen Bryan's photostream" href="https://www.flickr.com/photos/europealacarte/" data-track="attributionNameClick" data-rapid_p="48">Karen Bryan_

@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/09/mijn-ghost-site-is-vindbaar-op-google_11.html
 blogger_thumbnail:
-  - /content/images/2014/Jan/i_theo_van_der_sluijs_op_google.png
+  - /images/2014/Jan/i_theo_van_der_sluijs_op_google.png
 hits:
   - "836"
 itrr_another_apply:
@@ -65,6 +65,6 @@ Nou&#8230; dat valt wel mee toch?
 
 En dan&#8230; na een paar dagen wachten&#8230;.
 
-![Ben je vindbaar op Google](/content/images/2014/Jan/i_theo_van_der_sluijs_op_google.png)
+![Ben je vindbaar op Google](/images/2014/Jan/i_theo_van_der_sluijs_op_google.png)
 
 En als je beter en beter vindbaar wilt zijn&#8230; blijf dan vooral interessante artikelen bloggen!

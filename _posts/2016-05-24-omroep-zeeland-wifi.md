@@ -55,9 +55,3 @@ Coen Theuwis, is presentator en verslaggever Omroep Zeeland, heeft het interview
 Ik verwacht dat volgende week dit item op oproep zeeland is. Ik hou jullie op de hoogte en zal hier een link posten met de video.
 
 Overigens heeft ZeelandNet zelf ook nog een filmpje over hoe je internet kan verbeteren&#8230;. maar of het zal helpen&#8230;.
-
-
-
-&nbsp;
-
-&nbsp;

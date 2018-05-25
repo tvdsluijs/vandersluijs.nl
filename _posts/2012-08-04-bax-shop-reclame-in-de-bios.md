@@ -28,7 +28,7 @@ categories:
   - My Life
 ---
 <div>
-  <img alt="" src="https://vandersluijs.nl/wp-content/uploads/2012/08/tumblr_m889lun1tI1rpqrb1o1_1280-300x300.jpg" />
+  <img alt="" src="/images/2012/08/tumblr_m889lun1tI1rpqrb1o1_1280-300x300.jpg" />
 </div>
 
 Reclame van mijn werk in de bios. (Taken with Instagram at DaVinci Bioscoop)

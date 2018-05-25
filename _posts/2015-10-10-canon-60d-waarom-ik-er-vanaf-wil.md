@@ -45,13 +45,13 @@ tags:
 ---
 Ik ben maar een hobbyfotograaf. Ik vind het leuk om plaatjes te schieten en er iets creatief mee te doen. Dit doe ik met mijn Canon 60D
 
-Je vindt veel van mijn foto&#8217;s op <a href="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/tvds" target="_blank">Flickr</a>, <a href="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/theovdsluijs" target="_blank">Instagram</a>, <a href="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/theovandersluijs" target="_blank">500px</a> en <a href="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/photos" target="_blank">Google Photos</a>. Ja, ik hou van fotografie&#8230;. maar eigenlijk ook niet meer. En dat komt vooral door mijn Canon 60D.<!--more-->Groot, groter grootst! Alhoewel de techniek steeds kleiner wordt lijken de camera&#8217;s daar geen rekening mee te houden.
+Je vindt veel van mijn foto&#8217;s op <a href="/images/2015/10/tvds" target="_blank">Flickr</a>, <a href="/images/2015/10/theovdsluijs" target="_blank">Instagram</a>, <a href="/images/2015/10/theovandersluijs" target="_blank">500px</a> en <a href="/images/2015/10/photos" target="_blank">Google Photos</a>. Ja, ik hou van fotografie&#8230;. maar eigenlijk ook niet meer. En dat komt vooral door mijn Canon 60D.<!--more-->Groot, groter grootst! Alhoewel de techniek steeds kleiner wordt lijken de camera&#8217;s daar geen rekening mee te houden.
 
 ## Canon PowerShot G3
 
-###### [<img src="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/Canon_Powershot_G12.jpg" alt="Canon Powershot G12.jpg" width="640" height="480" />](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/File:Canon_Powershot_G12.jpg)
+###### [<img src="/images/2015/10/Canon_Powershot_G12.jpg" alt="Canon Powershot G12.jpg" width="640" height="480" />](/images/2015/10/File:Canon_Powershot_G12.jpg)
   
-_&#8220;[Canon Powershot G12](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/File:Canon_Powershot_G12.jpg)&#8221; by [KurtMervin](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/index.php?title=User:KurtMervin&action=edit&redlink=1 "User:KurtMervin (page does not exist)"){.new} &#8211; <span class="int-own-work" lang="en">Own work</span>. Licensed under [CC BY-SA 3.0](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/3 "Creative Commons Attribution-Share Alike 3.0") via [Commons](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/wiki)._
+_&#8220;[Canon Powershot G12](/images/2015/10/File:Canon_Powershot_G12.jpg)&#8221; by [KurtMervin](/images/2015/10/index.php?title=User:KurtMervin&action=edit&redlink=1 "User:KurtMervin (page does not exist)"){.new} &#8211; <span class="int-own-work" lang="en">Own work</span>. Licensed under [CC BY-SA 3.0](/images/2015/10/3 "Creative Commons Attribution-Share Alike 3.0") via [Commons](/images/2015/10/wiki)._
 
 Mijn eerste eigen digitale camera was een Canon PowerShot G3. Met de 4.0 Megapixel CCD schoot die best mooie foto&#8217;s. Kwalitatief gezien dan natuurlijk, want een mooie foto maak je zelf. Met zijn 399gram best een zwaar ding maar we hebben het dan ook over een camera uit September 2002!
 
@@ -59,9 +59,9 @@ Ik was toen al best vaak op pad om foto&#8217;s te maken. En dat hij zwaar was m
 
 ## Canon EOS 350D
 
-###### [<img src="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/CanonEOS350D.jpg" alt="CanonEOS350D.jpg" width="638" height="480" />](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/File:CanonEOS350D.jpg)
+###### [<img src="/images/2015/10/CanonEOS350D.jpg" alt="CanonEOS350D.jpg" width="638" height="480" />](/images/2015/10/File:CanonEOS350D.jpg)
   
-_&#8220;[CanonEOS350D](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/File:CanonEOS350D.jpg)&#8221; by [RebelAt](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/User:RebelAt "wikipedia:User:RebelAt"){.extiw} at [English Wikipedia](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/wiki1 "wikipedia:"){.extiw}. Licensed under [CC BY-SA 3.0](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/3 "Creative Commons Attribution-Share Alike 3.0") via [Commons](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/wiki)._
+_&#8220;[CanonEOS350D](/images/2015/10/File:CanonEOS350D.jpg)&#8221; by [RebelAt](/images/2015/10/User:RebelAt "wikipedia:User:RebelAt"){.extiw} at [English Wikipedia](/images/2015/10/wiki1 "wikipedia:"){.extiw}. Licensed under [CC BY-SA 3.0](/images/2015/10/3 "Creative Commons Attribution-Share Alike 3.0") via [Commons](/images/2015/10/wiki)._
 
 Mijn tweede camera was een Canon EOS 350D. Met een verdubbeling van de CCD, naar 8,0 MP kon ik weer even vooruit met die camera. Gekocht in 2004 en jaren lang plezier van gehad. Ik nam hem overal mee naar toe, want hij was met zijn relatief 540 gram nog heel goed mee te nemen overal naar toe. Zijn kleine body hielp daar ook wel aan mee.
 
@@ -69,9 +69,9 @@ Ik heb heel veel foto&#8217;s  gemaakt met deze camera letterlijk duizenden fot
 
 ## Canon EOS 60D
 
-###### [<img src="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/Canon_EOS_60D_without_lens.jpg" alt="Canon EOS 60D without lens.jpg" width="531" height="480" />](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/File:Canon_EOS_60D_without_lens.jpg)
+###### [<img src="/images/2015/10/Canon_EOS_60D_without_lens.jpg" alt="Canon EOS 60D without lens.jpg" width="531" height="480" />](/images/2015/10/File:Canon_EOS_60D_without_lens.jpg)
   
-_&#8220;[Canon EOS 60D without lens](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/File:Canon_EOS_60D_without_lens.jpg)&#8221; by [Philip Klever](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/Philip_Klever "de:Philip Klever"){.extiw} alias [User:Killerwal](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/index.php?title=User:Killerwal&action=edit&redlink=1 "User:Killerwal (page does not exist)"){.new} &#8211; Licensed under [CC BY 3.0](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/31 "Creative Commons Attribution 3.0") via [Commons](https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/wiki)._
+_&#8220;[Canon EOS 60D without lens](/images/2015/10/File:Canon_EOS_60D_without_lens.jpg)&#8221; by [Philip Klever](/images/2015/10/Philip_Klever "de:Philip Klever"){.extiw} alias [User:Killerwal](/images/2015/10/index.php?title=User:Killerwal&action=edit&redlink=1 "User:Killerwal (page does not exist)"){.new} &#8211; Licensed under [CC BY 3.0](/images/2015/10/31 "Creative Commons Attribution 3.0") via [Commons](/images/2015/10/wiki)._
 
 Toen ik de grenzen van mijn Canon EOS 350D wel bereikt had, heb ik een Canon EOS 60D gekocht. Mijn eerste echte professionele camera met 18-megapixel sensor, waanzinnig hoge ISO, snelheid en gemak.
 

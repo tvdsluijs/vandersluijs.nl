@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/05/tassimo-een-goede-keuze-of-niet.html
 blogger_thumbnail:
-  - /content/images/2014/May/IMG_0673.JPG
+  - /images/2014/May/IMG_0673.JPG
 hits:
   - "1519"
 dsq_thread_id:
@@ -27,7 +27,7 @@ dsq_thread_id:
 categories:
   - My Life
 ---
-![Tassimo](/content/images/2014/May/IMG_0673.JPG)
+![Tassimo](/images/2014/May/IMG_0673.JPG)
 
 Na zo&#8217;n 5 jaar Nespresso gedronken te hebben was ik er wel een beetje op uit&#8230;gedronken.
 

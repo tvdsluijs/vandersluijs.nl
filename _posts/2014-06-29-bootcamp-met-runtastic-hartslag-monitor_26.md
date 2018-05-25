@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/06/bootcamp-met-runtastic-hartslag-monitor_26.html
 blogger_thumbnail:
-  - /content/images/2014/Jun/runtastic_heart_reate.jpg
+  - /images/2014/Jun/runtastic_heart_reate.jpg
 hits:
   - "692"
 dsq_thread_id:
@@ -27,7 +27,7 @@ dsq_thread_id:
 categories:
   - My Life
 ---
-![Runtastic Hartslag monitor](/content/images/2014/Jun/runtastic_heart_reate.jpg)  
+![Runtastic Hartslag monitor](/images/2014/Jun/runtastic_heart_reate.jpg)  
 Een tijdje was ik al op zoek naar een alles in één armband of horloge. Zo één die en GPS, pedometer, slaapmonitor en hartslag in zich had.
 
 Eigenlijk loop ik te veel vooruit op de techniek. Het is er allemaal wel, maar op dit moment nog niet echt een goed combi apparaat.
@@ -91,7 +91,7 @@ Maar daar heb ik nu dus nog niets aan.
 
 Ik heb er dus voor gekozen om een zogenaamde Borstband hartslag meter te kopen en wel van Runtastic.
 
-![runtastic combi](/content/images/2014/Jun/runtastic_combo.jpg)
+![runtastic combi](/images/2014/Jun/runtastic_combo.jpg)
 
 Veel mensen vinden het helemaal niets zo&#8217;n borstband, maar voor 50 euro een tussenoplossing op deze manier vind ik prima.
 

@@ -28,5 +28,5 @@ categories:
   - Tech
 ---
 <div>
-  <img src="https://vandersluijs.nl/wp-content/uploads/2012/07/tumblr_m7tybjRuLB1rpqrb1o1_1280-300x300.jpg" alt="" />
+  <img src="/images/2012/07/tumblr_m7tybjRuLB1rpqrb1o1_1280-300x300.jpg" alt="" />
 </div>

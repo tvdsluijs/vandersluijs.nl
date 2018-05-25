@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/10/installatie-mongodb.html
 blogger_thumbnail:
-  - /content/images/2014/10/mongoDB-logo.png
+  - /images/2014/10/mongoDB-logo.png
 hits:
   - "575"
 itrr_another_apply:
@@ -29,7 +29,7 @@ dsq_thread_id:
 categories:
   - Tech
 ---
-![MongoDB installatie](/content/images/2014/10/mongoDB-logo.png)
+![MongoDB installatie](/images/2014/10/mongoDB-logo.png)
 
 MongoDB is een open source NoSQL document-georiënteerde database. Er is geen database schema en records (documenten genaamd) worden in Binair JSON opgeslagen. Documenten / Records zijn flexibel en je zit dus niet vast aan hoe de velden heten, hoe groot ze zijn enz. MongoDB kent geen relationeel (DBS) databasemanagementsysteem en je kan geen joins gebruiken.
 

@@ -38,7 +38,7 @@ Ik zag nog wat andere merken staan en plots viel mijn oog op een verpakking die 
 
 Jones Brothers Coffee!<!--more-->
 
-<img class="alignleft wp-image-2137 size-medium" src="https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2467-300x300.jpg" alt="Jones Brothers Coffee" width="300" height="300" srcset="https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2467-300x300.jpg 300w, https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2467-150x150.jpg 150w, https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2467-768x768.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2467-1024x1024.jpg 1024w, https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2467-65x65.jpg 65w, https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2467.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Ik hou van koffie. Vanaf mijn 18e ben ik er verzot op! Vroeger dronk ik echt liters van het zwarte vloeibare goud!
+<img class="alignleft wp-image-2137 size-medium" src="/images/2016/01/IMG_2467-300x300.jpg" alt="Jones Brothers Coffee" width="300" height="300" srcset="/images/2016/01/IMG_2467-300x300.jpg 300w, /images/2016/01/IMG_2467-150x150.jpg 150w, /images/2016/01/IMG_2467-768x768.jpg 768w, /images/2016/01/IMG_2467-1024x1024.jpg 1024w, /images/2016/01/IMG_2467-65x65.jpg 65w, /images/2016/01/IMG_2467.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Ik hou van koffie. Vanaf mijn 18e ben ik er verzot op! Vroeger dronk ik echt liters van het zwarte vloeibare goud!
 
 Tegenwoordig drink ik het iets minder maar een kopje of 5 tot 8 gaat er per dag wel doorheen.
 
@@ -66,7 +66,7 @@ Dus zocht ik contact met Jones Brothers.
 
 ## Contact met Richard Jones
 
-<img class="alignleft wp-image-2136 " src="https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2449-e1452705831779-300x289.jpg" alt="" width="264" height="254" srcset="https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2449-e1452705831779-300x289.jpg 300w, https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2449-e1452705831779-768x740.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2449-e1452705831779-1024x987.jpg 1024w, https://vandersluijs.nl/wp-content/uploads/2016/01/IMG_2449-e1452705831779.jpg 1167w" sizes="(max-width: 264px) 100vw, 264px" />Dezelfde dag heb ik nog een mail gestuurd. Over dat ik hun koffie lekker vond en dat ik er iets over wilde gaan schrijven op mijn blog.
+<img class="alignleft wp-image-2136 " src="/images/2016/01/IMG_2449-e1452705831779-300x289.jpg" alt="" width="264" height="254" srcset="/images/2016/01/IMG_2449-e1452705831779-300x289.jpg 300w, /images/2016/01/IMG_2449-e1452705831779-768x740.jpg 768w, /images/2016/01/IMG_2449-e1452705831779-1024x987.jpg 1024w, /images/2016/01/IMG_2449-e1452705831779.jpg 1167w" sizes="(max-width: 264px) 100vw, 264px" />Dezelfde dag heb ik nog een mail gestuurd. Over dat ik hun koffie lekker vond en dat ik er iets over wilde gaan schrijven op mijn blog.
 
 En natuurlijk of ik een proef pakketje kon krijgen. Een dag later, in het weekend, kreeg ik al reactie van Richard Jones, eigenaar van Jones Brothers Coffee.
 
@@ -114,4 +114,4 @@ Voor € 4,95, brengen ze het nog bij je thuis ook! En bestel je voor meer dan 
 
 Ik zou zeggen, waar wacht je op? Bestellen die bonen!
 
-<img class="aligncenter size-large wp-image-2158" src="https://vandersluijs.nl/wp-content/uploads/2016/01/image004-1024x503.png" alt="image004" width="1024" height="503" srcset="https://vandersluijs.nl/wp-content/uploads/2016/01/image004-1024x503.png 1024w, https://vandersluijs.nl/wp-content/uploads/2016/01/image004-300x148.png 300w, https://vandersluijs.nl/wp-content/uploads/2016/01/image004-768x378.png 768w, https://vandersluijs.nl/wp-content/uploads/2016/01/image004.png 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+<img class="aligncenter size-large wp-image-2158" src="/images/2016/01/image004-1024x503.png" alt="image004" width="1024" height="503" srcset="/images/2016/01/image004-1024x503.png 1024w, /images/2016/01/image004-300x148.png 300w, /images/2016/01/image004-768x378.png 768w, /images/2016/01/image004.png 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />

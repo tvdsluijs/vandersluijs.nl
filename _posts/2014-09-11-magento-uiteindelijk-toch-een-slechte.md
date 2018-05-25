@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/09/magento-uiteindelijk-toch-een-slechte.html
 blogger_thumbnail:
-  - /content/images/2014/Sep/magento_bad_choice.png
+  - /images/2014/Sep/magento_bad_choice.png
 hits:
   - "941"
 itrr_another_apply:
@@ -29,7 +29,7 @@ dsq_thread_id:
 categories:
   - Tech
 ---
-![Magento is a Bad Choice](/content/images/2014/Sep/magento_bad_choice.png)  
+![Magento is a Bad Choice](/images/2014/Sep/magento_bad_choice.png)  
 Magento, het zag er zo mooi uit vanuit de verte.
 
 De gouden berg voor e-commerce, met diamanten oplossingen en platina keuzes. Gemaakt om een enorme webshop te bevatten en zowel de eigenaar ervan als de gebruikende klant te voorzien van geweldige business.

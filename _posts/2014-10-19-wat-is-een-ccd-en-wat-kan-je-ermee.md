@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/10/wat-is-een-ccd-en-wat-kan-je-ermee.html
 blogger_thumbnail:
-  - /content/images/2014/10/49750-screen-licker-pug.gif
+  - /images/2014/10/49750-screen-licker-pug.gif
 wp_review_location:
   - bottom
 wp_review_desc_title:
@@ -169,7 +169,7 @@ Een ander team heeft een Bot gemaakt in HipChat waaraan je allerlei vragen kan s
 
 En dan liet hij bijvoorbeeld het volgende zien:
 
-![animate me pugs](/content/images/2014/10/49750-screen-licker-pug.gif)
+![animate me pugs](/images/2014/10/49750-screen-licker-pug.gif)
 
 Leuk, maar heb je niet veel aan.
 
@@ -195,10 +195,10 @@ Hou gewoon een CCD!
 
 #### Some Photos {#somephotos}
 
-![CCD](/content/images/2014/10/IMG_3052.JPG)
+![CCD](/images/2014/10/IMG_3052.JPG)
   
-![CCD](/content/images/2014/10/IMG_3062.JPG)
+![CCD](/images/2014/10/IMG_3062.JPG)
   
-![CCD](/content/images/2014/10/IMG_3063.JPG)
+![CCD](/images/2014/10/IMG_3063.JPG)
   
-![CCD](/content/images/2014/10/IMG_3059.JPG)
+![CCD](/images/2014/10/IMG_3059.JPG)

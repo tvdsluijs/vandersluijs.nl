@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/09/beveiligen-van-mysql-verbindingen-via.html
 blogger_thumbnail:
-  - /content/images/2014/Sep/1.png
+  - /images/2014/Sep/1.png
 hits:
   - "562"
 itrr_another_apply:
@@ -55,7 +55,7 @@ HeidiSQL biedt zelf ondersteuning voor een tunnel, dus je hoeft niet zelf met pu
 
 In plaats van een &#8220;gewone&#8221; MySQL TCP/IP verbinding kies je voor MySQL (SSH Tunnel) bij Network type.
 
-![ssh tunnel HeidiSQL](/content/images/2014/Sep/1.png)
+![ssh tunnel HeidiSQL](/images/2014/Sep/1.png)
 
 **Tabblad settings**
 
@@ -66,7 +66,7 @@ Gebruikersnaam en wachtwoord zijn de MySQL gegevens van de database waarmee je c
 Port laat je staan op 3306
 
 **Tabblad SSH tunnel**  
-![ssh tunnel HeidiSQL plink](/content/images/2014/Sep/2.png)
+![ssh tunnel HeidiSQL plink](/images/2014/Sep/2.png)
 
 Stel het pad in naar plink.exe (onderdeel van Putty wanneer je de normale setup heb gedaan)
 
@@ -78,10 +78,10 @@ Hierbij heb je geen Plink.exe nodig.
 
 Normaal stel je een connectie las volgt in: 
 
-![sequelpro ssh](/content/images/2014/Sep/3.png)
+![sequelpro ssh](/images/2014/Sep/3.png)
 
 Maar voor een SSH tunnel stel je bij de mysql host je eigen ip adres in (die van je mac oftewel 127.0.0.1), en bij de SSH gegevens geef je het ip adres in van je webserver. (your all set!) 
 
-![sequel pro ssh](/content/images/2014/Sep/4.png)
+![sequel pro ssh](/images/2014/Sep/4.png)
 
 In beide gevallen (zowel windows als mac) gebruik je de webserver als zogenaamde Jump server. Je moet dus nog wel even deze jump server zo instellen dat je daarop weer een ssh tunnel hebt naar de mysql server.

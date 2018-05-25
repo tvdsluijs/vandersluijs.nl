@@ -28,11 +28,7 @@ Het is een enorme ergernis: gebrekkige wifi. De afgelopen vijf jaar is het gebru
 
 ## Zeeland Nu
 
-
-
 ## Tips voor Wifi op Omroep Zeeland
-
-
 
 _[Artikel op Omroep Zeeland](http://www.omroepzeeland.nl/nieuws/2016-06-01/1009123/thuis-problemen-met-wifi-je-bent-niet-enige#.V0_P1JN96Rs)_
 

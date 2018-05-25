@@ -26,7 +26,7 @@ categories:
   - Grumpy
 ---
 <div style="clear: both; text-align: left;">
-  <a href="https://vandersluijs.nl/wp-content/uploads/2013/10/pcz_klant_verwachting.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="88" src="https://vandersluijs.nl/wp-content/uploads/2013/10/pcz_klant_verwachting.png" width="200" /></a>
+  <a href="/images/2013/10/pcz_klant_verwachting.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="88" src="/images/2013/10/pcz_klant_verwachting.png" width="200" /></a>
 </div>
 
 Een paar weken geleden kreeg ik plots geen PCZ meer op de deurmat. Voor de mensen die echt geen idee hebben waar ik het over heb. PZC is de Provinciale Zeeuwse Courant. Het is eigenlijk het AD maar dan met een Zeeuwse katern er in.

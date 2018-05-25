@@ -92,7 +92,7 @@ Sync hierna je iPhone, klik op Apps en klik op Install bij Gear S3. Klik hierna 
 
 Nu zal iTunes het Gear S3 bestand gaan installeren op je iPhone.
 
-<img class="aligncenter size-full wp-image-3626" src="https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-27-at-12.57.33.png" alt="installatie Samsung Gear S3 iOS App" width="578" height="206" srcset="https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-27-at-12.57.33.png 578w, https://vandersluijs.nl/wp-content/uploads/2016/12/Screen-Shot-2016-12-27-at-12.57.33-300x107.png 300w" sizes="(max-width: 578px) 100vw, 578px" />
+<img class="aligncenter size-full wp-image-3626" src="/images/2016/12/Screen-Shot-2016-12-27-at-12.57.33.png" alt="installatie Samsung Gear S3 iOS App" width="578" height="206" srcset="/images/2016/12/Screen-Shot-2016-12-27-at-12.57.33.png 578w, /images/2016/12/Screen-Shot-2016-12-27-at-12.57.33-300x107.png 300w" sizes="(max-width: 578px) 100vw, 578px" />
 
 Omdat dit een Beta app is van Samsung voor de Gear S3 wil je iPhone het niet direct openen.
 
@@ -107,7 +107,3 @@ Bij mij komen de Whatsapp berichtjes op mijn horloge binnen. En alle andere zake
 Maar misschien gaat dat werken in een volgende versie.
 
 Voor nu is mijn Samsung Gear S4 Frontier SmartWatch dus een echt gekoppelde watch waarmee ik menig Apple Watch fanboy stik jaloers maak!
-
-
-
-&nbsp;

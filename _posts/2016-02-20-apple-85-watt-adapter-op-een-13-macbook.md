@@ -38,13 +38,13 @@ Deze adapter heeft de volgende specificaties:
 
 Okay&#8230; het is zaterdag. En mijn Adapter ligt op de zaak, ik heb nog 5% stroom, en ik heb vakantie. 10 dagen zonder stroom, 10 dagen zonder 13 inch Macbook Pro. Dat kan niet! Erger nog, een hele zondag zonder stroom KAN NIET! Ik wil vanavond nog een adapter hebben. Het lukt me niet meer om naar een winkel te gaan.
 
-Okay&#8230; lichte paniek breekt uit&#8230; wat nu. Wat als ik niet aan een Apple Macbook Pro 13 inch adapter kan komen&#8230;.. plots gaat het licht harder schijnen en weet ik wat ik moet doen! Bestellen bij <a href="http://www.bax-shop.nl/tradetracker/?tt=1687_12_97738_&r=%2Fmacbook-accessoires%2Fapple-magsafe-2-md565z-a-lichtnetadapter-van-60-watt" target="_blank">Bax-shop.nl</a> die hebben zelfde avond levering!
+Okay&#8230; lichte paniek breekt uit&#8230; wat nu. Wat als ik niet aan een Apple Macbook Pro 13 inch adapter kan komen&#8230;.. plots gaat het licht harder schijnen en weet ik wat ik moet doen! Bestellen bij een goede webshop! die hebben zelfde avond levering!
 
-Bax-shop zou dus mijn redder zijn&#8230;. en toen kwam de tegenvaller. De &#8220;Apple MagSafe 2 MD565Z-A lichtnetadapter van 60 Wat? (<a href="http://www.bax-shop.nl/tradetracker/?tt=1687_12_97738_&r=%2Fmacbook-accessoires%2Fapple-magsafe-2-md565z-a-lichtnetadapter-van-60-watt" target="_blank">Link!</a>) hadden ze niet op voorraad. Echter wel de &#8220;Apple MagSafe 2 MD506Z-A lichtnetadapter van 85 Watt&#8221; (<a href="http://www.bax-shop.nl/tradetracker/?tt=1687_12_97738_&r=%2Fmacbook-accessoires%2Fapple-magsafe-2-md506z-a-lichtnetadapter-van-85-watt" target="_blank">Link!</a>) ! Wat nu?
+Bax-shop zou dus mijn redder zijn&#8230;. en toen kwam de tegenvaller. De &#8220;Apple MagSafe 2 MD565Z-A lichtnetadapter van 60 Wat? hadden ze niet op voorraad. Echter wel de &#8220;Apple MagSafe 2 MD506Z-A lichtnetadapter van 85 Watt&#8221; ! Wat nu?
 
 ## Apple 13 inch met 85 Watt adapter
 
-<img class="alignleft size-medium wp-image-2028" src="https://itheo.nl/wp-content/uploads/2016/02/IMG_3102-300x300.jpg" alt="IMG_3102" width="300" height="300" />Na onderzoek op internet wist ik het! Je kunt de 85 Watt MagSafe 2 Adapter gewoon gebruiken voor een 13 inch MacBook Pro.
+<img class="alignleft size-medium wp-image-2028" src="/images/2016/02/IMG_3102-300x300.jpg" alt="IMG_3102" width="300" height="300" />Na onderzoek op internet wist ik het! Je kunt de 85 Watt MagSafe 2 Adapter gewoon gebruiken voor een 13 inch MacBook Pro.
 
 De 85Watt adapter werkt prima op de MacBook Pro 13 inch. Hij kan er niet van kapot gaan. En hij zal je MacBook 13 inch gewoon opladen terwijl je werkt.
 
@@ -66,9 +66,3 @@ Deze 85 watt adapter heeft de volgende specificaties:
 Lichtnetadapters voor Apple-notebooks zijn verkrijgbaar in 29 W, 45 W, 60 W en 85 W. Voor een Apple-notebook moet u een lichtnetadapter met het juiste wattage gebruiken. U kunt probleemloos een compatibele adapter met meer wattage gebruiken. Hierdoor wordt de computer echter niet sneller opgeladen en gaat deze ook niet anders gaan werken. Adapters met minder wattage bieden onvoldoende stroom.
 
 Ik had mooi mijn Adapter vanavond nog binnen!
-
-## Andere mooie Apple aanbiedingen
-
-Wil je nog andere mooie Apple aanbiedingen? Zie hieronder!
-
-[show-bstock-product-by-brand brand=&#8217;Apple&#8217; limit=5]

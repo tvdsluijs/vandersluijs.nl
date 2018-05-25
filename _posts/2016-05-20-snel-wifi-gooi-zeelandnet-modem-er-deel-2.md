@@ -23,7 +23,7 @@ tags:
   - WiFi
   - Zeelandnet
 ---
-Zo&#8217;n 1,5 jaar geleden heb ik op mijn andere blog vandersluijs.nl een artikel geschreven over het modem van ZeelandNet. Ik vond het nieuwe modem zo slecht dat ik er een gefrustreerd stuk over heb geschreven. Je zou denken dat een bedrijf wat aan de wieg van internet heeft gestaan toch een wel iets beter modem zou uitgeven dan het [EPC3925 modem](https://zeelandwifi.nl/epc3925/)!<!--more-->
+Zo&#8217;n 1,5 jaar geleden heb ik op mijn andere blog vandersluijs.nl een artikel geschreven over het modem van ZeelandNet. Ik vond het nieuwe modem zo slecht dat ik er een gefrustreerd stuk over heb geschreven. Je zou denken dat een bedrijf wat aan de wieg van internet heeft gestaan toch een wel iets beter modem zou uitgeven dan het <!--more-->
 
 Het EPC 3925 modem is een modem met alleen een 2,4Ghz wifi access point. 2,4Ghz is een oud wifi signaal wat overbelast is. Begin 2015 was dit al een verouderd en overbelast wifi signaal.
 
@@ -66,9 +66,3 @@ Geloof me, de WifiSpots van Zeelandnet lijken leuk en ook dat je er nog eens Zig
 En met gebruik van een eigen router met wifi (waar je veel meer op kan instellen en betere instellingen hebt) heb je een sterker en beter wifi signaal dan ooit te voren!
 
 Dus koop een goede Wifi router!
-
-[bol\_bestsellers limit=&#8221;5&#8243; block\_id=&#8221;bol\_574215bf56bda\_bestsellers&#8221; cat\_id=&#8221;7097&#8243; name=&#8221;Router top 5&#8243; sub\_id=&#8221;&#8221; title=&#8221;&#8221; link\_color=&#8221;003399&#8243; subtitle\_color=&#8221;000000&#8243; pricetype\_color=&#8221;000000&#8243; price\_color=&#8221;CC3300&#8243; deliverytime\_color=&#8221;009900&#8243; background\_color=&#8221;FFFFFF&#8221; border\_color=&#8221;FFFFFF&#8221; width=&#8221;600&#8243; cols=&#8221;1&#8243; show\_bol\_logo=&#8221;0&#8243; show\_price=&#8221;1&#8243; show\_rating=&#8221;0&#8243; show\_deliverytime=&#8221;1&#8243; link\_target=&#8221;1&#8243; image\_size=&#8221;1&#8243; admin_preview=&#8221;1&#8243;]
-
-En volg daarna de stappen op deze pagina &#8220;[Bridge mode uitzetten](https://zeelandwifi.nl/bridge-mode-uitzetten/)&#8220;.
-
-Laat hieronder weten hoe je nieuwe router werkt en of je beter wifi hebt!!

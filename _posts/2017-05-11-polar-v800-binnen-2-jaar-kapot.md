@@ -72,7 +72,7 @@ categories:
   <div id="ember2115" class="ember-view">
     <div class="gh-image-uploader -with-image">
       <div>
-        <img src="https://itheo.nl/content/images/2017/05/vocht-polar-v800---2.jpg" />
+        <img src="https://itheo.nl/images/2017/05/vocht-polar-v800---2.jpg" />
       </div>
     </div>
   </div></section> 
@@ -97,6 +97,3 @@ categories:
     Mocht je het zelfde probleem hebben, ga dan naar de <a href="https://service.polar.com/service/pscspreregnl.nsf/Starting?OpenForm">reparatie pagina</a> van Polar.
   </p>
 </div></section> </section> </section> </section> 
-
-<div id="entry-controls" class="settings-menu-container ember-view">
-</div>

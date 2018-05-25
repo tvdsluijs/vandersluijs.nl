@@ -47,7 +47,7 @@ Ik ben echt bereid afstand te gaan doen van mijn Canon 60D mits ik er de juiste
 
 Dit is blog-post nummer één over mijn zoektocht naar de juiste opvolger voor mijn veel te grote en veel te zware Canon 60D.<!--more-->
 
-Zwaar&#8230; heel zwaar til ik er aan! Nee niet aan dat ik mijn Canon 60D wil weg doen, maar aan de Canon 60D zelf. Met zijn 1,2Kg en grote body sleep ik hem liever niet mee over al naar toe. Zoals je kan lezen in mijn andere <a href="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/canon-60d-waarom-ik-er-vanaf-wil.html" target="_blank">blogpost</a>, heb ik gewoon de verkeerde keuze gemaakt bij het kopen van mijn 60D.
+Zwaar&#8230; heel zwaar til ik er aan! Nee niet aan dat ik mijn Canon 60D wil weg doen, maar aan de Canon 60D zelf. Met zijn 1,2Kg en grote body sleep ik hem liever niet mee over al naar toe. Zoals je kan lezen in mijn andere <a href="/images/2015/10/canon-60d-waarom-ik-er-vanaf-wil.html" target="_blank">blogpost</a>, heb ik gewoon de verkeerde keuze gemaakt bij het kopen van mijn 60D.
 
 Ik dacht een professionele camera te kopen, maar ik kocht gewoon een overpriced, veel te zwaar, veel te log stuk plastic wat in een prachtige foto tas stond te verstoffen.
 
@@ -81,11 +81,11 @@ Ieder bovenstaand merk heeft zo&#8217;n Mirrorless camera.
 
 Zo heeft:
 
-  * <a href="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/cameras" target="_blank">Canon</a> zijn Canon EOS M3
-  * <a href="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/lumix-g-systeemcameras.html" target="_blank">Panasonic</a> de Lumix G serie of DMG GM serie camera&#8217;s
-  * <a href="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/cameras1" target="_blank">Sony</a> de α5xxx en α6xxx reeks
+  * <a href="/images/2015/10/cameras" target="_blank">Canon</a> zijn Canon EOS M3
+  * <a href="/images/2015/10/lumix-g-systeemcameras.html" target="_blank">Panasonic</a> de Lumix G serie of DMG GM serie camera&#8217;s
+  * <a href="/images/2015/10/cameras1" target="_blank">Sony</a> de α5xxx en α6xxx reeks
   * <a href="http://www.samsung.com/nl/consumer/photography/photo-camera" target="_blank">Samsung</a> heeft bijvoorbeeld de NX500
-  * en de <a href="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/10/nikon-1-j5" target="_blank">Nikon</a> heeft de 1 J5
+  * en de <a href="/images/2015/10/nikon-1-j5" target="_blank">Nikon</a> heeft de 1 J5
 
 De komende weken laat ik je weten hoe mijn zoektocht gaat naar de camera die mij weer gelukkig maakt bij het maken van foto&#8217;s.
 

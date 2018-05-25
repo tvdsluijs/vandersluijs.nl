@@ -58,13 +58,13 @@ image: /wp-content/uploads/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
 categories:
   - My Life
 ---
-<img class="alignleft size-thumbnail wp-image-2545" src="https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3274-150x150.jpg" alt="silvana support kussen ergonomisch" width="150" height="150" srcset="https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3274-150x150.jpg 150w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3274-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />Mijn Ergonomisch Kussen van Tempur was na zo&#8217;n 3 jaar echt aan vervanging toe! Die had ik overigens al na 1 of 2 jaar moeten vervangen maar ik was dus aan een nieuw kussen toe. Gelukkig was Silvana zo aardig om me een Silvana  kussen toe te sturen, het Silvana Support Fluorine kussen wel te verstaan.
+<img class="alignleft size-thumbnail wp-image-2545" src="/images/2016/02/IMG_3274-150x150.jpg" alt="silvana support kussen ergonomisch" width="150" height="150" srcset="/images/2016/02/IMG_3274-150x150.jpg 150w, /images/2016/02/IMG_3274-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />Mijn Ergonomisch Kussen van Tempur was na zo&#8217;n 3 jaar echt aan vervanging toe! Die had ik overigens al na 1 of 2 jaar moeten vervangen maar ik was dus aan een nieuw kussen toe. Gelukkig was Silvana zo aardig om me een Silvana  kussen toe te sturen, het Silvana Support Fluorine kussen wel te verstaan.
 
 Ik lig nu zo&#8217;n 7 dagen op een Silvana Support Kussen dus tijd voor een review. <!--more-->
 
 ## 6 verschillende Silvana kussens
 
-<img class="alignright size-medium wp-image-2540" src="https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3265-225x300.jpg" alt="silvana support kussen" width="225" height="300" srcset="https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3265-225x300.jpg 225w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3265-768x1024.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3265.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />Er zijn 6 verschillende kussens  van extra zacht tot extra stevig.
+<img class="alignright size-medium wp-image-2540" src="/images/2016/02/IMG_3265-225x300.jpg" alt="silvana support kussen" width="225" height="300" srcset="/images/2016/02/IMG_3265-225x300.jpg 225w, /images/2016/02/IMG_3265-768x1024.jpg 768w, /images/2016/02/IMG_3265.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />Er zijn 6 verschillende kussens  van extra zacht tot extra stevig.
 
 De verschillende varianten zijn:
 
@@ -81,18 +81,14 @@ Ik zelf heb voor het net wat stevigere kussen gekozen en kreeg de Fluorine opges
 
 ## Hoe ligt het Silvana kussen?
 
-<img class="alignleft size-thumbnail wp-image-2539" src="https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3256-150x150.jpg" alt="silvana kussen" width="150" height="150" srcset="https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3256-150x150.jpg 150w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3256-300x300.jpg 300w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3256-768x768.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3256-65x65.jpg 65w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3256.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />Okay, ik zag eerlijk zijn. De eerste nacht werd ik wakker met een enorm pijnlijk oor. Geen idee hoe het kwam, alsof ik op een steen had liggen slapen. Ik dacht, nou als dit het is vis ik mijn ouwe Tempur weer uit de kliko!
+<img class="alignleft size-thumbnail wp-image-2539" src="/images/2016/02/IMG_3256-150x150.jpg" alt="silvana kussen" width="150" height="150" srcset="/images/2016/02/IMG_3256-150x150.jpg 150w, /images/2016/02/IMG_3256-300x300.jpg 300w, /images/2016/02/IMG_3256-768x768.jpg 768w, /images/2016/02/IMG_3256-65x65.jpg 65w, /images/2016/02/IMG_3256.jpg 960w" sizes="(max-width: 150px) 100vw, 150px" />Okay, ik zag eerlijk zijn. De eerste nacht werd ik wakker met een enorm pijnlijk oor. Geen idee hoe het kwam, alsof ik op een steen had liggen slapen. Ik dacht, nou als dit het is vis ik mijn ouwe Tempur weer uit de kliko!
 
 Ik ben toen anders gaan liggen en eigenlijk lag het vanaf dat moment goed. Blijkbaar moest mijn nek en hoofd gewoon even de juiste houding vinden.
 
-De pijn in mijn oor was redelijk snel weg, en ik sliep he<img class="alignright size-medium wp-image-2541" src="https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3266-225x300.jpg" alt="silvana support kussen tegen nekklachten" width="225" height="300" srcset="https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3266-225x300.jpg 225w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3266-768x1024.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3266.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />erlijk.
+De pijn in mijn oor was redelijk snel weg, en ik sliep he<img class="alignright size-medium wp-image-2541" src="/images/2016/02/IMG_3266-225x300.jpg" alt="silvana support kussen tegen nekklachten" width="225" height="300" srcset="/images/2016/02/IMG_3266-225x300.jpg 225w, /images/2016/02/IMG_3266-768x1024.jpg 768w, /images/2016/02/IMG_3266.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />erlijk.
 
 Overigens heb ik alle nachten goed geslapen. Zolang je maar zorgt dat je schouder (wanneer je op je zij ligt) en je nek (wanneer je op je rug ligt) maar goed in de inkeping in het kussen liggen.
 
 Het kussen ligt erg goed en geeft ondersteuning waar nodig. De vulling verschuift niet en het kussen is dus overal even hard of zacht. Ik ben er zeer blij mee en slaap er prima op.
 
 Je kan overigens 2 maten kopen van het Silvana Kussen. Je hebt de 60&#215;70 en de 50&#215;60 dat is een wat kortere versie zodat je wat extra ruimte in bed hebt. Ik heb voor de extra ruimte gekozen, niet omdat ik het nodig heb maar ik was bang dat mijn kussensloop anders niet zou passen.
-
-&nbsp;
-
-<img class="aligncenter size-full wp-image-2542" src="https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3267.jpg" alt="nekklachten kussen silvana" width="1200" height="900" srcset="https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3267.jpg 1200w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3267-300x225.jpg 300w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3267-768x576.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2016/02/IMG_3267-1024x768.jpg 1024w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />

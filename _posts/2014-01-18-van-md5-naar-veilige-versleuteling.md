@@ -35,7 +35,7 @@ tags:
 <table cellpadding="0" cellspacing="0" style="float: left; margin-right: 1em; text-align: left;">
   <tr>
     <td style="text-align: center;">
-      <a href="https://vandersluijs.nl/wp-content/uploads/2014/01/34164244_d529aee319_m.jpg" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" src="https://vandersluijs.nl/wp-content/uploads/2014/01/34164244_d529aee319_m.jpg" height="150" width="200" /></a>
+      <a href="/images/2014/01/34164244_d529aee319_m.jpg" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" src="/images/2014/01/34164244_d529aee319_m.jpg" height="150" width="200" /></a>
     </td>
   </tr>
   

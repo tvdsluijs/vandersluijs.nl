@@ -61,7 +61,7 @@ Maar als Nederlander maak je dus kans dat je meedoet met de  <a title="www.appl
 Er is namelijk verschil tussen een goede en foute apple adapter. En dat zie je niet zo maar. Nee daarvoor moet je tussen de aanschuif-sluiting zijn. Ja ik weet het. Is geen Nederlands woord en je weet vast niet wat het betekent. Maar hier onder maken de foto&#8217;s wel duidelijk wat een goede en foute apple adapter is.
 
 <div style="clear: both;">
-  <img class="aligncenter wp-image-2300 size-large" title="Goede apple adapter" src="https://vandersluijs.nl/wp-content/uploads/2016/02/goede-adapter-apple-1024x768.jpg" alt="goede-adapter-apple" width="1024" height="768" srcset="https://vandersluijs.nl/wp-content/uploads/2016/02/goede-adapter-apple-1024x768.jpg 1024w, https://vandersluijs.nl/wp-content/uploads/2016/02/goede-adapter-apple-300x225.jpg 300w, https://vandersluijs.nl/wp-content/uploads/2016/02/goede-adapter-apple-768x576.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2016/02/goede-adapter-apple.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><img class="aligncenter wp-image-2299 size-large" title="foute apple adapter" src="https://vandersluijs.nl/wp-content/uploads/2016/02/foute-adapter-apple-1024x768.jpg" alt="foute-adapter-apple" width="1024" height="768" srcset="https://vandersluijs.nl/wp-content/uploads/2016/02/foute-adapter-apple-1024x768.jpg 1024w, https://vandersluijs.nl/wp-content/uploads/2016/02/foute-adapter-apple-300x225.jpg 300w, https://vandersluijs.nl/wp-content/uploads/2016/02/foute-adapter-apple-768x576.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2016/02/foute-adapter-apple.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+  <img class="aligncenter wp-image-2300 size-large" title="Goede apple adapter" src="/images/2016/02/goede-adapter-apple-1024x768.jpg" alt="goede-adapter-apple" width="1024" height="768" srcset="/images/2016/02/goede-adapter-apple-1024x768.jpg 1024w, /images/2016/02/goede-adapter-apple-300x225.jpg 300w, /images/2016/02/goede-adapter-apple-768x576.jpg 768w, /images/2016/02/goede-adapter-apple.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" /><img class="aligncenter wp-image-2299 size-large" title="foute apple adapter" src="/images/2016/02/foute-adapter-apple-1024x768.jpg" alt="foute-adapter-apple" width="1024" height="768" srcset="/images/2016/02/foute-adapter-apple-1024x768.jpg 1024w, /images/2016/02/foute-adapter-apple-300x225.jpg 300w, /images/2016/02/foute-adapter-apple-768x576.jpg 768w, /images/2016/02/foute-adapter-apple.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 </div>
 
 Een foute Apple Adapter heeft cijftertjes tussen de aanschuif-sluiting staan. En een goede Apple Adapter heeft er &#8220;EUR&#8221; tussen staan.
@@ -72,14 +72,6 @@ Je hebt wel even je Serie nummer nodig van je MacBook! Die kan je redelijk makke
 
 Dit nummer kan je selecteren met met copy/paste (command+C / Command+V) plakken in het formulier
 
-<img class="aligncenter wp-image-2298 size-large" title="Apple adapter" src="https://vandersluijs.nl/wp-content/uploads/2016/02/apple-adapters-1024x768.jpg" alt="apple-adapters" width="1024" height="768" srcset="https://vandersluijs.nl/wp-content/uploads/2016/02/apple-adapters-1024x768.jpg 1024w, https://vandersluijs.nl/wp-content/uploads/2016/02/apple-adapters-300x225.jpg 300w, https://vandersluijs.nl/wp-content/uploads/2016/02/apple-adapters-768x576.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2016/02/apple-adapters.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+<img class="aligncenter wp-image-2298 size-large" title="Apple adapter" src="/images/2016/02/apple-adapters-1024x768.jpg" alt="apple-adapters" width="1024" height="768" srcset="/images/2016/02/apple-adapters-1024x768.jpg 1024w, /images/2016/02/apple-adapters-300x225.jpg 300w, /images/2016/02/apple-adapters-768x576.jpg 768w, /images/2016/02/apple-adapters.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 
 Dat is het!!
-
-## Apple Acties met vette Korting
-
-Wist je trouwens dat ik diverse [apple acties](https://vandersluijs.nl/beste-apple-aanbiedingen) op mijn site heb staan!
-
-En hier een overzicht van 5 Apple Acties
-
-[show-bstock-product-by-brand brand=&#8217;Apple&#8217; limit=5]

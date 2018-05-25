@@ -63,4 +63,4 @@ Als je nu opslaat ben je klaar!!
 
 ( Met dank aan Nascom voor het lenen van zijn Zoom Magazines)
 
-_Foto door : <a href="https://dezeeuwsefotograaf.nl/wp-content/uploads/2010/04/ranopamas" target="_blank">Panoramas</a>_
+_Foto door : <a href="/images/2010/04/ranopamas" target="_blank">Panoramas</a>_

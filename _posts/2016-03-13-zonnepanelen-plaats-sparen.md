@@ -90,5 +90,3 @@ Bij geld in zonnepanelen geef je tussen de 40 tot 60 euro per maand minder uit. 
 Ja, je bent het geld kwijt! Staat niet meer op de bank. Maar geloof me, die zonnepanelen gaan veel meer geld opleveren dan de bank de komende 10 jaar aan rente zal opleveren.
 
 > Direct investeren in Zonnepanelen dat spaargeld!
-
-Lees bij mijn andere artikel meer over mijn [Trina solar zonnepanelen](https://vandersluijs.nl/blog/2015/10/trina-solar-tsm-265pc05a-08-review.html) set met mijn [SMA omvormer](https://vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html).

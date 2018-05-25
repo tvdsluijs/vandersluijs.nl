@@ -68,4 +68,4 @@ Helaas dat gaat niet meer lukken!
 
 Geen idee wat een Gisteq PhotoTrackr is ?
 
-[http://www.dslr.nl/?cat=reviews&id=1045](https://dezeeuwsefotograaf.nl/wp-content/uploads/2009/07/?cat=reviews&id=1045)
+[http://www.dslr.nl/?cat=reviews&id=1045](/images/2009/07/?cat=reviews&id=1045)

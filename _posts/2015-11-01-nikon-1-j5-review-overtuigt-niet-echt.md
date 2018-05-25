@@ -64,7 +64,7 @@ Je kent dat gevoel wel. Het is een soort van verliefdheid, verlangen, ik ga 5 uu
 
 Dat heb ik ook bij Nikon, die reclames zijn heel goed. Ik moet gewoon zo&#8217;n ding hebben. Nou ik kan je zeggen&#8230;. onze eerste ontmoeting viel nogal tegen.<!--more-->
 
- <img class="alignleft size-medium wp-image-1673" src="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/11/IMG_17461-300x300.jpg" alt="IMG_1746" width="300" height="300" srcset="https://vandersluijs.nl/wp-content/uploads/2015/11/IMG_17461-300x300.jpg 300w, https://vandersluijs.nl/wp-content/uploads/2015/11/IMG_17461-150x150.jpg 150w, https://vandersluijs.nl/wp-content/uploads/2015/11/IMG_17461-768x768.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2015/11/IMG_17461-65x65.jpg 65w, https://vandersluijs.nl/wp-content/uploads/2015/11/IMG_17461.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />De doos kreeg ik van de postbode in mijn handen gedrukt&#8230; en ik dacht&#8230;. dit is de dag!! dat ik Nikon fotograaf wordt!! Eindelijk! Een Nikon!!
+ <img class="alignleft size-medium wp-image-1673" src="/images/2015/11/IMG_17461-300x300.jpg" alt="IMG_1746" width="300" height="300" srcset="/images/2015/11/IMG_17461-300x300.jpg 300w, /images/2015/11/IMG_17461-150x150.jpg 150w, /images/2015/11/IMG_17461-768x768.jpg 768w, /images/2015/11/IMG_17461-65x65.jpg 65w, /images/2015/11/IMG_17461.jpg 960w" sizes="(max-width: 300px) 100vw, 300px" />De doos kreeg ik van de postbode in mijn handen gedrukt&#8230; en ik dacht&#8230;. dit is de dag!! dat ik Nikon fotograaf wordt!! Eindelijk! Een Nikon!!
 
 De doos zag er, voor een uitleenmodel, nog heel goed uit. Ik opende de doos, haalde de boekjes er uit en daar zat hij! De body van de Nikon 1 J5!
 
@@ -78,7 +78,7 @@ Aluminium look met zwart leren accenten (nep leer) waar je hem vast houdt. Als e
 
 > Ho wacht even!
 
-<img class="alignright size-medium wp-image-1672" src="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/11/DSC_3843-300x200.jpg" alt="DSC_3843" width="300" height="200" srcset="https://vandersluijs.nl/wp-content/uploads/2015/11/DSC_3843-300x200.jpg 300w, https://vandersluijs.nl/wp-content/uploads/2015/11/DSC_3843-768x512.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2015/11/DSC_3843-1024x683.jpg 1024w, https://vandersluijs.nl/wp-content/uploads/2015/11/DSC_3843.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Dit kuikentje had zich nogal vol gevreten! Wat een zwaar ding! Met zijn 265 gram is hij lichter dan de Canon EOS M3 met 366 gram en ook lichter dan de Sony Alpha 5100 met 283 gram&#8230;.  maar op de één of andere manier licht hij toch zwaar in de hand.
+<img class="alignright size-medium wp-image-1672" src="/images/2015/11/DSC_3843-300x200.jpg" alt="DSC_3843" width="300" height="200" srcset="/images/2015/11/DSC_3843-300x200.jpg 300w, /images/2015/11/DSC_3843-768x512.jpg 768w, /images/2015/11/DSC_3843-1024x683.jpg 1024w, /images/2015/11/DSC_3843.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Dit kuikentje had zich nogal vol gevreten! Wat een zwaar ding! Met zijn 265 gram is hij lichter dan de Canon EOS M3 met 366 gram en ook lichter dan de Sony Alpha 5100 met 283 gram&#8230;.  maar op de één of andere manier licht hij toch zwaar in de hand.
 
 Of het nu het evenwichtspunt is of misschien net te klein voor mijn handen&#8230; ik weet het niet, maar het voelt gewoon niet lekker aan.
 
@@ -92,7 +92,7 @@ Nee werkt gewoon niet handig. Ik zeg, wit stipje op de body, wit stipje op het o
 
 ## Even wachten&#8230;. nog even wachten&#8230; Zoomen!
 
-<img class="alignleft size-medium wp-image-1671" src="https://dezeeuwsefotograaf.nl/wp-content/uploads/2015/11/IMG_1694-300x225.jpg" alt="IMG_1694" width="300" height="225" srcset="https://vandersluijs.nl/wp-content/uploads/2015/11/IMG_1694-300x225.jpg 300w, https://vandersluijs.nl/wp-content/uploads/2015/11/IMG_1694-768x576.jpg 768w, https://vandersluijs.nl/wp-content/uploads/2015/11/IMG_1694-1024x768.jpg 1024w, https://vandersluijs.nl/wp-content/uploads/2015/11/IMG_1694.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Daar ik super snel kon zoomen met de Canon en de Sony&#8230; is het bij de Nikon&#8230;. draaien&#8230; even wachten&#8230; nog even wachten&#8230; zoomen!
+<img class="alignleft size-medium wp-image-1671" src="/images/2015/11/IMG_1694-300x225.jpg" alt="IMG_1694" width="300" height="225" srcset="/images/2015/11/IMG_1694-300x225.jpg 300w, /images/2015/11/IMG_1694-768x576.jpg 768w, /images/2015/11/IMG_1694-1024x768.jpg 1024w, /images/2015/11/IMG_1694.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Daar ik super snel kon zoomen met de Canon en de Sony&#8230; is het bij de Nikon&#8230;. draaien&#8230; even wachten&#8230; nog even wachten&#8230; zoomen!
 
 Het duurt gewoon lang! Te lang! Als je supersnel een foto moet maken maar eerst wilt inzoomen&#8230; nou vergeet het maar! Foto-momentje is voorbij! Helaas, jammer joh! Probeer het in de volgende eeuw nog maar een keer.
 

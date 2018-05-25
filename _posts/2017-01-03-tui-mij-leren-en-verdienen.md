@@ -128,4 +128,4 @@ Ene&#8230; regel wat TUI en
 
 > **Discover my Smile!**
 
-<img class="alignleft wp-image-3643 size-full" src="https://vandersluijs.nl/wp-content/uploads/2017/01/tui-logo.png" alt="TUI" width="300" height="188" />
+<img class="alignleft wp-image-3643 size-full" src="/images/2017/01/tui-logo.png" alt="TUI" width="300" height="188" />

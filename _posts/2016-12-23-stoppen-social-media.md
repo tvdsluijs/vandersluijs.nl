@@ -379,14 +379,3 @@ tags:
       Facebook (dichtgezet! Ik wil mijn account wel houden namelijk)
     </li>
   </ul>
-  
-  <p>
-    Laat me hier onder weten hoe het ging met het verwijderen! Hoe je je voelt en of je terug wilt naar je Social Media verslaving!
-  </p>
-</div></section> </section> </section> </section> <aside id="ember1383" class="ember-view gh-notifications"></aside> 
-
-<div id="ember1392" class="ember-view content-cover">
-</div>
-
-<div id="entry-controls" class="settings-menu-container ember-view">
-</div>

@@ -26,7 +26,7 @@ categories:
   - My Life
 ---
 <div style="clear: both; text-align: center;">
-  <a href="https://vandersluijs.nl/wp-content/uploads/2014/03/moleskine.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.nl/wp-content/uploads/2014/03/moleskine.jpg" height="200" width="200" /></a>
+  <a href="/images/2014/03/moleskine.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/2014/03/moleskine.jpg" height="200" width="200" /></a>
 </div>
 
 En daar zit je dan&#8230; te kijken tegen de laatste lege blaadjes van je&nbsp;<a href="http://www.moleskine.com/en/" target="_blank">Moleskine</a>.
@@ -59,13 +59,13 @@ Ik zette er bij
 
 
 <div style="clear: both; text-align: center;">
-  <a href="https://vandersluijs.nl/wp-content/uploads/2014/03/instagram.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.nl/wp-content/uploads/2014/03/instagram.png" height="320" width="300" /></a>
+  <a href="/images/2014/03/instagram.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/2014/03/instagram.png" height="320" width="300" /></a>
 </div>
 
 
 
 <div style="clear: both; text-align: center;">
-  <a href="https://vandersluijs.nl/wp-content/uploads/2014/03/twitter.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.nl/wp-content/uploads/2014/03/twitter.png" height="286" width="320" /></a>
+  <a href="/images/2014/03/twitter.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/2014/03/twitter.png" height="286" width="320" /></a>
 </div>
 
 Binnen 2 uur kreeg ik een reactie van Schuberg Philis!

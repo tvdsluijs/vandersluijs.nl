@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/09/slimme-marketing-actie-mini-en-gopro.html
 blogger_thumbnail:
-  - /content/images/2014/Sep/IMG_1081.JPG
+  - /images/2014/Sep/IMG_1081.JPG
 wp_review_location:
   - bottom
 wp_review_desc_title:
