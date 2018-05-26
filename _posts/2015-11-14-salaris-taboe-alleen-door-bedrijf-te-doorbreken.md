@@ -34,7 +34,7 @@ hits:
   - "663"
 dsq_thread_id:
   - "5700415812"
-image: https://vandersluijs.resultants-e.nl/2015/11/7183015604_f089b2c1ed_h-e1447363631451.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/11/7183015604_f089b2c1ed_h-e1447363631451.jpg
 categories:
   - Grumpy
   - My Life

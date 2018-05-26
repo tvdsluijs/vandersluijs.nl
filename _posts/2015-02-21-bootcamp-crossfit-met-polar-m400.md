@@ -50,7 +50,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5700415684"
-image: https://vandersluijs.resultants-e.nl/2015/02/BootCamp1-1.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/02/BootCamp1-1.jpg
 categories:
   - Tech
 tags:

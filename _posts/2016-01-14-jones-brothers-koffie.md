@@ -26,7 +26,7 @@ hits:
   - "1443"
 dsq_thread_id:
   - "5700415826"
-image: https://vandersluijs.resultants-e.nl/2016/01/IMG_2437-e1452352917376.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/01/IMG_2437-e1452352917376.jpg
 categories:
   - My Life
 tags:

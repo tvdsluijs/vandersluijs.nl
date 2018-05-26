@@ -64,7 +64,7 @@ asalah_custom_description:
   - ""
 dsq_thread_id:
   - "5725860187"
-image: https://vandersluijs.resultants-e.nl/2015/11/PB200007-e1448402892188.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/11/PB200007-e1448402892188.jpg
 categories:
   - Grumpy
   - Travel

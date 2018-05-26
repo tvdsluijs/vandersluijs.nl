@@ -42,7 +42,7 @@ hits:
   - "109"
 dsq_thread_id:
   - "5855287438"
-image: https://vandersluijs.resultants-e.nl/2017/05/vandersluijs-not-as-geeky-825x510.png
+feature-img: https://vandersluijs.resultants-e.nl/2017/05/vandersluijs-not-as-geeky-825x510.png
 categories:
   - Tech
 format: image

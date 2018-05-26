@@ -24,7 +24,7 @@ hits:
   - "507"
 itrr_another_apply:
   - 'no'
-image: https://vandersluijs.resultants-e.nl/2015/12/IMG_1878-e1449412367401.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/12/IMG_1878-e1449412367401.jpg
 categories:
   - Tech
 ---

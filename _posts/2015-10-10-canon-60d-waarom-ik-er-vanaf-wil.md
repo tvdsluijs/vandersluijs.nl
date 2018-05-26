@@ -36,7 +36,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5700423670"
-image: https://vandersluijs.resultants-e.nl/2015/10/1200px-Canon_Powershot_G12-e1444485935176-1.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/10/1200px-Canon_Powershot_G12-e1444485935176-1.jpg
 categories:
   - Photography
 tags:

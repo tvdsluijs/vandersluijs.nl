@@ -28,7 +28,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "6267941697"
-image: https://vandersluijs.resultants-e.nl/2015/12/xbox-one-logo-banner.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/12/xbox-one-logo-banner.jpg
 categories:
   - Tech
 tags:

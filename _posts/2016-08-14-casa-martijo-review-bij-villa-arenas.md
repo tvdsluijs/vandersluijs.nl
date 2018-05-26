@@ -54,7 +54,7 @@ wp_review_item:
   - 'a:6:{i:0;a:2:{s:20:"wp_review_item_title";s:19:"Algemene waardering";s:19:"wp_review_item_star";s:1:"4";}i:1;a:2:{s:20:"wp_review_item_title";s:17:"De vakantiewoning";s:19:"wp_review_item_star";s:1:"5";}i:2;a:2:{s:20:"wp_review_item_title";s:7:"Comfort";s:19:"wp_review_item_star";s:1:"4";}i:3;a:2:{s:20:"wp_review_item_title";s:8:"Hygiëne";s:19:"wp_review_item_star";s:1:"4";}i:4;a:2:{s:20:"wp_review_item_title";s:13:"Voorzieningen";s:19:"wp_review_item_star";s:1:"4";}i:5;a:2:{s:20:"wp_review_item_title";s:27:"Prijs- kwaliteitsverhouding";s:19:"wp_review_item_star";s:1:"5";}}'
 dsq_thread_id:
   - "5746507884"
-image: https://vandersluijs.resultants-e.nl/2016/08/dpc-11-825x510.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/08/dpc-11-825x510.jpg
 categories:
   - My Life
   - Travel

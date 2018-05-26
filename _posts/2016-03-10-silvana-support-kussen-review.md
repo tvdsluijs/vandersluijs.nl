@@ -54,7 +54,7 @@ asalah_sidebar_position:
   - "0"
 dsq_thread_id:
   - "5701767410"
-image: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
 categories:
   - My Life
 ---

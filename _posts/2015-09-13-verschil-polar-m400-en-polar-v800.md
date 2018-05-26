@@ -36,7 +36,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5700416064"
-image: https://vandersluijs.resultants-e.nl/2015/09/polar_v800_m400_verschillen.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/09/polar_v800_m400_verschillen.jpg
 categories:
   - Tech
 tags:

@@ -40,7 +40,7 @@ hits:
   - "773"
 dsq_thread_id:
   - "5737861928"
-image: https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-11-1-825x510.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-11-1-825x510.jpg
 categories:
   - My Life
 tags:

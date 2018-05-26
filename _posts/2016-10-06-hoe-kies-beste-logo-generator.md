@@ -42,7 +42,7 @@ hits:
   - "180"
 dsq_thread_id:
   - "5707760928"
-image: https://vandersluijs.resultants-e.nl/2016/10/Picture1-825x494.png
+feature-img: https://vandersluijs.resultants-e.nl/2016/10/Picture1-825x494.png
 categories:
   - My Life
 format: image

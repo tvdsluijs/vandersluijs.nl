@@ -40,7 +40,7 @@ asalah_sidebar_position:
   - "0"
 hits:
   - "487"
-image: https://vandersluijs.resultants-e.nl/2016/12/Socialmedia-pm-825x510.png
+feature-img: https://vandersluijs.resultants-e.nl/2016/12/Socialmedia-pm-825x510.png
 categories:
   - My Life
 tags:

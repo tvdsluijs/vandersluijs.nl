@@ -48,7 +48,7 @@ hits:
   - "630"
 dsq_thread_id:
   - "5812980760"
-image: https://vandersluijs.resultants-e.nl/2015/03/greenchoice.jpeg
+feature-img: https://vandersluijs.resultants-e.nl/2015/03/greenchoice.jpeg
 categories:
   - Grumpy
 ---

@@ -42,7 +42,7 @@ hits:
   - "257"
 dsq_thread_id:
   - "5767472467"
-image: https://vandersluijs.resultants-e.nl/2016/05/omroepzeeland-1-825x510.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/05/omroepzeeland-1-825x510.jpg
 categories:
   - My Life
 ---

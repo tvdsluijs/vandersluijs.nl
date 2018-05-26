@@ -42,7 +42,7 @@ hits:
   - "668"
 dsq_thread_id:
   - "5725875145"
-image: https://vandersluijs.resultants-e.nl/2016/03/mymuesli-e1457620813380-1200x501.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/03/mymuesli-e1457620813380-1200x501.jpg
 categories:
   - My Life
 ---

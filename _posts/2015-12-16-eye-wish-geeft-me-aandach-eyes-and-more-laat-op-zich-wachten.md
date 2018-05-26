@@ -24,7 +24,7 @@ hits:
   - "795"
 dsq_thread_id:
   - "5704202388"
-image: https://vandersluijs.resultants-e.nl/2015/12/IMG_2200-e1450014822574-825x333.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/12/IMG_2200-e1450014822574-825x333.jpg
 categories:
   - Grumpy
 ---

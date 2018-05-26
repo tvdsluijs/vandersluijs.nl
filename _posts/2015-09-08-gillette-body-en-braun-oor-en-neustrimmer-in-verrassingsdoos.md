@@ -34,7 +34,7 @@ hits:
   - "1569"
 dsq_thread_id:
   - "5702752560"
-image: https://vandersluijs.resultants-e.nl/2015/09/Theo-pleinshoppen.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/09/Theo-pleinshoppen.jpg
 categories:
   - My Life
 ---

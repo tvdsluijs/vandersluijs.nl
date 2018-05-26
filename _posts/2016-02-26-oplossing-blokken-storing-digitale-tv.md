@@ -44,7 +44,7 @@ asalah_custom_description:
   - ""
 asalah_sidebar_position:
   - "0"
-image: https://vandersluijs.resultants-e.nl/2016/02/4g-storing.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/02/4g-storing.jpg
 categories:
   - Tech
 ---

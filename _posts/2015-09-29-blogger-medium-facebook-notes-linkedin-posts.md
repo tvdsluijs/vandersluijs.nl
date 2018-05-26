@@ -34,7 +34,7 @@ hits:
   - "1178"
 dsq_thread_id:
   - "6027297437"
-image: https://vandersluijs.resultants-e.nl/2015/09/blogging-428954_1280-e1443549018362.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/09/blogging-428954_1280-e1443549018362.jpg
 categories:
   - Grumpy
 ---

@@ -34,7 +34,7 @@ hits:
   - "529"
 itrr_another_apply:
   - 'no'
-image: https://vandersluijs.resultants-e.nl/2015/08/promixx1.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/08/promixx1.jpg
 categories:
   - Tech
 format: video

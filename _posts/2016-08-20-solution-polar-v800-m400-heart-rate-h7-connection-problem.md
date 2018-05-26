@@ -44,7 +44,7 @@ hits:
   - "589"
 dsq_thread_id:
   - "5705076177"
-image: https://vandersluijs.resultants-e.nl/2016/08/polar_h7_connection_problem-825x510.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/08/polar_h7_connection_problem-825x510.jpg
 categories:
   - Tech
 tags:

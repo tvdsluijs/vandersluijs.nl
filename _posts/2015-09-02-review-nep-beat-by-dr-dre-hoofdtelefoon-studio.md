@@ -50,7 +50,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5712885553"
-image: https://vandersluijs.resultants-e.nl/2015/09/theo-beats-by-dr-dre.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/09/theo-beats-by-dr-dre.jpg
 categories:
   - Tech
 format: video

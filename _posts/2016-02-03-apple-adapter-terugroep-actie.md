@@ -32,7 +32,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5726174858"
-image: https://vandersluijs.resultants-e.nl/2016/02/adapters-apple-e1454533325511.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/02/adapters-apple-e1454533325511.jpg
 categories:
   - Tech
 tags:

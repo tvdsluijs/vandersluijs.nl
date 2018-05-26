@@ -30,7 +30,7 @@ hits:
   - "566"
 dsq_thread_id:
   - "5900134444"
-image: https://vandersluijs.resultants-e.nl/2016/03/payleven-pagamento-web-825x300.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/03/payleven-pagamento-web-825x300.jpg
 categories:
   - My Life
 ---

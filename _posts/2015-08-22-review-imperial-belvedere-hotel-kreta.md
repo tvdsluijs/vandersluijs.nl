@@ -68,7 +68,7 @@ asalah_sidebar_position:
   - "0"
 dsq_thread_id:
   - "5709848224"
-image: https://vandersluijs.resultants-e.nl/2015/08/belvedere-hotels-kreta1.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/08/belvedere-hotels-kreta1.jpg
 categories:
   - My Life
   - Travel

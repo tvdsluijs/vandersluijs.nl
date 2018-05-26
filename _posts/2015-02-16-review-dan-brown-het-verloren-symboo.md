@@ -48,7 +48,7 @@ hits:
   - "1440"
 dsq_thread_id:
   - "5831164522"
-image: https://vandersluijs.resultants-e.nl/2015/02/33.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2015/02/33.jpg
 categories:
   - My Life
 ---

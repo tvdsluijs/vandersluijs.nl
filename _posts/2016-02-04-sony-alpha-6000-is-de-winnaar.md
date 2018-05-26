@@ -40,7 +40,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5709775630"
-image: https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952.jpg
 categories:
   - Photography
 tags:

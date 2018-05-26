@@ -42,7 +42,7 @@ hits:
   - "731"
 dsq_thread_id:
   - "5784698989"
-image: https://vandersluijs.resultants-e.nl/2016/08/10155650_675206205861216_3668084276270738087_n-825x510.jpg
+feature-img: https://vandersluijs.resultants-e.nl/2016/08/10155650_675206205861216_3668084276270738087_n-825x510.jpg
 categories:
   - My Life
 tags:
