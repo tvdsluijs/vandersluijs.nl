@@ -68,15 +68,15 @@ Jeremiasse Fiets & Fitness is momenteel gevestigd in het pand van der Spiegelst
 ## Fiets en Fitness XXL
 
 <div id='gallery-15' class='gallery galleryid-3126 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
+    
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/08/fiets-en-fitness-xxl-website.html/10170845_676266202421883_6712137190473801503_n'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/08/10170845_676266202421883_6712137190473801503_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/08/10170845_676266202421883_6712137190473801503_n-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/08/10170845_676266202421883_6712137190473801503_n-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/08/10170845_676266202421883_6712137190473801503_n-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/08/fiets-en-fitness-xxl-website.html/10264603_676267969088373_2122976272836349326_n'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/08/10264603_676267969088373_2122976272836349326_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/08/10264603_676267969088373_2122976272836349326_n-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/08/10264603_676267969088373_2122976272836349326_n-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/08/10264603_676267969088373_2122976272836349326_n-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure>
+  </div> 
 </div>
 
 Fiets & Fitness XXL is de grootste speciaalzaak van Zuidwest-Nederland op het gebied van merkfietsen en fitnessapparatuur. Hun huidige locatie heeft een showroom met zo&#8217;n 4000 m2 fiets- en fitness apparatuur en een werkplaats met gediplomeerde specialisten die 5 dagen per week klaar staan.
@@ -94,23 +94,23 @@ Maar goed, ik ken niet zo heel veel fiets winkels (naast de fiets winkel in Wolp
 De entree van de winkel is groots opgezet en je betreed gelijk ofwel rechts het e-bike deel van de winkel of links het fietsen & accessoires  & werkplaats- deel.
 
 <div id='gallery-16' class='gallery galleryid-3126 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
+    
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/08/fiets-en-fitness-xxl-website.html/10260006_676267442421759_4914040759728214282_n'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/08/10260006_676267442421759_4914040759728214282_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/08/10260006_676267442421759_4914040759728214282_n-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/08/10260006_676267442421759_4914040759728214282_n-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/08/10260006_676267442421759_4914040759728214282_n-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/08/fiets-en-fitness-xxl-website.html/10250182_676265072421996_2699899507472596275_n'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/08/10250182_676265072421996_2699899507472596275_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/08/10250182_676265072421996_2699899507472596275_n-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/08/10250182_676265072421996_2699899507472596275_n-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/08/10250182_676265072421996_2699899507472596275_n-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/08/fiets-en-fitness-xxl-website.html/10176093_676267422421761_8015295318021603800_n'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/08/10176093_676267422421761_8015295318021603800_n-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/08/10176093_676267422421761_8015295318021603800_n-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/08/10176093_676267422421761_8015295318021603800_n-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/08/10176093_676267422421761_8015295318021603800_n-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/08/fiets-en-fitness-xxl-website.html/screen-shot-2016-08-01-at-08-23-50'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/08/Screen-Shot-2016-08-01-at-08.23.50-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/08/Screen-Shot-2016-08-01-at-08.23.50-150x150.png 150w, https://vandersluijs.resultants-e.nl/2016/08/Screen-Shot-2016-08-01-at-08.23.50-65x65.png 65w, https://vandersluijs.resultants-e.nl/2016/08/Screen-Shot-2016-08-01-at-08.23.50-50x50.png 50w" sizes="100vw" /></a>
-  </div></figure>
+  </div> 
 </div>
 
 De winkel is grootst opgezet, maar zo nu en dan vind ik het toch krap aanvoelen. Er staat veel&#8230; heel veel. Als je het iets ruimer zou opzetten heb je waarschijnlijk nog twee verdiepingen nodig.

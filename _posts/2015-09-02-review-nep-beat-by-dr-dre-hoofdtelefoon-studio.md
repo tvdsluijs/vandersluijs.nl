@@ -123,23 +123,23 @@ Ik zelf weet niet of ik 200 euro zou uitgeven voor een echt Beats. Ik heb er gee
 Wil je nou een echte Beats kopen maar heb je niet zo veel geld? Koop dan er dan één via [NopNop](http://www.nopnop.nl/index.php?zoeken=beats)! Dan koop je een echte [Beats by Dr. Dre hoofdtelefoon](http://www.nopnop.nl/index.php?zoeken=beats) met heel veel korting!
 
 <div id='gallery-6' class='gallery galleryid-1227 gallery-columns-3 gallery-size-medium'>
-  <figure class='gallery-item'> 
+    
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_0870-sml'><img width="300" height="248" src="https://vandersluijs.resultants-e.nl/2015/08/IMG_0870-sml-300x248.jpg" class="attachment-medium size-medium" alt="Beats By Dr Dre" srcset="https://vandersluijs.resultants-e.nl/2015/08/IMG_0870-sml-300x248.jpg 300w, https://vandersluijs.resultants-e.nl/2015/08/IMG_0870-sml-768x636.jpg 768w, https://vandersluijs.resultants-e.nl/2015/08/IMG_0870-sml.jpg 1024w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon portrait'>
     <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_0756'><img width="225" height="300" src="https://vandersluijs.resultants-e.nl/2015/08/IMG_0756-225x300.jpg" class="attachment-medium size-medium" alt="nep beats by dr dre studio" srcset="https://vandersluijs.resultants-e.nl/2015/08/IMG_0756-225x300.jpg 225w, https://vandersluijs.resultants-e.nl/2015/08/IMG_0756-768x1024.jpg 768w, https://vandersluijs.resultants-e.nl/2015/08/IMG_0756.jpg 960w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon portrait'>
     <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_1007'><img width="225" height="300" src="https://vandersluijs.resultants-e.nl/2015/08/IMG_1007-225x300.jpg" class="attachment-medium size-medium" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/08/IMG_1007-225x300.jpg 225w, https://vandersluijs.resultants-e.nl/2015/08/IMG_1007-768x1024.jpg 768w, https://vandersluijs.resultants-e.nl/2015/08/IMG_1007.jpg 960w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_0872-sml'><img width="300" height="219" src="https://vandersluijs.resultants-e.nl/2015/08/IMG_0872-sml-300x219.jpg" class="attachment-medium size-medium" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/08/IMG_0872-sml-300x219.jpg 300w, https://vandersluijs.resultants-e.nl/2015/08/IMG_0872-sml-768x560.jpg 768w, https://vandersluijs.resultants-e.nl/2015/08/IMG_0872-sml.jpg 901w" sizes="100vw" /></a>
-  </div></figure>
+  </div> 
 </div>
 
 ## Beste Beats by Dre aanbiedingen

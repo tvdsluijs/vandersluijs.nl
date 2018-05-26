@@ -148,67 +148,67 @@ Je kunt de temperatuur selecteren als een van de gegevensvelden op het display. 
 Hieronder wat foto&#8217;s met verschillen tussen de Polar m400 en v800. Het licht (achtergrond licht) is ook verschillend, maar dit zie je niet in de foto. Visueel lijkt het dat het licht bij de V800 witter is. Op de foto echter lijken ze even blauw.
 
 <div id='gallery-9' class='gallery galleryid-1284 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
+    
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1066'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1066-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1303" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1066-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1066-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1303'> Links de v800, geeft witter licht. </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1303'> Links de v800, geeft witter licht. </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1073'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1073-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1304" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1073-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1073-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1304'> Eerste scherm, met status bij v800 </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1304'> Eerste scherm, met status bij v800 </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1074'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1074-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1305" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1074-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1074-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1305'> Zien hoe of je training in balans is </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1305'> Zien hoe of je training in balans is </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1075'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1075-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1306" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1075-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1075-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1306'> Tweede scherm v800 is eerste bij m400 </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1306'> Tweede scherm v800 is eerste bij m400 </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1076'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1076-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1307" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1076-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1076-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1307'> Activiteit scherm is gelijk </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1307'> Activiteit scherm is gelijk </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1079'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1079-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1308" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1079-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1079-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1308'> Agenda met trainingen is het zelfde </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1308'> Agenda met trainingen is het zelfde </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1080'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1080-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1309" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1080-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1080-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1309'> Onder settings zit bij de v800 meer opties </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1309'> Onder settings zit bij de v800 meer opties </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1081'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1081-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1310" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1081-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1081-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1310'> Bij m400 maar 1 test, bij v800 meerdere </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1310'> Bij m400 maar 1 test, bij v800 meerdere </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1082'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1082-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1311" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1082-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1082-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1311'> Meer opties bij timer in v800 </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1311'> Meer opties bij timer in v800 </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1083'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1083-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1312" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1083-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1083-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1312'> Nog nooit gebruikt 🙂 </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1312'> Nog nooit gebruikt 🙂 </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1084'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1084-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1313" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1084-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1084-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1313'> Mooie alu-look bij v800 </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1313'> Mooie alu-look bij v800 </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1085'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1085-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1314" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1085-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1085-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1314'> Rode knop komt super uit in alu look </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1314'> Rode knop komt super uit in alu look </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1086'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1086-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1315" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1086-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1086-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1315'> Rechts v800 mooie betere afwerking alu-look </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1315'> Rechts v800 mooie betere afwerking alu-look </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1087'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1087-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1316" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1087-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1087-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1316'> Aansluiting m400 links onder klepje </figcaption></figure><figure class='gallery-item'> 
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1316'> Aansluiting m400 links onder klepje </figcaption>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/verschil-polar-m400-en-polar-v800.html/img_1090'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1090-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-9-1317" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1090-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1090-65x65.jpg 65w" sizes="100vw" /></a>
-  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1317'> M400 links met normale micro usb aan te sluiten. V800 met speciale knijper </figcaption></figure>
+  </div><figcaption class='wp-caption-text gallery-caption' id='gallery-9-1317'> M400 links met normale micro usb aan te sluiten. V800 met speciale knijper </figcaption> 
 </div>
 
 ## Blog-posts 40enfit.nl

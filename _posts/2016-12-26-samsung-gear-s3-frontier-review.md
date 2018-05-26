@@ -155,41 +155,41 @@ De accuduur gaat hard achter uit wanneer je het &#8220;Always on&#8221; display 
 Verder is het horloge intuïtief en eenvoudig in het gebruik. In een volgend artikel zal ik uitleggen hoe je hem kunt instellen op je iPhone en ga ik hem nu even lekker verder proberen.
 
 <div id='gallery-19' class='gallery galleryid-3606 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
+    
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/12/samsung-gear-s3-frontier-review.html/samsung-gear-s3-frontier-6'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-6-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-6-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-6-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/12/samsung-gear-s3-frontier-review.html/samsung-gear-s3-frontier-5'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="samsung gear s3 frontier review" srcset="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-5-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-5-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-5-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/12/samsung-gear-s3-frontier-review.html/samsung-gear-s3-frontier-2'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-2-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-2-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-2-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/12/samsung-gear-s3-frontier-review.html/samsung-gear-s3-frontier-9'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-9-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Samsung Gear S3 Connectie iPhone" srcset="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-9-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-9-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-9-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/12/samsung-gear-s3-frontier-review.html/samsung-gear-s3-frontier-4'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-4-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-4-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-4-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/12/samsung-gear-s3-frontier-review.html/samsung-gear-s3-frontier-1'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-1-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-1-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-1-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/12/samsung-gear-s3-frontier-review.html/samsung-gear-s3-frontier-8'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-8-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-8-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-8-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-8-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/12/samsung-gear-s3-frontier-review.html/samsung-gear-s3-frontier-7'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-7-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-7-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-7-50x50.jpg 50w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2016/12/samsung-gear-s3-frontier-review.html/samsung-gear-s3-frontier-10'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-300x300.jpg 300w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-768x768.jpg 768w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-1024x1024.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-400x400.jpg 400w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-50x50.jpg 50w, https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10.jpg 1600w" sizes="100vw" /></a>
-  </div></figure>
+  </div> 
 </div>

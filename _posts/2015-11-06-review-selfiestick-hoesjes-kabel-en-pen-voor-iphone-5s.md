@@ -98,29 +98,29 @@ De pen is licht&#8230;. super licht&#8230; waarschijnlijk ga ik hem nog wel eens
 Ben je op zoek naar andere <a href="http://mobielkoopjes.nl/" target="_blank">telefoonhoesjes</a> of accessoires ga dan kijken bij mobielkoopjes.nl
 
 <div id='gallery-12' class='gallery galleryid-1683 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
+    
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/11/review-selfiestick-hoesjes-kabel-en-pen-voor-iphone-5s.html/img_1846'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/11/IMG_1846-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/11/IMG_1846-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/11/IMG_1846-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/11/review-selfiestick-hoesjes-kabel-en-pen-voor-iphone-5s.html/img_1847'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/11/IMG_1847-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/11/IMG_1847-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/11/IMG_1847-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/11/review-selfiestick-hoesjes-kabel-en-pen-voor-iphone-5s.html/img_1848'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/11/IMG_1848-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/11/IMG_1848-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/11/IMG_1848-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/11/review-selfiestick-hoesjes-kabel-en-pen-voor-iphone-5s.html/img_1849'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/11/IMG_1849-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/11/IMG_1849-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/11/IMG_1849-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/11/review-selfiestick-hoesjes-kabel-en-pen-voor-iphone-5s.html/img_1852'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/11/IMG_1852-e1447406145497-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/11/IMG_1852-e1447406145497-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/11/IMG_1852-e1447406145497-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon portrait'>
     <a href='https://vandersluijs.nl/blog/2015/11/review-selfiestick-hoesjes-kabel-en-pen-voor-iphone-5s.html/img_1854'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/11/IMG_1854-e1447406170907-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/11/IMG_1854-e1447406170907-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/11/IMG_1854-e1447406170907-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure>
+  </div> 
 </div>

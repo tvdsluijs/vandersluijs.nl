@@ -83,37 +83,37 @@ Ik kan beide producten ten zeerste aanraden wanneer je van je lichaamsbeharing e
 Beide producten zijn niet pijnlijk bij het scheren en laten nadien geen geirriteerde huid achter. Voor de prijs hoef je het niet te laten want voor nog geen 16 euro voor de <a href="http://www.scheerplein.nl/elektrisch-scheren/trimmers/" target="_blank">Braun Oor en Neustrimmer</a> en nog geen 8 euro voor de <a title="Gillette Body" href="http://www.scheerplein.nl/gillette/" target="_blank">Gillette Body</a> kan je er dus relatief goedkoop een stuk minder behaard uitzien.
 
 <div id='gallery-7' class='gallery galleryid-1259 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
+    
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html/img_1154'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1154-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Braun oor en neus trimmer" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1154-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1154-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon portrait'>
     <a href='https://vandersluijs.nl/blog/2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html/img_1157'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1157-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Braun oor en neus trimmer" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1157-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1157-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html/img_1159'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1159-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Pleinshoppen.nl verrassing" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1159-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1159-300x300.jpg 300w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1159-768x768.jpg 768w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1159-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1159.jpg 960w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html/img_1153'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1153-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Gillette Body" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1153-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1153-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon portrait'>
     <a href='https://vandersluijs.nl/blog/2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html/img_1156'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1156-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1156-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1156-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/blog/2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html/img_1152'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1152-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Gillette Body en Braun oor en neus trimmer" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1152-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1152-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon portrait'>
     <a href='https://vandersluijs.nl/blog/2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html/img_1155'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1155-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Gillette Body" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1155-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1155-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon portrait'>
     <a href='https://vandersluijs.nl/blog/2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html/img_1158'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/09/IMG_1158-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/09/IMG_1158-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/09/IMG_1158-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure>
+  </div> 
 </div>

@@ -129,33 +129,33 @@ Jammer dat ik alleen dus weer te vroeg heb gekocht&#8230;. want de  Sony α6300
 Had ik moeten wachten op de a6300? Denk het niet. Ik ben heel blij met mijn Sony Alpha 6000! Kan ik weer een paar jaar vooruit!
 
 <div id='gallery-14' class='gallery galleryid-2363 gallery-columns-3 gallery-size-thumbnail'>
-  <figure class='gallery-item'> 
+    
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="sony a6000 alpha 6000 review" srcset="https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-60x60.jpg 60w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon portrait'>
     <a href='https://vandersluijs.nl/img_2833'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon a6000" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon portrait'>
     <a href='https://vandersluijs.nl/img_2832'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2832-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2832-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2832-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon portrait'>
     <a href='https://vandersluijs.nl/img_2831'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon alpha 6000 a6000" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon portrait'>
     <a href='https://vandersluijs.nl/img_2830'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2830-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2830-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2830-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/img_2829'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon alpha 6000" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure><figure class='gallery-item'> 
+  </div>   
   
   <div class='gallery-icon landscape'>
     <a href='https://vandersluijs.nl/img_2828'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2828-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2828-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2828-65x65.jpg 65w" sizes="100vw" /></a>
-  </div></figure>
+  </div> 
 </div>
