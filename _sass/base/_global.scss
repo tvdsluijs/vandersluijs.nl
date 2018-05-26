@@ -160,12 +160,12 @@ video {
     padding: 0 10%;
 }
 
-.gallery-icon{
+.gallery-icon.landscape{
     float:left;
 }
 
-.attachment-thumbnail{
-    padding: none;
+.gallery-icon.landscape{
+    padding: 0;
 }
 
 img[align=left] {
