@@ -50,7 +50,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5853232214"
-image: /wp-content/uploads/2015/02/1424312906_blog_compose.png
+image: https://vandersluijs.resultants-e.nl/2015/02/1424312906_blog_compose.png
 categories:
   - Photography
 ---

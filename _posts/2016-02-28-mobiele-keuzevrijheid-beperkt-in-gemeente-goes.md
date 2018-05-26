@@ -30,7 +30,7 @@ hits:
   - "523"
 dsq_thread_id:
   - "5804947416"
-image: /wp-content/uploads/2016/02/Screen-Shot-2016-02-28-at-10.13.10-825x476.png
+image: https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-10.13.10-825x476.png
 categories:
   - Grumpy
 tags:
@@ -41,7 +41,7 @@ Ik woon letterlijk en figuurlijk in een gat! Figuurlijk want Wolphaartsdijk, ond
 
 **[Update 15:00]**
 
-Helaas heeft <a href="https://vandersluijs.nl/blog/2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html" target="_blank">T-Mobile</a> laten weten af te zien van een <a href="https://vandersluijs.nl/blog/2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html" target="_blank">Mast in Wolphaartsdijk</a>. Klanten hebben geluisterd, Gemeente Goes wilde luisteren en nu laat die oh zo naar de klant luisterende T-Mobile de klant in de kou staan.
+Helaas heeft <a href="https://vandersluijs.nl/2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html" target="_blank">T-Mobile</a> laten weten af te zien van een <a href="https://vandersluijs.nl/2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html" target="_blank">Mast in Wolphaartsdijk</a>. Klanten hebben geluisterd, Gemeente Goes wilde luisteren en nu laat die oh zo naar de klant luisterende T-Mobile de klant in de kou staan.
 
 **[Einde update]**
 
@@ -59,11 +59,11 @@ Jaar na jaar liep ik in Goes de T-Mobile winkel binnen om te vragen wanneer T-Mo
 
 ## T-Mobile heeft best een goede dekking
 
-<img class="alignleft wp-image-2555" src=https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.43.47-300x281.png" alt="Screen Shot 2016-02-28 at 09.43.47" width="212" height="199" srcset=https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.43.47-300x281.png 300w, /images/2016/02/Screen-Shot-2016-02-28-at-09.43.47-768x720.png 768w, /images/2016/02/Screen-Shot-2016-02-28-at-09.43.47.png 986w" sizes="(max-width: 212px) 100vw, 212px" />Zoals je hier naast kan zien is de dekking van T-Mobile redelijk goed. Ok, zo goed als van KPN is het nog niet, maar ze behoren wel tot één van de betere.
+<img class="alignleft wp-image-2555" src="https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.43.47-300x281.png" alt="Screen Shot 2016-02-28 at 09.43.47" width="212" height="199" srcset="https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.43.47-300x281.png 300w, https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.43.47-768x720.png 768w, https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.43.47.png 986w" sizes="(max-width: 212px) 100vw, 212px" />Zoals je hier naast kan zien is de dekking van T-Mobile redelijk goed. Ok, zo goed als van KPN is het nog niet, maar ze behoren wel tot één van de betere.
 
 3G is sowieso goed afgedekt in Nederland en 4G zijn ze hard mee bezig om dit dekkend te krijgen.
 
-<img class="size-medium wp-image-2556 alignright" src=https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.07-300x284.png" alt="Screen Shot 2016-02-28 at 09.44.07" width="300" height="284" srcset=https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.07-300x284.png 300w, /images/2016/02/Screen-Shot-2016-02-28-at-09.44.07-768x727.png 768w, /images/2016/02/Screen-Shot-2016-02-28-at-09.44.07.png 1004w" sizes="(max-width: 300px) 100vw, 300px" />En warempel de plaats Goes zelf i s ook geheel 4G dekkend! En dan heb ik het niet over de  gemeente Goes maar de plaats! Helemaal 3G en 4G dekkend! De ambtenaren hebben geen klachten waarschijnlijk.
+<img class="size-medium wp-image-2556 alignright" src="https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.07-300x284.png" alt="Screen Shot 2016-02-28 at 09.44.07" width="300" height="284" srcset="https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.07-300x284.png 300w, https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.07-768x727.png 768w, https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.07.png 1004w" sizes="(max-width: 300px) 100vw, 300px" />En warempel de plaats Goes zelf i s ook geheel 4G dekkend! En dan heb ik het niet over de  gemeente Goes maar de plaats! Helemaal 3G en 4G dekkend! De ambtenaren hebben geen klachten waarschijnlijk.
 
 Maar als je kijkt naar Wolphaartsdijk&#8230;.
 
@@ -85,7 +85,7 @@ En kreeg geen reactie, helaas.
 
 Gisteren probeerde ik het opnieuw en haalde ik er wat vooraanstaande personen bij! En &#8230; ik kreeg reactie.
 
-<img class="alignleft size-medium wp-image-2557" src=https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.56-300x286.png" alt="Screen Shot 2016-02-28 at 09.44.56" width="300" height="286" srcset=https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.56-300x286.png 300w, /images/2016/02/Screen-Shot-2016-02-28-at-09.44.56-768x733.png 768w, /images/2016/02/Screen-Shot-2016-02-28-at-09.44.56-1024x977.png 1024w, /images/2016/02/Screen-Shot-2016-02-28-at-09.44.56.png 1084w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignleft size-medium wp-image-2557" src="https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.56-300x286.png" alt="Screen Shot 2016-02-28 at 09.44.56" width="300" height="286" srcset="https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.56-300x286.png 300w, https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.56-768x733.png 768w, https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.56-1024x977.png 1024w, https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-09.44.56.png 1084w" sizes="(max-width: 300px) 100vw, 300px" />
 
 <blockquote class="twitter-tweet" data-lang="nl">
   <p dir="ltr" lang="nl">

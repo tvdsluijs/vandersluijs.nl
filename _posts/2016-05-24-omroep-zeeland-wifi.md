@@ -36,7 +36,7 @@ Signalen die elkaar verstoren en dus een slechter wifi bereik en trage wifi ople
 
 <blockquote class="wp-embedded-content" data-secret="ffDT9Eotjj">
   <p>
-    <a href="https://vandersluijs.nl/blog/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
+    <a href="https://vandersluijs.nl/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
   </p>
 </blockquote>
 

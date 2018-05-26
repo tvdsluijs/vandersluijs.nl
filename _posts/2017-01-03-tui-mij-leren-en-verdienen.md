@@ -42,7 +42,7 @@ hits:
   - "692"
 dsq_thread_id:
   - "5700425983"
-image: /wp-content/uploads/2017/01/tui_Dreamliner-e1483472432278-825x510.jpg
+image: https://vandersluijs.resultants-e.nl/2017/01/tui_Dreamliner-e1483472432278-825x510.jpg
 categories:
   - Grumpy
 tags:
@@ -128,4 +128,4 @@ Ene&#8230; regel wat TUI en
 
 > **Discover my Smile!**
 
-<img class="alignleft wp-image-3643 size-full" src=https://vandersluijs.resultants-e.nl/2017/01/tui-logo.png" alt="TUI" width="300" height="188" />
+<img class="alignleft wp-image-3643 size-full" src="https://vandersluijs.resultants-e.nl/2017/01/tui-logo.png" alt="TUI" width="300" height="188" />

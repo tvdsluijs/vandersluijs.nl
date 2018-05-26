@@ -40,7 +40,7 @@ En dat naar aanleiding van een blog artikel over het modem van ZeelandNet dat ik
 
 <blockquote class="wp-embedded-content" data-secret="ofR0JrKECr">
   <p>
-    <a href="https://vandersluijs.nl/blog/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
+    <a href="https://vandersluijs.nl/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
   </p>
 </blockquote>
 

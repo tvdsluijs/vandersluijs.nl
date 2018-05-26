@@ -32,7 +32,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5875462973"
-image: /wp-content/uploads/2016/02/macbook-e1455227900112-825x450.jpg
+image: https://vandersluijs.resultants-e.nl/2016/02/macbook-e1455227900112-825x450.jpg
 categories:
   - Tech
 tags:

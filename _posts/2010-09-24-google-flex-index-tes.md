@@ -47,7 +47,7 @@ But for now, this simple test….
     </p>
     
     <p>
-      <a href="http://www.adobe.com/go/getflashplayer"><br /><img src=https://vandersluijs.resultants-e.nl/2010/09/get_flash_player.gif" alt="Get Adobe Flash Player" /><br /></a>
+      <a href="http://www.adobe.com/go/getflashplayer"><br /><img src="https://vandersluijs.resultants-e.nl/2010/09/get_flash_player.gif" alt="Get Adobe Flash Player" /><br /></a>
     </p>
     
     <p>

@@ -30,7 +30,7 @@ hits:
   - "558"
 dsq_thread_id:
   - "5923084025"
-image: /wp-content/uploads/2016/02/Screen-Shot-2016-02-28-at-10.13.10-825x476.png
+image: https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-10.13.10-825x476.png
 categories:
   - Grumpy
 tags:

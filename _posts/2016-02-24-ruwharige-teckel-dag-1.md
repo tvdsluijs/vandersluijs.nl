@@ -30,7 +30,7 @@ hits:
   - "697"
 dsq_thread_id:
   - "5720156359"
-image: /wp-content/uploads/2016/02/IMG_3136-e1456304961732-825x501.jpg
+image: https://vandersluijs.resultants-e.nl/2016/02/IMG_3136-e1456304961732-825x501.jpg
 categories:
   - My Life
 tags:
@@ -40,7 +40,7 @@ Eindelijk konden we gisteren Bas  onze Ruwharige Teckel halen. We hadden het on
 
 Gelukkig was het niet ver rijden en want ik denk niet dat ze een uur in de auto hadden vol gehouden.<!--more-->
 
-<img class="alignleft size-medium wp-image-2473" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_3162-300x225.jpg" alt="IMG_3162" width="300" height="225" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_3162-300x225.jpg 300w, /images/2016/02/IMG_3162-768x576.jpg 768w, /images/2016/02/IMG_3162-1024x768.jpg 1024w, /images/2016/02/IMG_3162.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Eenmaal bij de Bas aangekomen, hebben we een kopje koffie gedaan, wat papieren in gevuld (voor de Stamboom natuurlijk) , Bas natuurlijk nog even laten knuffelen met de eigenaresse &#8230;. tja en toen was Basje van ons en waren wij eigenaar.
+<img class="alignleft size-medium wp-image-2473" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_3162-300x225.jpg" alt="IMG_3162" width="300" height="225" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_3162-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3162-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3162-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3162.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Eenmaal bij de Bas aangekomen, hebben we een kopje koffie gedaan, wat papieren in gevuld (voor de Stamboom natuurlijk) , Bas natuurlijk nog even laten knuffelen met de eigenaresse &#8230;. tja en toen was Basje van ons en waren wij eigenaar.
 
 Snel de auto in want het weer was niet best. Hij lag heerlijk op schoot op weg naar huis en piepte of kermde niet. We waren wel heel benieuwd naar hoe hij het bij ons thuis zou vinden&#8230;. en vooral hoe alle dieren Bas zouden vinden.
 
@@ -48,7 +48,7 @@ Snel de auto in want het weer was niet best. Hij lag heerlijk op schoot op weg n
 
 ## Teckel die de dierentuin verkent
 
-<img class="wp-image-2468 size-medium alignleft" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_3133-e1456315329461-300x225.jpg" alt="Poes en Ruwharige Teckel" width="300" height="225" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_3133-e1456315329461-300x225.jpg 300w, /images/2016/02/IMG_3133-e1456315329461-768x576.jpg 768w, /images/2016/02/IMG_3133-e1456315329461-1024x768.jpg 1024w, /images/2016/02/IMG_3133-e1456315329461.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />We hebben nogal wat dieren thuis. 3 cavia&#8217;s, 2 hamsters, 9 franse hangoor konijnen een jack russel en een poes. Bij binnenkomst werd Bas direct door onze Jack Russel Mowgli begroet, die vond het eigenlijk wel leuk zo&#8217;n klein hondje. Later bleek toch wel dat Mowgli moest wennen aan een nieuwe huisgenoot. Na bijna 2 jaar alleen (als hond) te zijn geweest vind hij Bas wel leuk, maar Mowgli bepaald.
+<img class="wp-image-2468 size-medium alignleft" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_3133-e1456315329461-300x225.jpg" alt="Poes en Ruwharige Teckel" width="300" height="225" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_3133-e1456315329461-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3133-e1456315329461-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3133-e1456315329461-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3133-e1456315329461.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />We hebben nogal wat dieren thuis. 3 cavia&#8217;s, 2 hamsters, 9 franse hangoor konijnen een jack russel en een poes. Bij binnenkomst werd Bas direct door onze Jack Russel Mowgli begroet, die vond het eigenlijk wel leuk zo&#8217;n klein hondje. Later bleek toch wel dat Mowgli moest wennen aan een nieuwe huisgenoot. Na bijna 2 jaar alleen (als hond) te zijn geweest vind hij Bas wel leuk, maar Mowgli bepaald.
 
 En dan onze Poes CoCo, ze is de koningin van Wolphaartsdijk. Ze heeft diverse slaven voor haar werken&#8230; dat zijn wij met zijn allen. En ze miauwt als ze naar binnen gelaten wil worden en ze miauwt als ze naar buiten gelaten wil worden. Toen ze Bas in huis zag, zag je haar denken:
 
@@ -64,7 +64,7 @@ De rest van de beestenboel heeft Bas op zijn gemak geobserveerd en probeerde zel
 
 ## Teckel die plast en Poept
 
-<img class="alignright wp-image-2472 size-medium" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_3151-e1456315434505-300x225.jpg" alt="Ruwharige Teckel" width="300" height="225" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_3151-e1456315434505-300x225.jpg 300w, /images/2016/02/IMG_3151-e1456315434505-768x576.jpg 768w, /images/2016/02/IMG_3151-e1456315434505-1024x768.jpg 1024w, /images/2016/02/IMG_3151-e1456315434505.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Voor binnenkomst hebben we onze Ruwharige Teckel bas natuurlijk eerst buiten laten plassen. Maar hij kreeg het toch echt voor elkaar om 2x binnen te poepen en zo&#8217;n 4x binnen te plassen.
+<img class="alignright wp-image-2472 size-medium" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_3151-e1456315434505-300x225.jpg" alt="Ruwharige Teckel" width="300" height="225" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_3151-e1456315434505-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3151-e1456315434505-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3151-e1456315434505-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3151-e1456315434505.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Voor binnenkomst hebben we onze Ruwharige Teckel bas natuurlijk eerst buiten laten plassen. Maar hij kreeg het toch echt voor elkaar om 2x binnen te poepen en zo&#8217;n 4x binnen te plassen.
 
 Dus zijn leidingwerk doet het goed! Heel erg goed zelfs! Na eten en drinken of een slaapje gelijk een plasje.
 
@@ -72,7 +72,7 @@ Dus opletten geblazen. Wanneer hij wakker wordt, hup gelijk naar buiten. Lijkt h
 
 ## Teckel die slaapt of toch niet?
 
-<img class="size-medium wp-image-2466 alignleft" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_3120-300x225.jpg" alt="Jack Russel en Ruwharige Teckel" width="300" height="225" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_3120-300x225.jpg 300w, /images/2016/02/IMG_3120-768x576.jpg 768w, /images/2016/02/IMG_3120-1024x768.jpg 1024w, /images/2016/02/IMG_3120.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />En toen moesten we naar bed, eerst nog even een plas buiten en daarna in de speciale slaap doos naast het bed. We hebben ook een Bench, maar die staat beneden. Daarnaast heeft die geen opening aan de bovenkant en ik wilde &#8217;s nachts graag mijn hand bij Bas kunnen steken om hem gerust te stellen om toe te dekken.
+<img class="size-medium wp-image-2466 alignleft" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_3120-300x225.jpg" alt="Jack Russel en Ruwharige Teckel" width="300" height="225" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_3120-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3120-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3120-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3120.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />En toen moesten we naar bed, eerst nog even een plas buiten en daarna in de speciale slaap doos naast het bed. We hebben ook een Bench, maar die staat beneden. Daarnaast heeft die geen opening aan de bovenkant en ik wilde &#8217;s nachts graag mijn hand bij Bas kunnen steken om hem gerust te stellen om toe te dekken.
 
 Dus een hoge verbouwde doos, met open bovenkant. Met er in een vetbedje en daar boven op een superzachte sprei.
 

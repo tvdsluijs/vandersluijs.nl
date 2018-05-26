@@ -36,7 +36,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5703750022"
-image: /wp-content/uploads/2015/09/outlook-2016-mac.jpg
+image: https://vandersluijs.resultants-e.nl/2015/09/outlook-2016-mac.jpg
 categories:
   - Tech
 ---

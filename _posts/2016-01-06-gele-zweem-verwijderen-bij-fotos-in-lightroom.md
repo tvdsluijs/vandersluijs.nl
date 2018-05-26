@@ -69,7 +69,7 @@ Volg de volgende stappen en je foto zal weer mooi zijn zonder gele zweem.
   6. Klik met de wit balans pipet op dat &#8220;witte&#8221; deel.
   7. Klaar!
 
-<img class="alignleft wp-image-2093 size-full" src=https://vandersluijs.resultants-e.nl/2016/01/Screen-Shot-2016-01-05-at-21.38.58.png" alt="lightroom wit balans pipetje" width="104" height="92" />
+<img class="alignleft wp-image-2093 size-full" src="https://vandersluijs.resultants-e.nl/2016/01/Screen-Shot-2016-01-05-at-21.38.58.png" alt="lightroom wit balans pipetje" width="104" height="92" />
 
 &nbsp;
 

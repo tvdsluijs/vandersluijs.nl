@@ -42,7 +42,7 @@ asalah_custom_description:
   - ""
 asalah_sidebar_position:
   - "0"
-image: /wp-content/uploads/2017/06/samsung-gear-s3-geen-sporthorloge-825x510.jpg
+image: https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-geen-sporthorloge-825x510.jpg
 categories:
   - Sport
 tags:
@@ -58,7 +58,7 @@ Ik kocht hem&#8230;. en kwam er na 3 maanden achter dat het alles behalve een sp
 
 De Samsung Gear S3 Frontier combineert de uitstraling van een hoogwaardig horloge met geavanceerde functies die in het ontwerp zijn geïntegreerd. Hierdoor is de Gear S3 bijzonder gebruiksvriendelijk. Het horloge werkt bovendien dagen achtereen zonder dat je een telefoon nodig hebt of de smartwatch opgeladen moet worden. Daardoor voel je je vrij met de Gear S3.
 
-<img class="alignnone size-full wp-image-4315" src=https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-frontier.jpg" alt="samsung-gear-s3-frontier.jpg" width="1200" height="900" srcset=https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-frontier.jpg 1200w, /images/2017/06/samsung-gear-s3-frontier-300x225.jpg 300w, /images/2017/06/samsung-gear-s3-frontier-768x576.jpg 768w, /images/2017/06/samsung-gear-s3-frontier-1024x768.jpg 1024w, /images/2017/06/samsung-gear-s3-frontier-533x400.jpg 533w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+<img class="alignnone size-full wp-image-4315" src="https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-frontier.jpg" alt="samsung-gear-s3-frontier.jpg" width="1200" height="900" srcset="https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-frontier.jpg 1200w, https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-frontier-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-frontier-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-frontier-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-frontier-533x400.jpg 533w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 
 Althans dat is hoe Samsung dit horloge verkoopt! En inderdaad het is een hoogwaardig horloge maar dagenlang zonder opladen het horloge gebruiken is pertinent niet waar!
 

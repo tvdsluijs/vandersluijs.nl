@@ -177,6 +177,6 @@ Lees ook:
 
 <blockquote class="wp-embedded-content" data-secret="pHNRvzP6Xc">
   <p>
-    <a href="https://vandersluijs.nl/blog/2016/02/oplossing-blokken-storing-digitale-tv.html">Oplossing blokken storing digitale TV</a>
+    <a href="https://vandersluijs.nl/2016/02/oplossing-blokken-storing-digitale-tv.html">Oplossing blokken storing digitale TV</a>
   </p>
 </blockquote>

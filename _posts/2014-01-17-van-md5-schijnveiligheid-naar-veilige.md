@@ -32,7 +32,7 @@ categories:
 <table cellpadding="0" cellspacing="0" style="float: left; margin-right: 1em; text-align: left;">
   <tr>
     <td style="text-align: center;">
-      <a href=https://vandersluijs.resultants-e.nl/2014/01/6101434856_e7eafdfdf2_m.jpg" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" src=https://vandersluijs.resultants-e.nl/2014/01/6101434856_e7eafdfdf2_m.jpg" height="117" width="200" /></a>
+      <a href=https://vandersluijs.resultants-e.nl/2014/01/6101434856_e7eafdfdf2_m.jpg" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" src="https://vandersluijs.resultants-e.nl/2014/01/6101434856_e7eafdfdf2_m.jpg" height="117" width="200" /></a>
     </td>
   </tr>
   

@@ -36,7 +36,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5700920914"
-image: /wp-content/uploads/2015/09/onenote-mac.jpg
+image: https://vandersluijs.resultants-e.nl/2015/09/onenote-mac.jpg
 categories:
   - Tech
 ---
@@ -48,7 +48,7 @@ Maar goed, ik wil het niet hebben over Windows van Microsoft, maar juist over so
 
 <!--more-->
 
-[<img class="aligncenter size-large wp-image-1252" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/09/1441654746_full-1024x776.png" alt="1441654746_full.png" width="800" height="606" srcset=https://vandersluijs.resultants-e.nl/2015/09/1441654746_full.png 1024w, /images/2015/09/1441654746_full-300x227.png 300w, /images/2015/09/1441654746_full-768x582.png 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/09/1441654746_full.png)Microsoft maakt naast Windows heel veel software. Ik werk al jaren met Microsoft Office. Ja zelfs op mijn Mac. Aan Pages (wat prachtig is) kan ik gewoon niet wennen en Office zit nou eenmaal, ja zelfs voor Microsoft heel goed in elkaar.
+[<img class="aligncenter size-large wp-image-1252" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/09/1441654746_full-1024x776.png" alt="1441654746_full.png" width="800" height="606" srcset="https://vandersluijs.resultants-e.nl/2015/09/1441654746_full.png 1024w, https://vandersluijs.resultants-e.nl/2015/09/1441654746_full-300x227.png 300w, https://vandersluijs.resultants-e.nl/2015/09/1441654746_full-768x582.png 768w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/09/1441654746_full.png)Microsoft maakt naast Windows heel veel software. Ik werk al jaren met Microsoft Office. Ja zelfs op mijn Mac. Aan Pages (wat prachtig is) kan ik gewoon niet wennen en Office zit nou eenmaal, ja zelfs voor Microsoft heel goed in elkaar.
 
 In 2003 las ik voor het eerst over OneNote, het was een soort van kladblok waar je alles in kwijt kon.
 
@@ -62,7 +62,7 @@ En ook ging ik alles inscannen met evernote. Iedere factuur en rekening, scannen
 
 Maar iets knaagde aan me. Evernote werd on overzichtelijk, en de layout ging er de laatste paar versies niet echt op vooruit. En toen kwam de genade klap. Ik blog sinds enkele maanden weer en doe dit regelmatig op dit blog, <a href="http://40enfit.nl/" target="_blank">http://40enfit.nl</a> en ook op een instagram blog van @fitdutchbodies.
 
-[<img class="aligncenter size-full wp-image-1255" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/09/evernote-14-592x535.jpg" alt="evernote" width="592" height="535" srcset=https://vandersluijs.resultants-e.nl/2015/09/evernote-14-592x535.jpg 592w, /images/2015/09/evernote-14-592x535-300x271.jpg 300w" sizes="(max-width: 592px) 100vw, 592px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/09/evernote-14-592x535.jpg)
+[<img class="aligncenter size-full wp-image-1255" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/09/evernote-14-592x535.jpg" alt="evernote" width="592" height="535" srcset="https://vandersluijs.resultants-e.nl/2015/09/evernote-14-592x535.jpg 592w, https://vandersluijs.resultants-e.nl/2015/09/evernote-14-592x535-300x271.jpg 300w" sizes="(max-width: 592px) 100vw, 592px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/09/evernote-14-592x535.jpg)
   
 Ik maakte de tekst in evernote en wilde het daarna kopiëren naar mail of naar mijn blog. Echter steeds vaker zag de layout er raar uit op mijn sites. De zinnen waren heel lang en ik kreeg het met geen mogelijkheid netjes.
 

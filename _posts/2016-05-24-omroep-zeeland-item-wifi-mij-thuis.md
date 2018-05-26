@@ -42,7 +42,7 @@ hits:
   - "257"
 dsq_thread_id:
   - "5767472467"
-image: /wp-content/uploads/2016/05/omroepzeeland-1-825x510.jpg
+image: https://vandersluijs.resultants-e.nl/2016/05/omroepzeeland-1-825x510.jpg
 categories:
   - My Life
 ---
@@ -58,7 +58,7 @@ Dus Omroep Zeeland dook er in om er een item over te maken en zo de Zeeuwen te h
 
 <blockquote class="wp-embedded-content" data-secret="lvdiAPGVub">
   <p>
-    <a href="https://vandersluijs.nl/blog/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
+    <a href="https://vandersluijs.nl/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
   </p>
 </blockquote>
 

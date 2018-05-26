@@ -34,7 +34,7 @@ hits:
   - "754"
 dsq_thread_id:
   - "5700416189"
-image: /wp-content/uploads/2015/11/resume-e1447222106721.jpg
+image: https://vandersluijs.resultants-e.nl/2015/11/resume-e1447222106721.jpg
 categories:
   - Grumpy
 tags:

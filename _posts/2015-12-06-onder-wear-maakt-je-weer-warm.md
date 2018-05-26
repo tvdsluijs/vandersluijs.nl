@@ -24,7 +24,7 @@ hits:
   - "507"
 itrr_another_apply:
   - 'no'
-image: /wp-content/uploads/2015/12/IMG_1878-e1449412367401.jpg
+image: https://vandersluijs.resultants-e.nl/2015/12/IMG_1878-e1449412367401.jpg
 categories:
   - Tech
 ---
@@ -36,7 +36,7 @@ Ja ondergoed, je zou bijna vergeten dat dit eigenlijk een heel belangrijk onderd
 
 ## Under Armour BoxerJock
 
-<img class="aligncenter wp-image-1868 size-large" src=https://vandersluijs.resultants-e.nl/2015/12/IMG_1879-1024x768.jpg" alt="IMG_1879" width="1024" height="768" srcset=https://vandersluijs.resultants-e.nl/2015/12/IMG_1879-1024x768.jpg 1024w, /images/2015/12/IMG_1879-300x225.jpg 300w, /images/2015/12/IMG_1879-768x576.jpg 768w, /images/2015/12/IMG_1879.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+<img class="aligncenter wp-image-1868 size-large" src="https://vandersluijs.resultants-e.nl/2015/12/IMG_1879-1024x768.jpg" alt="IMG_1879" width="1024" height="768" srcset="https://vandersluijs.resultants-e.nl/2015/12/IMG_1879-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2015/12/IMG_1879-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2015/12/IMG_1879-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2015/12/IMG_1879.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 
 Nee het heeft ook daadwerkelijk nog een verwarmende (of in de zomer verkoelende) functie en dus bescherming!
 
@@ -52,7 +52,7 @@ Deze onderbroek ga ik zeker vaker gebruiken in de winter, bij bijvoorbeeld mijn 
 
 Niet alleen een onderbroek kan je in de koude periodes warm houden, maar ook een thermo shirt (of hemd) is heel belangrijk.
 
-<img class="aligncenter size-large wp-image-1869" src=https://vandersluijs.resultants-e.nl/2015/12/IMG_1880-1024x768.jpg" alt="IMG_1880" width="1024" height="768" srcset=https://vandersluijs.resultants-e.nl/2015/12/IMG_1880-1024x768.jpg 1024w, /images/2015/12/IMG_1880-300x225.jpg 300w, /images/2015/12/IMG_1880-768x576.jpg 768w, /images/2015/12/IMG_1880.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+<img class="aligncenter size-large wp-image-1869" src="https://vandersluijs.resultants-e.nl/2015/12/IMG_1880-1024x768.jpg" alt="IMG_1880" width="1024" height="768" srcset="https://vandersluijs.resultants-e.nl/2015/12/IMG_1880-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2015/12/IMG_1880-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2015/12/IMG_1880-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2015/12/IMG_1880.jpg 1200w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 
 Het <a href="https://www.dimenno.nl/merken/craft-thermo-ondergoed/sportondergoed" target="_blank">Craft shirt</a> heb ik niet gedragen in London omdat ik een shirt met lange mouwen droeg. Na de Run heb ik hem echter wel aangehad waardoor ik me weer snel warm voelde!
 

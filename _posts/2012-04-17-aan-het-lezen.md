@@ -26,7 +26,7 @@ categories:
   - My Life
 ---
 <div>
-  <img alt="" src=https://vandersluijs.resultants-e.nl/2012/04/tumblr_m2mspilLIe1rpqrb1o1_1280-300x300.jpg" />
+  <img alt="" src="https://vandersluijs.resultants-e.nl/2012/04/tumblr_m2mspilLIe1rpqrb1o1_1280-300x300.jpg" />
 </div>
 
 Zwemles 2.0. Cappuccino met een cakeje en een goed digitaal boek. #stevejobs #biografie (Taken with Instagram at Sport Café &#8211; Sportpunt Zeeland)

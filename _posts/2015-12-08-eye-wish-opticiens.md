@@ -24,7 +24,7 @@ hits:
   - "1786"
 dsq_thread_id:
   - "5700415816"
-image: /wp-content/uploads/2015/12/maxresdefault-e1449500768773-825x510.jpg
+image: https://vandersluijs.resultants-e.nl/2015/12/maxresdefault-e1449500768773-825x510.jpg
 categories:
   - Grumpy
 ---
@@ -36,7 +36,7 @@ Echte aandacht bij Eye Wish Opticiens! Kent u die reclame? Eye Wish opticiens, m
 
 U heeft bovenstaande reclame vast wel eens gezien. Meer oog voor jou! Eyewish zegt met het filmpje dat ze je echt helpen! En dat wilde ik zelf wel eens beleven.
 
-Na mijn niet zo fijne klant-beleving bij <a href="https://vandersluijs.nl/blog/2015/12/eyes-en-more-is-helemaal-niks.html" target="_blank">Eyes en More</a> heb ik een afspraak gemaakt bij Eye Wish in Goes. Afspraak maken ging goed en toen ik kwam werd ik direct netjes geholpen.
+Na mijn niet zo fijne klant-beleving bij <a href="https://vandersluijs.nl/2015/12/eyes-en-more-is-helemaal-niks.html" target="_blank">Eyes en More</a> heb ik een afspraak gemaakt bij Eye Wish in Goes. Afspraak maken ging goed en toen ik kwam werd ik direct netjes geholpen.
 
 <span style="line-height: 1.5;">Er werden meerdere testen gedaan en dat verliep netjes en aangenaam. Ik had niet hele slechte ogen, maar voor langere tijd lezen en computer werk zou het wel aangenamer zijn voor me om toch een bril te nemen. </span>
 

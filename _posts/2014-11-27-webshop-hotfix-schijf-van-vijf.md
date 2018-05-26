@@ -48,7 +48,7 @@ hits:
   - "644"
 dsq_thread_id:
   - "5761560170"
-image: /wp-content/uploads/2014/11/15893676895_f2f4bb6db5_c.jpg
+image: https://vandersluijs.resultants-e.nl/2014/11/15893676895_f2f4bb6db5_c.jpg
 categories:
   - My Life
   - Tech

@@ -40,7 +40,7 @@ asalah_sidebar_position:
   - "0"
 dsq_thread_id:
   - "5700712359"
-image: /wp-content/uploads/2016/04/20160416_0858210-825x510.jpg
+image: https://vandersluijs.resultants-e.nl/2016/04/20160416_0858210-825x510.jpg
 categories:
   - My Life
 format: image
@@ -55,7 +55,7 @@ Want ik wist al wat er in zat! Anti-teken en vlooien druppels.
 
 ## Vlooien
 
-<img class="alignleft size-full wp-image-2685" src=https://vandersluijs.resultants-e.nl/2016/04/vlooien.jpg" alt="vlooien" width="266" height="178" />Sinds we zo&#8217;n 8 jaar geleden een ware vlooienplaag in huis hebben gehad, zijn we redelijk panisch geworden over vlooien. Ik weet nog goed dat mijn oudste zoon toen in de wieg lag we de vlooien van zijn hoofd zagen springen. De rillingen over mijn rug als ik er aan terug denk.
+<img class="alignleft size-full wp-image-2685" src="https://vandersluijs.resultants-e.nl/2016/04/vlooien.jpg" alt="vlooien" width="266" height="178" />Sinds we zo&#8217;n 8 jaar geleden een ware vlooienplaag in huis hebben gehad, zijn we redelijk panisch geworden over vlooien. Ik weet nog goed dat mijn oudste zoon toen in de wieg lag we de vlooien van zijn hoofd zagen springen. De rillingen over mijn rug als ik er aan terug denk.
 
 En hadden we die vlooien omdat we onze dieren niet goed verzorgden? Nee! Was het dan omdat ons huis niet schoon was? Nee!
 
@@ -69,7 +69,7 @@ Het is heel belangrijk dat je via vlooiendruppels de volwassen vlooien dood en d
 
 ## Teken
 
-<img class="alignleft size-full wp-image-2686" src=https://vandersluijs.resultants-e.nl/2016/04/teken.jpg" alt="teken tijd" width="266" height="317" srcset=https://vandersluijs.resultants-e.nl/2016/04/teken.jpg 266w, /images/2016/04/teken-252x300.jpg 252w" sizes="(max-width: 266px) 100vw, 266px" />Teken vormen een orde van geleedpotige parasieten die behoren tot de klasse der spinachtigen. Teken leven van het bloed zoogdieren en mensen!! Ze bijten zich vast in de huid zuigen zich vol en laten zich na de bloedmaaltijd, die enige uren tot dagen duurt, weer vallen.
+<img class="alignleft size-full wp-image-2686" src="https://vandersluijs.resultants-e.nl/2016/04/teken.jpg" alt="teken tijd" width="266" height="317" srcset="https://vandersluijs.resultants-e.nl/2016/04/teken.jpg 266w, https://vandersluijs.resultants-e.nl/2016/04/teken-252x300.jpg 252w" sizes="(max-width: 266px) 100vw, 266px" />Teken vormen een orde van geleedpotige parasieten die behoren tot de klasse der spinachtigen. Teken leven van het bloed zoogdieren en mensen!! Ze bijten zich vast in de huid zuigen zich vol en laten zich na de bloedmaaltijd, die enige uren tot dagen duurt, weer vallen.
 
 Geloof me, het is gooi! Ik heb het één keer meegemaakt bij één van mijn Jack Russels en ik werd misselijk bij het aanzicht. Zo&#8217;n vol gevreten Teek die vast zat in de huid van mijn Jack!
 
@@ -91,7 +91,7 @@ In de doos die ik kreeg van Huisdierplein zaten de onderstaande anti vlo en anti
 
 ## Beaphar Fiprodog
 
-<img class="alignleft wp-image-2691" title="ruwharige teckel pup teken druppels" src=https://vandersluijs.resultants-e.nl/2016/04/20160417_084803-300x225.jpg" alt="ruwharige teckel pup teken druppels" width="181" height="136" srcset=https://vandersluijs.resultants-e.nl/2016/04/20160417_084803-300x225.jpg 300w, /images/2016/04/20160417_084803-768x576.jpg 768w, /images/2016/04/20160417_084803-1024x768.jpg 1024w, /images/2016/04/20160417_084803.jpg 1200w" sizes="(max-width: 181px) 100vw, 181px" />Dit doosje bevat 3 pipetten met druppels tegen teken & vlooien. Het is een Fipronil spot-on oplossing voor honden vanaf 2 maanden en tussen 2 en 10 kilogram aan lichaamsgewicht. Het werkt zeker wel 3 tot 4 weken en is dus ideaal om honden langdurig te beschermen tegen teken en vlooien.
+<img class="alignleft wp-image-2691" title="ruwharige teckel pup teken druppels" src="https://vandersluijs.resultants-e.nl/2016/04/20160417_084803-300x225.jpg" alt="ruwharige teckel pup teken druppels" width="181" height="136" srcset="https://vandersluijs.resultants-e.nl/2016/04/20160417_084803-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2016/04/20160417_084803-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2016/04/20160417_084803-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/04/20160417_084803.jpg 1200w" sizes="(max-width: 181px) 100vw, 181px" />Dit doosje bevat 3 pipetten met druppels tegen teken & vlooien. Het is een Fipronil spot-on oplossing voor honden vanaf 2 maanden en tussen 2 en 10 kilogram aan lichaamsgewicht. Het werkt zeker wel 3 tot 4 weken en is dus ideaal om honden langdurig te beschermen tegen teken en vlooien.
 
 &nbsp;
 
@@ -107,7 +107,7 @@ In de doos zat bij mij de <a href="http://ds1.nl/c/?wi=245932&si=3370&li=116123
 
 ## Beaphar Fiprocat
 
-<img class="alignleft wp-image-2693 size-thumbnail" title="kat teken druppels" src=https://vandersluijs.resultants-e.nl/2016/04/20160417_085047-150x150.jpg" alt="anti vlooien kat" width="150" height="150" srcset=https://vandersluijs.resultants-e.nl/2016/04/20160417_085047-150x150.jpg 150w, /images/2016/04/20160417_085047-300x300.jpg 300w, /images/2016/04/20160417_085047-768x768.jpg 768w, /images/2016/04/20160417_085047-1024x1024.jpg 1024w, /images/2016/04/20160417_085047-65x65.jpg 65w, /images/2016/04/20160417_085047.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" />Druppels tegen vlooien in een handige pipet. Het is een Fipronil spot-on oplossing voor katten. Geschikt voor katten vanaf 2 kg lichaamsgewicht en ouder dan 8 weken. Ideaal om katten langdurig te beschermen tegen vlooien.
+<img class="alignleft wp-image-2693 size-thumbnail" title="kat teken druppels" src="https://vandersluijs.resultants-e.nl/2016/04/20160417_085047-150x150.jpg" alt="anti vlooien kat" width="150" height="150" srcset="https://vandersluijs.resultants-e.nl/2016/04/20160417_085047-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/04/20160417_085047-300x300.jpg 300w, https://vandersluijs.resultants-e.nl/2016/04/20160417_085047-768x768.jpg 768w, https://vandersluijs.resultants-e.nl/2016/04/20160417_085047-1024x1024.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/04/20160417_085047-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/04/20160417_085047.jpg 1200w" sizes="(max-width: 150px) 100vw, 150px" />Druppels tegen vlooien in een handige pipet. Het is een Fipronil spot-on oplossing voor katten. Geschikt voor katten vanaf 2 kg lichaamsgewicht en ouder dan 8 weken. Ideaal om katten langdurig te beschermen tegen vlooien.
 
 De voordelen van Fiprocat:
 
@@ -153,4 +153,4 @@ Was wel je handen goed na gebruik Fipronil is echt geen lekker goedje. Je hond k
 
 Sowieso zou ik zo nu en dan veranderen van Merk en Soort anti vlo of anti teek. Anders zouden we ze wel eens resistent kunnen worden.
 
-<img class="alignleft wp-image-2690 size-full" title="vlooien en teken druppels" src=https://vandersluijs.resultants-e.nl/2016/04/20160417_084732.jpg" alt="vlooien en teken druppels" width="1200" height="900" srcset=https://vandersluijs.resultants-e.nl/2016/04/20160417_084732.jpg 1200w, /images/2016/04/20160417_084732-300x225.jpg 300w, /images/2016/04/20160417_084732-768x576.jpg 768w, /images/2016/04/20160417_084732-1024x768.jpg 1024w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+<img class="alignleft wp-image-2690 size-full" title="vlooien en teken druppels" src="https://vandersluijs.resultants-e.nl/2016/04/20160417_084732.jpg" alt="vlooien en teken druppels" width="1200" height="900" srcset="https://vandersluijs.resultants-e.nl/2016/04/20160417_084732.jpg 1200w, https://vandersluijs.resultants-e.nl/2016/04/20160417_084732-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2016/04/20160417_084732-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2016/04/20160417_084732-1024x768.jpg 1024w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />

@@ -24,7 +24,7 @@ hits:
   - "2297"
 dsq_thread_id:
   - "5700416013"
-image: /wp-content/uploads/2015/11/Eyes-and-More-is-less-825x361.png
+image: https://vandersluijs.resultants-e.nl/2015/11/Eyes-and-More-is-less-825x361.png
 categories:
   - Grumpy
 ---

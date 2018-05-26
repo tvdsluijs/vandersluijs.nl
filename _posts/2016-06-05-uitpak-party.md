@@ -44,7 +44,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5703384931"
-image: /wp-content/uploads/2016/06/6368568497_1bfbf89061_o-e1465334111675-825x510.jpg
+image: https://vandersluijs.resultants-e.nl/2016/06/6368568497_1bfbf89061_o-e1465334111675-825x510.jpg
 categories:
   - Tech
 tags:
@@ -57,7 +57,7 @@ Niet alleen heb ik lang lang lang geleden bij zowel Zeelandnet als bij Delta gew
 
 ## Cisco 3940 Modem 2.4Ghz en 5Ghz
 
-<img class="size-medium wp-image-2859 alignleft" src=https://vandersluijs.resultants-e.nl/2016/06/Zeelandnet_Cisco_EPC3940-300x289.jpg" alt="ZeelandNet Cisco EPC 3940" width="300" height="289" srcset=https://vandersluijs.resultants-e.nl/2016/06/Zeelandnet_Cisco_EPC3940-300x289.jpg 300w, /images/2016/06/Zeelandnet_Cisco_EPC3940-416x400.jpg 416w, /images/2016/06/Zeelandnet_Cisco_EPC3940.jpg 550w" sizes="(max-width: 300px) 100vw, 300px" />Het laatst uitgebrachte modem van Zeelandnet is het zogenaamde Cisco EPC3940 modem. In dit artikel noem ik het gewoon Modem waarbij het dus alleen om dit type gaat.
+<img class="size-medium wp-image-2859 alignleft" src="https://vandersluijs.resultants-e.nl/2016/06/Zeelandnet_Cisco_EPC3940-300x289.jpg" alt="ZeelandNet Cisco EPC 3940" width="300" height="289" srcset="https://vandersluijs.resultants-e.nl/2016/06/Zeelandnet_Cisco_EPC3940-300x289.jpg 300w, https://vandersluijs.resultants-e.nl/2016/06/Zeelandnet_Cisco_EPC3940-416x400.jpg 416w, https://vandersluijs.resultants-e.nl/2016/06/Zeelandnet_Cisco_EPC3940.jpg 550w" sizes="(max-width: 300px) 100vw, 300px" />Het laatst uitgebrachte modem van Zeelandnet is het zogenaamde Cisco EPC3940 modem. In dit artikel noem ik het gewoon Modem waarbij het dus alleen om dit type gaat.
 
 Het modem wat is voorbereid om zowel 2.4Ghz als 5Ghz te gebruiken komt in een nette bruine stevige Cisco doos. In de doos vind je een coax kabel met een niet al te grote lengte.
 

@@ -24,7 +24,7 @@ hits:
   - "1144"
 dsq_thread_id:
   - "6021395841"
-image: /wp-content/uploads/2009/01/pixel1.gif
+image: https://vandersluijs.resultants-e.nl/2009/01/pixel1.gif
 categories:
   - My Life
 ---

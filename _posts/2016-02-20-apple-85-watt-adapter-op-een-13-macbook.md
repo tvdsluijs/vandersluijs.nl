@@ -44,7 +44,7 @@ Bax-shop zou dus mijn redder zijn&#8230;. en toen kwam de tegenvaller. De &#8220
 
 ## Apple 13 inch met 85 Watt adapter
 
-<img class="alignleft size-medium wp-image-2028" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_3102-300x300.jpg" alt="IMG_3102" width="300" height="300" />Na onderzoek op internet wist ik het! Je kunt de 85 Watt MagSafe 2 Adapter gewoon gebruiken voor een 13 inch MacBook Pro.
+<img class="alignleft size-medium wp-image-2028" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_3102-300x300.jpg" alt="IMG_3102" width="300" height="300" />Na onderzoek op internet wist ik het! Je kunt de 85 Watt MagSafe 2 Adapter gewoon gebruiken voor een 13 inch MacBook Pro.
 
 De 85Watt adapter werkt prima op de MacBook Pro 13 inch. Hij kan er niet van kapot gaan. En hij zal je MacBook 13 inch gewoon opladen terwijl je werkt.
 

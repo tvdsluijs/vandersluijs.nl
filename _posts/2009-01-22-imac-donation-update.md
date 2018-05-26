@@ -22,7 +22,7 @@ blogger_thumbnail:
   - https://www.paypal.com/nl_NL/i/scr/pixel.gif
 hits:
   - "1067"
-image: /wp-content/uploads/2009/01/pixel2.gif
+image: https://vandersluijs.resultants-e.nl/2009/01/pixel2.gif
 categories:
   - My Life
 ---

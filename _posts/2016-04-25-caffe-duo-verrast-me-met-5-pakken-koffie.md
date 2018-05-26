@@ -40,14 +40,14 @@ hits:
   - "773"
 dsq_thread_id:
   - "5737861928"
-image: /wp-content/uploads/2016/04/CafeDuo-11-1-825x510.jpg
+image: https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-11-1-825x510.jpg
 categories:
   - My Life
 tags:
   - Koffie
 format: image
 ---
-<img class="alignleft wp-image-2732" title="Theo van der Sluijs met Caffe Duo " src=https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10-1024x683.jpg" alt="Theo van der Sluijs met Caffe Duo " width="254" height="169" srcset=https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10-1024x683.jpg 1024w, /images/2016/04/CafeDuo-10-300x200.jpg 300w, /images/2016/04/CafeDuo-10-768x512.jpg 768w, /images/2016/04/CafeDuo-10.jpg 1600w" sizes="(max-width: 254px) 100vw, 254px" />Vandaag werd ik verrast door een pakket aan de deur. Ik verwachte niet echt wat&#8230; toch? Het bleek een doos te zijn van [Caffè Duo](http://www.koffiebonen-bestellen.nl/boon/?tt=20920_12_97738_&r=%2F).
+<img class="alignleft wp-image-2732" title="Theo van der Sluijs met Caffe Duo " src="https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10-1024x683.jpg" alt="Theo van der Sluijs met Caffe Duo " width="254" height="169" srcset="https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10-1024x683.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10-300x200.jpg 300w, https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10-768x512.jpg 768w, https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10.jpg 1600w" sizes="(max-width: 254px) 100vw, 254px" />Vandaag werd ik verrast door een pakket aan de deur. Ik verwachte niet echt wat&#8230; toch? Het bleek een doos te zijn van [Caffè Duo](http://www.koffiebonen-bestellen.nl/boon/?tt=20920_12_97738_&r=%2F).
 
 En als echte koffie liefhebber werd ik verrast met niet 1 niet 2 nee zelfs niet 3 maar 5 pakken verschillende koffiebonen!
 
@@ -57,7 +57,7 @@ Ik was niet bekend met het merk Caffè Duo. Ik had nog nooit van ze gehoord en w
 
 ## Caffè Duo ?
 
-<img class="alignleft wp-image-2734" title="Caffe Duo Koffiebonen" src=https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-12.jpg" alt="Caffe Duo Koffiebonen" width="283" height="189" srcset=https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-12.jpg 1600w, /images/2016/04/CafeDuo-12-300x200.jpg 300w, /images/2016/04/CafeDuo-12-768x512.jpg 768w, /images/2016/04/CafeDuo-12-1024x683.jpg 1024w" sizes="(max-width: 283px) 100vw, 283px" />Net als in Italië (het koffieparadijs) willen steeds meer mensen thuis ook een lekker kopje koffie of espresso. Dat is één van de redenen dat ik een eigen goede koffie machine heb gekocht waarmee ik dus zelf bonen kan malen. Althans, dat doet mijn Melitta Caffeo Bistro voor me.
+<img class="alignleft wp-image-2734" title="Caffe Duo Koffiebonen" src="https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-12.jpg" alt="Caffe Duo Koffiebonen" width="283" height="189" srcset="https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-12.jpg 1600w, https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-12-300x200.jpg 300w, https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-12-768x512.jpg 768w, https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-12-1024x683.jpg 1024w" sizes="(max-width: 283px) 100vw, 283px" />Net als in Italië (het koffieparadijs) willen steeds meer mensen thuis ook een lekker kopje koffie of espresso. Dat is één van de redenen dat ik een eigen goede koffie machine heb gekocht waarmee ik dus zelf bonen kan malen. Althans, dat doet mijn Melitta Caffeo Bistro voor me.
 
 Caffè Duo heeft een [web shop](http://www.koffiebonen-bestellen.nl/boon/?tt=20920_12_97738_&r=%2F) waar je makkelijk en snel koffiebonen kan bestellen. Koffiebonen zoals ze zelf zeggen van top kwaliteit tegen een scherpe prijs. Nou dat ga ik natuurlijk zelf de komende tijd even proberen. Of die koffie ook echt van topkwaliteit is! Ze bezorgen in heel Nederland en er is geen minimale afnamehoeveelheid, alhoewel ik wel voor minimaal 50 euro zou bestellen want dan betaal je geen bezorg kosten. Vind je het niks? Dan krijg je gewoon je geld terug!
 

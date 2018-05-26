@@ -44,7 +44,7 @@ hits:
   - "589"
 dsq_thread_id:
   - "5705076177"
-image: /wp-content/uploads/2016/08/polar_h7_connection_problem-825x510.jpg
+image: https://vandersluijs.resultants-e.nl/2016/08/polar_h7_connection_problem-825x510.jpg
 categories:
   - Tech
 tags:
@@ -104,7 +104,7 @@ Do you have a Bluetooth connection problem with your V800? Go to&#8230;
 
 <blockquote class="wp-embedded-content" data-secret="eyDFLch9ui">
   <p>
-    <a href="https://vandersluijs.nl/blog/2016/01/solution-polar-v800-bluetooth-connection-problem.html">Solution Polar V800 Bluetooth Connection problem</a>
+    <a href="https://vandersluijs.nl/2016/01/solution-polar-v800-bluetooth-connection-problem.html">Solution Polar V800 Bluetooth Connection problem</a>
   </p>
 </blockquote>
 

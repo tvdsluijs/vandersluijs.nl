@@ -36,7 +36,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5700423670"
-image: /wp-content/uploads/2015/10/1200px-Canon_Powershot_G12-e1444485935176-1.jpg
+image: https://vandersluijs.resultants-e.nl/2015/10/1200px-Canon_Powershot_G12-e1444485935176-1.jpg
 categories:
   - Photography
 tags:
@@ -49,7 +49,7 @@ Je vindt veel van mijn foto&#8217;s op <a href=https://vandersluijs.resultants-e
 
 ## Canon PowerShot G3
 
-###### [<img src=https://vandersluijs.resultants-e.nl/2015/10/Canon_Powershot_G12.jpg" alt="Canon Powershot G12.jpg" width="640" height="480" />](/images/2015/10/File:Canon_Powershot_G12.jpg)
+###### [<img src="https://vandersluijs.resultants-e.nl/2015/10/Canon_Powershot_G12.jpg" alt="Canon Powershot G12.jpg" width="640" height="480" />](/images/2015/10/File:Canon_Powershot_G12.jpg)
   
 _&#8220;[Canon Powershot G12](/images/2015/10/File:Canon_Powershot_G12.jpg)&#8221; by [KurtMervin](/images/2015/10/index.php?title=User:KurtMervin&action=edit&redlink=1 "User:KurtMervin (page does not exist)"){.new} &#8211; <span class="int-own-work" lang="en">Own work</span>. Licensed under [CC BY-SA 3.0](/images/2015/10/3 "Creative Commons Attribution-Share Alike 3.0") via [Commons](/images/2015/10/wiki)._
 
@@ -59,7 +59,7 @@ Ik was toen al best vaak op pad om foto&#8217;s te maken. En dat hij zwaar was m
 
 ## Canon EOS 350D
 
-###### [<img src=https://vandersluijs.resultants-e.nl/2015/10/CanonEOS350D.jpg" alt="CanonEOS350D.jpg" width="638" height="480" />](/images/2015/10/File:CanonEOS350D.jpg)
+###### [<img src="https://vandersluijs.resultants-e.nl/2015/10/CanonEOS350D.jpg" alt="CanonEOS350D.jpg" width="638" height="480" />](/images/2015/10/File:CanonEOS350D.jpg)
   
 _&#8220;[CanonEOS350D](/images/2015/10/File:CanonEOS350D.jpg)&#8221; by [RebelAt](/images/2015/10/User:RebelAt "wikipedia:User:RebelAt"){.extiw} at [English Wikipedia](/images/2015/10/wiki1 "wikipedia:"){.extiw}. Licensed under [CC BY-SA 3.0](/images/2015/10/3 "Creative Commons Attribution-Share Alike 3.0") via [Commons](/images/2015/10/wiki)._
 
@@ -69,7 +69,7 @@ Ik heb heel veel foto&#8217;s  gemaakt met deze camera letterlijk duizenden fot
 
 ## Canon EOS 60D
 
-###### [<img src=https://vandersluijs.resultants-e.nl/2015/10/Canon_EOS_60D_without_lens.jpg" alt="Canon EOS 60D without lens.jpg" width="531" height="480" />](/images/2015/10/File:Canon_EOS_60D_without_lens.jpg)
+###### [<img src="https://vandersluijs.resultants-e.nl/2015/10/Canon_EOS_60D_without_lens.jpg" alt="Canon EOS 60D without lens.jpg" width="531" height="480" />](/images/2015/10/File:Canon_EOS_60D_without_lens.jpg)
   
 _&#8220;[Canon EOS 60D without lens](/images/2015/10/File:Canon_EOS_60D_without_lens.jpg)&#8221; by [Philip Klever](/images/2015/10/Philip_Klever "de:Philip Klever"){.extiw} alias [User:Killerwal](/images/2015/10/index.php?title=User:Killerwal&action=edit&redlink=1 "User:Killerwal (page does not exist)"){.new} &#8211; Licensed under [CC BY 3.0](/images/2015/10/31 "Creative Commons Attribution 3.0") via [Commons](/images/2015/10/wiki)._
 

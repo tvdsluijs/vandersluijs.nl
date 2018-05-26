@@ -10,7 +10,7 @@ hits:
   - "204"
 dsq_thread_id:
   - "5886317978"
-image: /wp-content/uploads/2017/06/vocht-polar-v800-1-825x510.jpg
+image: https://vandersluijs.resultants-e.nl/2017/06/vocht-polar-v800-1-825x510.jpg
 categories:
   - Sport
 ---

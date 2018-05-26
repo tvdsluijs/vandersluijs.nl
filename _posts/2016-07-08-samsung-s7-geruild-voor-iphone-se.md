@@ -44,7 +44,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5718439206"
-image: /wp-content/uploads/2016/05/IMG_3422-825x510.jpg
+image: https://vandersluijs.resultants-e.nl/2016/05/IMG_3422-825x510.jpg
 categories:
   - Tech
 tags:
@@ -85,7 +85,7 @@ Daarnaast is een iPhone stukken veiliger dan een Android. Misschien beperkt het 
 
 ## iPhone SE voor Apple Fanboy
 
-<img class="alignleft size-medium wp-image-2832" src=https://vandersluijs.resultants-e.nl/2016/05/IMG_3427-300x300.jpg" alt="Samsung S7 geruild voor iPhone SE" width="300" height="300" srcset=https://vandersluijs.resultants-e.nl/2016/05/IMG_3427-300x300.jpg 300w, /images/2016/05/IMG_3427-150x150.jpg 150w, /images/2016/05/IMG_3427-65x65.jpg 65w, /images/2016/05/IMG_3427-400x400.jpg 400w, /images/2016/05/IMG_3427.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />Dus, ik wilde terug naar de iPhone! Maar niet naar de 6 of 6s, veel te groot. Die Samsung was al veel te groot! Ik wilde terug naar maatje iPhone 5s&#8230; maar dan wel een nieuwere versie&#8230; en! daar kwam Apple met de iPhone SE.
+<img class="alignleft size-medium wp-image-2832" src="https://vandersluijs.resultants-e.nl/2016/05/IMG_3427-300x300.jpg" alt="Samsung S7 geruild voor iPhone SE" width="300" height="300" srcset="https://vandersluijs.resultants-e.nl/2016/05/IMG_3427-300x300.jpg 300w, https://vandersluijs.resultants-e.nl/2016/05/IMG_3427-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/05/IMG_3427-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/05/IMG_3427-400x400.jpg 400w, https://vandersluijs.resultants-e.nl/2016/05/IMG_3427.jpg 640w" sizes="(max-width: 300px) 100vw, 300px" />Dus, ik wilde terug naar de iPhone! Maar niet naar de 6 of 6s, veel te groot. Die Samsung was al veel te groot! Ik wilde terug naar maatje iPhone 5s&#8230; maar dan wel een nieuwere versie&#8230; en! daar kwam Apple met de iPhone SE.
 
 Dat is het formaatje iPhone 5s maar dan met de techniek van de 6 en de 6s! Dat wil ik hebben! (ik vind persoonlijk de behuizing ook mooier van de 5s dan dat van de 6 of de 6s)
 
@@ -93,7 +93,7 @@ Maar ja&#8230;. hoe kom ik aan een iPhone SE en hoe kom ik van mijn Samsung S7 a
 
 Natuurlijk kwamen de voorstellen om hem te ruilen voor een iPhone 5s, iPhone SE 16GB en ook voor de 6 en 6s van diverse kanten, maar ik liet me niet verleiden tot een ruil die ik eigenlijk niet wilde.
 
-<img class="alignright size-medium wp-image-2831" src=https://vandersluijs.resultants-e.nl/2016/05/IMG_3424-300x225.jpg" alt="iPhone SE" width="300" height="225" srcset=https://vandersluijs.resultants-e.nl/2016/05/IMG_3424-300x225.jpg 300w, /images/2016/05/IMG_3424-768x576.jpg 768w, /images/2016/05/IMG_3424-1024x768.jpg 1024w, /images/2016/05/IMG_3424-533x400.jpg 533w, /images/2016/05/IMG_3424.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />En gisteren kwam het verlossende Bod! Ik wil mijn iPhone SE 64GB ruilen voor jou Samsung S7! Eindelijk dacht ik en nu maar hopen dat deze persoon over de brug komt! Nou, ik moest over de brug komen (zeelandbrug) want we zijn elkaar tegemoet gereden en we hebben geruild! Hij blij met mijn Samsung S7 (hij kon niet wennen aan de iPhone) en ik blij met de iPhone SE 64GB!
+<img class="alignright size-medium wp-image-2831" src="https://vandersluijs.resultants-e.nl/2016/05/IMG_3424-300x225.jpg" alt="iPhone SE" width="300" height="225" srcset="https://vandersluijs.resultants-e.nl/2016/05/IMG_3424-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2016/05/IMG_3424-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2016/05/IMG_3424-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/05/IMG_3424-533x400.jpg 533w, https://vandersluijs.resultants-e.nl/2016/05/IMG_3424.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />En gisteren kwam het verlossende Bod! Ik wil mijn iPhone SE 64GB ruilen voor jou Samsung S7! Eindelijk dacht ik en nu maar hopen dat deze persoon over de brug komt! Nou, ik moest over de brug komen (zeelandbrug) want we zijn elkaar tegemoet gereden en we hebben geruild! Hij blij met mijn Samsung S7 (hij kon niet wennen aan de iPhone) en ik blij met de iPhone SE 64GB!
 
 Ik kan beter zeggen&#8230; zo blij als een kind ben ik met mijn iPhone SE! En zojuist bedacht ik me&#8230;.
 

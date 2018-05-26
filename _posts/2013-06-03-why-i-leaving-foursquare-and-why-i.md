@@ -27,7 +27,7 @@ categories:
 tags:
   - Social Media
 ---
-[<img class="alignleft  wp-image-788" alt="foursquare" src=https://vandersluijs.resultants-e.nl/2013/06/foursquare.jpg" width="180" height="180" />](/images/2013/06/foursquare.jpg)Foursquare, I&#8217;ve been on it since 2010.
+[<img class="alignleft  wp-image-788" alt="foursquare" src="https://vandersluijs.resultants-e.nl/2013/06/foursquare.jpg" width="180" height="180" />](/images/2013/06/foursquare.jpg)Foursquare, I&#8217;ve been on it since 2010.
 
 I never really liked it.
 
@@ -35,7 +35,7 @@ Okay, I did a lot of check-ins&#8230; but why?
 
 And now, after 3 years I&#8217;m pulling the plug! Deleting my account! Never to go back again. (I think!)<!--more-->
 
-<img class="alignleft size-medium wp-image-787" alt="Theo van der Sluijs Foursquare Badges" src=https://vandersluijs.resultants-e.nl/2013/06/Theo-van-der-Sluijs-Foursquare-Badges-100x300.png" width="100" height="300" />
+<img class="alignleft size-medium wp-image-787" alt="Theo van der Sluijs Foursquare Badges" src="https://vandersluijs.resultants-e.nl/2013/06/Theo-van-der-Sluijs-Foursquare-Badges-100x300.png" width="100" height="300" />
 
 So yes, I&#8217;ve been on foursquare for 3 years. My first Check-in was on _Friday July 2, 2010 · 6:40 AM_. I had added my own company and did my first foursquare check-in on it!
 
@@ -55,7 +55,7 @@ The next reason is that, Google+ just checks me in where ever I am. Or let&#8217
 
 And than for the main reason. The Badge and Mayor thing! I&#8217;ve been Mayor at many places and the game in it is to get your mayorship back. Now that totally freaks me out!
 
-<img class="size-medium wp-image-789 alignright" alt="Theo mayors" src=https://vandersluijs.resultants-e.nl/2013/06/Theo-mayors-300x264.png" width="300" height="264" />
+<img class="size-medium wp-image-789 alignright" alt="Theo mayors" src="https://vandersluijs.resultants-e.nl/2013/06/Theo-mayors-300x264.png" width="300" height="264" />
 
 I get stressed every time I read that some guy stole my mayorship from a place. And I don&#8217;t know even why!
 

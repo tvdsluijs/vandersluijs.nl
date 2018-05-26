@@ -32,7 +32,7 @@ pmc_featured_post:
   - "1"
 hits:
   - "595"
-image: /wp-content/uploads/2015/11/16821448686_7346aa4abd_b-e1448398519994.jpg
+image: https://vandersluijs.resultants-e.nl/2015/11/16821448686_7346aa4abd_b-e1448398519994.jpg
 categories:
   - My Life
 ---

@@ -44,7 +44,7 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5740303139"
-image: /wp-content/uploads/2016/02/25232433286_0f602ac9f5_o-e1457639810425-825x465.jpg
+image: https://vandersluijs.resultants-e.nl/2016/02/25232433286_0f602ac9f5_o-e1457639810425-825x465.jpg
 categories:
   - Photography
   - Tech
@@ -66,13 +66,13 @@ De Gorillapod is niet zomaar een statief! Het is een zeer flexibel statief waard
 
 ## **iPhone GripTight Gorillapod**
 
-<img class="alignleft wp-image-2600 size-medium" title="griptight gorillapod" src=https://vandersluijs.resultants-e.nl/2016/02/25140419252_e5ba24a009_o-e1457639952406-300x278.jpg" alt="griptight gorillapod" width="300" height="278" srcset=https://vandersluijs.resultants-e.nl/2016/02/25140419252_e5ba24a009_o-e1457639952406-300x278.jpg 300w, /images/2016/02/25140419252_e5ba24a009_o-e1457639952406-768x712.jpg 768w, /images/2016/02/25140419252_e5ba24a009_o-e1457639952406.jpg 837w" sizes="(max-width: 300px) 100vw, 300px" />Dit artikel gaat dan ook over de iPhone GripTight GorillaPod. Een statief speciaal voor de iPhone. Zoals veel van de Joby Gorillapod’s bestaat ook dit statief uit 3 poten met rubber beklede en draaibare  ‘gewrichten’. Door deze gewrichten, per poot bestaande uit 9 stuks, kan je ze alle kanten op buiten en draaien. Een balk, paal, hekje wordt hierdoor al snel jou foto of film punt.
+<img class="alignleft wp-image-2600 size-medium" title="griptight gorillapod" src="https://vandersluijs.resultants-e.nl/2016/02/25140419252_e5ba24a009_o-e1457639952406-300x278.jpg" alt="griptight gorillapod" width="300" height="278" srcset="https://vandersluijs.resultants-e.nl/2016/02/25140419252_e5ba24a009_o-e1457639952406-300x278.jpg 300w, https://vandersluijs.resultants-e.nl/2016/02/25140419252_e5ba24a009_o-e1457639952406-768x712.jpg 768w, https://vandersluijs.resultants-e.nl/2016/02/25140419252_e5ba24a009_o-e1457639952406.jpg 837w" sizes="(max-width: 300px) 100vw, 300px" />Dit artikel gaat dan ook over de iPhone GripTight GorillaPod. Een statief speciaal voor de iPhone. Zoals veel van de Joby Gorillapod’s bestaat ook dit statief uit 3 poten met rubber beklede en draaibare  ‘gewrichten’. Door deze gewrichten, per poot bestaande uit 9 stuks, kan je ze alle kanten op buiten en draaien. Een balk, paal, hekje wordt hierdoor al snel jou foto of film punt.
 
 Hierdoor heb je veel meer vrijheid met het maken van video’s of foto’s. Bijvoorbeeld, je wilt een foto of film maken van je zelf als je bij het veerse meer (in zeeland) bij zo’n lekkere zeeuwse storm. Met een normaal statief ligt je camera al snel op zijn kant in het gras. Met de Gorilapod kan je je camera om een boompje of verkeerspaal klemmen waardoor jou camera niet alleen goed vast zit maar je kan ook nog eens een foto of video maken op plaatsen waar dat eerst gewoon weg niet ging.
 
 ## **GripTight Gorillapod direct gebruiksklaar**
 
-<img class="alignright size-medium wp-image-2609" src=https://vandersluijs.resultants-e.nl/2016/02/25258730725_e69c8a6a3e_o-300x200.jpg" alt="gorillapod" width="300" height="200" srcset=https://vandersluijs.resultants-e.nl/2016/02/25258730725_e69c8a6a3e_o-300x200.jpg 300w, /images/2016/02/25258730725_e69c8a6a3e_o-768x512.jpg 768w, /images/2016/02/25258730725_e69c8a6a3e_o-1024x683.jpg 1024w, /images/2016/02/25258730725_e69c8a6a3e_o.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />De GripTight GorillaPod voor mijn iPhone was direct gebruiksklaar. Ik haalde hem uit de doos, even in elkaar zetten en in 2 minuten had ik mijn iPhone tussen de speciale telefoonklem vast zitten. Even de drie poten uit elkaar buigen en hij stond door de rubberen voeten goed vast op tafel.
+<img class="alignright size-medium wp-image-2609" src="https://vandersluijs.resultants-e.nl/2016/02/25258730725_e69c8a6a3e_o-300x200.jpg" alt="gorillapod" width="300" height="200" srcset="https://vandersluijs.resultants-e.nl/2016/02/25258730725_e69c8a6a3e_o-300x200.jpg 300w, https://vandersluijs.resultants-e.nl/2016/02/25258730725_e69c8a6a3e_o-768x512.jpg 768w, https://vandersluijs.resultants-e.nl/2016/02/25258730725_e69c8a6a3e_o-1024x683.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/02/25258730725_e69c8a6a3e_o.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />De GripTight GorillaPod voor mijn iPhone was direct gebruiksklaar. Ik haalde hem uit de doos, even in elkaar zetten en in 2 minuten had ik mijn iPhone tussen de speciale telefoonklem vast zitten. Even de drie poten uit elkaar buigen en hij stond door de rubberen voeten goed vast op tafel.
 
 Dat is het mooie ook aan dit systeem. Geen ingewikkelde handleidingen, geen uren lang in elkaar zetten van allerlei onderdelen. Klik Klak klaar!
 
@@ -82,7 +82,7 @@ Foto vanaf de deur, geen probleem. Ik klem hem om de deurklink en foto maken maa
 
 ## Praktijk
 
-<img class="size-medium wp-image-2601 alignright" src=https://vandersluijs.resultants-e.nl/2016/02/25140422442_135261fdb0_o-300x200.jpg" alt="25140422442_135261fdb0_o" width="300" height="200" srcset=https://vandersluijs.resultants-e.nl/2016/02/25140422442_135261fdb0_o-300x200.jpg 300w, /images/2016/02/25140422442_135261fdb0_o-768x512.jpg 768w, /images/2016/02/25140422442_135261fdb0_o-1024x683.jpg 1024w, /images/2016/02/25140422442_135261fdb0_o.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Natuurlijk kan deze GripTight geen grote camera aan. Daarvoor zijn er andere Gorillapod’s. Maar mijn iPhone zit zo vast als een huis als je hem met de GorillaPod op zijn plek hebt staan of hangen.
+<img class="size-medium wp-image-2601 alignright" src="https://vandersluijs.resultants-e.nl/2016/02/25140422442_135261fdb0_o-300x200.jpg" alt="25140422442_135261fdb0_o" width="300" height="200" srcset="https://vandersluijs.resultants-e.nl/2016/02/25140422442_135261fdb0_o-300x200.jpg 300w, https://vandersluijs.resultants-e.nl/2016/02/25140422442_135261fdb0_o-768x512.jpg 768w, https://vandersluijs.resultants-e.nl/2016/02/25140422442_135261fdb0_o-1024x683.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/02/25140422442_135261fdb0_o.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Natuurlijk kan deze GripTight geen grote camera aan. Daarvoor zijn er andere Gorillapod’s. Maar mijn iPhone zit zo vast als een huis als je hem met de GorillaPod op zijn plek hebt staan of hangen.
 
 Als je de poten van de GripTight ergens omheen kan draaien, aan kan klemmen kan je het gebruiken! Een lijstje waar ik de GripTight heb gebruikt:
 
