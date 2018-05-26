@@ -5,7 +5,7 @@ date: 2008-09-12T00:17:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/09/12/tomtom-rijdt-naast-de-weg/
-permalink: /blog/2008/09/tomtom-rijdt-naast-de-weg.html
+permalink: /2008/09/tomtom-rijdt-naast-de-weg.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

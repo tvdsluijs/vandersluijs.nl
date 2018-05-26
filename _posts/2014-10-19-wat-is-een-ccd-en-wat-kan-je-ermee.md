@@ -5,7 +5,7 @@ date: 2014-10-19T10:14:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/10/19/wat-is-een-ccd-en-wat-kan-je-ermee/
-permalink: /blog/2014/10/wat-is-een-ccd-en-wat-kan-je-ermee.html
+permalink: /2014/10/wat-is-een-ccd-en-wat-kan-je-ermee.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

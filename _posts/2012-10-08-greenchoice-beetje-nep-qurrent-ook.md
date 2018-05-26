@@ -5,7 +5,7 @@ date: 2012-10-08T19:00:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/10/08/greenchoice-beetje-nep-qurrent-ook/
-permalink: /blog/2012/10/greenchoice-beetje-nep-qurrent-ook.html
+permalink: /2012/10/greenchoice-beetje-nep-qurrent-ook.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

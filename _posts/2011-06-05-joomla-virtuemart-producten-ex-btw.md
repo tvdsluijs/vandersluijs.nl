@@ -5,7 +5,7 @@ date: 2011-06-05T14:01:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/06/05/joomla-virtuemart-producten-ex-btw/
-permalink: /blog/2011/06/joomla-virtuemart-producten-ex-btw.html
+permalink: /2011/06/joomla-virtuemart-producten-ex-btw.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

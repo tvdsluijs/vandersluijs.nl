@@ -5,7 +5,7 @@ date: 2013-04-11T19:13:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/04/11/so-you-back-from-outer-space/
-permalink: /blog/2013/04/so-you-back-from-outer-space.html
+permalink: /2013/04/so-you-back-from-outer-space.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2016-05-20T20:02:29+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=145
-permalink: /blog/2016/05/snel-wifi-gooi-zeelandnet-modem-er-deel-2.html
+permalink: /2016/05/snel-wifi-gooi-zeelandnet-modem-er-deel-2.html
 hefo_before:
   - "0"
 hefo_after:

@@ -5,7 +5,7 @@ date: 2010-08-03T06:29:47+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://dezeeuwsefotograaf.nl/?p=23
-permalink: /blog/2010/08/wat-is-gimp.html
+permalink: /2010/08/wat-is-gimp.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

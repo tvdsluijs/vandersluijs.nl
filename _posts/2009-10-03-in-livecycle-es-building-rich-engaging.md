@@ -5,7 +5,7 @@ date: 2009-10-03T12:43:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/03/in-livecycle-es-building-rich-engaging/
-permalink: /blog/2009/10/in-livecycle-es-building-rich-engaging.html
+permalink: /2009/10/in-livecycle-es-building-rich-engaging.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2015-02-16T20:55:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/02/16/review-dan-brown-het-verloren-symboo/
-permalink: /blog/2015/02/review-dan-brown-het-verloren-symboo.html
+permalink: /2015/02/review-dan-brown-het-verloren-symboo.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

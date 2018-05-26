@@ -5,7 +5,7 @@ date: 2013-03-01T20:01:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/03/01/basis-zorgverzekering/
-permalink: /blog/2013/03/basis-zorgverzekering.html
+permalink: /2013/03/basis-zorgverzekering.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

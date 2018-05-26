@@ -5,7 +5,7 @@ date: 2015-01-10T08:05:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/01/10/ducentis-ghost-theme-review/
-permalink: /blog/2015/01/ducentis-ghost-theme-review.html
+permalink: /2015/01/ducentis-ghost-theme-review.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

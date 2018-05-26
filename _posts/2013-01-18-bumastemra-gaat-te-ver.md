@@ -5,7 +5,7 @@ date: 2013-01-18T22:53:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/01/18/bumastemra-gaat-te-ver/
-permalink: /blog/2013/01/bumastemra-gaat-te-ver.html
+permalink: /2013/01/bumastemra-gaat-te-ver.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

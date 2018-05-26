@@ -5,7 +5,7 @@ date: 2009-10-16T12:52:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/16/website-templates-online/
-permalink: /blog/2009/10/website-templates-online.html
+permalink: /2009/10/website-templates-online.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2014-09-09T19:38:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/09/09/grappige-wifi-namen_9/
-permalink: /blog/2014/09/grappige-wifi-namen_9.html
+permalink: /2014/09/grappige-wifi-namen_9.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

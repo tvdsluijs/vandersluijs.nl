@@ -5,7 +5,7 @@ date: 2008-06-16T07:00:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/06/16/tomtom-930-telefoonboek-oplossing/
-permalink: /blog/2008/06/tomtom-930-telefoonboek-oplossing.html
+permalink: /2008/06/tomtom-930-telefoonboek-oplossing.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

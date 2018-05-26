@@ -5,7 +5,7 @@ date: 2016-03-10T18:41:38+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2580
-permalink: /blog/2016/03/matcha-muesli-goorste-mymuesli-ooit.html
+permalink: /2016/03/matcha-muesli-goorste-mymuesli-ooit.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

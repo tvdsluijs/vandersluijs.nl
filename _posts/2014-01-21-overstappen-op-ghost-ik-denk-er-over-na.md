@@ -5,7 +5,7 @@ date: 2014-01-21T21:10:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/01/21/overstappen-op-ghost-ik-denk-er-over-na/
-permalink: /blog/2014/01/overstappen-op-ghost-ik-denk-er-over-na.html
+permalink: /2014/01/overstappen-op-ghost-ik-denk-er-over-na.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2013-03-28T07:11:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/03/28/blog-op-zwart-door-rechten-op-plaatjes/
-permalink: /blog/2013/03/blog-op-zwart-door-rechten-op-plaatjes.html
+permalink: /2013/03/blog-op-zwart-door-rechten-op-plaatjes.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

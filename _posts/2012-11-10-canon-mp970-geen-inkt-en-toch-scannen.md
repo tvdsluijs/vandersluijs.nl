@@ -5,7 +5,7 @@ date: 2012-11-10T13:29:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/11/10/canon-mp970-geen-inkt-en-toch-scannen/
-permalink: /blog/2012/11/canon-mp970-geen-inkt-en-toch-scannen.html
+permalink: /2012/11/canon-mp970-geen-inkt-en-toch-scannen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

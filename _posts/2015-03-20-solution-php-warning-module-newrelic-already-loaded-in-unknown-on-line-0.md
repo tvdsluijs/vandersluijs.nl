@@ -5,7 +5,7 @@ date: 2015-03-20T17:56:36+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://itheo.nl/?p=2033
-permalink: /blog/2015/03/solution-php-warning-module-newrelic-already-loaded-in-unknown-on-line-0.html
+permalink: /2015/03/solution-php-warning-module-newrelic-already-loaded-in-unknown-on-line-0.html
 hits:
   - "507"
 itrr_another_apply:

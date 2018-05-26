@@ -5,7 +5,7 @@ date: 2011-09-06T21:37:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/09/06/gimp-taal-problee/
-permalink: /blog/2011/09/gimp-taal-probleem.html
+permalink: /2011/09/gimp-taal-probleem.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

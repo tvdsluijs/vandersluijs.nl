@@ -5,7 +5,7 @@ date: 2016-01-02T18:34:25+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2056
-permalink: /blog/2016/01/solution-polar-v800-bluetooth-connection-problem.html
+permalink: /2016/01/solution-polar-v800-bluetooth-connection-problem.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

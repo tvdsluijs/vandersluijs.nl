@@ -5,7 +5,7 @@ date: 2012-04-21T11:02:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/04/21/overstappen-naar-tumblr-van-wordpress/
-permalink: /blog/2012/04/overstappen-naar-tumblr-van-wordpress.html
+permalink: /2012/04/overstappen-naar-tumblr-van-wordpress.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

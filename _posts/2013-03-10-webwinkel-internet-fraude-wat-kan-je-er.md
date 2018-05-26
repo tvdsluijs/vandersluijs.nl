@@ -5,7 +5,7 @@ date: 2013-03-10T16:38:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/03/10/webwinkel-internet-fraude-wat-kan-je-er/
-permalink: /blog/2013/03/webwinkel-internet-fraude-wat-kan-je-er.html
+permalink: /2013/03/webwinkel-internet-fraude-wat-kan-je-er.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

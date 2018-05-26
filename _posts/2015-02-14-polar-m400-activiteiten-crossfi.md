@@ -5,7 +5,7 @@ date: 2015-02-14T22:07:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/02/14/polar-m400-activiteiten-crossfi/
-permalink: /blog/2015/02/polar-m400-activiteiten-crossfi.html
+permalink: /2015/02/polar-m400-activiteiten-crossfi.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

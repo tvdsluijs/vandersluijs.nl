@@ -5,7 +5,7 @@ date: 2009-10-03T17:00:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/03/where-are-my-nl4b-colleagues/
-permalink: /blog/2009/10/where-are-my-nl4b-colleagues.html
+permalink: /2009/10/where-are-my-nl4b-colleagues.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

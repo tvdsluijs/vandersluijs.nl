@@ -5,7 +5,7 @@ date: 2013-08-08T18:04:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/08/08/korting-bij-cewe-wat-moet-je-er-mee/
-permalink: /blog/2013/08/korting-bij-cewe-wat-moet-je-er-mee.html
+permalink: /2013/08/korting-bij-cewe-wat-moet-je-er-mee.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

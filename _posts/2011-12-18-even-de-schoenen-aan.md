@@ -5,7 +5,7 @@ date: 2011-12-18T19:33:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/12/18/even-de-schoenen-aan/
-permalink: /blog/2011/12/even-de-schoenen-aan.html
+permalink: /2011/12/even-de-schoenen-aan.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

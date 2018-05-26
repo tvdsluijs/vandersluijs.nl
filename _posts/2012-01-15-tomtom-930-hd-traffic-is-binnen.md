@@ -5,7 +5,7 @@ date: 2012-01-15T03:19:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/01/15/tomtom-930-hd-traffic-is-binnen/
-permalink: /blog/2012/01/tomtom-930-hd-traffic-is-binnen.html
+permalink: /2012/01/tomtom-930-hd-traffic-is-binnen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

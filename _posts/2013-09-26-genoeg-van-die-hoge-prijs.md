@@ -5,7 +5,7 @@ date: 2013-09-26T21:32:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/09/26/genoeg-van-die-hoge-prijs/
-permalink: /blog/2013/09/genoeg-van-die-hoge-prijs.html
+permalink: /2013/09/genoeg-van-die-hoge-prijs.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

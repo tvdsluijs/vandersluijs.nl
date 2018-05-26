@@ -5,7 +5,7 @@ date: 2015-11-11T14:36:41+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1692
-permalink: /blog/2015/11/wie-wil-er-nog-zaken-doen-met-headhunters.html
+permalink: /2015/11/wie-wil-er-nog-zaken-doen-met-headhunters.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

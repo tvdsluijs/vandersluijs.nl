@@ -5,7 +5,7 @@ date: 2010-04-03T19:45:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/04/03/q-music-pakket-is-binnen/
-permalink: /blog/2010/04/q-music-pakket-is-binnen.html
+permalink: /2010/04/q-music-pakket-is-binnen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

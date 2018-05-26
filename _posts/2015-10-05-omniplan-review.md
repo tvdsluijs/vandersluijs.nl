@@ -5,7 +5,7 @@ date: 2015-10-05T20:54:29+00:00
 author: Theo.
 layout: post
 guid: http://vandersluijs.nl/?p=1488
-permalink: /blog/2015/10/omniplan-review.html
+permalink: /2015/10/omniplan-review.html
 wp_review_location:
   - bottom
 wp_review_type:

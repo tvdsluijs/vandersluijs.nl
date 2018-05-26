@@ -5,7 +5,7 @@ date: 2015-11-30T06:35:31+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1781
-permalink: /blog/2015/11/luie-ict-er-automatiseert-alles.html
+permalink: /2015/11/luie-ict-er-automatiseert-alles.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

@@ -5,7 +5,7 @@ date: 2016-02-03T22:28:06+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2296
-permalink: /blog/2016/02/apple-adapter-terugroep-actie.html
+permalink: /2016/02/apple-adapter-terugroep-actie.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

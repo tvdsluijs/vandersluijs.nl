@@ -5,7 +5,7 @@ date: 2015-11-01T14:34:10+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1668
-permalink: /blog/2015/11/nikon-1-j5-review-overtuigt-niet-echt.html
+permalink: /2015/11/nikon-1-j5-review-overtuigt-niet-echt.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

@@ -5,7 +5,7 @@ date: 2016-02-27T07:00:19+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2514
-permalink: /blog/2016/02/uitpakparty-gorillapod.html
+permalink: /2016/02/uitpakparty-gorillapod.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

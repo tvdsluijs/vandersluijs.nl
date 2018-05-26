@@ -5,7 +5,7 @@ date: 2014-03-28T20:02:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/03/28/hoe-mijn-nieuwe-boek-een-hit-werd-maar/
-permalink: /blog/2014/03/hoe-mijn-nieuwe-boek-een-hit-werd-maar.html
+permalink: /2014/03/hoe-mijn-nieuwe-boek-een-hit-werd-maar.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

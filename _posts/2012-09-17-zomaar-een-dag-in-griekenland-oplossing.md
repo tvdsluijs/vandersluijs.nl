@@ -5,7 +5,7 @@ date: 2012-09-17T15:20:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/09/17/zomaar-een-dag-in-griekenland-oplossing/
-permalink: /blog/2012/09/zomaar-een-dag-in-griekenland-oplossing.html
+permalink: /2012/09/zomaar-een-dag-in-griekenland-oplossing.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2015-12-04T20:18:25+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1785
-permalink: /blog/2015/12/eyes-en-more-is-helemaal-niks.html
+permalink: /2015/12/eyes-en-more-is-helemaal-niks.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

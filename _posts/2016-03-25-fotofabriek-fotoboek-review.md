@@ -5,7 +5,7 @@ date: 2016-03-25T16:21:39+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://dezeeuwsefotograaf.nl/?p=2380
-permalink: /blog/2016/03/fotofabriek-fotoboek-review.html
+permalink: /2016/03/fotofabriek-fotoboek-review.html
 wp_review_location:
   - bottom
 wp_review_type:

@@ -5,7 +5,7 @@ date: 2013-12-03T09:15:56+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1822
-permalink: /blog/2013/12/wat-gaat-jij-betalen-aan-zorgpremie-in-2014.html
+permalink: /2013/12/wat-gaat-jij-betalen-aan-zorgpremie-in-2014.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

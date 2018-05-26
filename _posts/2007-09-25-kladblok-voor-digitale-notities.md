@@ -5,7 +5,7 @@ date: 2007-09-25T19:55:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/09/25/kladblok-voor-digitale-notities/
-permalink: /blog/2007/09/kladblok-voor-digitale-notities.html
+permalink: /2007/09/kladblok-voor-digitale-notities.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

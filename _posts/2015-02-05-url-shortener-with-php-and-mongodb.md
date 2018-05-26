@@ -5,7 +5,7 @@ date: 2015-02-05T19:42:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/02/05/url-shortener-with-php-and-mongodb/
-permalink: /blog/2015/02/url-shortener-with-php-and-mongodb.html
+permalink: /2015/02/url-shortener-with-php-and-mongodb.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

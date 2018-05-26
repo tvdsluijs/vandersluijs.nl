@@ -5,7 +5,7 @@ date: 2016-03-26T12:53:16+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2641
-permalink: /blog/2016/03/decathlon-klantenservice-heeft-nog-wat-te-leren.html
+permalink: /2016/03/decathlon-klantenservice-heeft-nog-wat-te-leren.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

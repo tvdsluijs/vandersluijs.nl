@@ -5,7 +5,7 @@ date: 2011-03-07T12:58:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/03/07/berekening-van-rente-op-rente/
-permalink: /blog/2011/03/berekening-van-rente-op-rente.html
+permalink: /2011/03/berekening-van-rente-op-rente.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

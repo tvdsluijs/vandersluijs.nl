@@ -5,7 +5,7 @@ date: 2013-05-25T23:28:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/05/25/mag-meneer-weer-terug-komen-alstublief/
-permalink: /blog/2013/05/mag-meneer-weer-terug-komen-alstublief.html
+permalink: /2013/05/mag-meneer-weer-terug-komen-alstublief.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

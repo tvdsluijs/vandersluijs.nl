@@ -5,7 +5,7 @@ date: 2012-11-30T19:41:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/11/30/yamaha-dvd-s550-firmware-update/
-permalink: /blog/2012/11/yamaha-dvd-s550-firmware-update.html
+permalink: /2012/11/yamaha-dvd-s550-firmware-update.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

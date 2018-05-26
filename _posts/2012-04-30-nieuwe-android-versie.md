@@ -5,7 +5,7 @@ date: 2012-04-30T12:40:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/04/30/nieuwe-android-versie/
-permalink: /blog/2012/04/nieuwe-android-versie.html
+permalink: /2012/04/nieuwe-android-versie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

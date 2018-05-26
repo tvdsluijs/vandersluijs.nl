@@ -5,7 +5,7 @@ date: 2015-02-08T20:44:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/02/08/stop-met-zoeken-de-echte-fitness/
-permalink: /blog/2015/02/stop-met-zoeken-de-echte-fitness.html
+permalink: /2015/02/stop-met-zoeken-de-echte-fitness.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

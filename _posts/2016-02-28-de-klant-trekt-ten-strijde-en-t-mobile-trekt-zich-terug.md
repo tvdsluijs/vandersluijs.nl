@@ -5,7 +5,7 @@ date: 2016-02-28T13:39:32+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2563
-permalink: /blog/2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html
+permalink: /2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

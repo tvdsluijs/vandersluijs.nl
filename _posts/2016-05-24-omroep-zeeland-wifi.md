@@ -5,7 +5,7 @@ date: 2016-05-24T15:24:36+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=179
-permalink: /blog/2016/05/omroep-zeeland-wifi.html
+permalink: /2016/05/omroep-zeeland-wifi.html
 hefo_before:
   - "0"
 hefo_after:

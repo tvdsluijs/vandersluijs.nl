@@ -5,7 +5,7 @@ date: 2008-10-22T16:25:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/10/22/did-you-ever-note-evernote/
-permalink: /blog/2008/10/did-you-ever-note-evernote.html
+permalink: /2008/10/did-you-ever-note-evernote.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2010-05-10T14:45:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/05/10/leuk-zo-roze-krant-pzc/
-permalink: /blog/2010/05/leuk-zo-roze-krant-pzc.html
+permalink: /2010/05/leuk-zo-roze-krant-pzc.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

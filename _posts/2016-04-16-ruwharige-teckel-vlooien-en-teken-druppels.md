@@ -5,7 +5,7 @@ date: 2016-04-16T20:09:41+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2680
-permalink: /blog/2016/04/ruwharige-teckel-vlooien-en-teken-druppels.html
+permalink: /2016/04/ruwharige-teckel-vlooien-en-teken-druppels.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

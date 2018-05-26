@@ -5,7 +5,7 @@ date: 2013-02-04T16:43:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/02/04/geen-foto-meer-bestellen-bij-fotoco/
-permalink: /blog/2013/02/geen-foto-meer-bestellen-bij-fotoco.html
+permalink: /2013/02/geen-foto-meer-bestellen-bij-fotoco.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

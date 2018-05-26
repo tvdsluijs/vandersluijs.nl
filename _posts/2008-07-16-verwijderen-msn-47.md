@@ -5,7 +5,7 @@ date: 2008-07-16T21:17:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/07/16/verwijderen-msn-47/
-permalink: /blog/2008/07/verwijderen-msn-47.html
+permalink: /2008/07/verwijderen-msn-47.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

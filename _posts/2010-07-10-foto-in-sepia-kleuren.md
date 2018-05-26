@@ -5,7 +5,7 @@ date: 2010-07-10T08:34:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/07/10/foto-in-sepia-kleuren/
-permalink: /blog/2010/07/foto-in-sepia-kleuren.html
+permalink: /2010/07/foto-in-sepia-kleuren.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

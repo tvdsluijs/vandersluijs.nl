@@ -5,7 +5,7 @@ date: 2015-09-29T17:50:49+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1479
-permalink: /blog/2015/09/blogger-medium-facebook-notes-linkedin-posts.html
+permalink: /2015/09/blogger-medium-facebook-notes-linkedin-posts.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

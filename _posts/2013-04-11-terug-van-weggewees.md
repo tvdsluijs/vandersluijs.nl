@@ -5,7 +5,7 @@ date: 2013-04-11T19:16:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/04/11/terug-van-weggewees/
-permalink: /blog/2013/04/terug-van-weggewees.html
+permalink: /2013/04/terug-van-weggewees.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

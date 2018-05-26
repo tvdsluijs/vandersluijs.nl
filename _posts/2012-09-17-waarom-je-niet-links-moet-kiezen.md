@@ -5,7 +5,7 @@ date: 2012-09-17T15:16:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/09/17/waarom-je-niet-links-moet-kiezen/
-permalink: /blog/2012/09/waarom-je-niet-links-moet-kiezen.html
+permalink: /2012/09/waarom-je-niet-links-moet-kiezen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2009-04-27T12:03:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/04/27/no-adobe-max-in-europe/
-permalink: /blog/2009/04/no-adobe-max-in-europe.html
+permalink: /2009/04/no-adobe-max-in-europe.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

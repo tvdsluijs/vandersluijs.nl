@@ -5,7 +5,7 @@ date: 2015-12-11T19:26:50+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1989
-permalink: /blog/2015/12/oplossing-r4i-wrong-date-or-firmware.html
+permalink: /2015/12/oplossing-r4i-wrong-date-or-firmware.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

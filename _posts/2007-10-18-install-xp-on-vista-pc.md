@@ -5,7 +5,7 @@ date: 2007-10-18T13:10:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/10/18/install-xp-on-vista-pc/
-permalink: /blog/2007/10/install-xp-on-vista-pc.html
+permalink: /2007/10/install-xp-on-vista-pc.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

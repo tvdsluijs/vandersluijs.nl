@@ -5,7 +5,7 @@ date: 2009-08-21T13:45:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/08/21/gek-op-nespresso-ook-in-de-auto/
-permalink: /blog/2009/08/gek-op-nespresso-ook-in-de-auto.html
+permalink: /2009/08/gek-op-nespresso-ook-in-de-auto.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

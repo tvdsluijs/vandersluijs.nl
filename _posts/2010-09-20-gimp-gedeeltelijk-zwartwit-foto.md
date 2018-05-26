@@ -5,7 +5,7 @@ date: 2010-09-20T18:19:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/09/20/gedeeltelijk-zwartwit-foto-2/
-permalink: /blog/2010/09/gimp-gedeeltelijk-zwartwit-foto.html
+permalink: /2010/09/gimp-gedeeltelijk-zwartwit-foto.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

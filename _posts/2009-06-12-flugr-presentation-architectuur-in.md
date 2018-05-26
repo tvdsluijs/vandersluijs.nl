@@ -5,7 +5,7 @@ date: 2009-06-12T06:24:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/06/12/flugr-presentation-architectuur-in/
-permalink: /blog/2009/06/flugr-presentation-architectuur-in.html
+permalink: /2009/06/flugr-presentation-architectuur-in.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

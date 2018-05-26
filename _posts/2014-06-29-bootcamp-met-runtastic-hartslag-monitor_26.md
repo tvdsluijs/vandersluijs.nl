@@ -5,7 +5,7 @@ date: 2014-06-29T12:51:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/06/29/bootcamp-met-runtastic-hartslag-monitor_26/
-permalink: /blog/2014/06/bootcamp-met-runtastic-hartslag-monitor_26.html
+permalink: /2014/06/bootcamp-met-runtastic-hartslag-monitor_26.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

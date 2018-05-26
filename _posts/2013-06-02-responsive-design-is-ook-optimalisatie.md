@@ -5,7 +5,7 @@ date: 2013-06-02T17:02:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/06/02/responsive-design-is-ook-optimalisatie/
-permalink: /blog/2013/06/responsive-design-is-ook-optimalisatie.html
+permalink: /2013/06/responsive-design-is-ook-optimalisatie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

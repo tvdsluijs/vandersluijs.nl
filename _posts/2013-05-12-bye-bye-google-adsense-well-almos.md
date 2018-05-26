@@ -5,7 +5,7 @@ date: 2013-05-12T18:56:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/05/12/bye-bye-google-adsense-well-almos/
-permalink: /blog/2013/05/bye-bye-google-adsense-well-almos.html
+permalink: /2013/05/bye-bye-google-adsense-well-almos.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

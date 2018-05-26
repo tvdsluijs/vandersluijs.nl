@@ -5,7 +5,7 @@ date: 2015-01-17T20:52:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/01/17/snel-wifi-gooi-je-zeelandnet-modem-er/
-permalink: /blog/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html
+permalink: /2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

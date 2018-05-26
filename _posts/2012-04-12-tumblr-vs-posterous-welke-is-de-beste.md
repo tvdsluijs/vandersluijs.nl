@@ -5,7 +5,7 @@ date: 2012-04-12T08:03:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/04/12/tumblr-vs-posterous-welke-is-de-beste/
-permalink: /blog/2012/04/tumblr-vs-posterous-welke-is-de-beste.html
+permalink: /2012/04/tumblr-vs-posterous-welke-is-de-beste.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

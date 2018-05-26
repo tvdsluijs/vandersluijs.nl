@@ -5,7 +5,7 @@ date: 2009-10-06T04:20:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/06/keynotes-in-3d-learned-another-testing/
-permalink: /blog/2009/10/keynotes-in-3d-learned-another-testing.html
+permalink: /2009/10/keynotes-in-3d-learned-another-testing.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

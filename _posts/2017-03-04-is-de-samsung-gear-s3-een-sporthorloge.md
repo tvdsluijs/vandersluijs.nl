@@ -5,7 +5,7 @@ date: 2017-03-04T16:23:31+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=4312
-permalink: /blog/2017/03/is-de-samsung-gear-s3-een-sporthorloge.html
+permalink: /2017/03/is-de-samsung-gear-s3-een-sporthorloge.html
 hits:
   - "21"
 dsq_thread_id:

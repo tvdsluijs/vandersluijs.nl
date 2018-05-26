@@ -5,7 +5,7 @@ date: 2013-07-08T22:30:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/07/08/why-im-back-on-foursquare-and-why-i/
-permalink: /blog/2013/07/why-im-back-on-foursquare-and-why-i.html
+permalink: /2013/07/why-im-back-on-foursquare-and-why-i.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

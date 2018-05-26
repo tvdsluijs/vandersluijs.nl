@@ -5,7 +5,7 @@ date: 2009-11-13T20:53:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/11/13/uitnodiging-miljoenenjacht-wel-of-nie/
-permalink: /blog/2009/11/uitnodiging-miljoenenjacht-wel-of-nie.html
+permalink: /2009/11/uitnodiging-miljoenenjacht-wel-of-nie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

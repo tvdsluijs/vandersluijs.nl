@@ -5,7 +5,7 @@ date: 2017-01-03T21:46:28+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=3640
-permalink: /blog/2017/01/tui-mij-leren-en-verdienen.html
+permalink: /2017/01/tui-mij-leren-en-verdienen.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

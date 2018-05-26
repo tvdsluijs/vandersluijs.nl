@@ -5,7 +5,7 @@ date: 2015-09-24T19:35:26+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1436
-permalink: /blog/2015/09/sirui-t-005-c-10-uitpak-party.html
+permalink: /2015/09/sirui-t-005-c-10-uitpak-party.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

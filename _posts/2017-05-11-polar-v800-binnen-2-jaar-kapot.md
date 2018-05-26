@@ -5,7 +5,7 @@ date: 2017-05-11T16:28:49+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=4320
-permalink: /blog/2017/05/polar-v800-binnen-2-jaar-kapot.html
+permalink: /2017/05/polar-v800-binnen-2-jaar-kapot.html
 hits:
   - "204"
 dsq_thread_id:

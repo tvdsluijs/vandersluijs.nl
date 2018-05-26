@@ -5,7 +5,7 @@ date: 2011-05-29T12:00:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/05/29/quality-control-theme/
-permalink: /blog/2011/05/quality-control-theme.html
+permalink: /2011/05/quality-control-theme.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

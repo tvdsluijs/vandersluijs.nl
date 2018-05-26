@@ -5,7 +5,7 @@ date: 2015-02-18T12:53:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/02/18/dag-5-met-de-polar-m400-vo2max-h7-en/
-permalink: /blog/2015/02/dag-5-met-de-polar-m400-vo2max-h7-en.html
+permalink: /2015/02/dag-5-met-de-polar-m400-vo2max-h7-en.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2015-12-07T19:30:17+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1877
-permalink: /blog/2015/12/kpn-mobiel-verlengingsaanbod-om-klanten-weg-te-jagen.html
+permalink: /2015/12/kpn-mobiel-verlengingsaanbod-om-klanten-weg-te-jagen.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

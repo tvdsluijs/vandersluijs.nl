@@ -5,7 +5,7 @@ date: 2014-05-23T19:47:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/05/23/mijn-blog-vanaf-vandaag-op-ghostorg/
-permalink: /blog/2014/05/mijn-blog-vanaf-vandaag-op-ghostorg.html
+permalink: /2014/05/mijn-blog-vanaf-vandaag-op-ghostorg.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

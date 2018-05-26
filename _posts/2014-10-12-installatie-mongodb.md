@@ -5,7 +5,7 @@ date: 2014-10-12T15:48:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/10/12/installatie-mongodb/
-permalink: /blog/2014/10/installatie-mongodb.html
+permalink: /2014/10/installatie-mongodb.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

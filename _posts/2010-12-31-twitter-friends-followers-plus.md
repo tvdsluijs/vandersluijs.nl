@@ -5,7 +5,7 @@ date: 2010-12-31T17:23:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/12/31/twitter-friends-followers-plus/
-permalink: /blog/2010/12/twitter-friends-followers-plus.html
+permalink: /2010/12/twitter-friends-followers-plus.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

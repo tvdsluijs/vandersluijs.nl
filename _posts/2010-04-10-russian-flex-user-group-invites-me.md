@@ -5,7 +5,7 @@ date: 2010-04-10T09:54:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/04/10/russian-flex-user-group-invites-me/
-permalink: /blog/2010/04/russian-flex-user-group-invites-me.html
+permalink: /2010/04/russian-flex-user-group-invites-me.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

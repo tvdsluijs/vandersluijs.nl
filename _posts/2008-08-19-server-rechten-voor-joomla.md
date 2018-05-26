@@ -5,7 +5,7 @@ date: 2008-08-19T21:35:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/08/19/server-rechten-voor-joomla/
-permalink: /blog/2008/08/server-rechten-voor-joomla.html
+permalink: /2008/08/server-rechten-voor-joomla.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

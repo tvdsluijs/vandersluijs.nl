@@ -5,7 +5,7 @@ date: 2014-12-03T11:08:06+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1849
-permalink: /blog/2014/12/watt-kosten-berekenen.html
+permalink: /2014/12/watt-kosten-berekenen.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

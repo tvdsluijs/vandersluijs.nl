@@ -5,7 +5,7 @@ date: 2012-07-20T22:55:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/07/20/greenchoice-belde-vandaag/
-permalink: /blog/2012/07/greenchoice-belde-vandaag.html
+permalink: /2012/07/greenchoice-belde-vandaag.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

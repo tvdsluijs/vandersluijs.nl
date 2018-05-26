@@ -5,7 +5,7 @@ date: 2015-02-18T10:17:00+00:00
 author: Theo.
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/02/18/review-clean-coder-code-of-conduct-for/
-permalink: /blog/2015/02/review-clean-coder-code-of-conduct-for.html
+permalink: /2015/02/review-clean-coder-code-of-conduct-for.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2016-06-02T19:58:37+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=203
-permalink: /blog/2016/06/hoe-krijg-je-wifi-in-heel-het-huis.html
+permalink: /2016/06/hoe-krijg-je-wifi-in-heel-het-huis.html
 hefo_before:
   - "0"
 hefo_after:

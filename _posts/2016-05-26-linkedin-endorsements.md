@@ -5,7 +5,7 @@ date: 2016-05-26T19:23:29+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://itheo.nl/?p=2083
-permalink: /blog/2016/05/linkedin-endorsements.html
+permalink: /2016/05/linkedin-endorsements.html
 hits:
   - "129"
 dsq_thread_id:

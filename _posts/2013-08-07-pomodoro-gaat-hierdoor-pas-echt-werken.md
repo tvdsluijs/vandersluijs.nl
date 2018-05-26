@@ -5,7 +5,7 @@ date: 2013-08-07T17:23:00+00:00
 author: Theo.
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/08/07/pomodoro-gaat-hierdoor-pas-echt-werken/
-permalink: /blog/2013/08/pomodoro-gaat-hierdoor-pas-echt-werken.html
+permalink: /2013/08/pomodoro-gaat-hierdoor-pas-echt-werken.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

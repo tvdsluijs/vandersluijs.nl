@@ -5,7 +5,7 @@ date: 2013-06-01T15:24:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/06/01/nieuwe-manier-om-data-markup-te-bepalen/
-permalink: /blog/2013/06/nieuwe-manier-om-data-markup-te-bepalen.html
+permalink: /2013/06/nieuwe-manier-om-data-markup-te-bepalen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

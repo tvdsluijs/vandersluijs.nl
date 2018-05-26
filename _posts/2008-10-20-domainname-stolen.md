@@ -5,7 +5,7 @@ date: 2008-10-20T18:35:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/10/20/domainname-stolen/
-permalink: /blog/2008/10/domainname-stolen.html
+permalink: /2008/10/domainname-stolen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

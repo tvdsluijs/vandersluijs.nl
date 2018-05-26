@@ -5,7 +5,7 @@ date: 2010-11-07T01:27:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/11/07/2gb-dataverkeer-in-6-dagen/
-permalink: /blog/2010/11/2gb-dataverkeer-in-6-dagen.html
+permalink: /2010/11/2gb-dataverkeer-in-6-dagen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

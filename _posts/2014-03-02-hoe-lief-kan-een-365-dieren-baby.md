@@ -5,7 +5,7 @@ date: 2014-03-02T09:32:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/03/02/hoe-lief-kan-een-365-dieren-baby/
-permalink: /blog/2014/03/hoe-lief-kan-een-365-dieren-baby.html
+permalink: /2014/03/hoe-lief-kan-een-365-dieren-baby.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

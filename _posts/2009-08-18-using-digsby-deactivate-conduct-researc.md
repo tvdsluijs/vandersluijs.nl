@@ -5,7 +5,7 @@ date: 2009-08-18T07:42:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/08/18/using-digsby-deactivate-conduct-researc/
-permalink: /blog/2009/08/using-digsby-deactivate-conduct-researc.html
+permalink: /2009/08/using-digsby-deactivate-conduct-researc.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

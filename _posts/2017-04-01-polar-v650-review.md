@@ -5,7 +5,7 @@ date: 2017-04-01T16:32:26+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=4325
-permalink: /blog/2017/04/polar-v650-review.html
+permalink: /2017/04/polar-v650-review.html
 hits:
   - "139"
 dsq_thread_id:

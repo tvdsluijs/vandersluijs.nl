@@ -5,7 +5,7 @@ date: 2010-09-24T21:04:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/09/24/google-flex-index-tes/
-permalink: /blog/2010/09/google-flex-index-tes.html
+permalink: /2010/09/google-flex-index-tes.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

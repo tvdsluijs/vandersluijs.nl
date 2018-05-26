@@ -5,7 +5,7 @@ date: 2015-12-12T06:00:32+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1995
-permalink: /blog/2015/12/oplossing-verhuizen-wordpress-nieuw-domein.html
+permalink: /2015/12/oplossing-verhuizen-wordpress-nieuw-domein.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

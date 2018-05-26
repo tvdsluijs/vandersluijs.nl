@@ -5,7 +5,7 @@ date: 2016-02-29T17:41:07+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=126
-permalink: /blog/2016/02/zeelandnet-verhoogt-downloadsnelheid-400mbits.html
+permalink: /2016/02/zeelandnet-verhoogt-downloadsnelheid-400mbits.html
 hefo_before:
   - "0"
 hefo_after:

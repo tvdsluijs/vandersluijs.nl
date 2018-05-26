@@ -5,7 +5,7 @@ date: 2008-10-30T07:14:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/10/30/hoe-dichter-bij-dord-hoe-beter-het-word/
-permalink: /blog/2008/10/hoe-dichter-bij-dord-hoe-beter-het-word.html
+permalink: /2008/10/hoe-dichter-bij-dord-hoe-beter-het-word.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

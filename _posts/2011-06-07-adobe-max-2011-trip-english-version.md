@@ -5,7 +5,7 @@ date: 2011-06-07T09:29:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/06/07/adobe-max-2011-trip-english-version/
-permalink: /blog/2011/06/adobe-max-2011-trip-english-version.html
+permalink: /2011/06/adobe-max-2011-trip-english-version.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

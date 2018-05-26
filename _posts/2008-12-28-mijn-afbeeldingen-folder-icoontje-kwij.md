@@ -5,7 +5,7 @@ date: 2008-12-28T13:35:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/12/28/mijn-afbeeldingen-folder-icoontje-kwij/
-permalink: /blog/2008/12/mijn-afbeeldingen-folder-icoontje-kwij.html
+permalink: /2008/12/mijn-afbeeldingen-folder-icoontje-kwij.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2008-10-30T19:54:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/10/30/wifi-drivers-voor-hp-pavilion-w5070n/
-permalink: /blog/2008/10/wifi-drivers-voor-hp-pavilion-w5070n.html
+permalink: /2008/10/wifi-drivers-voor-hp-pavilion-w5070n.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

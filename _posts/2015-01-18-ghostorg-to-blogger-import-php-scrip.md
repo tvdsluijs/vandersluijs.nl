@@ -5,7 +5,7 @@ date: 2015-01-18T08:32:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/01/18/ghostorg-to-blogger-import-php-scrip/
-permalink: /blog/2015/01/ghostorg-to-blogger-import-php-scrip.html
+permalink: /2015/01/ghostorg-to-blogger-import-php-scrip.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

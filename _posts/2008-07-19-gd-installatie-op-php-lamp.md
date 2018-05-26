@@ -5,7 +5,7 @@ date: 2008-07-19T21:30:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/07/19/gd-installatie-op-php-lamp/
-permalink: /blog/2008/07/gd-installatie-op-php-lamp.html
+permalink: /2008/07/gd-installatie-op-php-lamp.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

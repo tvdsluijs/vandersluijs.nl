@@ -5,7 +5,7 @@ date: 2012-10-28T21:14:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/10/28/kopieerheffing-gaat-erg-ver-maar-kan-ik/
-permalink: /blog/2012/10/kopieerheffing-gaat-erg-ver-maar-kan-ik.html
+permalink: /2012/10/kopieerheffing-gaat-erg-ver-maar-kan-ik.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

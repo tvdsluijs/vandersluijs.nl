@@ -5,7 +5,7 @@ date: 2014-09-11T20:09:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/09/11/gearman-en-raspberry-pi/
-permalink: /blog/2014/09/gearman-en-raspberry-pi.html
+permalink: /2014/09/gearman-en-raspberry-pi.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

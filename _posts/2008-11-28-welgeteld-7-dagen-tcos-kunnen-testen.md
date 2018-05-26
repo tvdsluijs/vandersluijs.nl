@@ -5,7 +5,7 @@ date: 2008-11-28T00:00:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/11/28/welgeteld-7-dagen-tcos-kunnen-testen/
-permalink: /blog/2008/11/welgeteld-7-dagen-tcos-kunnen-testen.html
+permalink: /2008/11/welgeteld-7-dagen-tcos-kunnen-testen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

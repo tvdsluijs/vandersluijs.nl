@@ -5,7 +5,7 @@ date: 2012-12-06T22:28:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/12/06/mysql-query-caching-niet-zaligmakend/
-permalink: /blog/2012/12/mysql-query-caching-niet-zaligmakend.html
+permalink: /2012/12/mysql-query-caching-niet-zaligmakend.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

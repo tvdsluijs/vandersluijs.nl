@@ -7,7 +7,7 @@ date: 2010-09-02T02:52:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/09/02/flashbuilder-camp-22-september-1645/
-permalink: /blog/2010/09/flashbuilder-camp-22-september-1645.html
+permalink: /2010/09/flashbuilder-camp-22-september-1645.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2016-05-24T07:00:39+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=163
-permalink: /blog/2016/05/10-tips-beter-zeeuws-wifi.html
+permalink: /2016/05/10-tips-beter-zeeuws-wifi.html
 hefo_before:
   - "0"
 hefo_after:

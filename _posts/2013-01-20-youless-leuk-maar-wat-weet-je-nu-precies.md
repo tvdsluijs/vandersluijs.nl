@@ -5,7 +5,7 @@ date: 2013-01-20T15:13:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/01/20/youless-leuk-maar-wat-weet-je-nu-precies/
-permalink: /blog/2013/01/youless-leuk-maar-wat-weet-je-nu-precies.html
+permalink: /2013/01/youless-leuk-maar-wat-weet-je-nu-precies.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

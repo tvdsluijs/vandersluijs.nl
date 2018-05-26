@@ -5,7 +5,7 @@ date: 2008-11-14T16:55:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/11/14/vaste-schijfletter-voor-externe-usb/
-permalink: /blog/2008/11/vaste-schijfletter-voor-externe-usb.html
+permalink: /2008/11/vaste-schijfletter-voor-externe-usb.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

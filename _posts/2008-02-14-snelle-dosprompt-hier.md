@@ -5,7 +5,7 @@ date: 2008-02-14T20:03:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/02/14/snelle-dosprompt-hier/
-permalink: /blog/2008/02/snelle-dosprompt-hier.html
+permalink: /2008/02/snelle-dosprompt-hier.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

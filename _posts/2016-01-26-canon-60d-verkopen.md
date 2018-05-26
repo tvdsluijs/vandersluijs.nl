@@ -5,7 +5,7 @@ date: 2016-01-26T07:37:01+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://dezeeuwsefotograaf.nl/?p=2218
-permalink: /blog/2016/01/canon-60d-verkopen.html
+permalink: /2016/01/canon-60d-verkopen.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

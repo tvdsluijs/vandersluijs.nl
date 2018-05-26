@@ -5,7 +5,7 @@ date: 2013-05-11T13:16:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/05/11/fringe-season-finale-is-totally-wrong/
-permalink: /blog/2013/05/fringe-season-finale-is-totally-wrong.html
+permalink: /2013/05/fringe-season-finale-is-totally-wrong.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2010-06-02T08:08:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/06/02/oeps-prijsvergelijknl-ligt-er-uit-mooie/
-permalink: /blog/2010/06/oeps-prijsvergelijknl-ligt-er-uit-mooie.html
+permalink: /2010/06/oeps-prijsvergelijknl-ligt-er-uit-mooie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

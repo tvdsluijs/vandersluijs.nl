@@ -7,7 +7,7 @@ date: 2013-06-13T06:55:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/06/13/waarom-google-de-kapper-je-was-de/
-permalink: /blog/2013/06/waarom-google-de-kapper-je-was-de.html
+permalink: /2013/06/waarom-google-de-kapper-je-was-de.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

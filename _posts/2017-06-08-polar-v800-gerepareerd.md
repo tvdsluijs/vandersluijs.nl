@@ -5,7 +5,7 @@ date: 2017-06-08T07:00:36+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=4346
-permalink: /blog/2017/06/polar-v800-gerepareerd.html
+permalink: /2017/06/polar-v800-gerepareerd.html
 hits:
   - "327"
 dsq_thread_id:

@@ -5,7 +5,7 @@ date: 2016-06-05T20:33:06+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2844
-permalink: /blog/2016/06/uitpak-party.html
+permalink: /2016/06/uitpak-party.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

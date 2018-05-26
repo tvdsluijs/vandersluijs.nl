@@ -5,7 +5,7 @@ date: 2010-12-03T12:34:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/12/03/presentatie-op-resultants-e-reunie/
-permalink: /blog/2010/12/presentatie-op-resultants-e-reunie.html
+permalink: /2010/12/presentatie-op-resultants-e-reunie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

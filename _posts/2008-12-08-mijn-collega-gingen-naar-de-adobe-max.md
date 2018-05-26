@@ -5,7 +5,7 @@ date: 2008-12-08T00:00:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/12/08/mijn-collega-gingen-naar-de-adobe-max/
-permalink: /blog/2008/12/mijn-collega-gingen-naar-de-adobe-max.html
+permalink: /2008/12/mijn-collega-gingen-naar-de-adobe-max.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

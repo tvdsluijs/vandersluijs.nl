@@ -5,7 +5,7 @@ date: 2007-05-03T14:10:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/05/03/zoek-op-pagina-met-ie7-drama/
-permalink: /blog/2007/05/zoek-op-pagina-met-ie7-drama.html
+permalink: /2007/05/zoek-op-pagina-met-ie7-drama.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

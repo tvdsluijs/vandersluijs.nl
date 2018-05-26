@@ -5,7 +5,7 @@ date: 2009-11-13T20:29:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/11/13/sluimerstand-hibernate-aanzetten-in/
-permalink: /blog/2009/11/sluimerstand-hibernate-aanzetten-in.html
+permalink: /2009/11/sluimerstand-hibernate-aanzetten-in.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

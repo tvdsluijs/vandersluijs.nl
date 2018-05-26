@@ -5,7 +5,7 @@ date: 2011-05-26T00:29:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/05/26/bij-pixmania-kan-je-niet-met-paypa/
-permalink: /blog/2011/05/bij-pixmania-kan-je-niet-met-paypa.html
+permalink: /2011/05/bij-pixmania-kan-je-niet-met-paypa.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

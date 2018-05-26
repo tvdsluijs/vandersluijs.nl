@@ -5,7 +5,7 @@ date: 2013-05-14T00:01:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/05/14/it-your-birthday-well-it-my-birthday/
-permalink: /blog/2013/05/it-your-birthday-well-it-my-birthday.html
+permalink: /2013/05/it-your-birthday-well-it-my-birthday.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

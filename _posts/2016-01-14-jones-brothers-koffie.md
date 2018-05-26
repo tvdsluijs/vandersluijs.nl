@@ -5,7 +5,7 @@ date: 2016-01-14T17:54:31+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2133
-permalink: /blog/2016/01/jones-brothers-koffie.html
+permalink: /2016/01/jones-brothers-koffie.html
 factory_shortcodes_assets:
   - 'a:0:{}'
 wp_review_location:

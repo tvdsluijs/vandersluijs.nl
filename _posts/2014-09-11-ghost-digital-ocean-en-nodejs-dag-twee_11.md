@@ -5,7 +5,7 @@ date: 2014-09-11T20:02:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/09/11/ghost-digital-ocean-en-nodejs-dag-twee_11/
-permalink: /blog/2014/09/ghost-digital-ocean-en-nodejs-dag-twee_11.html
+permalink: /2014/09/ghost-digital-ocean-en-nodejs-dag-twee_11.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2012-04-20T22:14:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/04/20/hoe-ik-mijn-bezoekers-verloor-en-weer/
-permalink: /blog/2012/04/hoe-ik-mijn-bezoekers-verloor-en-weer.html
+permalink: /2012/04/hoe-ik-mijn-bezoekers-verloor-en-weer.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

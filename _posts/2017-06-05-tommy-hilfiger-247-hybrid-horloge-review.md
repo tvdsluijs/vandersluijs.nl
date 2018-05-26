@@ -5,7 +5,7 @@ date: 2017-06-05T17:02:04+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=4328
-permalink: /blog/2017/06/tommy-hilfiger-247-hybrid-horloge-review.html
+permalink: /2017/06/tommy-hilfiger-247-hybrid-horloge-review.html
 hits:
   - "320"
 dsq_thread_id:

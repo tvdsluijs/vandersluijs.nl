@@ -5,7 +5,7 @@ date: 2009-08-31T17:16:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/08/31/sap-crm-article-in-vnsg-magazine/
-permalink: /blog/2009/08/sap-crm-article-in-vnsg-magazine.html
+permalink: /2009/08/sap-crm-article-in-vnsg-magazine.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

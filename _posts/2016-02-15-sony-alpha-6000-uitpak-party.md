@@ -5,7 +5,7 @@ date: 2016-02-15T22:26:43+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://dezeeuwsefotograaf.nl/?p=2372
-permalink: /blog/2016/02/sony-alpha-6000-uitpak-party.html
+permalink: /2016/02/sony-alpha-6000-uitpak-party.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

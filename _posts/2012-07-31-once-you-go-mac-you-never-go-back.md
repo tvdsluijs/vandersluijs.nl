@@ -5,7 +5,7 @@ date: 2012-07-31T00:04:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/07/31/once-you-go-mac-you-never-go-back/
-permalink: /blog/2012/07/once-you-go-mac-you-never-go-back.html
+permalink: /2012/07/once-you-go-mac-you-never-go-back.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2016-08-08T13:25:56+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2947
-permalink: /blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html
+permalink: /2016/08/gorillapod-slr-zoom-hardcore-vloggen.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

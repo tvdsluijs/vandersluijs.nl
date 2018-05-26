@@ -5,7 +5,7 @@ date: 2009-10-07T16:17:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/07/adobe-max-last-day/
-permalink: /blog/2009/10/adobe-max-last-day.html
+permalink: /2009/10/adobe-max-last-day.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

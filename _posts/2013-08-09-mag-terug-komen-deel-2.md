@@ -5,7 +5,7 @@ date: 2013-08-09T03:22:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/08/09/mag-terug-komen-deel-2/
-permalink: /blog/2013/08/mag-terug-komen-deel-2.html
+permalink: /2013/08/mag-terug-komen-deel-2.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

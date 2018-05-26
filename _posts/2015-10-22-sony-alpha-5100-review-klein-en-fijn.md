@@ -5,7 +5,7 @@ date: 2015-10-22T17:19:58+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1548
-permalink: /blog/2015/10/sony-alpha-5100-review-klein-en-fijn.html
+permalink: /2015/10/sony-alpha-5100-review-klein-en-fijn.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

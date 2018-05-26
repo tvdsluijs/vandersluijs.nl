@@ -5,7 +5,7 @@ date: 2011-03-19T00:09:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/03/19/donatie-ontvangen-van-mi/
-permalink: /blog/2011/03/donatie-ontvangen-van-mi.html
+permalink: /2011/03/donatie-ontvangen-van-mi.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

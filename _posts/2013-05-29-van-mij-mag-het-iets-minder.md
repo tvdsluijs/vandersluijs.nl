@@ -5,7 +5,7 @@ date: 2013-05-29T22:21:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/05/29/van-mij-mag-het-iets-minder/
-permalink: /blog/2013/05/van-mij-mag-het-iets-minder.html
+permalink: /2013/05/van-mij-mag-het-iets-minder.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

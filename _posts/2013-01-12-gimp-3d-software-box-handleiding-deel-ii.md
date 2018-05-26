@@ -5,7 +5,7 @@ date: 2013-01-12T20:18:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/01/12/gimp-3d-software-box-handleiding-deel-ii/
-permalink: /blog/2013/01/gimp-3d-software-box-handleiding-deel-ii.html
+permalink: /2013/01/gimp-3d-software-box-handleiding-deel-ii.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

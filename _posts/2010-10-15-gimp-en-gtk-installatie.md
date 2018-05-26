@@ -5,7 +5,7 @@ date: 2010-10-15T13:20:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/10/15/installatie-van-gtk-gimp/
-permalink: /blog/2010/10/gimp-en-gtk-installatie.html
+permalink: /2010/10/gimp-en-gtk-installatie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2016-08-20T12:26:57+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=3485
-permalink: /blog/2016/08/solution-polar-v800-m400-heart-rate-h7-connection-problem.html
+permalink: /2016/08/solution-polar-v800-m400-heart-rate-h7-connection-problem.html
 itrr_another_apply:
   - 'no'
 wp_review_location:

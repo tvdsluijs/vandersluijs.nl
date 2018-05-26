@@ -5,7 +5,7 @@ date: 2014-01-01T09:00:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/01/01/2014-een-nieuw-jaar-vol-nieuwe/
-permalink: /blog/2014/01/2014-een-nieuw-jaar-vol-nieuwe.html
+permalink: /2014/01/2014-een-nieuw-jaar-vol-nieuwe.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

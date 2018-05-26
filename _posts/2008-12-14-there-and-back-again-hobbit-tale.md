@@ -5,7 +5,7 @@ date: 2008-12-14T14:37:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/12/14/there-and-back-again-hobbit-tale/
-permalink: /blog/2008/12/there-and-back-again-hobbit-tale.html
+permalink: /2008/12/there-and-back-again-hobbit-tale.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2013-05-26T19:41:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/05/26/endorsements-on-linkedin-are-sha/
-permalink: /blog/2013/05/endorsements-on-linkedin-are-sha.html
+permalink: /2013/05/endorsements-on-linkedin-are-sha.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

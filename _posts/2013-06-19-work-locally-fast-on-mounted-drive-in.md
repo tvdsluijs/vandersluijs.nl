@@ -5,7 +5,7 @@ date: 2013-06-19T21:40:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/06/19/work-locally-fast-on-mounted-drive-in/
-permalink: /blog/2013/06/work-locally-fast-on-mounted-drive-in.html
+permalink: /2013/06/work-locally-fast-on-mounted-drive-in.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

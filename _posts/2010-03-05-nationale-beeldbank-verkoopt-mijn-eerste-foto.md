@@ -5,7 +5,7 @@ date: 2010-03-05T00:54:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/03/05/mijn-eerste-foto-verkoc/
-permalink: /blog/2010/03/nationale-beeldbank-verkoopt-mijn-eerste-foto.html
+permalink: /2010/03/nationale-beeldbank-verkoopt-mijn-eerste-foto.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

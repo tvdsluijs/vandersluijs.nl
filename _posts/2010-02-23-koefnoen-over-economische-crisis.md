@@ -5,7 +5,7 @@ date: 2010-02-23T01:08:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/02/23/koefnoen-over-economische-crisis/
-permalink: /blog/2010/02/koefnoen-over-economische-crisis.html
+permalink: /2010/02/koefnoen-over-economische-crisis.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

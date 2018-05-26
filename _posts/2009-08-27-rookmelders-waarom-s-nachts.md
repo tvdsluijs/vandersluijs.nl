@@ -5,7 +5,7 @@ date: 2009-08-27T12:57:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/08/27/rookmelders-waarom-s-nachts/
-permalink: /blog/2009/08/rookmelders-waarom-s-nachts.html
+permalink: /2009/08/rookmelders-waarom-s-nachts.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

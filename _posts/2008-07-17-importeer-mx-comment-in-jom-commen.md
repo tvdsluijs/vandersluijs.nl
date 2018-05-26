@@ -5,7 +5,7 @@ date: 2008-07-17T14:47:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/07/17/importeer-mx-comment-in-jom-commen/
-permalink: /blog/2008/07/importeer-mx-comment-in-jom-commen.html
+permalink: /2008/07/importeer-mx-comment-in-jom-commen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

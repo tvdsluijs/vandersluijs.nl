@@ -5,7 +5,7 @@ date: 2008-10-27T06:22:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/10/27/altijdup2date-saved-day/
-permalink: /blog/2008/10/altijdup2date-saved-day.html
+permalink: /2008/10/altijdup2date-saved-day.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

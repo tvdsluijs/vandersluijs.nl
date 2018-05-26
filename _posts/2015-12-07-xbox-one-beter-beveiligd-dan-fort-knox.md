@@ -5,7 +5,7 @@ date: 2015-12-07T06:25:49+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1871
-permalink: /blog/2015/12/xbox-one-beter-beveiligd-dan-fort-knox.html
+permalink: /2015/12/xbox-one-beter-beveiligd-dan-fort-knox.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

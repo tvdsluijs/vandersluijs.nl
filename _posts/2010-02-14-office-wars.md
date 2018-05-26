@@ -5,7 +5,7 @@ date: 2010-02-14T20:28:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/02/14/office-wars/
-permalink: /blog/2010/02/office-wars.html
+permalink: /2010/02/office-wars.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

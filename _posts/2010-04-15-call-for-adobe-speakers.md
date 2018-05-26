@@ -5,7 +5,7 @@ date: 2010-04-15T19:50:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/04/15/call-for-adobe-speakers/
-permalink: /blog/2010/04/call-for-adobe-speakers.html
+permalink: /2010/04/call-for-adobe-speakers.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

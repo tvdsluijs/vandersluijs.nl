@@ -5,7 +5,7 @@ date: 2010-04-09T17:03:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/04/09/naar-rusland-voor-php-flex-sessie/
-permalink: /blog/2010/04/naar-rusland-voor-php-flex-sessie.html
+permalink: /2010/04/naar-rusland-voor-php-flex-sessie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

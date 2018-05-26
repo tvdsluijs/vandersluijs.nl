@@ -5,7 +5,7 @@ date: 2013-08-24T22:43:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/08/24/polaroid-effec/
-permalink: /blog/2013/08/polaroid-effect-met-gimp.html
+permalink: /2013/08/polaroid-effect-met-gimp.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

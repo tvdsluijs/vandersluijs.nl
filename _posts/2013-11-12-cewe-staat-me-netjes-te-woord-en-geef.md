@@ -5,7 +5,7 @@ date: 2013-11-12T05:20:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/11/12/cewe-staat-me-netjes-te-woord-en-geef/
-permalink: /blog/2013/11/cewe-staat-me-netjes-te-woord-en-geef.html
+permalink: /2013/11/cewe-staat-me-netjes-te-woord-en-geef.html
 blogger_bid:
   - "7319082336334478150"
   - "7319082336334478150"

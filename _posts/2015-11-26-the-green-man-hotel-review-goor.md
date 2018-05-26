@@ -5,7 +5,7 @@ date: 2015-11-26T06:10:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1732
-permalink: /blog/2015/11/the-green-man-hotel-review-goor.html
+permalink: /2015/11/the-green-man-hotel-review-goor.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

@@ -5,7 +5,7 @@ date: 2009-06-06T08:12:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/06/06/flugr-presentation-flex-architectuur-in/
-permalink: /blog/2009/06/flugr-presentation-flex-architectuur-in.html
+permalink: /2009/06/flugr-presentation-flex-architectuur-in.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

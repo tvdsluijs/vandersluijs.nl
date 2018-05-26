@@ -5,7 +5,7 @@ date: 2011-02-08T16:07:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/02/08/ilife-11-upgrade-voor-de-mac/
-permalink: /blog/2011/02/ilife-11-upgrade-voor-de-mac.html
+permalink: /2011/02/ilife-11-upgrade-voor-de-mac.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

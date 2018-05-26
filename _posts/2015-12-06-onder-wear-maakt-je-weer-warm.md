@@ -5,7 +5,7 @@ date: 2015-12-06T14:46:48+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1866
-permalink: /blog/2015/12/onder-wear-maakt-je-weer-warm.html
+permalink: /2015/12/onder-wear-maakt-je-weer-warm.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

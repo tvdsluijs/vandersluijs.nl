@@ -5,7 +5,7 @@ date: 2010-10-20T22:51:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/10/20/watermerk-in-je-foto/
-permalink: /blog/2010/10/gimp-watermerk-in-je-foto.html
+permalink: /2010/10/gimp-watermerk-in-je-foto.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

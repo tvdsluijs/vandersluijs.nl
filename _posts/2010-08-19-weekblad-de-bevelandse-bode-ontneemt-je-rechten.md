@@ -5,7 +5,7 @@ date: 2010-08-19T19:44:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/08/19/leuke-foto-actie-van-weekblad-de/
-permalink: /blog/2010/08/weekblad-de-bevelandse-bode-ontneemt-je-rechten.html
+permalink: /2010/08/weekblad-de-bevelandse-bode-ontneemt-je-rechten.html
 blogger_bid:
   - "7319082336334478150"
   - "7319082336334478150"

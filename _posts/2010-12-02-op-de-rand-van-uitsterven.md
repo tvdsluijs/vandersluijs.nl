@@ -5,7 +5,7 @@ date: 2010-12-02T06:20:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/12/02/op-de-rand-van-uitsterven/
-permalink: /blog/2010/12/op-de-rand-van-uitsterven.html
+permalink: /2010/12/op-de-rand-van-uitsterven.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

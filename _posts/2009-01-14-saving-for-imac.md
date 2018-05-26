@@ -5,7 +5,7 @@ date: 2009-01-14T09:59:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/01/14/saving-for-imac/
-permalink: /blog/2009/01/saving-for-imac.html
+permalink: /2009/01/saving-for-imac.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

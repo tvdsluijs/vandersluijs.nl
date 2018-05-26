@@ -5,7 +5,7 @@ date: 2015-08-19T22:42:37+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/?p=1159
-permalink: /blog/2015/08/meer-nederlandse-artikelen-komen-er-aan.html
+permalink: /2015/08/meer-nederlandse-artikelen-komen-er-aan.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

@@ -5,7 +5,7 @@ date: 2014-01-29T05:40:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/01/29/mooie-foto/
-permalink: /blog/2014/01/mooie-foto.html
+permalink: /2014/01/mooie-foto.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2007-08-25T05:12:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/08/25/internet-op-vista-langzaa/
-permalink: /blog/2007/08/internet-op-vista-langzaa.html
+permalink: /2007/08/internet-op-vista-langzaa.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2010-05-03T10:30:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/05/03/microsoft-beta-tester/
-permalink: /blog/2010/05/microsoft-beta-tester.html
+permalink: /2010/05/microsoft-beta-tester.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2016-08-14T14:18:03+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=3380
-permalink: /blog/2016/08/casa-martijo-review-bij-villa-arenas.html
+permalink: /2016/08/casa-martijo-review-bij-villa-arenas.html
 hits:
   - "208"
 wp_review_location:

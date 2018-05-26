@@ -5,7 +5,7 @@ date: 2008-07-01T00:31:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/07/01/negatieven-inscannen-met-canon-mp-970/
-permalink: /blog/2008/07/negatieven-inscannen-met-canon-mp-970.html
+permalink: /2008/07/negatieven-inscannen-met-canon-mp-970.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

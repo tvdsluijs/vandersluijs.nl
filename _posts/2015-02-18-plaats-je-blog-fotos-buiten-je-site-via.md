@@ -5,7 +5,7 @@ date: 2015-02-18T20:58:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/02/18/plaats-je-blog-fotos-buiten-je-site-via/
-permalink: /blog/2015/02/plaats-je-blog-fotos-buiten-je-site-via.html
+permalink: /2015/02/plaats-je-blog-fotos-buiten-je-site-via.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

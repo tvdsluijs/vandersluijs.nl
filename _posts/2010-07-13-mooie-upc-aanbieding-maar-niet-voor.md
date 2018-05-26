@@ -5,7 +5,7 @@ date: 2010-07-13T11:52:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/07/13/mooie-upc-aanbieding-maar-niet-voor/
-permalink: /blog/2010/07/mooie-upc-aanbieding-maar-niet-voor.html
+permalink: /2010/07/mooie-upc-aanbieding-maar-niet-voor.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

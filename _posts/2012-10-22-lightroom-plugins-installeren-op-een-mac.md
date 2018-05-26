@@ -5,7 +5,7 @@ date: 2012-10-22T21:57:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/10/22/lightroom-plugins-installeren-op-een-mac/
-permalink: /blog/2012/10/lightroom-plugins-installeren-op-een-mac.html
+permalink: /2012/10/lightroom-plugins-installeren-op-een-mac.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2015-04-21T20:11:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/04/21/kunststof-opbergkast-kis-up-is-pure/
-permalink: /blog/2015/04/kunststof-opbergkast-kis-up-is-pure.html
+permalink: /2015/04/kunststof-opbergkast-kis-up-is-pure.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

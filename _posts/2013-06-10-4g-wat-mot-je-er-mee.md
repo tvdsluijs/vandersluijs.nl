@@ -5,7 +5,7 @@ date: 2013-06-10T14:03:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/06/10/4g-wat-mot-je-er-mee/
-permalink: /blog/2013/06/4g-wat-mot-je-er-mee.html
+permalink: /2013/06/4g-wat-mot-je-er-mee.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

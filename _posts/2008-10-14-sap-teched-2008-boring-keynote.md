@@ -5,7 +5,7 @@ date: 2008-10-14T00:00:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/10/14/sap-teched-2008-boring-keynote/
-permalink: /blog/2008/10/sap-teched-2008-boring-keynote.html
+permalink: /2008/10/sap-teched-2008-boring-keynote.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

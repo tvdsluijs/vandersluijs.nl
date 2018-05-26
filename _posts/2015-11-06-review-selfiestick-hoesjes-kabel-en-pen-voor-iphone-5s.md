@@ -5,7 +5,7 @@ date: 2015-11-06T21:19:49+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1683
-permalink: /blog/2015/11/review-selfiestick-hoesjes-kabel-en-pen-voor-iphone-5s.html
+permalink: /2015/11/review-selfiestick-hoesjes-kabel-en-pen-voor-iphone-5s.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

@@ -5,7 +5,7 @@ date: 2014-06-09T09:59:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/06/09/waarom-de-winkels-het-verliezen-van_59/
-permalink: /blog/2014/06/waarom-de-winkels-het-verliezen-van_59.html
+permalink: /2014/06/waarom-de-winkels-het-verliezen-van_59.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

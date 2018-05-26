@@ -5,7 +5,7 @@ date: 2014-05-23T21:25:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/05/23/tassimo-een-goede-keuze-of-nie/
-permalink: /blog/2014/05/tassimo-een-goede-keuze-of-nie.html
+permalink: /2014/05/tassimo-een-goede-keuze-of-nie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

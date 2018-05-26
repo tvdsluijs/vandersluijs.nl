@@ -5,7 +5,7 @@ date: 2013-12-27T14:59:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/12/27/op-foto-cursus-voor-gevorderden/
-permalink: /blog/2013/12/op-foto-cursus-voor-gevorderden.html
+permalink: /2013/12/op-foto-cursus-voor-gevorderden.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

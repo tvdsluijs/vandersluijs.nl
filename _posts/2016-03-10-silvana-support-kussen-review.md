@@ -5,7 +5,7 @@ date: 2016-03-10T08:00:15+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2577
-permalink: /blog/2016/03/silvana-support-kussen-review.html
+permalink: /2016/03/silvana-support-kussen-review.html
 wp_review_location:
   - bottom
 wp_review_type:

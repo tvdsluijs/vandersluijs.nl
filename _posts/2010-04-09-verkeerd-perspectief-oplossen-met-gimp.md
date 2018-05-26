@@ -5,7 +5,7 @@ date: 2010-04-09T11:42:01+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://dezeeuwsefotograaf.nl/?p=19
-permalink: /blog/2010/04/verkeerd-perspectief-oplossen-met-gimp.html
+permalink: /2010/04/verkeerd-perspectief-oplossen-met-gimp.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

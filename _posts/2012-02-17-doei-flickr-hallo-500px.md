@@ -5,7 +5,7 @@ date: 2012-02-17T03:35:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/02/17/doei-flickr-hallo-500px/
-permalink: /blog/2012/02/doei-flickr-hallo-500px.html
+permalink: /2012/02/doei-flickr-hallo-500px.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

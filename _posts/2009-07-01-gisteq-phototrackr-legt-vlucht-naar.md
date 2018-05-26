@@ -5,7 +5,7 @@ date: 2009-07-01T19:34:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/07/01/gisteq-phototrackr-legt-vlucht-naar/
-permalink: /blog/2009/07/gisteq-phototrackr-legt-vlucht-naar.html
+permalink: /2009/07/gisteq-phototrackr-legt-vlucht-naar.html
 blogger_bid:
   - "7319082336334478150"
   - "7319082336334478150"

@@ -5,7 +5,7 @@ date: 2014-11-09T14:19:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/11/09/a-nerd-dive-in-to-digitalocean/
-permalink: /blog/2014/11/a-nerd-dive-in-to-digitalocean.html
+permalink: /2014/11/a-nerd-dive-in-to-digitalocean.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

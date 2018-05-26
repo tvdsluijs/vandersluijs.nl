@@ -5,7 +5,7 @@ date: 2009-01-12T10:31:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/01/12/ms-live-writer-gives-error-801-occurred/
-permalink: /blog/2009/01/ms-live-writer-gives-error-801-occurred.html
+permalink: /2009/01/ms-live-writer-gives-error-801-occurred.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

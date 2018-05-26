@@ -5,7 +5,7 @@ date: 2007-07-17T17:38:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/07/17/ionic-isapi-rewriter-regels-voor-joomla/
-permalink: /blog/2007/07/ionic-isapi-rewriter-regels-voor-joomla.html
+permalink: /2007/07/ionic-isapi-rewriter-regels-voor-joomla.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

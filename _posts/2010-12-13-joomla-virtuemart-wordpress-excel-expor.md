@@ -5,7 +5,7 @@ date: 2010-12-13T18:19:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/12/13/joomla-virtuemart-wordpress-excel-expor/
-permalink: /blog/2010/12/joomla-virtuemart-wordpress-excel-expor.html
+permalink: /2010/12/joomla-virtuemart-wordpress-excel-expor.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

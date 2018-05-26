@@ -5,7 +5,7 @@ date: 2012-10-26T18:39:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/10/26/rss-visualizer-apple-best-screensaver/
-permalink: /blog/2012/10/rss-visualizer-apple-best-screensaver.html
+permalink: /2012/10/rss-visualizer-apple-best-screensaver.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

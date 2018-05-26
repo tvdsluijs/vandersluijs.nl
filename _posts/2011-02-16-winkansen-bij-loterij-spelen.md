@@ -5,7 +5,7 @@ date: 2011-02-16T02:53:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/02/16/winkansen-bij-loterij-spelen/
-permalink: /blog/2011/02/winkansen-bij-loterij-spelen.html
+permalink: /2011/02/winkansen-bij-loterij-spelen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

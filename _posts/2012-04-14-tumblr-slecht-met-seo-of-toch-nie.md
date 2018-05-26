@@ -5,7 +5,7 @@ date: 2012-04-14T23:09:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/04/14/tumblr-slecht-met-seo-of-toch-nie/
-permalink: /blog/2012/04/tumblr-slecht-met-seo-of-toch-nie.html
+permalink: /2012/04/tumblr-slecht-met-seo-of-toch-nie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

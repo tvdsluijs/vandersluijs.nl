@@ -5,7 +5,7 @@ date: 2009-10-12T14:27:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/12/lax-is-very-very-sad-airpor/
-permalink: /blog/2009/10/lax-is-very-very-sad-airpor.html
+permalink: /2009/10/lax-is-very-very-sad-airpor.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

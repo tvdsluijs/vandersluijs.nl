@@ -5,7 +5,7 @@ date: 2007-07-02T14:01:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/07/02/problemen-vista-en-oude-logitech-webcams/
-permalink: /blog/2007/07/problemen-vista-en-oude-logitech-webcams.html
+permalink: /2007/07/problemen-vista-en-oude-logitech-webcams.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

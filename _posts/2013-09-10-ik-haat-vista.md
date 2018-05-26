@@ -5,7 +5,7 @@ date: 2013-09-10T14:50:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/09/10/ik-haat-vista/
-permalink: /blog/2013/09/ik-haat-vista.html
+permalink: /2013/09/ik-haat-vista.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

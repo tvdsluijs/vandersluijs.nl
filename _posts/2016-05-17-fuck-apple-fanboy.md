@@ -5,7 +5,7 @@ date: 2016-05-17T09:30:30+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://itheo.nl/?p=2075
-permalink: /blog/2016/05/fuck-apple-fanboy.html
+permalink: /2016/05/fuck-apple-fanboy.html
 hits:
   - "171"
 dsq_thread_id:

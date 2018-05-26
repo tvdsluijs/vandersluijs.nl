@@ -5,7 +5,7 @@ date: 2011-03-29T14:26:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/03/29/greenchoice-bedankt-no/
-permalink: /blog/2011/03/greenchoice-bedankt-no.html
+permalink: /2011/03/greenchoice-bedankt-no.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

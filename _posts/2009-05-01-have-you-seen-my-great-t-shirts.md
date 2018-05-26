@@ -5,7 +5,7 @@ date: 2009-05-01T21:49:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/05/01/have-you-seen-my-great-t-shirts/
-permalink: /blog/2009/05/have-you-seen-my-great-t-shirts.html
+permalink: /2009/05/have-you-seen-my-great-t-shirts.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2008-12-03T20:09:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/12/03/kpn-mobiel-internet-via-ubuntu-kubuntu/
-permalink: /blog/2008/12/kpn-mobiel-internet-via-ubuntu-kubuntu.html
+permalink: /2008/12/kpn-mobiel-internet-via-ubuntu-kubuntu.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2008-11-19T12:24:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/11/19/the-chronicles-of-spellborn-beta-tester/
-permalink: /blog/2008/11/the-chronicles-of-spellborn-beta-tester.html
+permalink: /2008/11/the-chronicles-of-spellborn-beta-tester.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

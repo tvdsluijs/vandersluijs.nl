@@ -5,7 +5,7 @@ date: 2010-11-27T02:02:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/11/27/goedkoopste-zorg-premie-helemaal-nie/
-permalink: /blog/2010/11/goedkoopste-zorg-premie-helemaal-nie.html
+permalink: /2010/11/goedkoopste-zorg-premie-helemaal-nie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

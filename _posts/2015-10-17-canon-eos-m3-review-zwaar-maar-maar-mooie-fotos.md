@@ -5,7 +5,7 @@ date: 2015-10-17T20:58:20+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1510
-permalink: /blog/2015/10/canon-eos-m3-review-zwaar-maar-maar-mooie-fotos.html
+permalink: /2015/10/canon-eos-m3-review-zwaar-maar-maar-mooie-fotos.html
 wp_review_location:
   - bottom
 wp_review_type:

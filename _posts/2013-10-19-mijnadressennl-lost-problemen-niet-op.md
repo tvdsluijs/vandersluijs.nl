@@ -5,7 +5,7 @@ date: 2013-10-19T03:19:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/10/19/mijnadressennl-lost-problemen-niet-op/
-permalink: /blog/2013/10/mijnadressennl-lost-problemen-niet-op.html
+permalink: /2013/10/mijnadressennl-lost-problemen-niet-op.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

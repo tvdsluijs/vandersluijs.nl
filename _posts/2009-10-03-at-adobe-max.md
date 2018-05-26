@@ -5,7 +5,7 @@ date: 2009-10-03T11:15:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/03/at-adobe-max/
-permalink: /blog/2009/10/at-adobe-max.html
+permalink: /2009/10/at-adobe-max.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2012-10-02T21:00:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/10/02/from-selfmade-to-wordpress-to-blogger/
-permalink: /blog/2012/10/from-selfmade-to-wordpress-to-blogger.html
+permalink: /2012/10/from-selfmade-to-wordpress-to-blogger.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

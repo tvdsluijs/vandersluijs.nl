@@ -5,7 +5,7 @@ date: 2008-07-11T21:22:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/07/11/gui-op-een-ubuntu-server/
-permalink: /blog/2008/07/gui-op-een-ubuntu-server.html
+permalink: /2008/07/gui-op-een-ubuntu-server.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

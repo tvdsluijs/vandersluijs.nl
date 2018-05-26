@@ -5,7 +5,7 @@ date: 2016-01-07T06:08:57+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2101
-permalink: /blog/2016/01/remove-yellowish-color-photos-with-lightroom.html
+permalink: /2016/01/remove-yellowish-color-photos-with-lightroom.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

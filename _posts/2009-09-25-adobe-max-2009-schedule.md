@@ -5,7 +5,7 @@ date: 2009-09-25T10:52:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/09/25/adobe-max-2009-schedule/
-permalink: /blog/2009/09/adobe-max-2009-schedule.html
+permalink: /2009/09/adobe-max-2009-schedule.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2015-10-21T11:13:52+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1552
-permalink: /blog/2015/10/gebruik-popcorn-time-nou-wel-of-niet-illegaal.html
+permalink: /2015/10/gebruik-popcorn-time-nou-wel-of-niet-illegaal.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

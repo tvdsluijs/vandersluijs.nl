@@ -5,7 +5,7 @@ date: 2016-12-23T10:24:16+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=4397
-permalink: /blog/2016/12/stoppen-social-media.html
+permalink: /2016/12/stoppen-social-media.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

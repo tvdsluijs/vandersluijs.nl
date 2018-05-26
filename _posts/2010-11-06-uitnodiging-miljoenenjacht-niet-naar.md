@@ -5,7 +5,7 @@ date: 2010-11-06T01:48:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/11/06/uitnodiging-miljoenenjacht-niet-naar/
-permalink: /blog/2010/11/uitnodiging-miljoenenjacht-niet-naar.html
+permalink: /2010/11/uitnodiging-miljoenenjacht-niet-naar.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2002-02-21T15:54:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/02/21/eindelijk-een-digitale-camera/
-permalink: /blog/2002/02/canon-g3-eindelijk-een-digitale-camera.html
+permalink: /2002/02/canon-g3-eindelijk-een-digitale-camera.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2016-03-13T11:30:48+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2612
-permalink: /blog/2016/03/dag-iphone-weg-deed.html
+permalink: /2016/03/dag-iphone-weg-deed.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

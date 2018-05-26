@@ -5,7 +5,7 @@ date: 2013-10-06T01:18:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/10/06/pzc-schept-verkeerde-klantverwachting/
-permalink: /blog/2013/10/pzc-schept-verkeerde-klantverwachting.html
+permalink: /2013/10/pzc-schept-verkeerde-klantverwachting.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

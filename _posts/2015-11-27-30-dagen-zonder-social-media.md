@@ -5,7 +5,7 @@ date: 2015-11-27T21:30:26+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1679
-permalink: /blog/2015/11/30-dagen-zonder-social-media.html
+permalink: /2015/11/30-dagen-zonder-social-media.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

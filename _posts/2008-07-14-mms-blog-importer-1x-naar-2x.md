@@ -5,7 +5,7 @@ date: 2008-07-14T15:44:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/07/14/mms-blog-importer-1x-naar-2x/
-permalink: /blog/2008/07/mms-blog-importer-1x-naar-2x.html
+permalink: /2008/07/mms-blog-importer-1x-naar-2x.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

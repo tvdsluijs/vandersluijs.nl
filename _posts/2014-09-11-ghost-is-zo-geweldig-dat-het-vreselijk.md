@@ -5,7 +5,7 @@ date: 2014-09-11T20:04:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/09/11/ghost-is-zo-geweldig-dat-het-vreselijk/
-permalink: /blog/2014/09/ghost-is-zo-geweldig-dat-het-vreselijk.html
+permalink: /2014/09/ghost-is-zo-geweldig-dat-het-vreselijk.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

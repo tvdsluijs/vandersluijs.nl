@@ -5,7 +5,7 @@ date: 2016-02-20T22:19:39+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://itheo.nl/?p=2022
-permalink: /blog/2016/02/apple-85-watt-adapter-op-een-13-macbook.html
+permalink: /2016/02/apple-85-watt-adapter-op-een-13-macbook.html
 hits:
   - "89"
 itrr_another_apply:

@@ -5,7 +5,7 @@ date: 2015-09-27T10:07:52+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1471
-permalink: /blog/2015/09/facebook-de-ondergang-van-internet.html
+permalink: /2015/09/facebook-de-ondergang-van-internet.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

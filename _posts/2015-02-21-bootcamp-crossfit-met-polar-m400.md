@@ -5,7 +5,7 @@ date: 2015-02-21T21:57:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/02/21/bootcamp-crossfit-met-polar-m400/
-permalink: /blog/2015/02/bootcamp-crossfit-met-polar-m400.html
+permalink: /2015/02/bootcamp-crossfit-met-polar-m400.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

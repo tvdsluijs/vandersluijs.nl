@@ -5,7 +5,7 @@ date: 2007-10-18T16:06:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/10/18/xp-installatie-op-vista-pc/
-permalink: /blog/2007/10/xp-installatie-op-vista-pc.html
+permalink: /2007/10/xp-installatie-op-vista-pc.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

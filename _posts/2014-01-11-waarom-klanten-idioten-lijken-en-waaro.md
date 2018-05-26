@@ -5,7 +5,7 @@ date: 2014-01-11T10:14:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/01/11/waarom-klanten-idioten-lijken-en-waaro/
-permalink: /blog/2014/01/waarom-klanten-idioten-lijken-en-waaro.html
+permalink: /2014/01/waarom-klanten-idioten-lijken-en-waaro.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

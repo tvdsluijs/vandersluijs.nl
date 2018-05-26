@@ -5,7 +5,7 @@ date: 2015-09-13T09:27:11+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/?p=1284
-permalink: /blog/2015/09/verschil-polar-m400-en-polar-v800.html
+permalink: /2015/09/verschil-polar-m400-en-polar-v800.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

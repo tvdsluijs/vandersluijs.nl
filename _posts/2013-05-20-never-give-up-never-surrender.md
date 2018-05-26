@@ -5,7 +5,7 @@ date: 2013-05-20T21:48:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/05/20/never-give-up-never-surrender/
-permalink: /blog/2013/05/never-give-up-never-surrender.html
+permalink: /2013/05/never-give-up-never-surrender.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

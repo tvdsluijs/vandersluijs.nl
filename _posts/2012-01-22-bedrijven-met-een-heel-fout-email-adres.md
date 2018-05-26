@@ -5,7 +5,7 @@ date: 2012-01-22T00:38:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/01/22/bedrijven-met-een-heel-fout-email-adres/
-permalink: /blog/2012/01/bedrijven-met-een-heel-fout-email-adres.html
+permalink: /2012/01/bedrijven-met-een-heel-fout-email-adres.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

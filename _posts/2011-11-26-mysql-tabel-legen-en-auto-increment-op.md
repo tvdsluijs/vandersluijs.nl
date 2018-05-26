@@ -5,7 +5,7 @@ date: 2011-11-26T03:39:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/11/26/mysql-tabel-legen-en-auto-increment-op/
-permalink: /blog/2011/11/mysql-tabel-legen-en-auto-increment-op.html
+permalink: /2011/11/mysql-tabel-legen-en-auto-increment-op.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

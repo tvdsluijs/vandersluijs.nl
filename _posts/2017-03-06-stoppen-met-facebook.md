@@ -5,7 +5,7 @@ date: 2017-03-06T10:21:17+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=4394
-permalink: /blog/2017/03/stoppen-met-facebook.html
+permalink: /2017/03/stoppen-met-facebook.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

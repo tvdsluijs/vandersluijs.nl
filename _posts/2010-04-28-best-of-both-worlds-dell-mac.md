@@ -5,7 +5,7 @@ date: 2010-04-28T01:56:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/04/28/best-of-both-worlds-dell-mac/
-permalink: /blog/2010/04/best-of-both-worlds-dell-mac.html
+permalink: /2010/04/best-of-both-worlds-dell-mac.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

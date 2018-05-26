@@ -5,7 +5,7 @@ date: 2010-03-06T19:42:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/03/06/wat-een-geweldig-nummer-is-di/
-permalink: /blog/2010/03/wat-een-geweldig-nummer-is-di.html
+permalink: /2010/03/wat-een-geweldig-nummer-is-di.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

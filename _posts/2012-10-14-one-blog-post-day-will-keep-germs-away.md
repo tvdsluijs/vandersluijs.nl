@@ -5,7 +5,7 @@ date: 2012-10-14T10:12:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/10/14/one-blog-post-day-will-keep-germs-away/
-permalink: /blog/2012/10/one-blog-post-day-will-keep-germs-away.html
+permalink: /2012/10/one-blog-post-day-will-keep-germs-away.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

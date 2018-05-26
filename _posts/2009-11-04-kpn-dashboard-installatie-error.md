@@ -5,7 +5,7 @@ date: 2009-11-04T13:55:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/11/04/kpn-dashboard-installatie-error/
-permalink: /blog/2009/11/kpn-dashboard-installatie-error.html
+permalink: /2009/11/kpn-dashboard-installatie-error.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

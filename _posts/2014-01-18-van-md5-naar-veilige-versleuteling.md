@@ -5,7 +5,7 @@ date: 2014-01-18T12:38:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/01/18/van-md5-naar-veilige-versleuteling/
-permalink: /blog/2014/01/van-md5-naar-veilige-versleuteling.html
+permalink: /2014/01/van-md5-naar-veilige-versleuteling.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

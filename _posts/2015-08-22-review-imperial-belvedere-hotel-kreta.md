@@ -5,7 +5,7 @@ date: 2015-08-22T22:59:35+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/?p=1191
-permalink: /blog/2015/08/review-imperial-belvedere-hotel-kreta.html
+permalink: /2015/08/review-imperial-belvedere-hotel-kreta.html
 wp_review_custom_location:
   - "1"
 wp_review_custom_colors:

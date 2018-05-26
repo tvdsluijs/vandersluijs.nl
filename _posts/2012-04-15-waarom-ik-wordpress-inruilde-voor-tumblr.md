@@ -5,7 +5,7 @@ date: 2012-04-15T15:54:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/04/15/waarom-ik-wordpress-inruilde-voor-tumblr/
-permalink: /blog/2012/04/waarom-ik-wordpress-inruilde-voor-tumblr.html
+permalink: /2012/04/waarom-ik-wordpress-inruilde-voor-tumblr.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

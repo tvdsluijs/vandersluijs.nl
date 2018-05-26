@@ -5,7 +5,7 @@ date: 2016-10-06T09:56:15+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=3555
-permalink: /blog/2016/10/hoe-kies-beste-logo-generator.html
+permalink: /2016/10/hoe-kies-beste-logo-generator.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

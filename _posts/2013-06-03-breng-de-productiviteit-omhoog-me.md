@@ -5,7 +5,7 @@ date: 2013-06-03T22:23:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/06/03/breng-de-productiviteit-omhoog-me/
-permalink: /blog/2013/06/breng-de-productiviteit-omhoog-me.html
+permalink: /2013/06/breng-de-productiviteit-omhoog-me.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

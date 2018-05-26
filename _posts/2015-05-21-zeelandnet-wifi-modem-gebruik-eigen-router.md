@@ -5,7 +5,7 @@ date: 2015-05-21T20:55:15+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl
-permalink: /blog/2015/05/zeelandnet-wifi-modem-gebruik-eigen-router.html
+permalink: /2015/05/zeelandnet-wifi-modem-gebruik-eigen-router.html
 hits:
   - "128"
 itrr_another_apply:

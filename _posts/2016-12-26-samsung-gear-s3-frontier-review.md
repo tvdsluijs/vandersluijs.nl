@@ -5,7 +5,7 @@ date: 2016-12-26T19:35:14+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=3606
-permalink: /blog/2016/12/samsung-gear-s3-frontier-review.html
+permalink: /2016/12/samsung-gear-s3-frontier-review.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

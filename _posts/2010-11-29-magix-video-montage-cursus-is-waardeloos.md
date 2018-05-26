@@ -5,7 +5,7 @@ date: 2010-11-29T02:52:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/11/29/magix-video-montage-cursus-is-waardeloos/
-permalink: /blog/2010/11/magix-video-montage-cursus-is-waardeloos.html
+permalink: /2010/11/magix-video-montage-cursus-is-waardeloos.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

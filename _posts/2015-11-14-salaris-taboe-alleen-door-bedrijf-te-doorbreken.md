@@ -5,7 +5,7 @@ date: 2015-11-14T14:59:32+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1715
-permalink: /blog/2015/11/salaris-taboe-alleen-door-bedrijf-te-doorbreken.html
+permalink: /2015/11/salaris-taboe-alleen-door-bedrijf-te-doorbreken.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

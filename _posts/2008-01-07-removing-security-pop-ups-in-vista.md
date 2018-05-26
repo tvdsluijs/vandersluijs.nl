@@ -5,7 +5,7 @@ date: 2008-01-07T21:02:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/01/07/removing-security-pop-ups-in-vista/
-permalink: /blog/2008/01/removing-security-pop-ups-in-vista.html
+permalink: /2008/01/removing-security-pop-ups-in-vista.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2014-09-24T04:40:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/09/24/chromecast-wat-is-het-wat-doet-he/
-permalink: /blog/2014/09/chromecast-wat-is-het-wat-doet-he.html
+permalink: /2014/09/chromecast-wat-is-het-wat-doet-he.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

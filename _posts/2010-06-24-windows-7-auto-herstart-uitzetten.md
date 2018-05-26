@@ -5,7 +5,7 @@ date: 2010-06-24T12:59:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/06/24/windows-7-auto-herstart-uitzetten/
-permalink: /blog/2010/06/windows-7-auto-herstart-uitzetten.html
+permalink: /2010/06/windows-7-auto-herstart-uitzetten.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

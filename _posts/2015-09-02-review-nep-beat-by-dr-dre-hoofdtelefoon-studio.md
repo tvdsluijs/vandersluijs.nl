@@ -5,7 +5,7 @@ date: 2015-09-02T06:04:48+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/?p=1227
-permalink: /blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html
+permalink: /2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html
 wp_review_location:
   - bottom
 wp_review_type:

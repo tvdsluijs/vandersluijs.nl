@@ -5,7 +5,7 @@ date: 2016-05-22T14:07:31+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=103
-permalink: /blog/2016/05/hulp-zeelandnet-wifi-modem-ondermaats.html
+permalink: /2016/05/hulp-zeelandnet-wifi-modem-ondermaats.html
 hits:
   - "150"
 dsq_thread_id:

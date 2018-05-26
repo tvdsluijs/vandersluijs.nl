@@ -5,7 +5,7 @@ date: 2016-06-07T21:18:16+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2846
-permalink: /blog/2016/06/uitpakparty-zeelandnet-tp-link-av-1200.html
+permalink: /2016/06/uitpakparty-zeelandnet-tp-link-av-1200.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

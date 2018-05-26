@@ -5,7 +5,7 @@ date: 2010-09-06T23:12:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/09/06/apache-wil-niet-opstarten-met-xampp/
-permalink: /blog/2010/09/apache-wil-niet-opstarten-met-xampp.html
+permalink: /2010/09/apache-wil-niet-opstarten-met-xampp.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

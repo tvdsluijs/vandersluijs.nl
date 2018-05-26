@@ -5,7 +5,7 @@ date: 2012-02-26T18:12:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/02/26/fotolijst-effec/
-permalink: /blog/2012/02/fotolijst-effect-met-gimp.html
+permalink: /2012/02/fotolijst-effect-met-gimp.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

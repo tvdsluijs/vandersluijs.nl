@@ -5,7 +5,7 @@ date: 2012-07-24T22:46:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/07/24/is-it-hype-no-it-is-skype/
-permalink: /blog/2012/07/is-it-hype-no-it-is-skype.html
+permalink: /2012/07/is-it-hype-no-it-is-skype.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

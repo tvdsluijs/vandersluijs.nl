@@ -5,7 +5,7 @@ date: 2015-04-14T19:34:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/04/14/de-pzc-en-wegener-media-flikken-het-he/
-permalink: /blog/2015/04/de-pzc-en-wegener-media-flikken-het-he.html
+permalink: /2015/04/de-pzc-en-wegener-media-flikken-het-he.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

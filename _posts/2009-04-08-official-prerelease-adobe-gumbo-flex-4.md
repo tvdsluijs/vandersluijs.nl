@@ -5,7 +5,7 @@ date: 2009-04-08T14:13:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/04/08/official-prerelease-adobe-gumbo-flex-4/
-permalink: /blog/2009/04/official-prerelease-adobe-gumbo-flex-4.html
+permalink: /2009/04/official-prerelease-adobe-gumbo-flex-4.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

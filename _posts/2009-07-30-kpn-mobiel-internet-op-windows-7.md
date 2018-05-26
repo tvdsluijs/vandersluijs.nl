@@ -5,7 +5,7 @@ date: 2009-07-30T13:12:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/07/30/kpn-mobiel-internet-op-windows-7/
-permalink: /blog/2009/07/kpn-mobiel-internet-op-windows-7.html
+permalink: /2009/07/kpn-mobiel-internet-op-windows-7.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

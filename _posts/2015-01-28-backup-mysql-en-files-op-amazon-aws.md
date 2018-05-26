@@ -5,7 +5,7 @@ date: 2015-01-28T05:40:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/01/28/backup-mysql-en-files-op-amazon-aws/
-permalink: /blog/2015/01/backup-mysql-en-files-op-amazon-aws.html
+permalink: /2015/01/backup-mysql-en-files-op-amazon-aws.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

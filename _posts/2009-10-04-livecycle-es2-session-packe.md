@@ -5,7 +5,7 @@ date: 2009-10-04T12:36:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/04/livecycle-es2-session-packe/
-permalink: /blog/2009/10/livecycle-es2-session-packe.html
+permalink: /2009/10/livecycle-es2-session-packe.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

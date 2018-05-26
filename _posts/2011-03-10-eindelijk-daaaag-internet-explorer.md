@@ -5,7 +5,7 @@ date: 2011-03-10T09:21:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/03/10/eindelijk-daaaag-internet-explorer/
-permalink: /blog/2011/03/eindelijk-daaaag-internet-explorer.html
+permalink: /2011/03/eindelijk-daaaag-internet-explorer.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

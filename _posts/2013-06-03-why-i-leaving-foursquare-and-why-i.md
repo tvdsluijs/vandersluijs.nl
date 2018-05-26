@@ -5,7 +5,7 @@ date: 2013-06-03T06:15:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/06/03/why-i-leaving-foursquare-and-why-i/
-permalink: /blog/2013/06/why-i-leaving-foursquare-and-why-i.html
+permalink: /2013/06/why-i-leaving-foursquare-and-why-i.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2015-02-16T19:49:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/02/16/polar-m400-dag-2-een-rondje-lopen/
-permalink: /blog/2015/02/polar-m400-dag-2-een-rondje-lopen.html
+permalink: /2015/02/polar-m400-dag-2-een-rondje-lopen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

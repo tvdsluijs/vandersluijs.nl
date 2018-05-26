@@ -5,7 +5,7 @@ date: 2011-05-28T03:26:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/05/28/eduvision-heeft-het-begrepen/
-permalink: /blog/2011/05/eduvision-heeft-het-begrepen.html
+permalink: /2011/05/eduvision-heeft-het-begrepen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

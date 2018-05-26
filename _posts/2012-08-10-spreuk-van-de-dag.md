@@ -5,7 +5,7 @@ date: 2012-08-10T13:52:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/08/10/spreuk-van-de-dag/
-permalink: /blog/2012/08/spreuk-van-de-dag.html
+permalink: /2012/08/spreuk-van-de-dag.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

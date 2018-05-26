@@ -5,7 +5,7 @@ date: 2010-02-16T10:54:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/02/16/ik-pleur-het-er-wel-op-uitspraak-yvon/
-permalink: /blog/2010/02/ik-pleur-het-er-wel-op-uitspraak-yvon.html
+permalink: /2010/02/ik-pleur-het-er-wel-op-uitspraak-yvon.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

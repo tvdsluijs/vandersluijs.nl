@@ -5,7 +5,7 @@ date: 2012-01-25T02:37:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/01/25/unboxing-video-zijn-waardeloos/
-permalink: /blog/2012/01/unboxing-video-zijn-waardeloos.html
+permalink: /2012/01/unboxing-video-zijn-waardeloos.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

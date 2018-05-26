@@ -5,7 +5,7 @@ date: 2008-07-03T00:43:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/07/03/hdr-fotografie/
-permalink: /blog/2008/07/hdr-fotografie-wat-is-het-wat-kan-je-er-mee.html
+permalink: /2008/07/hdr-fotografie-wat-is-het-wat-kan-je-er-mee.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

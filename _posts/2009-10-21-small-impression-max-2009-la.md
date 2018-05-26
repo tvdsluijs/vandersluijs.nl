@@ -5,7 +5,7 @@ date: 2009-10-21T10:43:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/21/small-impression-max-2009-la/
-permalink: /blog/2009/10/small-impression-max-2009-la.html
+permalink: /2009/10/small-impression-max-2009-la.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

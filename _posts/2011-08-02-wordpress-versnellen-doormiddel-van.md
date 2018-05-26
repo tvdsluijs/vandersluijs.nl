@@ -5,7 +5,7 @@ date: 2011-08-02T00:22:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/08/02/wordpress-versnellen-doormiddel-van/
-permalink: /blog/2011/08/wordpress-versnellen-doormiddel-van.html
+permalink: /2011/08/wordpress-versnellen-doormiddel-van.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

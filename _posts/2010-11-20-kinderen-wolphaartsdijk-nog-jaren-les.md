@@ -5,7 +5,7 @@ date: 2010-11-20T00:01:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/11/20/kinderen-wolphaartsdijk-nog-jaren-les/
-permalink: /blog/2010/11/kinderen-wolphaartsdijk-nog-jaren-les.html
+permalink: /2010/11/kinderen-wolphaartsdijk-nog-jaren-les.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

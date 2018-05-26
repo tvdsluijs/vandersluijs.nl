@@ -5,7 +5,7 @@ date: 2016-02-28T09:18:37+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2554
-permalink: /blog/2016/02/mobiele-keuzevrijheid-beperkt-in-gemeente-goes.html
+permalink: /2016/02/mobiele-keuzevrijheid-beperkt-in-gemeente-goes.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

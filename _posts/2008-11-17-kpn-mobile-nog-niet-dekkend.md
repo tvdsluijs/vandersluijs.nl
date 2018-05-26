@@ -5,7 +5,7 @@ date: 2008-11-17T13:54:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/11/17/kpn-mobile-nog-niet-dekkend/
-permalink: /blog/2008/11/kpn-mobile-nog-niet-dekkend.html
+permalink: /2008/11/kpn-mobile-nog-niet-dekkend.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

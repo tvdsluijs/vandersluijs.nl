@@ -5,7 +5,7 @@ date: 2016-02-26T09:00:26+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2500
-permalink: /blog/2016/02/oplossing-blokken-storing-digitale-tv.html
+permalink: /2016/02/oplossing-blokken-storing-digitale-tv.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

@@ -5,7 +5,7 @@ date: 2015-10-07T04:52:14+00:00
 author: Theo.
 layout: post
 guid: http://vandersluijs.nl/?p=1493
-permalink: /blog/2015/10/omniplan-2-zelfstudie-videos.html
+permalink: /2015/10/omniplan-2-zelfstudie-videos.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

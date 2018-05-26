@@ -5,7 +5,7 @@ date: 2013-05-13T06:59:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/05/13/doei-kpn-hallo-simyo/
-permalink: /blog/2013/05/doei-kpn-hallo-simyo.html
+permalink: /2013/05/doei-kpn-hallo-simyo.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

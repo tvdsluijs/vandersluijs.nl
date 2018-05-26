@@ -5,7 +5,7 @@ date: 2012-07-27T14:15:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/07/27/ram-is-kapo/
-permalink: /blog/2012/07/ram-is-kapo.html
+permalink: /2012/07/ram-is-kapo.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

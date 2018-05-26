@@ -5,7 +5,7 @@ date: 2015-12-02T06:48:12+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1788
-permalink: /blog/2015/12/olympus-e-m5-ii-review.html
+permalink: /2015/12/olympus-e-m5-ii-review.html
 wp_review_location:
   - bottom
 wp_review_type:

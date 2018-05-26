@@ -5,7 +5,7 @@ date: 2015-09-07T19:39:22+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/?p=1247
-permalink: /blog/2015/09/overstappen-van-evernote-naar-onenote.html
+permalink: /2015/09/overstappen-van-evernote-naar-onenote.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

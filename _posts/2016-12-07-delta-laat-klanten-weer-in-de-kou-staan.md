@@ -5,7 +5,7 @@ date: 2016-12-07T22:02:40+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=3584
-permalink: /blog/2016/12/delta-laat-klanten-weer-in-de-kou-staan.html
+permalink: /2016/12/delta-laat-klanten-weer-in-de-kou-staan.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

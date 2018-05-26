@@ -5,7 +5,7 @@ date: 2007-06-29T15:31:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/06/29/geen-connectie-met-xp-gedeelde-printer/
-permalink: /blog/2007/06/geen-connectie-met-xp-gedeelde-printer.html
+permalink: /2007/06/geen-connectie-met-xp-gedeelde-printer.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

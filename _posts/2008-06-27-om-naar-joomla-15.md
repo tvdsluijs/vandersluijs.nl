@@ -5,7 +5,7 @@ date: 2008-06-27T05:00:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/06/27/om-naar-joomla-15/
-permalink: /blog/2008/06/om-naar-joomla-15.html
+permalink: /2008/06/om-naar-joomla-15.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2010-09-03T11:45:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/09/03/pzc-weet-niet-wat-een-circelzaag-is/
-permalink: /blog/2010/09/pzc-weet-niet-wat-een-circelzaag-is.html
+permalink: /2010/09/pzc-weet-niet-wat-een-circelzaag-is.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

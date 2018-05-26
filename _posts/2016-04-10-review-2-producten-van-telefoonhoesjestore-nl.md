@@ -5,7 +5,7 @@ date: 2016-04-10T12:03:16+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2659
-permalink: /blog/2016/04/review-2-producten-van-telefoonhoesjestore-nl.html
+permalink: /2016/04/review-2-producten-van-telefoonhoesjestore-nl.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

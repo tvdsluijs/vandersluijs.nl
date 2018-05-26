@@ -5,7 +5,7 @@ date: 2010-03-25T06:14:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/03/25/itunes-opstarten-met-externe-bibliotheek/
-permalink: /blog/2010/03/itunes-opstarten-met-externe-bibliotheek.html
+permalink: /2010/03/itunes-opstarten-met-externe-bibliotheek.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2010-09-14T11:47:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/09/14/domste-product-ooit-in-de-pzc/
-permalink: /blog/2010/09/domste-product-ooit-in-de-pzc.html
+permalink: /2010/09/domste-product-ooit-in-de-pzc.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

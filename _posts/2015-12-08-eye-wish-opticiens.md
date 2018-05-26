@@ -5,7 +5,7 @@ date: 2015-12-08T06:59:02+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1874
-permalink: /blog/2015/12/eye-wish-opticiens.html
+permalink: /2015/12/eye-wish-opticiens.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

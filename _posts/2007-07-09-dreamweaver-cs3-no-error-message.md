@@ -5,7 +5,7 @@ date: 2007-07-09T00:11:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/07/09/dreamweaver-cs3-no-error-message/
-permalink: /blog/2007/07/dreamweaver-cs3-no-error-message.html
+permalink: /2007/07/dreamweaver-cs3-no-error-message.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

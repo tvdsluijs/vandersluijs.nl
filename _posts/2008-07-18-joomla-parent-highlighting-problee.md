@@ -5,7 +5,7 @@ date: 2008-07-18T15:45:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/07/18/joomla-parent-highlighting-problee/
-permalink: /blog/2008/07/joomla-parent-highlighting-problee.html
+permalink: /2008/07/joomla-parent-highlighting-problee.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2015-12-04T21:11:14+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1859
-permalink: /blog/2015/12/dag-7-zonder-social-media.html
+permalink: /2015/12/dag-7-zonder-social-media.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

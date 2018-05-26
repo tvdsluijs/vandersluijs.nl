@@ -5,7 +5,7 @@ date: 2015-01-30T21:25:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/01/30/mongodb-backups-op-amazon-s3-met-s3cmd/
-permalink: /blog/2015/01/mongodb-backups-op-amazon-s3-met-s3cmd.html
+permalink: /2015/01/mongodb-backups-op-amazon-s3-met-s3cmd.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

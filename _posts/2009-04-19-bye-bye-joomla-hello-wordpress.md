@@ -5,7 +5,7 @@ date: 2009-04-19T17:08:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/04/19/bye-bye-joomla-hello-wordpress/
-permalink: /blog/2009/04/bye-bye-joomla-hello-wordpress.html
+permalink: /2009/04/bye-bye-joomla-hello-wordpress.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2013-05-30T19:48:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/05/30/dutch-guy-on-britain-got-talen/
-permalink: /blog/2013/05/dutch-guy-on-britain-got-talen.html
+permalink: /2013/05/dutch-guy-on-britain-got-talen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

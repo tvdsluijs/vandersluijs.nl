@@ -5,7 +5,7 @@ date: 2010-07-01T00:41:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/07/01/deadzone-mobilezone/
-permalink: /blog/2010/07/deadzone-mobilezone.html
+permalink: /2010/07/deadzone-mobilezone.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

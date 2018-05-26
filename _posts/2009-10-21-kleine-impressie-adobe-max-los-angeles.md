@@ -5,7 +5,7 @@ date: 2009-10-21T16:46:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/21/kleine-impressie-adobe-max-los-angeles/
-permalink: /blog/2009/10/kleine-impressie-adobe-max-los-angeles.html
+permalink: /2009/10/kleine-impressie-adobe-max-los-angeles.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

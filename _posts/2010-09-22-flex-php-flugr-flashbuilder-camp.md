@@ -5,7 +5,7 @@ date: 2010-09-22T19:45:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/09/22/flex-php-flugr-flashbuilder-camp/
-permalink: /blog/2010/09/flex-php-flugr-flashbuilder-camp.html
+permalink: /2010/09/flex-php-flugr-flashbuilder-camp.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

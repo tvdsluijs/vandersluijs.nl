@@ -5,7 +5,7 @@ date: 2011-03-15T11:15:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/03/15/ralf-becks-microsoft-uitspraak-van-he/
-permalink: /blog/2011/03/ralf-becks-microsoft-uitspraak-van-he.html
+permalink: /2011/03/ralf-becks-microsoft-uitspraak-van-he.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

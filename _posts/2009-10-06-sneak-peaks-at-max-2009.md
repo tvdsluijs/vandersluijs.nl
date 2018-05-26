@@ -5,7 +5,7 @@ date: 2009-10-06T22:55:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/06/sneak-peaks-at-max-2009/
-permalink: /blog/2009/10/sneak-peaks-at-max-2009.html
+permalink: /2009/10/sneak-peaks-at-max-2009.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

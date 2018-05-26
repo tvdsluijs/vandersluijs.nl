@@ -5,7 +5,7 @@ date: 2009-04-21T10:48:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/04/21/moblog-photos-of-vnsg/
-permalink: /blog/2009/04/moblog-photos-of-vnsg.html
+permalink: /2009/04/moblog-photos-of-vnsg.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

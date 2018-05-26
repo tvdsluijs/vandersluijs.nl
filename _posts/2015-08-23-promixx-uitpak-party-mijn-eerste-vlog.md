@@ -5,7 +5,7 @@ date: 2015-08-23T09:24:20+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/?p=1216
-permalink: /blog/2015/08/promixx-uitpak-party-mijn-eerste-vlog.html
+permalink: /2015/08/promixx-uitpak-party-mijn-eerste-vlog.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

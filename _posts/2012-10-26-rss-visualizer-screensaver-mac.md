@@ -5,7 +5,7 @@ date: 2012-10-26T05:09:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/10/26/rss-visualizer-screensaver-mac/
-permalink: /blog/2012/10/rss-visualizer-screensaver-mac.html
+permalink: /2012/10/rss-visualizer-screensaver-mac.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

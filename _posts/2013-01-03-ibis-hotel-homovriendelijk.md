@@ -5,7 +5,7 @@ date: 2013-01-03T23:48:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/01/03/ibis-hotel-homovriendelijk/
-permalink: /blog/2013/01/ibis-hotel-homovriendelijk.html
+permalink: /2013/01/ibis-hotel-homovriendelijk.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

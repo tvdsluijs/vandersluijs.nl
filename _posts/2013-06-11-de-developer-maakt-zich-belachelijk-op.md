@@ -5,7 +5,7 @@ date: 2013-06-11T22:20:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/06/11/de-developer-maakt-zich-belachelijk-op/
-permalink: /blog/2013/06/de-developer-maakt-zich-belachelijk-op.html
+permalink: /2013/06/de-developer-maakt-zich-belachelijk-op.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

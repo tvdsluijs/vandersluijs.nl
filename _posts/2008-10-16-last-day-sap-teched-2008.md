@@ -5,7 +5,7 @@ date: 2008-10-16T15:30:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/10/16/last-day-sap-teched-2008/
-permalink: /blog/2008/10/last-day-sap-teched-2008.html
+permalink: /2008/10/last-day-sap-teched-2008.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

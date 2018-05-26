@@ -5,7 +5,7 @@ date: 2015-10-08T19:23:15+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1515
-permalink: /blog/2015/10/mijn-zoektocht-naar-een-nieuwe-fotocamera.html
+permalink: /2015/10/mijn-zoektocht-naar-een-nieuwe-fotocamera.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

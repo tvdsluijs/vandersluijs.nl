@@ -5,7 +5,7 @@ date: 2014-09-11T20:16:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/09/11/beveiligen-van-mysql-verbindingen-via/
-permalink: /blog/2014/09/beveiligen-van-mysql-verbindingen-via.html
+permalink: /2014/09/beveiligen-van-mysql-verbindingen-via.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

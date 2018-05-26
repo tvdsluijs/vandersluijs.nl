@@ -5,7 +5,7 @@ date: 2014-09-11T20:13:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/09/11/blogger-importeren-in-ghostorg/
-permalink: /blog/2014/09/blogger-importeren-in-ghostorg.html
+permalink: /2014/09/blogger-importeren-in-ghostorg.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

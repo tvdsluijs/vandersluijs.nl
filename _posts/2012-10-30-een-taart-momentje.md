@@ -5,7 +5,7 @@ date: 2012-10-30T14:14:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/10/30/een-taart-momentje/
-permalink: /blog/2012/10/een-taart-momentje.html
+permalink: /2012/10/een-taart-momentje.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

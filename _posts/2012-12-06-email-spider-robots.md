@@ -5,7 +5,7 @@ date: 2012-12-06T23:14:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/12/06/email-spider-robots/
-permalink: /blog/2012/12/email-spider-robots.html
+permalink: /2012/12/email-spider-robots.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

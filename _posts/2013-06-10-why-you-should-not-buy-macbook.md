@@ -5,7 +5,7 @@ date: 2013-06-10T06:01:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/06/10/why-you-should-not-buy-macbook/
-permalink: /blog/2013/06/why-you-should-not-buy-macbook.html
+permalink: /2013/06/why-you-should-not-buy-macbook.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2014-09-07T12:28:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/09/07/15-seconds-of-google-fame_7/
-permalink: /blog/2014/09/15-seconds-of-google-fame_7.html
+permalink: /2014/09/15-seconds-of-google-fame_7.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

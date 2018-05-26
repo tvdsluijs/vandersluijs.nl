@@ -5,7 +5,7 @@ date: 2015-04-10T17:48:10+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://vandersluijs.nl/?p=130
-permalink: /blog/2015/04/delta-roept-modems-terug-vanwege-productiefout.html
+permalink: /2015/04/delta-roept-modems-terug-vanwege-productiefout.html
 hefo_before:
   - "0"
 hefo_after:

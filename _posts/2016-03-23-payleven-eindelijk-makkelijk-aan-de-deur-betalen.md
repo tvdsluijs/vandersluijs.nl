@@ -5,7 +5,7 @@ date: 2016-03-23T21:01:47+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2634
-permalink: /blog/2016/03/payleven-eindelijk-makkelijk-aan-de-deur-betalen.html
+permalink: /2016/03/payleven-eindelijk-makkelijk-aan-de-deur-betalen.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

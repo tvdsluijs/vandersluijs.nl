@@ -5,7 +5,7 @@ date: 2009-06-15T12:02:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/06/15/weinig-hits-per-artike/
-permalink: /blog/2009/06/weinig-hits-per-artike.html
+permalink: /2009/06/weinig-hits-per-artike.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

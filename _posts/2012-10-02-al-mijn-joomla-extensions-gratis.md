@@ -5,7 +5,7 @@ date: 2012-10-02T19:36:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/10/02/al-mijn-joomla-extensions-gratis/
-permalink: /blog/2012/10/al-mijn-joomla-extensions-gratis.html
+permalink: /2012/10/al-mijn-joomla-extensions-gratis.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

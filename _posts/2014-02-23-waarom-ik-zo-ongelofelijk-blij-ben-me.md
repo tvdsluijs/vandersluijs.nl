@@ -5,7 +5,7 @@ date: 2014-02-23T10:33:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/02/23/waarom-ik-zo-ongelofelijk-blij-ben-me/
-permalink: /blog/2014/02/waarom-ik-zo-ongelofelijk-blij-ben-me.html
+permalink: /2014/02/waarom-ik-zo-ongelofelijk-blij-ben-me.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

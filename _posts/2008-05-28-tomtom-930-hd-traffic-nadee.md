@@ -5,7 +5,7 @@ date: 2008-05-28T18:50:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/05/28/tomtom-930-hd-traffic-nadee/
-permalink: /blog/2008/05/tomtom-930-hd-traffic-nadee.html
+permalink: /2008/05/tomtom-930-hd-traffic-nadee.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2015-09-08T05:32:48+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/?p=1259
-permalink: /blog/2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html
+permalink: /2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

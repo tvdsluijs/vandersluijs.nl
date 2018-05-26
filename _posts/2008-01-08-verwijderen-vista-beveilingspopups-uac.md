@@ -5,7 +5,7 @@ date: 2008-01-08T01:53:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/01/08/verwijderen-vista-beveilingspopups-uac/
-permalink: /blog/2008/01/verwijderen-vista-beveilingspopups-uac.html
+permalink: /2008/01/verwijderen-vista-beveilingspopups-uac.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

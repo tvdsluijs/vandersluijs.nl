@@ -5,7 +5,7 @@ date: 2009-06-03T14:41:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/06/03/at-dutch-adobe-usergroup/
-permalink: /blog/2009/06/at-dutch-adobe-usergroup.html
+permalink: /2009/06/at-dutch-adobe-usergroup.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

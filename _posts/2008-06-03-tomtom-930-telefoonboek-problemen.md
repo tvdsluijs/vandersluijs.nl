@@ -5,7 +5,7 @@ date: 2008-06-03T13:56:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/06/03/tomtom-930-telefoonboek-problemen/
-permalink: /blog/2008/06/tomtom-930-telefoonboek-problemen.html
+permalink: /2008/06/tomtom-930-telefoonboek-problemen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

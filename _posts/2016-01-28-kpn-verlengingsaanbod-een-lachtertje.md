@@ -5,7 +5,7 @@ date: 2016-01-28T21:16:01+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2205
-permalink: /blog/2016/01/kpn-verlengingsaanbod-een-lachtertje.html
+permalink: /2016/01/kpn-verlengingsaanbod-een-lachtertje.html
 factory_shortcodes_assets:
   - 'a:0:{}'
 wp_review_location:

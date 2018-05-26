@@ -5,7 +5,7 @@ date: 2012-12-27T16:08:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/12/27/ubuntu-versie-opvragen-via-termina/
-permalink: /blog/2012/12/ubuntu-versie-opvragen-via-termina.html
+permalink: /2012/12/ubuntu-versie-opvragen-via-termina.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

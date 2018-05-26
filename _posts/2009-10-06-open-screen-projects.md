@@ -5,7 +5,7 @@ date: 2009-10-06T05:06:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/10/06/open-screen-projects/
-permalink: /blog/2009/10/open-screen-projects.html
+permalink: /2009/10/open-screen-projects.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

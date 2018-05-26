@@ -5,7 +5,7 @@ date: 2010-08-30T00:39:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/08/30/verdubbel-de-levensduur-accu-htc-desire/
-permalink: /blog/2010/08/verdubbel-de-levensduur-accu-htc-desire.html
+permalink: /2010/08/verdubbel-de-levensduur-accu-htc-desire.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

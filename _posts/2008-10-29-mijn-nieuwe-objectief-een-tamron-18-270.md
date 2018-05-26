@@ -5,7 +5,7 @@ date: 2008-10-29T20:00:53+00:00
 author: Theo van der Sluijs
 layout: post
 guid: https://dezeeuwsefotograaf.nl/?p=6
-permalink: /blog/2008/10/mijn-nieuwe-objectief-een-tamron-18-270.html
+permalink: /2008/10/mijn-nieuwe-objectief-een-tamron-18-270.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

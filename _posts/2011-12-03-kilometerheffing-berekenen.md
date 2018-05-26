@@ -5,7 +5,7 @@ date: 2011-12-03T09:32:57+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1824
-permalink: /blog/2011/12/kilometerheffing-berekenen.html
+permalink: /2011/12/kilometerheffing-berekenen.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

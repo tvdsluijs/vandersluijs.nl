@@ -5,7 +5,7 @@ date: 2007-07-05T08:49:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/07/05/problems-with-vista-and-older-logitec/
-permalink: /blog/2007/07/problems-with-vista-and-older-logitec.html
+permalink: /2007/07/problems-with-vista-and-older-logitec.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

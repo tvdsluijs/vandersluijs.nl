@@ -5,7 +5,7 @@ date: 2015-03-09T19:51:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2015/03/09/klant-van-greenchoice-sinds-2006-maar/
-permalink: /blog/2015/03/klant-van-greenchoice-sinds-2006-maar.html
+permalink: /2015/03/klant-van-greenchoice-sinds-2006-maar.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

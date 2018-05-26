@@ -5,7 +5,7 @@ date: 2013-08-08T13:25:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/08/08/they-used-to-call-me-flas/
-permalink: /blog/2013/08/they-used-to-call-me-flas.html
+permalink: /2013/08/they-used-to-call-me-flas.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2013-06-18T21:41:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/06/18/this-is-why-linkedin-endorsements-don/
-permalink: /blog/2013/06/this-is-why-linkedin-endorsements-don.html
+permalink: /2013/06/this-is-why-linkedin-endorsements-don.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2008-10-29T06:27:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/10/29/going-dutc/
-permalink: /blog/2008/10/going-dutc.html
+permalink: /2008/10/going-dutc.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

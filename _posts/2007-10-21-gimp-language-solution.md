@@ -5,7 +5,7 @@ date: 2007-10-21T23:50:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/10/21/gimp-language-solution/
-permalink: /blog/2007/10/gimp-language-solution.html
+permalink: /2007/10/gimp-language-solution.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

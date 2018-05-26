@@ -5,7 +5,7 @@ date: 2011-08-13T16:07:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/08/13/oplossing-android-beperkte-wifi/
-permalink: /blog/2011/08/oplossing-android-beperkte-wifi.html
+permalink: /2011/08/oplossing-android-beperkte-wifi.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

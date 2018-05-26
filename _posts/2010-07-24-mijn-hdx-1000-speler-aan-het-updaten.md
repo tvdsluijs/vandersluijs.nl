@@ -5,7 +5,7 @@ date: 2010-07-24T20:35:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/07/24/mijn-hdx-1000-speler-aan-het-updaten/
-permalink: /blog/2010/07/mijn-hdx-1000-speler-aan-het-updaten.html
+permalink: /2010/07/mijn-hdx-1000-speler-aan-het-updaten.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

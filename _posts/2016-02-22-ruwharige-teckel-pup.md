@@ -5,7 +5,7 @@ date: 2016-02-22T11:00:12+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2441
-permalink: /blog/2016/02/ruwharige-teckel-pup.html
+permalink: /2016/02/ruwharige-teckel-pup.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

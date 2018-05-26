@@ -5,7 +5,7 @@ date: 2011-10-03T19:43:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/10/03/fotoalbum-van-albumprinterco/
-permalink: /blog/2011/10/fotoalbum-van-albumprinterco.html
+permalink: /2011/10/fotoalbum-van-albumprinterco.html
 blogger_bid:
   - "7319082336334478150"
   - "7319082336334478150"

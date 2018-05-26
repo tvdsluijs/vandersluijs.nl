@@ -5,7 +5,7 @@ date: 2015-09-08T09:46:40+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/?p=1280
-permalink: /blog/2015/09/oplossing-missende-folders-in-outlook-osx-mac.html
+permalink: /2015/09/oplossing-missende-folders-in-outlook-osx-mac.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

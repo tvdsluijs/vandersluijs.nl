@@ -5,7 +5,7 @@ date: 2009-05-13T12:11:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/05/13/groen-invest-faillie/
-permalink: /blog/2009/05/groen-invest-faillie.html
+permalink: /2009/05/groen-invest-faillie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

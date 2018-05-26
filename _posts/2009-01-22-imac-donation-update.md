@@ -5,7 +5,7 @@ date: 2009-01-22T22:43:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/01/22/imac-donation-update/
-permalink: /blog/2009/01/imac-donation-update.html
+permalink: /2009/01/imac-donation-update.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

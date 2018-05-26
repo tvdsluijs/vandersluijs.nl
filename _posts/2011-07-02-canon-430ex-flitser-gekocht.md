@@ -5,7 +5,7 @@ date: 2011-07-02T07:17:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/07/02/flitser-gekoc/
-permalink: /blog/2011/07/canon-430ex-flitser-gekocht.html
+permalink: /2011/07/canon-430ex-flitser-gekocht.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

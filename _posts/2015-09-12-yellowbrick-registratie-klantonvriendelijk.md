@@ -5,7 +5,7 @@ date: 2015-09-12T17:06:33+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/?p=1291
-permalink: /blog/2015/09/yellowbrick-registratie-klantonvriendelijk.html
+permalink: /2015/09/yellowbrick-registratie-klantonvriendelijk.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

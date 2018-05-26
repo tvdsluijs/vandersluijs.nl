@@ -5,7 +5,7 @@ date: 2012-11-29T20:34:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/11/29/benaderd-door-bnn-de-week-van-filemon/
-permalink: /blog/2012/11/benaderd-door-bnn-de-week-van-filemon.html
+permalink: /2012/11/benaderd-door-bnn-de-week-van-filemon.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

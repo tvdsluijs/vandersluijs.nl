@@ -5,7 +5,7 @@ date: 2014-11-27T20:58:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/11/27/webshop-hotfix-schijf-van-vijf/
-permalink: /blog/2014/11/webshop-hotfix-schijf-van-vijf.html
+permalink: /2014/11/webshop-hotfix-schijf-van-vijf.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

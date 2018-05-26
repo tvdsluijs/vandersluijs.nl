@@ -5,7 +5,7 @@ date: 2014-03-19T06:03:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/03/19/schuberg-philis-helpt-me-bij-mijn-volle/
-permalink: /blog/2014/03/schuberg-philis-helpt-me-bij-mijn-volle.html
+permalink: /2014/03/schuberg-philis-helpt-me-bij-mijn-volle.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

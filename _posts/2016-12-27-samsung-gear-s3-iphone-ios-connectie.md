@@ -5,7 +5,7 @@ date: 2016-12-27T14:10:50+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=3621
-permalink: /blog/2016/12/samsung-gear-s3-iphone-ios-connectie.html
+permalink: /2016/12/samsung-gear-s3-iphone-ios-connectie.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

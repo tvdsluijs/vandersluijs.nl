@@ -5,7 +5,7 @@ date: 2009-01-24T14:28:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/01/24/donations-for-this-imac-24-inc/
-permalink: /blog/2009/01/donations-for-this-imac-24-inc.html
+permalink: /2009/01/donations-for-this-imac-24-inc.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

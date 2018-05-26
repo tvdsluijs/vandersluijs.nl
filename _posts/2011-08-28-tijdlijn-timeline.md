@@ -5,7 +5,7 @@ date: 2011-08-28T10:39:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/08/28/tijdlijn-timeline/
-permalink: /blog/2011/08/tijdlijn-timeline.html
+permalink: /2011/08/tijdlijn-timeline.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

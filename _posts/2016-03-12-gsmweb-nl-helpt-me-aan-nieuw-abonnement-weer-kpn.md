@@ -5,7 +5,7 @@ date: 2016-03-12T06:58:04+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2614
-permalink: /blog/2016/03/gsmweb-nl-helpt-me-aan-nieuw-abonnement-weer-kpn.html
+permalink: /2016/03/gsmweb-nl-helpt-me-aan-nieuw-abonnement-weer-kpn.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

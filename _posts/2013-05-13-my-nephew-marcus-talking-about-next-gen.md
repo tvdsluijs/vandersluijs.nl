@@ -5,7 +5,7 @@ date: 2013-05-13T19:43:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2013/05/13/my-nephew-marcus-talking-about-next-gen/
-permalink: /blog/2013/05/my-nephew-marcus-talking-about-next-gen.html
+permalink: /2013/05/my-nephew-marcus-talking-about-next-gen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

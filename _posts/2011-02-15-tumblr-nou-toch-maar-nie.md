@@ -5,7 +5,7 @@ date: 2011-02-15T16:41:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/02/15/tumblr-nou-toch-maar-nie/
-permalink: /blog/2011/02/tumblr-nou-toch-maar-nie.html
+permalink: /2011/02/tumblr-nou-toch-maar-nie.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

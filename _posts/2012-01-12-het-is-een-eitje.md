@@ -5,7 +5,7 @@ date: 2012-01-12T13:51:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/01/12/het-is-een-eitje/
-permalink: /blog/2012/01/het-is-een-eitje.html
+permalink: /2012/01/het-is-een-eitje.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

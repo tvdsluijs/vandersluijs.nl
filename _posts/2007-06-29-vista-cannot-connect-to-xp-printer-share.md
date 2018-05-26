@@ -5,7 +5,7 @@ date: 2007-06-29T11:33:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/06/29/vista-cannot-connect-to-xp-printer-share/
-permalink: /blog/2007/06/vista-cannot-connect-to-xp-printer-share.html
+permalink: /2007/06/vista-cannot-connect-to-xp-printer-share.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

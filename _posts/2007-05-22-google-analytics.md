@@ -5,7 +5,7 @@ date: 2007-05-22T14:22:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/05/22/google-analytics/
-permalink: /blog/2007/05/google-analytics.html
+permalink: /2007/05/google-analytics.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

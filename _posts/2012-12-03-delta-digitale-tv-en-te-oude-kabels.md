@@ -5,7 +5,7 @@ date: 2012-12-03T22:24:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/12/03/delta-digitale-tv-en-te-oude-kabels/
-permalink: /blog/2012/12/delta-digitale-tv-en-te-oude-kabels.html
+permalink: /2012/12/delta-digitale-tv-en-te-oude-kabels.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

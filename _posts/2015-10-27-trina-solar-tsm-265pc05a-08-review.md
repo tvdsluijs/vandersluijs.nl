@@ -5,7 +5,7 @@ date: 2015-10-27T15:17:52+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1598
-permalink: /blog/2015/10/trina-solar-tsm-265pc05a-08-review.html
+permalink: /2015/10/trina-solar-tsm-265pc05a-08-review.html
 wp_review_location:
   - bottom
 wp_review_desc_title:

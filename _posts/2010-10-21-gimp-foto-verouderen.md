@@ -5,7 +5,7 @@ date: 2010-10-21T15:21:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2010/10/21/foto-verouderen/
-permalink: /blog/2010/10/gimp-foto-verouderen.html
+permalink: /2010/10/gimp-foto-verouderen.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

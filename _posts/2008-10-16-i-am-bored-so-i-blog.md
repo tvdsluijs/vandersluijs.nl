@@ -5,7 +5,7 @@ date: 2008-10-16T17:24:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/10/16/i-am-bored-so-i-blog/
-permalink: /blog/2008/10/i-am-bored-so-i-blog.html
+permalink: /2008/10/i-am-bored-so-i-blog.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

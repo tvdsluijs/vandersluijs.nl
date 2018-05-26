@@ -5,7 +5,7 @@ date: 2014-09-07T12:46:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2014/09/07/google-agenda-beste-vergadertijd_7/
-permalink: /blog/2014/09/google-agenda-beste-vergadertijd_7.html
+permalink: /2014/09/google-agenda-beste-vergadertijd_7.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

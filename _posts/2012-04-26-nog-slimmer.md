@@ -5,7 +5,7 @@ date: 2012-04-26T19:18:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2012/04/26/nog-slimmer/
-permalink: /blog/2012/04/nog-slimmer.html
+permalink: /2012/04/nog-slimmer.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

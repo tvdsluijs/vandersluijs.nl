@@ -5,7 +5,7 @@ date: 2011-02-16T01:40:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/02/16/vriendenlotterij-email-en-brief-voor/
-permalink: /blog/2011/02/vriendenlotterij-email-en-brief-voor.html
+permalink: /2011/02/vriendenlotterij-email-en-brief-voor.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

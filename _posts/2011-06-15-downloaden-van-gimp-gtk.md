@@ -5,7 +5,7 @@ date: 2011-06-15T23:35:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/06/15/downloaden-van-gimp-gtk/
-permalink: /blog/2011/06/downloaden-van-gimp-gtk.html
+permalink: /2011/06/downloaden-van-gimp-gtk.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

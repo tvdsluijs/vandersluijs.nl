@@ -5,7 +5,7 @@ date: 2009-09-07T07:39:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/09/07/default-font-in-adobe-form-designer/
-permalink: /blog/2009/09/default-font-in-adobe-form-designer.html
+permalink: /2009/09/default-font-in-adobe-form-designer.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

@@ -5,7 +5,7 @@ date: 2011-07-26T22:38:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2011/07/26/gebruik-van-captcha-op-formulier-werk/
-permalink: /blog/2011/07/gebruik-van-captcha-op-formulier-werk.html
+permalink: /2011/07/gebruik-van-captcha-op-formulier-werk.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

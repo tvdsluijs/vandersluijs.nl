@@ -5,7 +5,7 @@ date: 2008-10-29T20:43:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2008/10/29/omg-what-have-i-done/
-permalink: /blog/2008/10/omg-what-have-i-done.html
+permalink: /2008/10/omg-what-have-i-done.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:

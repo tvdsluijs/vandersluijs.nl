@@ -5,7 +5,7 @@ date: 2009-04-20T18:45:00+00:00
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2009/04/20/nl4b-at-vnsg-congress-2009/
-permalink: /blog/2009/04/nl4b-at-vnsg-congress-2009.html
+permalink: /2009/04/nl4b-at-vnsg-congress-2009.html
 blogger_bid:
   - "7319082336334478150"
 blogger_blog:
