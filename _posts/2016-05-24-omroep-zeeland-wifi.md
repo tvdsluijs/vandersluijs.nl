@@ -4,7 +4,7 @@ title: Omroep Zeeland item wifi in Zeeland
 date: 2016-05-24T15:24:36+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://zeelandwifi.nl/?p=179
+guid: https://vandersluijs.nl/?p=179
 permalink: /blog/2016/05/omroep-zeeland-wifi.html
 hefo_before:
   - "0"
@@ -26,7 +26,7 @@ Vandaag is Omroep Zeeland bij me langs geweest om een item te maken over Wifi in
 
 Toen Omroep Zeeland me belde  zo&#8217;n 2 weken geleden had ik niet verwacht dat dit tot een echt item zou komen, maar vandaag was het dan toch zover. <!--more-->
 
-<img class="alignnone size-full wp-image-180" src="https://zeelandwifi.nl/wp-content/uploads/2016/05/omroepzeeland-1.jpg" alt="omroep zeeland wifi" width="1280" height="960" />
+<img class="alignnone size-full wp-image-180" src="https://vandersluijs.resultants-e.nl/2016/05/omroepzeeland-1.jpg" alt="omroep zeeland wifi" width="1280" height="960" />
 
 Veel, heel veel zeeuwen hebben problemen met hun Wifi. En dat is ook niet zo vreemd want het gros gebruikt nog steeds het 2,4Ghz netwerk. En dat zit vol, knalletje vol.
 

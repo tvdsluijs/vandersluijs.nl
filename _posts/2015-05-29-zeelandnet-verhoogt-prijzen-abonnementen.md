@@ -4,7 +4,7 @@ title: ZeelandNet verhoogt prijzen abonnementen
 date: 2015-05-29T17:45:01+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://zeelandwifi.nl/?p=128
+guid: https://vandersluijs.nl/?p=128
 permalink: /blog/2015/05/zeelandnet-verhoogt-prijzen-abonnementen.html
 hefo_before:
   - "0"

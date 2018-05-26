@@ -78,7 +78,7 @@ De YouLess is een makkelijk te installeren energiemeter waarmee je stroomverbrui
 
 
 <div>
-  <a href="/images/2013/01/energie_verbruik.png"><img alt="" src="/images/2013/01/energie_verbruik-300x201.png" width="640" height="428" border="0" /></a>
+  <a href=https://vandersluijs.resultants-e.nl/2013/01/energie_verbruik.png"><img alt="" src=https://vandersluijs.resultants-e.nl/2013/01/energie_verbruik-300x201.png" width="640" height="428" border="0" /></a>
 </div>
 
 

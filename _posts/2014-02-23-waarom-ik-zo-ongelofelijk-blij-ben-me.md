@@ -28,7 +28,7 @@ categories:
   - Grumpy
 ---
 <div style="clear: both; text-align: center;">
-  <a href="/images/2014/02/ptt_tango.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/2014/02/ptt_tango.jpg" height="200" width="143" /></a>
+  <a href=https://vandersluijs.resultants-e.nl/2014/02/ptt_tango.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src=https://vandersluijs.resultants-e.nl/2014/02/ptt_tango.jpg" height="200" width="143" /></a>
 </div>
 
 Sinds 1996 ben ik eigenaar van een mobiele telefoon. Al bijna 20 jaar dus. Ooit begon ik met een PTT Tango (ja toen heette KPN nog PTT) voor slechts 49 hollandsche florijnen als je een abo-tje afsloot voor 3! jaar.
@@ -69,7 +69,7 @@ Tja&#8230;. naast alleen de nieuwe Sony Z1 Compact met mega specs was alleen de 
 En zeg nou zelf&#8230; de Note2 is echt gigantisch vergeleken bij de iPhone 5/5s.
 
 <div style="clear: both; text-align: center;">
-  <a href="/images/2014/02/iphone_5_vs_galaxy_note_2_2.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/2014/02/iphone_5_vs_galaxy_note_2_2.jpg" height="179" width="320" /></a>
+  <a href=https://vandersluijs.resultants-e.nl/2014/02/iphone_5_vs_galaxy_note_2_2.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src=https://vandersluijs.resultants-e.nl/2014/02/iphone_5_vs_galaxy_note_2_2.jpg" height="179" width="320" /></a>
 </div>
 
 <div style="clear: both; text-align: center;">
@@ -96,7 +96,7 @@ En zeg nou zelf&#8230; de Note2 is echt gigantisch vergeleken bij de iPhone 5/5s
 
 
 <div style="clear: both; text-align: center;">
-  <a href="/images/2014/02/theo_van_der_Sluijs_iphone-5S.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="/images/2014/02/theo_van_der_Sluijs_iphone-5S.jpg" height="176" width="320" /></a>
+  <a href=https://vandersluijs.resultants-e.nl/2014/02/theo_van_der_Sluijs_iphone-5S.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src=https://vandersluijs.resultants-e.nl/2014/02/theo_van_der_Sluijs_iphone-5S.jpg" height="176" width="320" /></a>
 </div>
 
 

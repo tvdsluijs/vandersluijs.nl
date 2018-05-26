@@ -59,7 +59,7 @@ Binnen twee tot zeven werkdagen drukken, binden en verpakken ze het product en v
 
 Ik werk zelf al een aantal jaren op een MacBook en mijn verwachting is dan ook dat een professioneel drukwerk bedrijf, zoals Chris Russell en Fotofabriek.nl naar alle waarschijnlijkheid ook op een Mac zal werken.
 
-<img class="aligncenter size-large wp-image-2382" src="/images/2016/03/Screen-Shot-2016-03-25-at-15.52.57-1024x618.png" alt="fotofabriek" width="1024" height="618" />
+<img class="aligncenter size-large wp-image-2382" src=https://vandersluijs.resultants-e.nl/2016/03/Screen-Shot-2016-03-25-at-15.52.57-1024x618.png" alt="fotofabriek" width="1024" height="618" />
 
 Wat me direct opvalt na de installatie, wat overigens vrij eenvoudig en goed ging, is dat Retina even vergeten is. Het programma oogt grof en geeft met niet het gelikte gevoel dat mijn Macbook me in andere software pakketten geeft. Maar goed, het gaat om de werking en het fotoboek dus ik kijk hier even doorheen.
 
@@ -71,7 +71,7 @@ Wat me opvalt bij het selecteren van foto&#8217;s dat je geen gebruik kan maken 
 
 Het importeren gaat daarna redelijk soepel alhoewel ik redelijk vaak de Circle of Death te zien krijg. Het duurt allemaal nogal eventjes. Wel jammer is dat wanneer je foto&#8217;s in submappen staan je dus per submap de foto&#8217;s moet kiezen en hij dus niet alle foto&#8217;s in de onderliggende mappen laat zien.
 
-<img class="aligncenter size-large wp-image-2383" src="/images/2016/03/Screen-Shot-2016-03-25-at-15.53.15-1024x640.png" alt="fotofabriek" width="1024" height="640" />
+<img class="aligncenter size-large wp-image-2383" src=https://vandersluijs.resultants-e.nl/2016/03/Screen-Shot-2016-03-25-at-15.53.15-1024x640.png" alt="fotofabriek" width="1024" height="640" />
 
 Zelf heb ik gekozen voor een eigen te maken indeling. Als ik heel eerlijk ben is er maar één pakket die het mooi automatisch opmaken (op de juiste datum) goed kan en dat is de fotoboek software binnen Apple Photos zelf.
 

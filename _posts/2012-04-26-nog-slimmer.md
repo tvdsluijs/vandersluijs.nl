@@ -28,7 +28,7 @@ categories:
   - My Life
 ---
 <div>
-  <img alt="" src="/images/2012/04/tumblr_m33hamoZWQ1rpqrb1o1_1280-300x300.jpg" />
+  <img alt="" src=https://vandersluijs.resultants-e.nl/2012/04/tumblr_m33hamoZWQ1rpqrb1o1_1280-300x300.jpg" />
 </div>
 
 Net nieuw binnen. Je weet maar nooit! Misschien werkt het! #nieuwboek (Taken with instagram)

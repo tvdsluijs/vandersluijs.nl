@@ -29,7 +29,7 @@ dsq_thread_id:
 categories:
   - Tech
 ---
-<img title="Joomla! Virtuemart ex BTW op kassa incl BTW" alt="Joomla! Virtuemart ex BTW incl BTW" src="/images/2011/06/600px-Virtuemart_logo-300x239.png" width="145" height="116" align="left" />Veel klanten vragen mij om de volgende optie binnen Joomla! Virtuemart. Ze willen namelijk heel graag de product prijzen ex BTW tonen maar op bij de kassa en op de factuur dient wel de BTW te staan.
+<img title="Joomla! Virtuemart ex BTW op kassa incl BTW" alt="Joomla! Virtuemart ex BTW incl BTW" src=https://vandersluijs.resultants-e.nl/2011/06/600px-Virtuemart_logo-300x239.png" width="145" height="116" align="left" />Veel klanten vragen mij om de volgende optie binnen Joomla! Virtuemart. Ze willen namelijk heel graag de product prijzen ex BTW tonen maar op bij de kassa en op de factuur dient wel de BTW te staan.
 
 Nu heb je in de configuratie allerlei BTW instellingen echter lijken die net even niet te doen wat je wilt.
 

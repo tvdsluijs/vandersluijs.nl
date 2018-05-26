@@ -59,7 +59,7 @@ Echter had de Sony Alpha 5100 wat tekortkomingen. Zo heeft de Sony Alpha 5100 bi
 
 ## Sony Alpha 6000 view finder
 
-<img class="size-medium wp-image-2367 alignleft" src="/images/2016/02/IMG_2829-300x225.jpg" alt="canon alpha 6000" width="300" height="225" srcset="/images/2016/02/IMG_2829-300x225.jpg 300w, /images/2016/02/IMG_2829-768x576.jpg 768w, /images/2016/02/IMG_2829-1024x768.jpg 1024w, /images/2016/02/IMG_2829.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Ik wil juist graag een hot-shoe en een view-finder. De view-finder heeft twee pluspunten, namelijk dat het je batterij spaart door de view-finder te gebruiken en niet het grote energie slurpende lcd scherm.
+<img class="size-medium wp-image-2367 alignleft" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-300x225.jpg" alt="canon alpha 6000" width="300" height="225" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-300x225.jpg 300w, /images/2016/02/IMG_2829-768x576.jpg 768w, /images/2016/02/IMG_2829-1024x768.jpg 1024w, /images/2016/02/IMG_2829.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" />Ik wil juist graag een hot-shoe en een view-finder. De view-finder heeft twee pluspunten, namelijk dat het je batterij spaart door de view-finder te gebruiken en niet het grote energie slurpende lcd scherm.
 
 En bij veel zon zie je veel meer door een view-finder dan op een LCD scherm.
 
@@ -79,7 +79,7 @@ Ik kan alleen geen GPS module vinden voor de hot-shoe. Jammer, maar daar kom ik 
 
 ## Sony a6000 specificaties
 
-<img class="size-medium wp-image-2371 alignright" src="/images/2016/02/IMG_2833-225x300.jpg" alt="canon a6000" width="225" height="300" srcset="/images/2016/02/IMG_2833-225x300.jpg 225w, /images/2016/02/IMG_2833-768x1024.jpg 768w, /images/2016/02/IMG_2833.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />De Sony Alpha 6000 is een prachtige Systeem camera. Eigenlijk is het een complete spiegel reflex, maar dan zonder enorm gewicht en bijna niet vast te houden body.
+<img class="size-medium wp-image-2371 alignright" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-225x300.jpg" alt="canon a6000" width="225" height="300" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-225x300.jpg 225w, /images/2016/02/IMG_2833-768x1024.jpg 768w, /images/2016/02/IMG_2833.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />De Sony Alpha 6000 is een prachtige Systeem camera. Eigenlijk is het een complete spiegel reflex, maar dan zonder enorm gewicht en bijna niet vast te houden body.
 
 Hij is snel, volledig instelbaar en maakt mooiere foto&#8217;s dan veel spiegel reflex camera&#8217;s van de concurrent zoals Canon en Nikon.
 
@@ -112,7 +112,7 @@ Tuurlijk zijn er nog veel meer specificaties. Maar ik wil een camera waarmee ik 
 
 ## Sony Alpha 6000 gemiste kansen
 
-<img class="alignleft size-medium wp-image-2369" src="/images/2016/02/IMG_2831-225x300.jpg" alt="canon alpha 6000 a6000" width="225" height="300" srcset="/images/2016/02/IMG_2831-225x300.jpg 225w, /images/2016/02/IMG_2831-768x1024.jpg 768w, /images/2016/02/IMG_2831.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />Dus dit is de top systeem camera waar ik op zat te wachten? Nou niet echt! Ik vind buiten dat het echt wel een goede camera is, dat er nogal wat gemiste kansen zijn bij deze Sony a6000.
+<img class="alignleft size-medium wp-image-2369" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-225x300.jpg" alt="canon alpha 6000 a6000" width="225" height="300" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-225x300.jpg 225w, /images/2016/02/IMG_2831-768x1024.jpg 768w, /images/2016/02/IMG_2831.jpg 900w" sizes="(max-width: 225px) 100vw, 225px" />Dus dit is de top systeem camera waar ik op zat te wachten? Nou niet echt! Ik vind buiten dat het echt wel een goede camera is, dat er nogal wat gemiste kansen zijn bij deze Sony a6000.
 
 Zo snap ik niet dat er geen GPS op zit. Kom op! Iedere fotograaf wil toch wel zien waar de foto gemaakt is. Tegenwoordig heb je zogenaamde Low Energy Gps Trackers die met of zonder telefoon connectie echt een super snel GPS verbinding hebben.
 
@@ -132,30 +132,30 @@ Had ik moeten wachten op de a6300? Denk het niet. Ik ben heel blij met mijn Son
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins'><img width="150" height="150" src="/images/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="sony a6000 alpha 6000 review" srcset="/images/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-150x150.jpg 150w, /images/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-65x65.jpg 65w, /images/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-60x60.jpg 60w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="sony a6000 alpha 6000 review" srcset=https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-150x150.jpg 150w, /images/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-65x65.jpg 65w, /images/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-60x60.jpg 60w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/img_2833'><img width="150" height="150" src="/images/2016/02/IMG_2833-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon a6000" srcset="/images/2016/02/IMG_2833-150x150.jpg 150w, /images/2016/02/IMG_2833-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/img_2833'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon a6000" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-150x150.jpg 150w, /images/2016/02/IMG_2833-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/img_2832'><img width="150" height="150" src="/images/2016/02/IMG_2832-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2016/02/IMG_2832-150x150.jpg 150w, /images/2016/02/IMG_2832-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/img_2832'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_2832-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_2832-150x150.jpg 150w, /images/2016/02/IMG_2832-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/img_2831'><img width="150" height="150" src="/images/2016/02/IMG_2831-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon alpha 6000 a6000" srcset="/images/2016/02/IMG_2831-150x150.jpg 150w, /images/2016/02/IMG_2831-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/img_2831'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon alpha 6000 a6000" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-150x150.jpg 150w, /images/2016/02/IMG_2831-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/img_2830'><img width="150" height="150" src="/images/2016/02/IMG_2830-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2016/02/IMG_2830-150x150.jpg 150w, /images/2016/02/IMG_2830-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/img_2830'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_2830-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_2830-150x150.jpg 150w, /images/2016/02/IMG_2830-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/img_2829'><img width="150" height="150" src="/images/2016/02/IMG_2829-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon alpha 6000" srcset="/images/2016/02/IMG_2829-150x150.jpg 150w, /images/2016/02/IMG_2829-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/img_2829'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon alpha 6000" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-150x150.jpg 150w, /images/2016/02/IMG_2829-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/img_2828'><img width="150" height="150" src="/images/2016/02/IMG_2828-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2016/02/IMG_2828-150x150.jpg 150w, /images/2016/02/IMG_2828-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/img_2828'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_2828-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_2828-150x150.jpg 150w, /images/2016/02/IMG_2828-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure>
 </div>

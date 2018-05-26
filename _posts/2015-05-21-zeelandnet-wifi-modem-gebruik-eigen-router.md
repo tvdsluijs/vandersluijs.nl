@@ -4,7 +4,7 @@ title: ZeelandNet wifi-modem in voor gebruik met een eigen router?
 date: 2015-05-21T20:55:15+00:00
 author: Theo van der Sluijs
 layout: post
-guid: http://zeelandwifi.nl/?p=4
+guid: https://vandersluijs.nl
 permalink: /blog/2015/05/zeelandnet-wifi-modem-gebruik-eigen-router.html
 hits:
   - "128"
@@ -32,7 +32,7 @@ categories:
   * Ga via 192.168.11.1 naar het Wifi Modem. Log in met inlognaam en password.
 
 <div>
-  <a href="http://zeelandwifi.nl/wp-content/uploads/2016/05/b0ebfd1d-7ac4-4e52-9c9c-2fe24f74d9e8.jpg"><img class="alignnone size-medium wp-image-5" src="http://zeelandwifi.nl/wp-content/uploads/2016/05/b0ebfd1d-7ac4-4e52-9c9c-2fe24f74d9e8-300x150.jpg" alt="zeelandnet modem eigen router" width="300" height="150" /></a>
+  <a href="https://vandersluijs.resultants-e.nl/2016/05/b0ebfd1d-7ac4-4e52-9c9c-2fe24f74d9e8.jpg"><img class="alignnone size-medium wp-image-5" src="https://vandersluijs.resultants-e.nl/2016/05/b0ebfd1d-7ac4-4e52-9c9c-2fe24f74d9e8-300x150.jpg" alt="zeelandnet modem eigen router" width="300" height="150" /></a>
 </div>
 
   * Vul het Macadress van de eigen router in onder Applications & Gaming bij IP Pass Through.

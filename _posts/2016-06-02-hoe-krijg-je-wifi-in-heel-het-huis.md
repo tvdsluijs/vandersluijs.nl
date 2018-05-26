@@ -4,7 +4,7 @@ title: Hoe krijg je Wifi in heel het huis
 date: 2016-06-02T19:58:37+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://zeelandwifi.nl/?p=203
+guid: https://vandersluijs.nl/?p=203
 permalink: /blog/2016/06/hoe-krijg-je-wifi-in-heel-het-huis.html
 hefo_before:
   - "0"
@@ -22,7 +22,7 @@ tags:
   - WiFi
   - Zeelandnet
 ---
-<img class="alignleft size-thumbnail wp-image-209" src="https://zeelandwifi.nl/wp-content/uploads/2016/05/1464572709_Untitled-5-150x150.png" alt="Wifi in heel je huis" width="150" height="150" />Wifi in heel je huis ja dat is echt mogelijk! Het kost was geld en moeite maar als je bereid bent om dat er in te steken is het mogelijk om overal in huis goede Wifi te hebben.
+<img class="alignleft size-thumbnail wp-image-209" src="https://vandersluijs.resultants-e.nl/2016/05/1464572709_Untitled-5-150x150.png" alt="Wifi in heel je huis" width="150" height="150" />Wifi in heel je huis ja dat is echt mogelijk! Het kost was geld en moeite maar als je bereid bent om dat er in te steken is het mogelijk om overal in huis goede Wifi te hebben.
 
 Wifi in sommige woningen zo geregeld in andere woningen is het heel moeilijk om het overal goed te krijgen.<!--more-->
 
@@ -44,9 +44,9 @@ Klaar voor Wifi in je hele huis? Volg dan het stappen plan hieronder.
 
 ## Stappen plan voor wifi in het hele huis
 
-Stap 1: Zet Wifi uit op je ZeelandNet modem. Hoe dat moet lees je [hier](https://zeelandwifi.nl/uitzetten-wifi/).
+Stap 1: Zet Wifi uit op je ZeelandNet modem. Hoe dat moet lees je [hier](https://vandersluijs.nl/uitzetten-wifi/).
   
-Stap 2: Installeer Software op je [PC](https://zeelandwifi.nl/inssider/) of [Mac](https://zeelandwifi.nl/wifi-explorer/).
+Stap 2: Installeer Software op je [PC](https://vandersluijs.nl/inssider/) of [Mac](https://vandersluijs.nl/wifi-explorer/).
   
 Stap 3: Koop een nieuwe Router en access points.
   
@@ -66,4 +66,4 @@ Zodra je alles op papier hebt, is het tijd om naar de winkel te gaan. Ga bij voo
 
 Het kan handig zijn om verdieping voor verdieping te kopen, want in sommige gevallen is een tussen station (repeater / versterker) ophangen al voldoende om de verdieping hoger ook te voorzien van Wifi.
 
-Mocht je willen weten welke router en access point je kan kopen, kijk dan eens op [deze pagina](https://zeelandwifi.nl/dag-aanbiedingen-wifi/).
+Mocht je willen weten welke router en access point je kan kopen, kijk dan eens op [deze pagina](https://vandersluijs.nl/dag-aanbiedingen-wifi/).

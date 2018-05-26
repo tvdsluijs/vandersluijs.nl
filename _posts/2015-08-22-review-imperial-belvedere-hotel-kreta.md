@@ -132,63 +132,63 @@ Al met al heb ik een prima week gehad! Maar na 8 dagen moest ik helaas weer naar
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0741'><img width="150" height="150" src="/images/2015/08/IMG_0741-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0741-150x150.jpg 150w, /images/2015/08/IMG_0741-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0741'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0741-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0741-150x150.jpg 150w, /images/2015/08/IMG_0741-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0605'><img width="150" height="150" src="/images/2015/08/IMG_0605-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0605-150x150.jpg 150w, /images/2015/08/IMG_0605-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0605'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0605-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0605-150x150.jpg 150w, /images/2015/08/IMG_0605-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0289'><img width="150" height="150" src="/images/2015/08/IMG_0289-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0289-150x150.jpg 150w, /images/2015/08/IMG_0289-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0289'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0289-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0289-150x150.jpg 150w, /images/2015/08/IMG_0289-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0274'><img width="150" height="150" src="/images/2015/08/IMG_0274-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0274-150x150.jpg 150w, /images/2015/08/IMG_0274-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0274'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0274-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0274-150x150.jpg 150w, /images/2015/08/IMG_0274-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0298'><img width="150" height="150" src="/images/2015/08/IMG_0298-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0298-150x150.jpg 150w, /images/2015/08/IMG_0298-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0298'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0298-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0298-150x150.jpg 150w, /images/2015/08/IMG_0298-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0270'><img width="150" height="150" src="/images/2015/08/IMG_0270-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0270-150x150.jpg 150w, /images/2015/08/IMG_0270-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0270'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0270-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0270-150x150.jpg 150w, /images/2015/08/IMG_0270-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0268'><img width="150" height="150" src="/images/2015/08/IMG_0268-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0268-150x150.jpg 150w, /images/2015/08/IMG_0268-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0268'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0268-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0268-150x150.jpg 150w, /images/2015/08/IMG_0268-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0740'><img width="150" height="150" src="/images/2015/08/IMG_0740-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0740-150x150.jpg 150w, /images/2015/08/IMG_0740-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0740'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0740-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0740-150x150.jpg 150w, /images/2015/08/IMG_0740-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0327'><img width="150" height="150" src="/images/2015/08/IMG_0327-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0327-150x150.jpg 150w, /images/2015/08/IMG_0327-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0327'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0327-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0327-150x150.jpg 150w, /images/2015/08/IMG_0327-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0261'><img width="150" height="150" src="/images/2015/08/IMG_0261-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0261-150x150.jpg 150w, /images/2015/08/IMG_0261-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0261'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0261-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0261-150x150.jpg 150w, /images/2015/08/IMG_0261-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0323'><img width="150" height="150" src="/images/2015/08/IMG_0323-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0323-150x150.jpg 150w, /images/2015/08/IMG_0323-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0323'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0323-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0323-150x150.jpg 150w, /images/2015/08/IMG_0323-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0265'><img width="150" height="150" src="/images/2015/08/IMG_0265-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0265-150x150.jpg 150w, /images/2015/08/IMG_0265-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0265'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0265-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0265-150x150.jpg 150w, /images/2015/08/IMG_0265-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0603'><img width="150" height="150" src="/images/2015/08/IMG_0603-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0603-150x150.jpg 150w, /images/2015/08/IMG_0603-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0603'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0603-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0603-150x150.jpg 150w, /images/2015/08/IMG_0603-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0759'><img width="150" height="150" src="/images/2015/08/IMG_0759-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0759-150x150.jpg 150w, /images/2015/08/IMG_0759-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0759'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0759-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0759-150x150.jpg 150w, /images/2015/08/IMG_0759-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0273'><img width="150" height="150" src="/images/2015/08/IMG_0273-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="/images/2015/08/IMG_0273-150x150.jpg 150w, /images/2015/08/IMG_0273-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/08/review-imperial-belvedere-hotel-kreta.html/img_0273'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0273-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0273-150x150.jpg 150w, /images/2015/08/IMG_0273-65x65.jpg 65w" sizes="100vw" /></a>
   </div></figure>
 </div>
 

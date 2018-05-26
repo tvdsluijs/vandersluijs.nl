@@ -58,7 +58,7 @@ Er is een hele goede reden dat Casey Neistat een GorillaPod gebruikt! Niet alle
 
 &nbsp;<figure id="attachment_3477" style="width: 300px" class="wp-caption alignleft">
 
-<img class="size-medium wp-image-3477" src="/images/2016/08/GOPR2303-300x225.jpg" alt="DCIM100GOPRO" width="300" height="225" srcset="/images/2016/08/GOPR2303-300x225.jpg 300w, /images/2016/08/GOPR2303-768x576.jpg 768w, /images/2016/08/GOPR2303-1024x768.jpg 1024w, /images/2016/08/GOPR2303-533x400.jpg 533w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">DCIM100GOPRO</figcaption></figure> 
+<img class="size-medium wp-image-3477" src=https://vandersluijs.resultants-e.nl/2016/08/GOPR2303-300x225.jpg" alt="DCIM100GOPRO" width="300" height="225" srcset=https://vandersluijs.resultants-e.nl/2016/08/GOPR2303-300x225.jpg 300w, /images/2016/08/GOPR2303-768x576.jpg 768w, /images/2016/08/GOPR2303-1024x768.jpg 1024w, /images/2016/08/GOPR2303-533x400.jpg 533w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">DCIM100GOPRO</figcaption></figure> 
 
 Het Joby GorillaPod SLR Zoom is een statief met BH-1 Ball Head. Deze is ontworpen voor de &#8220;Serieuze fotograaf&#8221; de vlogger of voor mij, een hobbyist die het gewoon handig vind om zijn camera aan allen en nog wat vast te kunnen maken.
 
@@ -80,7 +80,7 @@ Dus, ja! Reis-test geslaagd! De SLR Zoom is klein genoeg om mee op reis te nemen
 
 ## Stevigheid SLR Zoom<figure id="attachment_3476" style="width: 300px" class="wp-caption alignright">
 
-<img class="size-medium wp-image-3476" src="/images/2016/08/GOPR2301-300x225.jpg" alt="DCIM100GOPRO" width="300" height="225" srcset="/images/2016/08/GOPR2301-300x225.jpg 300w, /images/2016/08/GOPR2301-768x576.jpg 768w, /images/2016/08/GOPR2301-1024x768.jpg 1024w, /images/2016/08/GOPR2301-533x400.jpg 533w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">DCIM100GOPRO</figcaption></figure> <figure id="attachment_3474" style="width: 300px" class="wp-caption alignleft"><img class="size-medium wp-image-3474" src="/images/2016/08/GOPR2291-300x225.jpg" alt="DCIM100GOPRO" width="300" height="225" srcset="/images/2016/08/GOPR2291-300x225.jpg 300w, /images/2016/08/GOPR2291-768x576.jpg 768w, /images/2016/08/GOPR2291-1024x768.jpg 1024w, /images/2016/08/GOPR2291-533x400.jpg 533w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">DCIM100GOPRO</figcaption></figure> 
+<img class="size-medium wp-image-3476" src=https://vandersluijs.resultants-e.nl/2016/08/GOPR2301-300x225.jpg" alt="DCIM100GOPRO" width="300" height="225" srcset=https://vandersluijs.resultants-e.nl/2016/08/GOPR2301-300x225.jpg 300w, /images/2016/08/GOPR2301-768x576.jpg 768w, /images/2016/08/GOPR2301-1024x768.jpg 1024w, /images/2016/08/GOPR2301-533x400.jpg 533w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">DCIM100GOPRO</figcaption></figure> <figure id="attachment_3474" style="width: 300px" class="wp-caption alignleft"><img class="size-medium wp-image-3474" src=https://vandersluijs.resultants-e.nl/2016/08/GOPR2291-300x225.jpg" alt="DCIM100GOPRO" width="300" height="225" srcset=https://vandersluijs.resultants-e.nl/2016/08/GOPR2291-300x225.jpg 300w, /images/2016/08/GOPR2291-768x576.jpg 768w, /images/2016/08/GOPR2291-1024x768.jpg 1024w, /images/2016/08/GOPR2291-533x400.jpg 533w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption class="wp-caption-text">DCIM100GOPRO</figcaption></figure> 
 
 Een Joby GorillaPod SLR Zoom is opgebouwd uit 30 losse kogelgewrichten van hoogwaardig kunststof die samen de drie poten van het statief vormen. Alle gewrichten zijn los van elkaar te bewegen en kunnen dus alle kanten op draaien, hierdoor kan je de GorillaPod op zo&#8217;n manier buigen dat hij altijd en overal neer te zetten, of te hangen is.
 
@@ -146,27 +146,27 @@ Zodra ik thuis ben van deze vakantie zal ik jullie nog verblijden met een artike
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/dcim100gopro-5'><img width="150" height="150" src="/images/2016/08/GOPR2301-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-17-3476" srcset="/images/2016/08/GOPR2301-150x150.jpg 150w, /images/2016/08/GOPR2301-65x65.jpg 65w, /images/2016/08/GOPR2301-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/dcim100gopro-5'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/08/GOPR2301-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-17-3476" srcset=https://vandersluijs.resultants-e.nl/2016/08/GOPR2301-150x150.jpg 150w, /images/2016/08/GOPR2301-65x65.jpg 65w, /images/2016/08/GOPR2301-50x50.jpg 50w" sizes="100vw" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-3476'> DCIM100GOPRO </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/img_4597'><img width="150" height="150" src="/images/2016/08/IMG_4597-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Gorillapod SLR Zoom" srcset="/images/2016/08/IMG_4597-150x150.jpg 150w, /images/2016/08/IMG_4597-65x65.jpg 65w, /images/2016/08/IMG_4597-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/img_4597'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/08/IMG_4597-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Gorillapod SLR Zoom" srcset=https://vandersluijs.resultants-e.nl/2016/08/IMG_4597-150x150.jpg 150w, /images/2016/08/IMG_4597-65x65.jpg 65w, /images/2016/08/IMG_4597-50x50.jpg 50w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/img_4592'><img width="150" height="150" src="/images/2016/08/IMG_4592-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Gorillapod SLR Zoom" srcset="/images/2016/08/IMG_4592-150x150.jpg 150w, /images/2016/08/IMG_4592-65x65.jpg 65w, /images/2016/08/IMG_4592-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/img_4592'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/08/IMG_4592-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Gorillapod SLR Zoom" srcset=https://vandersluijs.resultants-e.nl/2016/08/IMG_4592-150x150.jpg 150w, /images/2016/08/IMG_4592-65x65.jpg 65w, /images/2016/08/IMG_4592-50x50.jpg 50w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/dcim100gopro-9'><img width="150" height="150" src="/images/2016/08/GOPR2303-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-17-3477" srcset="/images/2016/08/GOPR2303-150x150.jpg 150w, /images/2016/08/GOPR2303-65x65.jpg 65w, /images/2016/08/GOPR2303-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/dcim100gopro-9'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/08/GOPR2303-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-17-3477" srcset=https://vandersluijs.resultants-e.nl/2016/08/GOPR2303-150x150.jpg 150w, /images/2016/08/GOPR2303-65x65.jpg 65w, /images/2016/08/GOPR2303-50x50.jpg 50w" sizes="100vw" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-3477'> DCIM100GOPRO </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/dcim100gopro-4'><img width="150" height="150" src="/images/2016/08/GOPR2296-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-17-3475" srcset="/images/2016/08/GOPR2296-150x150.jpg 150w, /images/2016/08/GOPR2296-65x65.jpg 65w, /images/2016/08/GOPR2296-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/dcim100gopro-4'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/08/GOPR2296-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-17-3475" srcset=https://vandersluijs.resultants-e.nl/2016/08/GOPR2296-150x150.jpg 150w, /images/2016/08/GOPR2296-65x65.jpg 65w, /images/2016/08/GOPR2296-50x50.jpg 50w" sizes="100vw" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-3475'> DCIM100GOPRO </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/dcim100gopro-3'><img width="150" height="150" src="/images/2016/08/GOPR2291-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-17-3474" srcset="/images/2016/08/GOPR2291-150x150.jpg 150w, /images/2016/08/GOPR2291-65x65.jpg 65w, /images/2016/08/GOPR2291-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2016/08/gorillapod-slr-zoom-hardcore-vloggen.html/dcim100gopro-3'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2016/08/GOPR2291-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-17-3474" srcset=https://vandersluijs.resultants-e.nl/2016/08/GOPR2291-150x150.jpg 150w, /images/2016/08/GOPR2291-65x65.jpg 65w, /images/2016/08/GOPR2291-50x50.jpg 50w" sizes="100vw" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-17-3474'> DCIM100GOPRO </figcaption></figure>
 </div>
 

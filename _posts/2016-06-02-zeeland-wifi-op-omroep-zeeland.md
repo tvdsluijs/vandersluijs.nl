@@ -4,7 +4,7 @@ title: Zeeland Wifi op Omroep Zeeland
 date: 2016-06-02T06:26:42+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://zeelandwifi.nl/?p=216
+guid: https://vandersluijs.nl/?p=216
 permalink: /blog/2016/06/zeeland-wifi-op-omroep-zeeland.html
 hefo_before:
   - "0"

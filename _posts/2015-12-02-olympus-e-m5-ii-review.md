@@ -103,7 +103,7 @@ Maar ja&#8230; die prijs hé! Meer dan 1000 euro moet je er voor neer tellen! En
   * Best wel pittige prijs!
   * Met 417 g redelijk aan de zware kant.
 
-Meer weten over deze camera of gelijk ééntje kopen? Ga dan snel naar de site van <a href="/images/2015/12/olympus-e-m5ii-1250-kit-slv-blk-e-m5-mark-ii-silver-ez.html" target="_blank">Foto Tuerlings</a>!
+Meer weten over deze camera of gelijk ééntje kopen? Ga dan snel naar de site van <a href=https://vandersluijs.resultants-e.nl/2015/12/olympus-e-m5ii-1250-kit-slv-blk-e-m5-mark-ii-silver-ez.html" target="_blank">Foto Tuerlings</a>!
 
 [FAG id=2203]
 

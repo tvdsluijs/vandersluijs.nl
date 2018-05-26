@@ -82,7 +82,7 @@ Mijn blogs worden helaas niet door een rijke firma qua geld ondersteunt dus alle
 
 Dus deed ik een oproep bij wat grote foto zaken en kreeg daar diverse reacties op terug. Helaas kreeg ik van sommige bedrijven geheel geen reactie terug. Er waren foto zaken die me bedankten voor de eer en me veel succes wensten met mijn blog.
 
-<a href="/images/2015/09/www.cameraland.nl" target="_blank" rel="nofollow">Cameraland.nl</a> hun reactie vond ik helaas met een nogal negatieve ondertoon: &#8220;Ik heb geen interesse in een review over een statief en voel er ook weinig voor om een statief gratis weg te geven&#8221;.
+<a href=https://vandersluijs.resultants-e.nl/2015/09/www.cameraland.nl" target="_blank" rel="nofollow">Cameraland.nl</a> hun reactie vond ik helaas met een nogal negatieve ondertoon: &#8220;Ik heb geen interesse in een review over een statief en voel er ook weinig voor om een statief gratis weg te geven&#8221;.
 
 Maar er was één bedrijf dat mijn probleem snapte, enthousiast was en mij wilde helpen! En dat was <a href="https://vandersluijs.nl/endorses/foka" target="_blank">Foka</a> uit Rotterdam!
 

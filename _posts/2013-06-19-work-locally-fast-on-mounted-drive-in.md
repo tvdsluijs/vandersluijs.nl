@@ -46,7 +46,7 @@ I installed it, imported my projects. And guess WHAT! It was SLOW!! That was 90 
 
 Indexing took like two decennia, the time it took for updating on SVN I could do a repaint of my whole house! During the updating of the project from SVN I two knitted sweaters!
 
-And then I saw the light! Well actually PHPStorm showed me the light![<img alt="network_mounted_directory_may_be_slow_phpstorm" class="alignleft size-medium wp-image-870" height="37" src="/images/2013/06/network_mounted_directory_may_be_slow_phpstorm-300x37-300x37.png" width="300" />](/images/2013/06/network_mounted_directory_may_be_slow_phpstorm-300x37.png)
+And then I saw the light! Well actually PHPStorm showed me the light![<img alt="network_mounted_directory_may_be_slow_phpstorm" class="alignleft size-medium wp-image-870" height="37" src=https://vandersluijs.resultants-e.nl/2013/06/network_mounted_directory_may_be_slow_phpstorm-300x37-300x37.png" width="300" />](/images/2013/06/network_mounted_directory_may_be_slow_phpstorm-300x37.png)
 
 So&#8230; working on mounts is slow? What? I&#8217;ve got a&nbsp;1Gigabit Network connection, and the files are on SSD&#8217;s!! Should I go for fiber optic?
 
@@ -62,7 +62,7 @@ Al the indexing, svn updates, svn commits he did locally and then the rsync sync
 
 So I went on a small adventure! Within PHPStorm there&#8217;s a feature called &#8220;New Project from Existing Files Wizard&#8221; that I wanted to try.&nbsp;It&#8217;s very easy! PHPStorm just copies all the files (except for SVN and some other files or folders) to your local drive and with some preference adjustments PHPStorm puts the changes back to your mounted drive.
 
-[<img alt="phpstorm" class="alignright size-medium wp-image-872" height="200" src="/images/2013/06/phpstorm-300x200-300x200.png" width="300" />](/images/2013/06/phpstorm-300x200.png)Now&#8230; I hope you see where it goes wrong! It doesn&#8217;t copy the SVN files! PHPStorm thinks that you want to keep updating / committing on the mounted drive! But I don&#8217;t want that!
+[<img alt="phpstorm" class="alignright size-medium wp-image-872" height="200" src=https://vandersluijs.resultants-e.nl/2013/06/phpstorm-300x200-300x200.png" width="300" />](/images/2013/06/phpstorm-300x200.png)Now&#8230; I hope you see where it goes wrong! It doesn&#8217;t copy the SVN files! PHPStorm thinks that you want to keep updating / committing on the mounted drive! But I don&#8217;t want that!
 
 I copied the SVN folders back to my local drive, but that did not work either. Cause I left out a lot of folders, SVN&nbsp;thought hey where are those files? And it started updating many many files.
 
@@ -75,7 +75,7 @@ Okay, this is what I did. I SVN checked-out my project to my local drive! Then I
 > DropSync can be used to push local changes to a webserver, or make a local copy of a website&#8217;s files.
 
 It&#8217;s a left to right or right to left rsync tool! It works great! You can tune it all the way like you would using rsync! You can leave out certain files or folders. I let Dropsync sync two projects from my localdrive to my mounted drive. It&#8217;s done over SSH, it&#8217;s fast and reliable!  
-[<img alt="MainScreen_Syncing_500" class="alignleft size-medium wp-image-873" height="205" src="/images/2013/06/MainScreen_Syncing_500-300x205-300x205.png" width="300" />](/images/2013/06/MainScreen_Syncing_500-300x205.png)If the connection is lost, you can always manually do a local to mount sync!
+[<img alt="MainScreen_Syncing_500" class="alignleft size-medium wp-image-873" height="205" src=https://vandersluijs.resultants-e.nl/2013/06/MainScreen_Syncing_500-300x205-300x205.png" width="300" />](/images/2013/06/MainScreen_Syncing_500-300x205.png)If the connection is lost, you can always manually do a local to mount sync!
 
 SVN updates and SVN commits are done on your local drive! Superfast! You can do it with PHPStorm or with any versioning tool you like to use.
 

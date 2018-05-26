@@ -37,7 +37,7 @@ categories:
 </div>
 
 <div>
-  <a href="/images/2012/10/photo.jpg"><img border="0" height="480" src="/images/2012/10/photo-300x225.jpg" width="640" /></a>
+  <a href=https://vandersluijs.resultants-e.nl/2012/10/photo.jpg"><img border="0" height="480" src=https://vandersluijs.resultants-e.nl/2012/10/photo-300x225.jpg" width="640" /></a>
 </div>
 
 <div>

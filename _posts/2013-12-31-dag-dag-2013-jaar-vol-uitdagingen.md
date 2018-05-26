@@ -30,7 +30,7 @@ categories:
 <table cellpadding="0" cellspacing="0" style="float: left; margin-right: 1em; text-align: left;">
   <tr>
     <td style="text-align: center;">
-      <a href="/images/2013/12/11611784853_148d484536_m.jpg" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" src="/images/2013/12/11611784853_148d484536_m.jpg" /></a>
+      <a href=https://vandersluijs.resultants-e.nl/2013/12/11611784853_148d484536_m.jpg" style="clear: left; margin-bottom: 1em; margin-left: auto; margin-right: auto;"><img border="0" src=https://vandersluijs.resultants-e.nl/2013/12/11611784853_148d484536_m.jpg" /></a>
     </td>
   </tr>
   
@@ -61,7 +61,7 @@ In januari ben ik op de <a href="http://phpbenelux.nl/" target="_blank">PHP Bene
 ## Juni
 
 <div style="clear: both; text-align: center;">
-  <a href="/images/2013/12/dod-amsterdam.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="/images/2013/12/dod-amsterdam.png" height="149" width="200" /></a>
+  <a href=https://vandersluijs.resultants-e.nl/2013/12/dod-amsterdam.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src=https://vandersluijs.resultants-e.nl/2013/12/dod-amsterdam.png" height="149" width="200" /></a>
 </div>
 
 In Juni ben ik naar de <a href="http://www.devopsdays.org/events/2013-amsterdam/" target="_blank">Dev Ops Days</a> geweest in Amsterdam. Een bijeenkomst als deze heb ik nog nooit meegemaakt.

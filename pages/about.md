@@ -6,7 +6,7 @@ feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]
 ---
 
-![](http://www.gravatar.com/avatar/b40d3b7da056fcc44bf7792e4ed4bda3?s=200)Aangezien ik nu al meer dan 400 blogposts verder ben, leek het me hoog tijd om nog wat meer over mezelf te vertellen! Wie is Theo van der Sluijs?
+Aangezien ik nu al meer dan 400 blogposts verder ben, leek het me hoog tijd om nog wat meer over mezelf te vertellen! Wie is Theo van der Sluijs?
 
 Mijn volledige naam is Theodorus van der Sluijs, maar zeg gerust Theo. Ik ben geboren in 1975 en jarig op 14 mei, wat mij het sterrenbeeld Stier meegeeft. Ik woon samen met mijn vrouw en twee kinderen (\[show-my-age birthday=”2007/02/10″\] en \[show-my-age birthday=”2010/04/30″\] jaar) in een klein dorpje in de Provincie Zeeland.
 
@@ -56,12 +56,7 @@ Technische feitjes van Theo van der Sluijs
 *   2013     Derde Mac / Macbook 15″
 *   2015     Eerste iPhone / 5S
 *   2015     Vierde Mac / MacBook 13″
-*   2017     Iphone SE
-*   2017     Chromebook Asus 14"
-*   2018     Vijfde Mac / Macbook Pro Touch 13"
-*   2018     Samsung Galaxy A8
-
-Iets vragen aan Theo van der Sluijs?
-------------------------------------
-
-Heb je vragen? Stel ze gerust!
+*   2017     Iphone SE
+*   2017     Chromebook Asus 14"
+*   2018     Vijfde Mac / Macbook Pro Touch 13"
+*   2018     Samsung Galaxy A8

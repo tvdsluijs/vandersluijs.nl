@@ -131,7 +131,7 @@ Moet ik wel, helaas, nog gefrustreerder met een ander pakket iedere foto apart g
 
 Bedankt CeWe! Oh en deze :
   
-<a style="margin-left: 1em; margin-right: 1em;" href="/images/2013/08/cewe_slechtste_uit_mijn_test.jpg"><img src="/images/2013/08/cewe_slechtste_uit_mijn_test-300x147.jpg" alt="" width="400" height="195" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em;" href=https://vandersluijs.resultants-e.nl/2013/08/cewe_slechtste_uit_mijn_test.jpg"><img src=https://vandersluijs.resultants-e.nl/2013/08/cewe_slechtste_uit_mijn_test-300x147.jpg" alt="" width="400" height="195" border="0" /></a>
   
 mag je van mij door de consumentenbond laten aanpassen in:
 

@@ -31,7 +31,7 @@ Sorry, image in dutch text only!
 Conversation between Me and Harrie Verveer.
 
 <div style="clear: both; text-align: center;">
-  <a href="/images/2013/08/theo_van_der_sluijs_the_flash.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="305" src="/images/2013/08/theo_van_der_sluijs_the_flash-300x143.png" width="640" /></a>
+  <a href=https://vandersluijs.resultants-e.nl/2013/08/theo_van_der_sluijs_the_flash.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="305" src=https://vandersluijs.resultants-e.nl/2013/08/theo_van_der_sluijs_the_flash-300x143.png" width="640" /></a>
 </div>
 
 <div style="clear: both; text-align: center;">

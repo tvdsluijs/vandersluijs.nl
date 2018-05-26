@@ -73,7 +73,7 @@ De winkelbedienden zeggen overigens niet dat ze echt zijn, maar wel net  zo goe
 
 ## Net echt zo&#8217;n nep Beats by Dr Dre
 
-[<img class="alignleft size-thumbnail wp-image-1231" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_1007-150x150.jpg" alt="IMG_1007" width="150" height="150" srcset="/images/2015/08/IMG_1007-150x150.jpg 150w, /images/2015/08/IMG_1007-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_1007.jpg)In de winkel leken ze net echt. De juiste doos zat er om, Dr Dre staat er op met foto en zijn logo. Je kon ze zelfs testen bij schappen waar ze hingen. Voor mezelf dacht ik, dit moet ik testen! Dit is te goedkoop om niet te laten hangen.
+[<img class="alignleft size-thumbnail wp-image-1231" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_1007-150x150.jpg" alt="IMG_1007" width="150" height="150" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_1007-150x150.jpg 150w, /images/2015/08/IMG_1007-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_1007.jpg)In de winkel leken ze net echt. De juiste doos zat er om, Dr Dre staat er op met foto en zijn logo. Je kon ze zelfs testen bij schappen waar ze hingen. Voor mezelf dacht ik, dit moet ik testen! Dit is te goedkoop om niet te laten hangen.
 
 En zeg nou zelf, staat toch best goed zo&#8217;n Beats om je nek!
 
@@ -100,13 +100,13 @@ En er zit ook géén garantie bewijs bij. Maar goed&#8230;. op nep producten heb
 
 Als ik thuis gekomen goed ga kijken dan vallen me toch wel wat kleine kwaliteitsprobleempjes op.
 
-[<img class="alignleft size-thumbnail wp-image-1229" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0872-sml-150x150.jpg" alt="IMG_0872-sml" width="150" height="150" srcset="/images/2015/08/IMG_0872-sml-150x150.jpg 150w, /images/2015/08/IMG_0872-sml-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0872-sml.jpg)Zo gaat het uittrekken van de oorschelpen wat moeilijk en maakt het een krakend geluid. Niet echt soepel zeg maar. Terwijl je verwacht bij een Beats by Dr Dre dat dit toch eenvoudig en soepeltjes gaat.
+[<img class="alignleft size-thumbnail wp-image-1229" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0872-sml-150x150.jpg" alt="IMG_0872-sml" width="150" height="150" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0872-sml-150x150.jpg 150w, /images/2015/08/IMG_0872-sml-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0872-sml.jpg)Zo gaat het uittrekken van de oorschelpen wat moeilijk en maakt het een krakend geluid. Niet echt soepel zeg maar. Terwijl je verwacht bij een Beats by Dr Dre dat dit toch eenvoudig en soepeltjes gaat.
 
 > Niet bij een neppert dus.
 
 Ook zijn er wat plastic oneffenheden en is het geheel niet echt super afgewerkt als je van heel dicht bij kijkt.
 
-<img class="alignright size-thumbnail wp-image-1228" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0870-sml-150x150.jpg" alt="Beats By Dr Dre" width="150" height="150" srcset="/images/2015/08/IMG_0870-sml-150x150.jpg 150w, /images/2015/08/IMG_0870-sml-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />Het kabeltje lijkt nergens op. De zogenaamde gouden plugjes laten al zien dat het gewoon van ijzer is. Op sommige plekken hebben ze namelijk net een beetje te weinig goudkleurige verf gebruikt.
+<img class="alignright size-thumbnail wp-image-1228" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0870-sml-150x150.jpg" alt="Beats By Dr Dre" width="150" height="150" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0870-sml-150x150.jpg 150w, /images/2015/08/IMG_0870-sml-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />Het kabeltje lijkt nergens op. De zogenaamde gouden plugjes laten al zien dat het gewoon van ijzer is. Op sommige plekken hebben ze namelijk net een beetje te weinig goudkleurige verf gebruikt.
 
 Ook zijn de jacks niet mooi afgewerkt in het plastic omhulsel waar ze uitsteken en ziet het er van dichtbij erg slecht afgewerkt uit.
 
@@ -126,19 +126,19 @@ Wil je nou een echte Beats kopen maar heb je niet zo veel geld? Koop dan er dan 
   <figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_0870-sml'><img width="300" height="248" src="/images/2015/08/IMG_0870-sml-300x248.jpg" class="attachment-medium size-medium" alt="Beats By Dr Dre" srcset="/images/2015/08/IMG_0870-sml-300x248.jpg 300w, /images/2015/08/IMG_0870-sml-768x636.jpg 768w, /images/2015/08/IMG_0870-sml.jpg 1024w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_0870-sml'><img width="300" height="248" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0870-sml-300x248.jpg" class="attachment-medium size-medium" alt="Beats By Dr Dre" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0870-sml-300x248.jpg 300w, /images/2015/08/IMG_0870-sml-768x636.jpg 768w, /images/2015/08/IMG_0870-sml.jpg 1024w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_0756'><img width="225" height="300" src="/images/2015/08/IMG_0756-225x300.jpg" class="attachment-medium size-medium" alt="nep beats by dr dre studio" srcset="/images/2015/08/IMG_0756-225x300.jpg 225w, /images/2015/08/IMG_0756-768x1024.jpg 768w, /images/2015/08/IMG_0756.jpg 960w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_0756'><img width="225" height="300" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0756-225x300.jpg" class="attachment-medium size-medium" alt="nep beats by dr dre studio" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0756-225x300.jpg 225w, /images/2015/08/IMG_0756-768x1024.jpg 768w, /images/2015/08/IMG_0756.jpg 960w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_1007'><img width="225" height="300" src="/images/2015/08/IMG_1007-225x300.jpg" class="attachment-medium size-medium" alt="" srcset="/images/2015/08/IMG_1007-225x300.jpg 225w, /images/2015/08/IMG_1007-768x1024.jpg 768w, /images/2015/08/IMG_1007.jpg 960w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_1007'><img width="225" height="300" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_1007-225x300.jpg" class="attachment-medium size-medium" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_1007-225x300.jpg 225w, /images/2015/08/IMG_1007-768x1024.jpg 768w, /images/2015/08/IMG_1007.jpg 960w" sizes="100vw" /></a>
   </div></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_0872-sml'><img width="300" height="219" src="/images/2015/08/IMG_0872-sml-300x219.jpg" class="attachment-medium size-medium" alt="" srcset="/images/2015/08/IMG_0872-sml-300x219.jpg 300w, /images/2015/08/IMG_0872-sml-768x560.jpg 768w, /images/2015/08/IMG_0872-sml.jpg 901w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html/img_0872-sml'><img width="300" height="219" src=https://vandersluijs.resultants-e.nl/2015/08/IMG_0872-sml-300x219.jpg" class="attachment-medium size-medium" alt="" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0872-sml-300x219.jpg 300w, /images/2015/08/IMG_0872-sml-768x560.jpg 768w, /images/2015/08/IMG_0872-sml.jpg 901w" sizes="100vw" /></a>
   </div></figure>
 </div>
 

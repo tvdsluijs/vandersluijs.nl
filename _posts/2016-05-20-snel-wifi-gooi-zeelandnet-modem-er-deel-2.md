@@ -4,7 +4,7 @@ title: Snel Wifi? Gooi je Zeelandnet modem er uit! deel 2
 date: 2016-05-20T20:02:29+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://zeelandwifi.nl/?p=145
+guid: https://vandersluijs.nl/?p=145
 permalink: /blog/2016/05/snel-wifi-gooi-zeelandnet-modem-er-deel-2.html
 hefo_before:
   - "0"

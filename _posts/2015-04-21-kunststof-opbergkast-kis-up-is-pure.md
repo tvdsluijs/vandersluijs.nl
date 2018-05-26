@@ -62,7 +62,7 @@ Dus zo erg vond ik het niet, maar ik wilde wel even mijn nieuwe Man-Cave inricht
 
 
   
-[<img class="alignleft wp-image-554 size-medium" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/04/kunststof-opbergkast-169852glrbk-1-e1442260254842-241x300.jpg" alt="kunststof-opbergkast-kis" width="241" height="300" srcset="/images/2015/04/kunststof-opbergkast-169852glrbk-1-e1442260254842-241x300.jpg 241w, /images/2015/04/kunststof-opbergkast-169852glrbk-1-e1442260254842.jpg 504w" sizes="(max-width: 241px) 100vw, 241px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/04/kunststof-opbergkast-169852glrbk-1.jpg)<a name="more"></a>In de garage heb ik twee kasten van Stanley staan. Dit zijn goede sterke kasten die eenvoudig in elkaar te zetten zijn.
+[<img class="alignleft wp-image-554 size-medium" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/04/kunststof-opbergkast-169852glrbk-1-e1442260254842-241x300.jpg" alt="kunststof-opbergkast-kis" width="241" height="300" srcset=https://vandersluijs.resultants-e.nl/2015/04/kunststof-opbergkast-169852glrbk-1-e1442260254842-241x300.jpg 241w, /images/2015/04/kunststof-opbergkast-169852glrbk-1-e1442260254842.jpg 504w" sizes="(max-width: 241px) 100vw, 241px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/04/kunststof-opbergkast-169852glrbk-1.jpg)<a name="more"></a>In de garage heb ik twee kasten van Stanley staan. Dit zijn goede sterke kasten die eenvoudig in elkaar te zetten zijn.
 
 Maar Stanley kasten worden in Nederland niet veel meer verkocht en ging ik dus opzoek naar iets anders.
 

@@ -30,7 +30,7 @@ categories:
   - Tech
 ---
 <div>
-  <a href="/images/2012/12/mysql_query_cache.jpg"><img border="0" height="166" src="/images/2012/12/mysql_query_cache.jpg" width="200" /></a>
+  <a href=https://vandersluijs.resultants-e.nl/2012/12/mysql_query_cache.jpg"><img border="0" height="166" src=https://vandersluijs.resultants-e.nl/2012/12/mysql_query_cache.jpg" width="200" /></a>
 </div>
 
 MySQL query caching, het lijkt de &#8220;best thing to do&#8221; als je je site of applicatie wilt optimaliseren voor veel gebruikers.

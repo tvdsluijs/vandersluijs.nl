@@ -51,7 +51,7 @@ Natuurlijk ben ik druk bezig om er een review over te schrijven maar ik wil dit 
 
 Ik was al langer van plan om te gaan vloggen dus was dit direct een goed begin om het te gaan doen.
 
-[<img class="alignleft size-thumbnail wp-image-1219" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0292-150x150.jpg" alt="IMG_0292" width="150" height="150" srcset="/images/2015/08/IMG_0292-150x150.jpg 150w, /images/2015/08/IMG_0292-300x300.jpg 300w, /images/2015/08/IMG_0292-768x768.jpg 768w, /images/2015/08/IMG_0292-1024x1024.jpg 1024w, /images/2015/08/IMG_0292-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0292.jpg)Dus zie hier! Mijn eerste VLOG! Het is een uitpak-party / unboxing van de PROMiXX.
+[<img class="alignleft size-thumbnail wp-image-1219" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0292-150x150.jpg" alt="IMG_0292" width="150" height="150" srcset=https://vandersluijs.resultants-e.nl/2015/08/IMG_0292-150x150.jpg 150w, /images/2015/08/IMG_0292-300x300.jpg 300w, /images/2015/08/IMG_0292-768x768.jpg 768w, /images/2015/08/IMG_0292-1024x1024.jpg 1024w, /images/2015/08/IMG_0292-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />](https://vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0292.jpg)Dus zie hier! Mijn eerste VLOG! Het is een uitpak-party / unboxing van de PROMiXX.
 
 Wil je nooit meer last van klonterige shakes hebben? Met de Vortex Mixer zal je de lekkerste shakes ooit maken. Onderweg, thuis en zelfs op het werk ben je nu verzekerd van kwaliteit! PROMiXX is de bedenker en ontwerper van de Vortex mixer!
 

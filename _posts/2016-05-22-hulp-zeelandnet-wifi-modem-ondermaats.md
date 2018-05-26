@@ -4,7 +4,7 @@ title: Hulp bij Zeelandnet Wifi modem ondermaats!
 date: 2016-05-22T14:07:31+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://zeelandwifi.nl/?p=103
+guid: https://vandersluijs.nl/?p=103
 permalink: /blog/2016/05/hulp-zeelandnet-wifi-modem-ondermaats.html
 hits:
   - "150"
@@ -94,9 +94,9 @@ tags:
       * Bluetooth-apparaten zoals printers
       * Magnetrons
       * Draadloze beveiligingscamera&#8217;s
-  * Ook andere draadloze netwerken kunnen van invloed zijn op de kwaliteit van het signaal. Met behulp van bv. een [Wi-Fi analyzer app](https://zeelandwifi.nl/software/) kunt u de kwaliteit van uw signaal meten en indien
+  * Ook andere draadloze netwerken kunnen van invloed zijn op de kwaliteit van het signaal. Met behulp van bv. een [Wi-Fi analyzer app](https://vandersluijs.nl/software/) kunt u de kwaliteit van uw signaal meten en indien
   * nodig het Wi-Fi signaal op een beter kanaal zetten. (zie verderop in deze handleiding)
-  * Voor het verbeteren van uw draadloze bereik kunt u ook gebruik maken van een [Wi-Fi repeater](https://zeelandwifi.nl/wifi-repeaters/) of een extra [router](https://zeelandwifi.nl/wifi-routers/).
+  * Voor het verbeteren van uw draadloze bereik kunt u ook gebruik maken van een [Wi-Fi repeater](https://vandersluijs.nl/wifi-repeaters/) of een extra [router](https://vandersluijs.nl/wifi-routers/).
 
 <div>
   De belangrijkste reden dat uw modem echt naar de schroothoop kan is deze regel in het document:

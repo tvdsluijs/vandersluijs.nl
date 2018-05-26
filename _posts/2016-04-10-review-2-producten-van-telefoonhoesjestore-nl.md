@@ -57,7 +57,7 @@ Wat zeggen ze er bij telefoonhoesjestore.nl over.
   * Telelens
   * Bevestig de lenskit op uw smartphone met de klip
 
-Deze zogen<img class="alignleft size-thumbnail wp-image-2664" src="/images/2016/04/20160324_183821-150x150.jpg" alt="20160324_183821" width="150" height="150" srcset="/images/2016/04/20160324_183821-150x150.jpg 150w, /images/2016/04/20160324_183821-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />aamde universele clip past inderdaad op iedere telefoon. Maar ik vind zelf niet dat je lens van je telefoon eenvoudig te vinden is zodat je er precies op zit.
+Deze zogen<img class="alignleft size-thumbnail wp-image-2664" src=https://vandersluijs.resultants-e.nl/2016/04/20160324_183821-150x150.jpg" alt="20160324_183821" width="150" height="150" srcset=https://vandersluijs.resultants-e.nl/2016/04/20160324_183821-150x150.jpg 150w, /images/2016/04/20160324_183821-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />aamde universele clip past inderdaad op iedere telefoon. Maar ik vind zelf niet dat je lens van je telefoon eenvoudig te vinden is zodat je er precies op zit.
 
 Dus snel een foto maken is er niet bij.
 
@@ -65,7 +65,7 @@ Het kost even tijd totdat je de clip zo hebt zitten dat het geheel goed zit.
 
 &nbsp;
 
-<img class="alignright size-thumbnail wp-image-2666" src="/images/2016/04/20160324_183912-150x150.jpg" alt="20160324_183912" width="150" height="150" srcset="/images/2016/04/20160324_183912-150x150.jpg 150w, /images/2016/04/20160324_183912-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />Daarna kan je foto&#8217;s gaan maken. Ik moet zeggen het is erg grappig om te zien wat voor resultaten er uit komen. De kwaliteit&#8230; tja&#8230;.. Voor een prijs van €17,95 had ik wel iets meer verwacht, maar om grappige foto&#8217;s mee te maken is het prima.
+<img class="alignright size-thumbnail wp-image-2666" src=https://vandersluijs.resultants-e.nl/2016/04/20160324_183912-150x150.jpg" alt="20160324_183912" width="150" height="150" srcset=https://vandersluijs.resultants-e.nl/2016/04/20160324_183912-150x150.jpg 150w, /images/2016/04/20160324_183912-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />Daarna kan je foto&#8217;s gaan maken. Ik moet zeggen het is erg grappig om te zien wat voor resultaten er uit komen. De kwaliteit&#8230; tja&#8230;.. Voor een prijs van €17,95 had ik wel iets meer verwacht, maar om grappige foto&#8217;s mee te maken is het prima.
 
 Je kan eenvoudig de diverse lenzen op de clip bevestigen. Waardoor je een Macro-, Tele- en Fisheye lens tot je beschikking hebt. Het zit allemaal in een klein handig stoffen zakje, zodat je het niet kwijt kan raken.
 
@@ -86,13 +86,13 @@ Wat zeggen ze er bij telefoonhoesjestore.nl over.
   * Maak gebruik van de bluetooth functie tot 10 meter afstand
   * Ondersteunt SD geheugen kaart
 
-<img class="size-thumbnail wp-image-2661 alignleft" src="/images/2016/04/20160324_183605-150x150.jpg" alt="20160324_183605" width="150" height="150" srcset="/images/2016/04/20160324_183605-150x150.jpg 150w, /images/2016/04/20160324_183605-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />Okay, ik begin met het goede nieuws! Ik was zeer verast om er een SD slot in te vinden. EN! ook nog een USB ingang! Dat zie je niet vaak. Maar is wel zo handig!
+<img class="size-thumbnail wp-image-2661 alignleft" src=https://vandersluijs.resultants-e.nl/2016/04/20160324_183605-150x150.jpg" alt="20160324_183605" width="150" height="150" srcset=https://vandersluijs.resultants-e.nl/2016/04/20160324_183605-150x150.jpg 150w, /images/2016/04/20160324_183605-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />Okay, ik begin met het goede nieuws! Ik was zeer verast om er een SD slot in te vinden. EN! ook nog een USB ingang! Dat zie je niet vaak. Maar is wel zo handig!
 
 Daarnaast is hij robuust en klein. Hij ligt goed in de hand, maar eigenlijk hoort hij op tafel te liggen natuurlijk. Of in het gras, of op een stenen muurtje.
 
 De 10 meter haalt hij helaas niet. Het is eerder 5 meter, maar voldoende om er rondom te zitten, springen of dansen.
 
-<img class="size-thumbnail wp-image-2663 alignright" src="/images/2016/04/20160324_183701-150x150.jpg" alt="20160324_183701" width="150" height="150" srcset="/images/2016/04/20160324_183701-150x150.jpg 150w, /images/2016/04/20160324_183701-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />
+<img class="size-thumbnail wp-image-2663 alignright" src=https://vandersluijs.resultants-e.nl/2016/04/20160324_183701-150x150.jpg" alt="20160324_183701" width="150" height="150" srcset=https://vandersluijs.resultants-e.nl/2016/04/20160324_183701-150x150.jpg 150w, /images/2016/04/20160324_183701-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />
 
 Als je hem niet al te hard zet is het geluid prima te doen. Maar nu komt het. Hij kan helemaal niet hard! Je zou verwachten van een externe luidspreker dat het geluid gewoon lekker kan knallen. Maar dat kan helaas niet. Want als je hem op zijn hardst zet (was dus niet super hard is) dan gaat het geluid vervormen.
 

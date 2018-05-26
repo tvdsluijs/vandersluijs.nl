@@ -27,7 +27,7 @@ itrr_another_apply:
 categories:
   - Tech
 ---
-<img alt="Joomla! 1.5 Native" src="/images/2010/12/compat_15_native.png" width="75" height="16" align="top" /><img alt="Joomla! 1.6 Native" src="/images/2010/12/compat_16_native.png" width="75" height="16" align="top" /><img alt="Joomla! 1.7 Compatible" src="/images/2010/12/compat_17.png" width="75" height="16" align="top" /><img alt="Joomla! 2.5 Series" src="/images/2010/12/compat_25.png" width="75" height="16" align="top" />
+<img alt="Joomla! 1.5 Native" src=https://vandersluijs.resultants-e.nl/2010/12/compat_15_native.png" width="75" height="16" align="top" /><img alt="Joomla! 1.6 Native" src=https://vandersluijs.resultants-e.nl/2010/12/compat_16_native.png" width="75" height="16" align="top" /><img alt="Joomla! 1.7 Compatible" src=https://vandersluijs.resultants-e.nl/2010/12/compat_17.png" width="75" height="16" align="top" /><img alt="Joomla! 2.5 Series" src=https://vandersluijs.resultants-e.nl/2010/12/compat_25.png" width="75" height="16" align="top" />
 
 New Version 3.2!  
 Is faster, more reliable, no more datafiles but database written data !  

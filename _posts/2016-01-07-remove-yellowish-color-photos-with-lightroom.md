@@ -54,7 +54,7 @@ The process to remove the yellow color is very easy in Lightroom. The wrong colo
   6. Click with the White Balance Color Picker in the part that should be white.
   7. Ready!
 
-<img class="alignleft wp-image-2093 size-full" src="/images/2016/01/Screen-Shot-2016-01-05-at-21.38.58.png" alt="lightroom wit balans pipetje" width="104" height="92" />
+<img class="alignleft wp-image-2093 size-full" src=https://vandersluijs.resultants-e.nl/2016/01/Screen-Shot-2016-01-05-at-21.38.58.png" alt="lightroom wit balans pipetje" width="104" height="92" />
 
 _White Balance Color Picker_
 

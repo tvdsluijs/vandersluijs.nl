@@ -59,4 +59,4 @@ Hierboven wat plaatjes van waar je deze instelling kan vinden. Dus zet het op Pr
 
 &nbsp;
 
-_Foto door: <a href="/images/2009/05/teoruiz" target="_blank">Teo Ruiz</a>_
+_Foto door: <a href=https://vandersluijs.resultants-e.nl/2009/05/teoruiz" target="_blank">Teo Ruiz</a>_

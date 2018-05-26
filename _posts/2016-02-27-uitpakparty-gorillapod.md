@@ -43,7 +43,7 @@ In de Doos vond ik twee Gorillapods de Joby GripTight GorillaPod en de Action 
 
 ## Wat is een Gorillapod
 
-<img class="alignleft size-medium wp-image-2515" src="/images/2016/02/containerStatieven-300x267.jpg" alt="Gorillapod" width="300" height="267" srcset="/images/2016/02/containerStatieven-300x267.jpg 300w, /images/2016/02/containerStatieven.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" />Voor de mensen die niet weten wat Joby of een Gorillapod is&#8230;.
+<img class="alignleft size-medium wp-image-2515" src=https://vandersluijs.resultants-e.nl/2016/02/containerStatieven-300x267.jpg" alt="Gorillapod" width="300" height="267" srcset=https://vandersluijs.resultants-e.nl/2016/02/containerStatieven-300x267.jpg 300w, /images/2016/02/containerStatieven.jpg 450w" sizes="(max-width: 300px) 100vw, 300px" />Voor de mensen die niet weten wat Joby of een Gorillapod is&#8230;.
 
 Joby is een jong merk met allerlei camera accessoires. In 2006 brachten ze de Gorillapod flexibele camera statieven op de markt. En daarmee zijn ze in één klap heel bekend geworden. Gorillapod statieven zijn namelijk geen normale statieven!
 

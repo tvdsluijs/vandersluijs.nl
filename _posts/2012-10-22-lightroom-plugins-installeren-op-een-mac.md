@@ -46,7 +46,7 @@ tags:
   - Adobe
   - Lightroom
 ---
-[<img class="alignleft" src="/images/2012/10/lightroom.jpg" alt="" width="200" height="200" border="0" />](/images/2012/10/lightroom.jpg)Dus je hebt een mac?
+[<img class="alignleft" src=https://vandersluijs.resultants-e.nl/2012/10/lightroom.jpg" alt="" width="200" height="200" border="0" />](/images/2012/10/lightroom.jpg)Dus je hebt een mac?
   
 En je kan net zoals mij niet wennen aan Aperture of iPhoto?
 
@@ -102,7 +102,7 @@ In Mac OS (alle gebruikers) /Library/Application Support/Adobe/Lightroom/Modules
 </div>
 
 <div>
-  <a href="/images/2012/10/Schermafbeelding-2012-10-22-om-22.44.26.png"><img src="/images/2012/10/Schermafbeelding-2012-10-22-om-22.44.26-300x1381.png" alt="" width="640" height="292" border="0" /></a>
+  <a href=https://vandersluijs.resultants-e.nl/2012/10/Schermafbeelding-2012-10-22-om-22.44.26.png"><img src=https://vandersluijs.resultants-e.nl/2012/10/Schermafbeelding-2012-10-22-om-22.44.26-300x1381.png" alt="" width="640" height="292" border="0" /></a>
 </div>
 
 <div>

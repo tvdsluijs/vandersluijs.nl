@@ -43,7 +43,7 @@ itrr_another_apply:
 categories:
   - Tech
 ---
-<a style="line-height: 1.5;" href="/images/2012/10/RSS-Visualizer.jpg"><img src="/images/2012/10/RSS-Visualizer-300x214.jpg" alt="" width="200" height="143" border="0" /></a>
+<a style="line-height: 1.5;" href=https://vandersluijs.resultants-e.nl/2012/10/RSS-Visualizer.jpg"><img src=https://vandersluijs.resultants-e.nl/2012/10/RSS-Visualizer-300x214.jpg" alt="" width="200" height="143" border="0" /></a>
 
 The Mac Lion OS  had a beautiful screensaver that allowed you to easily and simply display RSS feeds on your screen.
 

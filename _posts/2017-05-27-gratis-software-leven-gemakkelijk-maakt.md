@@ -65,7 +65,7 @@ format: image
 
 <span lang="FR">Je kent natuurlijk Adobe voor het lezen van PDF-bestanden. Dit is al een gratis programma. Maar ken je ook PDF24? Hiermee kun je zelf PDF-bestanden maken, vanuit Word bijvoorbeeld. Dit is een bijzonder handige tool als je iemand een document wilt sturen en je wilt niet dat diegene er daarna nog wat in gaat veranderen, bijvoorbeeld voor een factuur of een overeenkomst.<br /> Installeer PDF24 op je computer en je kunt vervolgens je word-document “naar PDF printen”. Dan wordt het bestand opgeslagen als PDF. Je kunt het dan zelf ook niet meer veranderen natuurlijk, dat moet je dan doen in Word en vervolgens het bestand nog een keer naar PDF printen.</span>
 
-<img class="aligncenter wp-image-4305 size-full" src="/images/2017/05/ipad-defrag.png" alt="" width="807" height="538" srcset="/images/2017/05/ipad-defrag.png 807w, /images/2017/05/ipad-defrag-300x200.png 300w, /images/2017/05/ipad-defrag-768x512.png 768w, /images/2017/05/ipad-defrag-600x400.png 600w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
+<img class="aligncenter wp-image-4305 size-full" src=https://vandersluijs.resultants-e.nl/2017/05/ipad-defrag.png" alt="" width="807" height="538" srcset=https://vandersluijs.resultants-e.nl/2017/05/ipad-defrag.png 807w, /images/2017/05/ipad-defrag-300x200.png 300w, /images/2017/05/ipad-defrag-768x512.png 768w, /images/2017/05/ipad-defrag-600x400.png 600w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px" />
 
 <span lang="FR"><a href="https://www.flickr.com/photos/jaakk/6507661573/" target="_blank" rel="noopener noreferrer">&#8220;iPad Defragment&#8221;</a> by jaak kaevats ( )</span>
 

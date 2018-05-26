@@ -71,7 +71,7 @@ Gelukkig vond ik snel de oplossing!
 
 ## Geen berichten meer op iPhone
 
-<img class="alignleft size-thumbnail wp-image-3615" src="/images/2016/12/samsung-gear-s3-frontier-9-150x150.jpg" alt="Samsung Gear S3 Connectie iPhone" width="150" height="150" srcset="/images/2016/12/samsung-gear-s3-frontier-9-150x150.jpg 150w, /images/2016/12/samsung-gear-s3-frontier-9-65x65.jpg 65w, /images/2016/12/samsung-gear-s3-frontier-9-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" />Er is niets zo erg wanneer je smartwatch plots niet meer zo smart is. Er zijn smartwatches met 3G of 4G connectie, die dus gelijk smart blijven, maar de Samsung Gear S3, of eigenlijk mijn Samsung Gear S3 heeft toch echt connectie nodig met mijn iPhone om smart te blijven.
+<img class="alignleft size-thumbnail wp-image-3615" src=https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-9-150x150.jpg" alt="Samsung Gear S3 Connectie iPhone" width="150" height="150" srcset=https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-9-150x150.jpg 150w, /images/2016/12/samsung-gear-s3-frontier-9-65x65.jpg 65w, /images/2016/12/samsung-gear-s3-frontier-9-50x50.jpg 50w" sizes="(max-width: 150px) 100vw, 150px" />Er is niets zo erg wanneer je smartwatch plots niet meer zo smart is. Er zijn smartwatches met 3G of 4G connectie, die dus gelijk smart blijven, maar de Samsung Gear S3, of eigenlijk mijn Samsung Gear S3 heeft toch echt connectie nodig met mijn iPhone om smart te blijven.
 
 Mijn Samsung heeft namelijk geen 3G of 4G verbinding, en wifi staat uit ter verlenging van de accu duur. Dus zonder iPhone is het buiten dat hij mijn stappen en trappen telt weinig smart.
 

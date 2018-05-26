@@ -26,7 +26,7 @@ categories:
   - Grumpy
 ---
 <div>
-  <a href="/images/2012/10/kopieerheffing.jpg"><img border="0" height="128" src="/images/2012/10/kopieerheffing-300x193.jpg" width="200" /></a>
+  <a href=https://vandersluijs.resultants-e.nl/2012/10/kopieerheffing.jpg"><img border="0" height="128" src=https://vandersluijs.resultants-e.nl/2012/10/kopieerheffing-300x193.jpg" width="200" /></a>
 </div>
 
 Zoals we allemaal weten downloaden veel mensen muziek en films van illegale plekken zoals met torrents vanaf bijvoorbeeld piratebay.

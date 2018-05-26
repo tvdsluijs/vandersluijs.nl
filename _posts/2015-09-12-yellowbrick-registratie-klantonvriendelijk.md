@@ -82,22 +82,22 @@ Zucht…. had ik nou toch maar voor de <a href="http://www.parkmobile.nl/" targe
   <figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/09/yellowbrick-registratie-klantonvriendelijk.html/img_1206'><img width="150" height="150" src="/images/2015/09/IMG_1206-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-8-1294" srcset="/images/2015/09/IMG_1206-150x150.jpg 150w, /images/2015/09/IMG_1206-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/09/yellowbrick-registratie-klantonvriendelijk.html/img_1206'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/09/IMG_1206-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-8-1294" srcset=https://vandersluijs.resultants-e.nl/2015/09/IMG_1206-150x150.jpg 150w, /images/2015/09/IMG_1206-65x65.jpg 65w" sizes="100vw" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-8-1294'> Snel even klant worden, toch? </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/09/yellowbrick-registratie-klantonvriendelijk.html/img_1207'><img width="150" height="150" src="/images/2015/09/IMG_1207-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-8-1295" srcset="/images/2015/09/IMG_1207-150x150.jpg 150w, /images/2015/09/IMG_1207-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/09/yellowbrick-registratie-klantonvriendelijk.html/img_1207'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/09/IMG_1207-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-8-1295" srcset=https://vandersluijs.resultants-e.nl/2015/09/IMG_1207-150x150.jpg 150w, /images/2015/09/IMG_1207-65x65.jpg 65w" sizes="100vw" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-8-1295'> Email adres verificatie! </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/09/yellowbrick-registratie-klantonvriendelijk.html/img_1208'><img width="150" height="150" src="/images/2015/09/IMG_1208-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-8-1296" srcset="/images/2015/09/IMG_1208-150x150.jpg 150w, /images/2015/09/IMG_1208-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/09/yellowbrick-registratie-klantonvriendelijk.html/img_1208'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/09/IMG_1208-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-8-1296" srcset=https://vandersluijs.resultants-e.nl/2015/09/IMG_1208-150x150.jpg 150w, /images/2015/09/IMG_1208-65x65.jpg 65w" sizes="100vw" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-8-1296'> Zoeken naar heel klein linkje! </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/09/yellowbrick-registratie-klantonvriendelijk.html/img_1209'><img width="150" height="150" src="/images/2015/09/IMG_1209-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-8-1297" srcset="/images/2015/09/IMG_1209-150x150.jpg 150w, /images/2015/09/IMG_1209-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/09/yellowbrick-registratie-klantonvriendelijk.html/img_1209'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/09/IMG_1209-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-8-1297" srcset=https://vandersluijs.resultants-e.nl/2015/09/IMG_1209-150x150.jpg 150w, /images/2015/09/IMG_1209-65x65.jpg 65w" sizes="100vw" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-8-1297'> Geweldige responsive gebruikers ervaring (NOT!) </figcaption></figure><figure class='gallery-item'> 
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/09/yellowbrick-registratie-klantonvriendelijk.html/img_1210'><img width="150" height="150" src="/images/2015/09/IMG_1210-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-8-1298" srcset="/images/2015/09/IMG_1210-150x150.jpg 150w, /images/2015/09/IMG_1210-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://vandersluijs.nl/blog/2015/09/yellowbrick-registratie-klantonvriendelijk.html/img_1210'><img width="150" height="150" src=https://vandersluijs.resultants-e.nl/2015/09/IMG_1210-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" aria-describedby="gallery-8-1298" srcset=https://vandersluijs.resultants-e.nl/2015/09/IMG_1210-150x150.jpg 150w, /images/2015/09/IMG_1210-65x65.jpg 65w" sizes="100vw" /></a>
   </div><figcaption class='wp-caption-text gallery-caption' id='gallery-8-1298'> Adres helemaal intypen AUB! </figcaption></figure>
 </div>

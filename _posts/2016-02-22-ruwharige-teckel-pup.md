@@ -38,7 +38,7 @@ tags:
 ---
 In onze kleine dierentuin hebben we heel veel dieren. Een Jack Russel, 2 hamsters, 3 cavia&#8217;s, 9 konijnen en een kat. En sinds vandaag dus ook een Ruwharige Teckel pup genaamd Bas.<!--more-->
 
-<img class="alignleft wp-image-2444 size-medium" title="Ruwharige Teckel pup" src="/images/2016/02/IMG_2614-240x300.jpg" alt="Ruwharige Teckel pup" width="240" height="300" srcset="/images/2016/02/IMG_2614-240x300.jpg 240w, /images/2016/02/IMG_2614-768x960.jpg 768w, /images/2016/02/IMG_2614-819x1024.jpg 819w, /images/2016/02/IMG_2614.jpg 960w" sizes="(max-width: 240px) 100vw, 240px" />Teckel is in Nederland de algemene naam voor het hondenras Dashond. In omliggende landen en ook Amerika wordt de naam Dashond veel vaker gebruikt. Oorspronkelijk werd dit ras gefokt om te jagen op dassen. Vandaar dus ook deze naam.
+<img class="alignleft wp-image-2444 size-medium" title="Ruwharige Teckel pup" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_2614-240x300.jpg" alt="Ruwharige Teckel pup" width="240" height="300" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_2614-240x300.jpg 240w, /images/2016/02/IMG_2614-768x960.jpg 768w, /images/2016/02/IMG_2614-819x1024.jpg 819w, /images/2016/02/IMG_2614.jpg 960w" sizes="(max-width: 240px) 100vw, 240px" />Teckel is in Nederland de algemene naam voor het hondenras Dashond. In omliggende landen en ook Amerika wordt de naam Dashond veel vaker gebruikt. Oorspronkelijk werd dit ras gefokt om te jagen op dassen. Vandaar dus ook deze naam.
 
 Zo&#8217;n week of 10 geleden ging het toch weer kriebelen. Onze eerste Jack Russel is zo&#8217;n twee jaar geleden overleden en Mowgli, onze tweede Jack, lijkt toch wel een vriendje te missen.
 
@@ -48,7 +48,7 @@ Maar wat dan wel?
 
 Als snel werd het woord Teckel genoemd. Een teckel? Ja een Ruwharige Teckel. Ummm dat is toch zo&#8217;n worst op 4 poten?
 
-<img class="alignright wp-image-2445 size-medium" title="Ruwharige Teckel pup" src="/images/2016/02/IMG_2615-252x300.jpg" alt="Ruwharige Teckel pup" width="252" height="300" srcset="/images/2016/02/IMG_2615-252x300.jpg 252w, /images/2016/02/IMG_2615-768x915.jpg 768w, /images/2016/02/IMG_2615-859x1024.jpg 859w, /images/2016/02/IMG_2615.jpg 1007w" sizes="(max-width: 252px) 100vw, 252px" />
+<img class="alignright wp-image-2445 size-medium" title="Ruwharige Teckel pup" src=https://vandersluijs.resultants-e.nl/2016/02/IMG_2615-252x300.jpg" alt="Ruwharige Teckel pup" width="252" height="300" srcset=https://vandersluijs.resultants-e.nl/2016/02/IMG_2615-252x300.jpg 252w, /images/2016/02/IMG_2615-768x915.jpg 768w, /images/2016/02/IMG_2615-859x1024.jpg 859w, /images/2016/02/IMG_2615.jpg 1007w" sizes="(max-width: 252px) 100vw, 252px" />
 
 Dat mocht ik natuurlijk niet zeggen! Maar goed, dus op zoek naar een Ruwharige Teckel pup.
 
