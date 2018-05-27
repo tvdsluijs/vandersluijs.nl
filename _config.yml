@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/vandersluijs.nl"
-url: "https://tvdsluijs.github.io"
+baseurl: "/"
+url: "https://vandersluijs.nl"
 title: Type on Strap # site's title
 description: "To boldly go where no blog has gone before!" # used by search engines
 

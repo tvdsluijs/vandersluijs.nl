@@ -8,7 +8,7 @@ tags: [About, Test]
 
 Aangezien ik nu al meer dan 400 blogposts verder ben, leek het me hoog tijd om nog wat meer over mezelf te vertellen! Wie is Theo van der Sluijs?
 
-Mijn volledige naam is Theodorus van der Sluijs, maar zeg gerust Theo. Ik ben geboren in 1975 en jarig op 14 mei, wat mij het sterrenbeeld Stier meegeeft. Ik woon samen met mijn vrouw en twee kinderen (\[show-my-age birthday=”2007/02/10″\] en \[show-my-age birthday=”2010/04/30″\] jaar) in een klein dorpje in de Provincie Zeeland.
+Mijn volledige naam is Theodorus van der Sluijs, maar zeg gerust Theo. Ik ben geboren in 1975 en jarig op 14 mei, wat mij het sterrenbeeld Stier meegeeft. Ik woon samen met mijn vrouw en twee kinderen in een klein dorpje in de Provincie Zeeland.
 
 Naast bloggen en bijna elke dag sporten heb ik natuurlijk ook dagelijkse verplichtingen zoals werk! Ik ben ICT manager en stuur hier dagelijks een team van developers aan.
 
