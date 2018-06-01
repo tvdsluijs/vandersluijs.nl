@@ -60,7 +60,7 @@ theme_settings:
 
   # Scripts / Features 
   google_analytics: "UA-1497722-5"
-  disqus_shortname:
+  disqus_shortname: vdsluijs
   katex: true # Enable if using math markup
   
   special_page:
