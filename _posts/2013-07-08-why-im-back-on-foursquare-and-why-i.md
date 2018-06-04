@@ -23,7 +23,7 @@ hits:
 categories:
   - My Life
 ---
-Okay, I&#8217;ll be honest! I missed Foursquare! I deleted my account a couple of weeks ago. I really did! (read : [Why I’m leaving Foursquare, and why I’m happy about it.](https://vandersluijs.nl/2013/06/why-im-leaving-foursquare-and-why-im-happy-about-it.html "Why I’m leaving Foursquare, and why I’m happy about it."))
+Okay, I&#8217;ll be honest! I missed Foursquare! I deleted my account a couple of weeks ago. I really did! (read : [Why I’m leaving Foursquare, and why I’m happy about it.](https://www.vandersluijs.nl/2013/06/why-im-leaving-foursquare-and-why-im-happy-about-it.html "Why I’m leaving Foursquare, and why I’m happy about it."))
 
 But I missed it! Not the mayor part! I really hate the Mayor part. I was to busy checking if I still had the mayorships.
 

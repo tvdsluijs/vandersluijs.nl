@@ -38,7 +38,7 @@ Gisteren kwam ik er achter dat er één van mijn inktpatronen leeg was in mijn C
 Ik hoefde alleen te scannen dus dacht dat dit geen probleem zou zijn. Echter dat was het dus wel!
 
 Ik kon helemaal niet scannen omdat de melding dat er een inktpatroon leeg was in beeld bleef staan en mijn Canon MP970 elke dienst verder weigerde!  
-<a href="https://vandersluijs.nl/" name="more"></a>De melding :
+<a href="https://www.vandersluijs.nl/" name="more"></a>De melding :
 
 <div>
   <a href=https://vandersluijs.resultants-e.nl/2012/11/U163_The_following_ink_has_run_out_Replace_the_ink_tank..png"><img border="0" src="https://vandersluijs.resultants-e.nl/2012/11/U163_The_following_ink_has_run_out_Replace_the_ink_tank..png" /></a>

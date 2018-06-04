@@ -80,7 +80,7 @@ Okay, ik zal het nog een keer herhalen, deze app is dus BETA! Ik heb er zelf gee
 
 Ik zelf heb geen problemen gehad tot nu toe en ik verwacht dat Samsung binnenkort wel met de release komt van de App zelf.
 
-[biginfobox color=&#8221;#f5f9a2&#8243; textcolor=&#8221;#0c0c0c&#8221; title=&#8221;Download bestand&#8221; href=&#8221;https://vandersluijs.nl/download\_beta\_gear.php&#8221; button\_title=&#8221;Download&#8221; target=&#8221;\_blank&#8221;]Met onderstaande download knop kan je het bestand downloaden. Om deze site een beetje te kunnen bekostigen wordt je tijdens het downloaden (in een nieuw scherm) doorgestuurd naar één van onze sponsoren. Dit scherm blijft gewoon openstaan. Ik zou zeggen, kijk er eens rond wellicht die je wat leuks om te kopen. Mocht het downloaden niet in 1x lukken klik dan nog eens op de button.[/biginfobox]
+[biginfobox color=&#8221;#f5f9a2&#8243; textcolor=&#8221;#0c0c0c&#8221; title=&#8221;Download bestand&#8221; href=&#8221;https://www.vandersluijs.nl/download\_beta\_gear.php&#8221; button\_title=&#8221;Download&#8221; target=&#8221;\_blank&#8221;]Met onderstaande download knop kan je het bestand downloaden. Om deze site een beetje te kunnen bekostigen wordt je tijdens het downloaden (in een nieuw scherm) doorgestuurd naar één van onze sponsoren. Dit scherm blijft gewoon openstaan. Ik zou zeggen, kijk er eens rond wellicht die je wat leuks om te kopen. Mocht het downloaden niet in 1x lukken klik dan nog eens op de button.[/biginfobox]
 
 ## Installeren Samsung Gear S3 iOS App
 

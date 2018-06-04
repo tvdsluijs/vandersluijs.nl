@@ -40,7 +40,7 @@ Tja…. dan wordt het erg moeilijk om de KPN software te installeren.
 
 Totdat KPN de software werkend heeft zal je het dus met deze hack moeten doen:
 
-<https://vandersluijs.nl/2009/07/30/kpn-mobiel-internet-op-windows-7/>
+<https://www.vandersluijs.nl/2009/07/30/kpn-mobiel-internet-op-windows-7/>
 
 Deze hack werkt overigens ook bij Linux distro’s zoals Ubuntu en Kubuntu
 

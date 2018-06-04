@@ -51,6 +51,6 @@ Oftewel €. 4,00 per jaar. Nu denk je… nou dat valt toch wel mee. Maar wat da
 
 Een actieve Subwoofer kost al gauw 10 watt als deze standby staat. Dat kost al snel 12 euro per jaar.
 
-Als je nu ook wilt uitrekenen wat de apparaten kosten die in je huis in standby modus staan per jaar kijk dan even op mijn kleine Watt naar Euro calculator op deze [site](https://vandersluijs.nl/blog/2014/12/watt-kosten-berekenen.html).
+Als je nu ook wilt uitrekenen wat de apparaten kosten die in je huis in standby modus staan per jaar kijk dan even op mijn kleine Watt naar Euro calculator op deze [site](https://www.vandersluijs.nl/blog/2014/12/watt-kosten-berekenen.html).
 
-**Wil je ook geld besparen op je ****<a class="thirstylink" title="energie rekening" href="https://vandersluijs.nl/endorses/energie-vergelijker" target="_blank" rel="nofollow">energie rekening</a>****?**
+**Wil je ook geld besparen op je ****<a class="thirstylink" title="energie rekening" href="https://www.vandersluijs.nl/endorses/energie-vergelijker" target="_blank" rel="nofollow">energie rekening</a>****?**

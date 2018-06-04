@@ -37,7 +37,7 @@ Zo&#8217;n jaar geleden had ik hier al over gelezen en dacht dat dit wel eens he
 
 Wat ik er nog van weet is dat ik het een redelijk ingewikkeld verhaald vond om precies uit te zoeken hoe ik het moest gebruiken. Omdat er toen ook alleen nog maar Engelstalige teksten waren was het ook redelijk moeilijk in te schatten wat ik precies moest gebruiken en waar.
 
-Gelukkig hadden ze een soort van <a title="Tool voor gestructureerde gegevenstests" href="https://vandersluijs.nl/schema.org%20is%20een%20samenwerkingsproject%20van%20Google,%20Microsoft%20en%20Yahoo!%20om%20internet%20te%20verbeteren%20door%20een%20gestructureerd%20schema%20voor%20gegevensmarkering%20te%20maken%20dat%20door%20de%20grote%20zoekmachines%20wordt%20ondersteund." target="_blank">test tool</a> waarmee ik steeds kon testen of ik op de goede weg zat. Maar zoals je begrijpt duurde het redelijk lang voordat ik alles &#8220;goed&#8221; had.
+Gelukkig hadden ze een soort van <a title="Tool voor gestructureerde gegevenstests" href="https://www.vandersluijs.nl/schema.org%20is%20een%20samenwerkingsproject%20van%20Google,%20Microsoft%20en%20Yahoo!%20om%20internet%20te%20verbeteren%20door%20een%20gestructureerd%20schema%20voor%20gegevensmarkering%20te%20maken%20dat%20door%20de%20grote%20zoekmachines%20wordt%20ondersteund." target="_blank">test tool</a> waarmee ik steeds kon testen of ik op de goede weg zat. Maar zoals je begrijpt duurde het redelijk lang voordat ik alles &#8220;goed&#8221; had.
 
 Dat is nu allemaal niet meer nodig. Nu is er namelijk de Google <a title="Structured Data Markup Helper" href="https://www.google.com/webmasters/markup-helper/?&hl=EN" target="_blank">Structured Data Markup Helper</a>.
 

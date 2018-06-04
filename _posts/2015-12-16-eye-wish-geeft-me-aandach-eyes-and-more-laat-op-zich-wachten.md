@@ -30,7 +30,7 @@ categories:
 ---
 Een kleine ander halve week geleden schreef ik twee artikelen over twee verschillende opticiens.
 
-De ene ging over <a href="https://vandersluijs.nl/2015/12/eye-wish-opticiens.html" target="_blank">Eye Wish</a> en de andere over <a href="https://vandersluijs.nl/2015/12/eyes-en-more-is-helemaal-niks.html" target="_blank">Eyes and More</a>. Beide artikelen zijn door medewerkers van de twee verschillende bedrijven gelezen en hebben vrijwel direct via twitter en mail contact met me opgenomen.
+De ene ging over <a href="https://www.vandersluijs.nl/2015/12/eye-wish-opticiens.html" target="_blank">Eye Wish</a> en de andere over <a href="https://www.vandersluijs.nl/2015/12/eyes-en-more-is-helemaal-niks.html" target="_blank">Eyes and More</a>. Beide artikelen zijn door medewerkers van de twee verschillende bedrijven gelezen en hebben vrijwel direct via twitter en mail contact met me opgenomen.
 
 Waarbij Eye Wish gelijk heeft waar gemaakt wat ze beloofden, maar zit ik op Eyes and more nog even te wachten.<!--more-->
 

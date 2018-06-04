@@ -56,13 +56,13 @@ Wees niet bang, je bent geen mail folders kwijt. Outlook synchroniseert ze gewoo
 
 In Outlook, selecteer Tools > IMAP Folders&#8230;
 
-<a href=https://vandersluijs.resultants-e.nl/2015/09/1441704761_full.png" target="_blank"><img class="aligncenter" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/09/1441704761_thumb.png" alt="" width="749" height="27" align="middle" /></a>
+<a href=https://vandersluijs.resultants-e.nl/2015/09/1441704761_full.png" target="_blank"><img class="aligncenter" src="https://www.vandersluijs.nl/blog/wp-content/uploads/2015/09/1441704761_thumb.png" alt="" width="749" height="27" align="middle" /></a>
 
 Gebruik de popup (folder browser) en navigeer door al je IMAP / Mail folders.
   
 De folders/mappen die niet vet gedrukt zijn, synchroniseert outlook niet, en zijn dus ook niet te zien in Outlook.
 
-<a href=https://vandersluijs.resultants-e.nl/2015/09/1441705091_full.jpeg" target="_blank"><img class="aligncenter" src="https://vandersluijs.nl/blog/wp-content/uploads/2015/09/1441705091_thumb.jpeg" alt="" width="749" height="27" align="middle" /></a>
+<a href=https://vandersluijs.resultants-e.nl/2015/09/1441705091_full.jpeg" target="_blank"><img class="aligncenter" src="https://www.vandersluijs.nl/blog/wp-content/uploads/2015/09/1441705091_thumb.jpeg" alt="" width="749" height="27" align="middle" /></a>
 
 Klik op de imap /outlook mappen die je wilt zien (waarschijnlijk allemaal) en klik op Subscribe/Abbonneer. Dat doe je doormiddel van het Plus tekentje / knopje links boven in.
 

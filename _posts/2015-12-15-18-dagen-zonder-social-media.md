@@ -43,7 +43,7 @@ Nee ik mis het niet!
 
 Twitter miste ik wel! Dat wil zeggen, ik heb nooit echt veel geswiped op twitter, maar ik meld wel vaak mijn ongenoegen over diverse bedrijven, al dan niet voortkomend uit een blog post hier op mijn site.
 
-Dat had ik dus relatief snel terug op mijn telefoon, maar puur en alleen om in contact te blijven met [KPN](https://vandersluijs.nl/blog/2015/12/kpn-mobiel-verlengingsaanbod-om-klanten-weg-te-jagen.html), T-Mobile, [Eye Wish](https://vandersluijs.nl/blog/2015/12/eye-wish-opticiens.html), Vodafone en [Eyes and More](https://vandersluijs.nl/blog/2015/12/eyes-en-more-is-helemaal-niks.html)!
+Dat had ik dus relatief snel terug op mijn telefoon, maar puur en alleen om in contact te blijven met [KPN](https://www.vandersluijs.nl/blog/2015/12/kpn-mobiel-verlengingsaanbod-om-klanten-weg-te-jagen.html), T-Mobile, [Eye Wish](https://www.vandersluijs.nl/blog/2015/12/eye-wish-opticiens.html), Vodafone en [Eyes and More](https://www.vandersluijs.nl/blog/2015/12/eyes-en-more-is-helemaal-niks.html)!
 
 Verder gebruik ik het niet meer.
 

@@ -49,7 +49,7 @@ tags:
   - vliegtuig
 format: image
 ---
-Tja, ik heb het geluk dat ik zo nu en dan naar Curaçao mag voor mijn werk om daar het één en ander te regelen bij mijn Collega&#8217;s daar ter plaatse. De vorige keer vloog ik met [KLM](https://vandersluijs.nl/endorses/klm) maar omdat er wat collega&#8217;s mee gaan en die al via [TUI](https://vandersluijs.nl/endorses/tui) hadden geboekt vlieg ik ook maar eens een keer met TUI. En voor dat de reis reeds is begonnen kunnen ze bij TUI al wat van me leren en ook nog eens extra aan mij verdienen. Maar dat laatste wilden ze niet.<!--more-->
+Tja, ik heb het geluk dat ik zo nu en dan naar Curaçao mag voor mijn werk om daar het één en ander te regelen bij mijn Collega&#8217;s daar ter plaatse. De vorige keer vloog ik met [KLM](https://www.vandersluijs.nl/endorses/klm) maar omdat er wat collega&#8217;s mee gaan en die al via [TUI](https://www.vandersluijs.nl/endorses/tui) hadden geboekt vlieg ik ook maar eens een keer met TUI. En voor dat de reis reeds is begonnen kunnen ze bij TUI al wat van me leren en ook nog eens extra aan mij verdienen. Maar dat laatste wilden ze niet.<!--more-->
 
 TUI, ze hebben mooie vliegtuigen! En met mijn a.s. trip naar Curaçao dacht ik eens mooi met de Dreamliner te gaan vliegen.
 
@@ -122,7 +122,7 @@ Gelukkig gaat hij het wel doorgeven.
 
 > Bedankt voor je feedback. Dit is natuurlijk altijd welkom! Ik stuur je bericht door naar de betreffende afdelingen binnen TUI. Het is altijd goed om ons beleid tegen een ander licht te houden, ongeacht we ons beleid wijzigen of niet.
 
-Maar ik dacht&#8230; weet je wat. Ik schrijf mijn idee nog even in een blog post wie weet zet dat wat meer druk op de [TUI](https://vandersluijs.nl/endorses/tui) ketel!
+Maar ik dacht&#8230; weet je wat. Ik schrijf mijn idee nog even in een blog post wie weet zet dat wat meer druk op de [TUI](https://www.vandersluijs.nl/endorses/tui) ketel!
 
 Ene&#8230; regel wat TUI en
 

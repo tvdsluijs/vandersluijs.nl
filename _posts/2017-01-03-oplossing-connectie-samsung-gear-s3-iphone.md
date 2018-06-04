@@ -59,7 +59,7 @@ Zo ook op zijn Samsung Gear S3 met mijn iPhone. Met de Samsung niet ondersteunde
 
 <blockquote class="wp-embedded-content" data-secret="SQPgipa7ib">
   <p>
-    <a href="https://vandersluijs.nl/2016/12/samsung-gear-s3-iphone-ios-connectie.html">Samsung Gear S3 iPhone iOS Connectie</a>
+    <a href="https://www.vandersluijs.nl/2016/12/samsung-gear-s3-iphone-ios-connectie.html">Samsung Gear S3 iPhone iOS Connectie</a>
   </p>
 </blockquote>
 

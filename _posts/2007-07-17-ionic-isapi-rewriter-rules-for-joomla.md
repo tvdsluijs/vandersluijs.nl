@@ -33,5 +33,5 @@ I figured out how to use it with Joomla! and with 90% of the top rated component
 
 You can use my file for free.  
 
-Don&#8217;t know what Ionic Isapi Rewriter is ? Look on the <a href="http://cheeso.members.winisp.net/IIRF.aspx" target="_blank">IIRF site</a>. <a href="https://vandersluijs.nl/images/stories/files/isapirewrite4.zip" target="_self">Download the file here.</a> 2007-07-17 11:41:09  
+Don&#8217;t know what Ionic Isapi Rewriter is ? Look on the <a href="http://cheeso.members.winisp.net/IIRF.aspx" target="_blank">IIRF site</a>. <a href="https://www.vandersluijs.nl/images/stories/files/isapirewrite4.zip" target="_self">Download the file here.</a> 2007-07-17 11:41:09  
 <a name="more"></a>

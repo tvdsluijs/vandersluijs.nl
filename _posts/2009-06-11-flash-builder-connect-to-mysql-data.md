@@ -15,11 +15,11 @@ work, but I’ve kept getting this strange error.
 > There was an error during service introspection.  
 >  
 > **Warning** : require_once(Zend/Loader/Autoloader.php) [[function.require-
-once](https://vandersluijs.nl/function.require-once)]: failed to open stream:
+once](https://www.vandersluijs.nl/function.require-once)]: failed to open stream:
 No such file or directory in **…………** on line **23**  
 >  
 >  **Fatal error** : require_once()
-[[function.require](https://vandersluijs.nl/function.require)]: Failed opening
+[[function.require](https://www.vandersluijs.nl/function.require)]: Failed opening
 required ‘Zend/Loader/Autoloader.php’
 (include_path=’.;D:xamppphppear;D:/xampp/htdocs/ZendFramework/library’) in
 **D:xampphtdocsadresboekieadresboekie-debuggateway.php** on line **23**

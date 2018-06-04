@@ -93,7 +93,7 @@ Om de SMA kan je goed zien welke panelen het beste liggen. Tuurlijk vangen de 13
 
 Weten wat mijn zonnepanelen op dit moment doen? Kijk dan even op mijn bijna live-gegevens stream op de  <a href="https://www.sunnyportal.com/Templates/PublicPage.aspx?page=428f5699-5763-495f-af84-907991601804" target="_blank">SMA Sunny Portal</a> site. Dan kan je precies zien wat mijn Trina Solar Energy panelen doen.
 
-Heb je vragen over de Trina Solar Energy TSM-265PC05A.08? <a href="https://vandersluijs.nl/contact" target="_blank">Stel ze gerust</a>.
+Heb je vragen over de Trina Solar Energy TSM-265PC05A.08? <a href="https://www.vandersluijs.nl/contact" target="_blank">Stel ze gerust</a>.
 
 Natuurlijk heb je naast de zonnepanelen toch nog een energie maatschappij nodig. Zelf ben ik aangesloten bij de <a href="http://ds1.nl/c/?wi=245933&si=1231&li=77652&ws=&dl=aanmelden%3Fgroen%3DBeetje%2520groen%26jaar%3D3" target="_blank" rel="nofollow">Nederlandse Energie Maatschappij (NLE)</a>.
 
@@ -105,54 +105,54 @@ Bij een 1-jarig contract is dat 100,- euro, bij een 3-jarig contract 150,- euro.
     
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/10/trina-solar-tsm-265pc05a-08-review.html/screen-shot-2015-10-27-at-09-37-12'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.37.12-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.37.12-150x150.png 150w, https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.37.12-65x65.png 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/trina-solar-tsm-265pc05a-08-review.html/screen-shot-2015-10-27-at-09-37-12'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.37.12-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.37.12-150x150.png 150w, https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.37.12-65x65.png 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/10/trina-solar-tsm-265pc05a-08-review.html/screen-shot-2015-10-27-at-09-36-51'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.51-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.51-150x150.png 150w, https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.51-65x65.png 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/trina-solar-tsm-265pc05a-08-review.html/screen-shot-2015-10-27-at-09-36-51'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.51-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.51-150x150.png 150w, https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.51-65x65.png 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/10/trina-solar-tsm-265pc05a-08-review.html/screen-shot-2015-10-27-at-09-36-13'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.13-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.13-150x150.png 150w, https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.13-65x65.png 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/trina-solar-tsm-265pc05a-08-review.html/screen-shot-2015-10-27-at-09-36-13'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.13-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.13-150x150.png 150w, https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-27-at-09.36.13-65x65.png 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5830'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5830-e1445935702407-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5830-e1445935702407-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5830-e1445935702407-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5830'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5830-e1445935702407-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5830-e1445935702407-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5830-e1445935702407-65x65.jpg 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5781'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5781-e1445935670140-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5781-e1445935670140-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5781-e1445935670140-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5781'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5781-e1445935670140-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5781-e1445935670140-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5781-e1445935670140-65x65.jpg 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5741'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-300x300.jpg 300w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-768x768.jpg 768w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-1024x1024.jpg 1024w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5741.jpg 1200w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5741'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-300x300.jpg 300w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-768x768.jpg 768w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-1024x1024.jpg 1024w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5741-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5741.jpg 1200w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5739'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5739-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5739-150x150.png 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5739-65x65.png 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5739'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5739-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5739-150x150.png 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5739-65x65.png 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5737'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5737-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5737-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5737-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5737'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5737-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5737-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5737-65x65.jpg 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5736'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5736-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5736-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5736-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5736'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5736-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5736-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5736-65x65.jpg 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5734'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5734-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5734-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5734-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5734'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5734-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5734-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5734-65x65.jpg 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5731'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5731-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5731-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5731-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5731'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5731-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5731-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5731-65x65.jpg 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5729'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Zonnepanelen ipv spaarrekening" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-60x60.jpg 60w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5729'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Zonnepanelen ipv spaarrekening" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-60x60.jpg 60w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5726'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5726-e1445935718787-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5726-e1445935718787-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5726-e1445935718787-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2015/10/sma-sunny-boy-3600tl-21-review.html/img_5726'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2015/10/IMG_5726-e1445935718787-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2015/10/IMG_5726-e1445935718787-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/10/IMG_5726-e1445935718787-65x65.jpg 65w" sizes="100vw" /></a>
   </div> 
 </div>

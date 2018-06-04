@@ -41,7 +41,7 @@ Ik woon letterlijk en figuurlijk in een gat! Figuurlijk want Wolphaartsdijk, ond
 
 **[Update 15:00]**
 
-Helaas heeft <a href="https://vandersluijs.nl/2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html" target="_blank">T-Mobile</a> laten weten af te zien van een <a href="https://vandersluijs.nl/2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html" target="_blank">Mast in Wolphaartsdijk</a>. Klanten hebben geluisterd, Gemeente Goes wilde luisteren en nu laat die oh zo naar de klant luisterende T-Mobile de klant in de kou staan.
+Helaas heeft <a href="https://www.vandersluijs.nl/2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html" target="_blank">T-Mobile</a> laten weten af te zien van een <a href="https://www.vandersluijs.nl/2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html" target="_blank">Mast in Wolphaartsdijk</a>. Klanten hebben geluisterd, Gemeente Goes wilde luisteren en nu laat die oh zo naar de klant luisterende T-Mobile de klant in de kou staan.
 
 **[Einde update]**
 

@@ -17,7 +17,7 @@ It is a ducht application for searching dutch postalcodes and addresses.
   
 If you like to give it a try and are in need of a dutch postal search
 appliction or address search application please download it on my
-[www.vandersluijs.nl](https://vandersluijs.nl/index.php/Blog/adrespostcode-
+[www.vandersluijs.nl](https://www.vandersluijs.nl/index.php/Blog/adrespostcode-
 zoeker-mijn-eerste-air-applicatie.html "Search Postalcodes and Addresses with
 Air") website.  
   

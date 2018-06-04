@@ -83,4 +83,4 @@ So is it really gone? <a title="No more Foursquare!" href="https://foursquare.co
 
 _**[Update : 8 july 2013]**_
 
-[I&#8217;m back on Foursquare!](https://vandersluijs.nl/2013/07/why-im-back-on-foursquare-and-why-im-happier-about-it.html "Back on Foursquare!")
+[I&#8217;m back on Foursquare!](https://www.vandersluijs.nl/2013/07/why-im-back-on-foursquare-and-why-im-happier-about-it.html "Back on Foursquare!")

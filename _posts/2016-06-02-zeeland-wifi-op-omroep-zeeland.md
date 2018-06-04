@@ -4,7 +4,7 @@ title: Zeeland Wifi op Omroep Zeeland
 date: 2016-06-02T06:26:42+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://vandersluijs.nl/?p=216
+guid: https://www.vandersluijs.nl/?p=216
 permalink: /2016/06/zeeland-wifi-op-omroep-zeeland.html
 hefo_before:
   - "0"
@@ -40,7 +40,7 @@ En dat naar aanleiding van een blog artikel over het modem van ZeelandNet dat ik
 
 <blockquote class="wp-embedded-content" data-secret="ofR0JrKECr">
   <p>
-    <a href="https://vandersluijs.nl/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
+    <a href="https://www.vandersluijs.nl/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
   </p>
 </blockquote>
 

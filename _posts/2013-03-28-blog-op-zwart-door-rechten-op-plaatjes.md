@@ -43,7 +43,7 @@ Vandaag echter begreep ik via collega&#8217;s dat Kluun (van <a href="http://kl
 
 Nu vraag je je af&#8230;. bloggen doen veel mensen (net zoals ik) omdat ze het leuk vinden. Omdat ze hun belevenissen de wereld in willen gooien. Omdat ze wat ze geleerd hebben aan anderen willen leren.
 
-Vaak met een plaatje (al dan niet van een andere site) bij de tekst. Zo ook Kluun op zijn blog, en ik op mijn eigen blog&#8217;s (<a href="https://vandersluijs.nl/" rel="nofollow">www.vandersluijs.nl</a> &<a href="http://www.iamboredsoiblog.eu/" rel="nofollow">www.iamboredsoiblog.eu</a>) ook. 
+Vaak met een plaatje (al dan niet van een andere site) bij de tekst. Zo ook Kluun op zijn blog, en ik op mijn eigen blog&#8217;s (<a href="https://www.vandersluijs.nl/" rel="nofollow">www.vandersluijs.nl</a> &<a href="http://www.iamboredsoiblog.eu/" rel="nofollow">www.iamboredsoiblog.eu</a>) ook. 
 
 Ik schrok er nogal van. Gaan we hier nu inderdaad zoals Kluun mooi zegt &#8220;Amerikaanse&#8221; rechtzaken krijgen omdat je een thumbnail hebt gebruikt?
 

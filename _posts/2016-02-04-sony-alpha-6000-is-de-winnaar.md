@@ -51,7 +51,7 @@ Ik heb de afgelopen weken redelijk veel camera&#8217;s getest en mogen testen. M
 
 Tja&#8230; het is mooi dat je zoveel camera&#8217;s toegestuurd krijgt om te testen. Maar helaas&#8230; ze moesten allemaal weer terug. En ééntje wilde ik eigenlijk niet terug sturen.<!--more-->
 
-<a href="https://vandersluijs.nl/2015/10/canon-eos-m3-review-zwaar-maar-maar-mooie-fotos.html" target="_blank">Canon</a>, <a href="https://vandersluijs.nl/2015/12/olympus-e-m5-ii-review.html" target="_blank">Olympus</a>, <a href="https://vandersluijs.nl/2015/11/nikon-1-j5-review-overtuigt-niet-echt.html" target="_blank">Nikon</a> en nog vele andere heb ik vast gehad, getest en sommige gereviewed.
+<a href="https://www.vandersluijs.nl/2015/10/canon-eos-m3-review-zwaar-maar-maar-mooie-fotos.html" target="_blank">Canon</a>, <a href="https://www.vandersluijs.nl/2015/12/olympus-e-m5-ii-review.html" target="_blank">Olympus</a>, <a href="https://www.vandersluijs.nl/2015/11/nikon-1-j5-review-overtuigt-niet-echt.html" target="_blank">Nikon</a> en nog vele andere heb ik vast gehad, getest en sommige gereviewed.
 
 Maar er was er maar één die ik echt fijn vond! De Sony Alpha 5100!
 
@@ -132,30 +132,30 @@ Had ik moeten wachten op de a6300? Denk het niet. Ik ben heel blij met mijn Son
     
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="sony a6000 alpha 6000 review" srcset="https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-60x60.jpg 60w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="sony a6000 alpha 6000 review" srcset="https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952-60x60.jpg 60w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/img_2833'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon a6000" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/img_2833'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon a6000" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2833-65x65.jpg 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/img_2832'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2832-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2832-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2832-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/img_2832'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2832-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2832-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2832-65x65.jpg 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/img_2831'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon alpha 6000 a6000" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/img_2831'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon alpha 6000 a6000" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2831-65x65.jpg 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/img_2830'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2830-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2830-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2830-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/img_2830'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2830-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2830-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2830-65x65.jpg 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/img_2829'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon alpha 6000" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/img_2829'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="canon alpha 6000" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2829-65x65.jpg 65w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/img_2828'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2828-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2828-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2828-65x65.jpg 65w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/img_2828'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2828-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2828-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2828-65x65.jpg 65w" sizes="100vw" /></a>
   </div> 
 </div>

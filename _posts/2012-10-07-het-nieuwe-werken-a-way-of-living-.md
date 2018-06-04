@@ -9,7 +9,7 @@ category: ['Agile', 'Nieuwe Werken']
 tags: ['Agile', 'Nieuwe Werken']
 ---
 Toen ik een paar dagen geleden de blog post “[Het nieuwe werken moet van twee
-kanten komen](https://vandersluijs.nl/2012/10/het-nieuwe-werken-moet-van-twee-
+kanten komen](https://www.vandersluijs.nl/2012/10/het-nieuwe-werken-moet-van-twee-
 kanten.html)” schreef waren er diverse mensen die mij vroegen: “dus het nieuwe
 werken is vooral thuis werken”.  
   

@@ -4,7 +4,7 @@ title: Delta zet ZeelandNet en consumentenafdeling te koop
 date: 2016-04-20T17:59:22+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://vandersluijs.nl/?p=132
+guid: https://www.vandersluijs.nl/?p=132
 permalink: /2016/04/delta-zet-zeelandnet-en-consumentenafdeling-koop.html
 hefo_before:
   - "0"

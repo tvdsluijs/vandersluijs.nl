@@ -62,7 +62,7 @@ format: image
 ---
 Vlak blij het levendige kustplaatsje Torre del Mar en de plaats Villa Arenas ligt in de bergen Casa Martijo. Deze mooie ruime gelijksvloerse villa ligt op de berg en daardoor in een zeer rustige omgeving. Daar heb ik de afgelopen week heerlijk met mijn gezin vertoeft. Hierbij een review over  deze Villa.<!--more-->
 
-Casa Martijo is ongeveer 10km landinwaards rijden voordat je onder aan de &#8220;oprit&#8221; staat. Met oprit bedoel ik een hele steile weg van zo&#8217;n 400meter. Met deze steile weg kom je aan bij diverse villa&#8217;s en dus ook bij [Casa Martijo](https://vandersluijs.nl/endorses/casa-martijo).
+Casa Martijo is ongeveer 10km landinwaards rijden voordat je onder aan de &#8220;oprit&#8221; staat. Met oprit bedoel ik een hele steile weg van zo&#8217;n 400meter. Met deze steile weg kom je aan bij diverse villa&#8217;s en dus ook bij [Casa Martijo](https://www.vandersluijs.nl/endorses/casa-martijo).
 
 ## Highway to hell
 
@@ -118,7 +118,7 @@ De internationale luchthaven van Málaga ligt op slechts 40km. afstand / zo&#821
 
 Verder heb ik niets gezien van de omgeving&#8230; tja met twee kinderen van 6 en 9 die alleen maar zwembad en strand willen houdt het snel op. Maar eerlijk is eerlijk het huisje geeft een heerlijke rust en het is prima vertoeven.
 
-Als je het gaat [huren](https://vandersluijs.nl/endorses/casa-martijo), neem er dus wel even een 4&#215;4 auto bij!
+Als je het gaat [huren](https://www.vandersluijs.nl/endorses/casa-martijo), neem er dus wel even een 4&#215;4 auto bij!
 
 <div id='gallery-18' class='gallery galleryid-3380 gallery-columns-3 gallery-size-thumbnail'>
     

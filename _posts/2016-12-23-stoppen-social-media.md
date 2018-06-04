@@ -4,7 +4,7 @@ title: Stoppen met Social Media
 date: 2016-12-23T10:24:16+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://vandersluijs.nl/?p=4397
+guid: https://www.vandersluijs.nl/?p=4397
 permalink: /2016/12/stoppen-social-media.html
 wp_review_location:
   - bottom

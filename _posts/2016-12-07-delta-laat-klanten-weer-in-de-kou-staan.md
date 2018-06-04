@@ -141,6 +141,6 @@ En nu zit ik dus te kijken naar alternatieven. Die prima zijn, alleen zit ik dan
 
 Een andere optie die ik aan het overwegen ben is gewoon de hele bende op te zeggen en een maand later weer aan te laten sluiten.
 
-Of alle extra pakketen op te zeggen en mijn internet te verlagen naar het basis pakket zonder TV en Telefoon. Je kan met internet ook gewoon [Digitaal TV kijken](https://vandersluijs.nl/endorses/digitaal-tv-kijken) en telefonie kan ik via een voip account al voor 7 euro per maand regelen.
+Of alle extra pakketen op te zeggen en mijn internet te verlagen naar het basis pakket zonder TV en Telefoon. Je kan met internet ook gewoon [Digitaal TV kijken](https://www.vandersluijs.nl/endorses/digitaal-tv-kijken) en telefonie kan ik via een voip account al voor 7 euro per maand regelen.
 
 Hoe dan ook is de Dikke Deal van Delta en Zeelandnet voor de bestaande klant helemaal niks!

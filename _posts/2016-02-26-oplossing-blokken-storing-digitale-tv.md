@@ -80,11 +80,11 @@ Dus, ik mijn kabels vanachter mijn TV kast getrokken&#8230; en wat denk je? Mega
 
 Ik wist echt niet dat het aan deze kabel zou kunnen liggen. Maar het is echt zo. Ik heb direct goede kabels besteld. Ja je gaat schrikken van de prijs. Zo&#8217;n 18 euro voor 1,5 a 2 meter kabel. Da&#8217;s echt veel geld!
 
-<a href="http://www.allekabels.nl/kabels/?tt=15840_12_97738_&r=%2Fantenne-kabel-coax%2F74%2F1349641%2Fhirschmann-antennekabel.html" target="_blank" rel="noopener"><img class="alignleft size-medium wp-image-2508" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2723-300x225.jpg" alt="IMG_2723" width="300" height="225" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2723-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2723-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2723-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2723.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>Ik zelf heb de <a href="https://vandersluijs.nl/endorses/hirschmann-coax" target="_blank" rel="noopener">Hirschmann Antennekabel FEKAB 9/300</a> gekocht. Deze heb je in 1,5, 2 en 3 meter. Deze is speciaal afgeschermd tegen 4G signalen, die blijkbaar de afgelopen weken in ons dorp sterker zijn geworden, waardoor ik dus storing en blokken had op mijn digitale TV.
+<a href="http://www.allekabels.nl/kabels/?tt=15840_12_97738_&r=%2Fantenne-kabel-coax%2F74%2F1349641%2Fhirschmann-antennekabel.html" target="_blank" rel="noopener"><img class="alignleft size-medium wp-image-2508" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2723-300x225.jpg" alt="IMG_2723" width="300" height="225" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2723-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2723-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2723-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2723.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>Ik zelf heb de <a href="https://www.vandersluijs.nl/endorses/hirschmann-coax" target="_blank" rel="noopener">Hirschmann Antennekabel FEKAB 9/300</a> gekocht. Deze heb je in 1,5, 2 en 3 meter. Deze is speciaal afgeschermd tegen 4G signalen, die blijkbaar de afgelopen weken in ons dorp sterker zijn geworden, waardoor ik dus storing en blokken had op mijn digitale TV.
 
 Na plaatsing van deze kabels was het probleem direct voorbij!
 
-De zogenaamde <a href="https://vandersluijs.nl/endorses/coax" target="_blank" rel="noopener">High performance aansluitkabel</a> voor TV en Radio heeft dus een hoge afscherming waardoor deze optimale bescherming biedt tegen 4G/LTE instraling.
+De zogenaamde <a href="https://www.vandersluijs.nl/endorses/coax" target="_blank" rel="noopener">High performance aansluitkabel</a> voor TV en Radio heeft dus een hoge afscherming waardoor deze optimale bescherming biedt tegen 4G/LTE instraling.
   
 Drievoudige A++ afgeschermde KOKA 9 TS kabel voorzien van Kabelkeur goedgekeurde IEC connectoren KOKWI4/KOSWI4.<a href="http://www.allekabels.nl/kabels/?tt=15840_12_97738_&r=%2Fantenne-kabel-coax%2F74%2F1349641%2Fhirschmann-antennekabel.html" target="_blank" rel="noopener"><img class="size-medium wp-image-2507 aligncenter" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_2721-300x225.jpg" alt="IMG_2721" width="300" height="225" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_2721-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2721-768x576.jpg 768w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2721-1024x768.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/02/IMG_2721.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
 
@@ -92,6 +92,6 @@ Nu vraag ik me ondertussen af of dit probleem toch niet ook al in 2012 speelde (
 
 <blockquote class="wp-embedded-content" data-secret="z6YjcXW4FL">
   <p>
-    <a href="https://vandersluijs.nl/2012/12/delta-digitale-tv-en-te-oude-kabels.html">Delta Digitale TV en te oude kabels</a>
+    <a href="https://www.vandersluijs.nl/2012/12/delta-digitale-tv-en-te-oude-kabels.html">Delta Digitale TV en te oude kabels</a>
   </p>
 </blockquote>

@@ -37,7 +37,7 @@ In May 2013 I wrote a article about Skill endorsement.
 
 <blockquote class="wp-embedded-content" data-secret="YxtrZBX2KI">
   <p>
-    <a href="https://vandersluijs.nl/2013/05/endorsements-on-linkedin-are-sha.html">Endorsements on Linkedin are a sham!</a>
+    <a href="https://www.vandersluijs.nl/2013/05/endorsements-on-linkedin-are-sha.html">Endorsements on Linkedin are a sham!</a>
   </p>
 </blockquote>
 
@@ -67,7 +67,7 @@ His answer was simple:
 
 <blockquote class="wp-embedded-content" data-secret="JDu8Gylb7w">
   <p>
-    <a href="https://vandersluijs.nl/2013/06/this-is-why-linkedin-endorsements-don.html">This is why Linkedin endorsements don't mean jack anymore! Part 2</a>
+    <a href="https://www.vandersluijs.nl/2013/06/this-is-why-linkedin-endorsements-don.html">This is why Linkedin endorsements don't mean jack anymore! Part 2</a>
   </p>
 </blockquote>
 

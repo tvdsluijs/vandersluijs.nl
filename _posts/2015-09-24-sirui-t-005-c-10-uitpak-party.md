@@ -84,7 +84,7 @@ Dus deed ik een oproep bij wat grote foto zaken en kreeg daar diverse reacties o
 
 <a href=https://vandersluijs.resultants-e.nl/2015/09/www.cameraland.nl" target="_blank" rel="nofollow">Cameraland.nl</a> hun reactie vond ik helaas met een nogal negatieve ondertoon: &#8220;Ik heb geen interesse in een review over een statief en voel er ook weinig voor om een statief gratis weg te geven&#8221;.
 
-Maar er was één bedrijf dat mijn probleem snapte, enthousiast was en mij wilde helpen! En dat was <a href="https://vandersluijs.nl/endorses/foka" target="_blank">Foka</a> uit Rotterdam!
+Maar er was één bedrijf dat mijn probleem snapte, enthousiast was en mij wilde helpen! En dat was <a href="https://www.vandersluijs.nl/endorses/foka" target="_blank">Foka</a> uit Rotterdam!
 
 ## Sirui T-005 + C-10
 
@@ -106,6 +106,6 @@ Het geheel ziet er sterkt en robuust uit. Voor net geen kilo aan gewicht kan dit
 
 Binnenkort een review over hoe hij bevalt. Moet ik alleen nog even kijken hoe je die naam uitspreekt.. Si-ru-i of Sir-ui of Si-rui
 
-Ik wil nogmaals hierbij <a href="https://vandersluijs.nl/endorses/foka" target="_blank">Foka</a> bedanken! Wil je dit statief ook kopen? Het statief is zowel in het [zwart](https://vandersluijs.nl/endorses/siriu-zwart) als in het [rood](https://vandersluijs.nl/endorses/camera-nu) te kijgen en voor 119 euro is hij van jou!
+Ik wil nogmaals hierbij <a href="https://www.vandersluijs.nl/endorses/foka" target="_blank">Foka</a> bedanken! Wil je dit statief ook kopen? Het statief is zowel in het [zwart](https://www.vandersluijs.nl/endorses/siriu-zwart) als in het [rood](https://www.vandersluijs.nl/endorses/camera-nu) te kijgen en voor 119 euro is hij van jou!
 
 [show-product-by-ean ean=&#8221;&#8216;6952060000930&#8217;,&#8217;6952060000947&#8242;&#8221;]

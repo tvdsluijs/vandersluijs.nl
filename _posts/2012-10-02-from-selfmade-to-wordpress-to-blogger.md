@@ -29,23 +29,23 @@ Most first time bloggers (not me at this moment) go from a service like blogger 
 
 Well, that&#8217;s not my story.
 
-I have been blogging for a long time, I bought my first domain (<a href="https://vandersluijs.nl/" target="_blank">www.vandersluijs.nl</a>) in 1998. Like my first mobile phone in which I bought in 1996 people thought it was a bit crazy.
+I have been blogging for a long time, I bought my first domain (<a href="https://www.vandersluijs.nl/" target="_blank">www.vandersluijs.nl</a>) in 1998. Like my first mobile phone in which I bought in 1996 people thought it was a bit crazy.
 
 Only companies bought domains in those days people thought. But not me! No I wanted my own lastname as a domain.
 
-As you can see on wayback.archive.org, I started my first blog in Januari 1999. In 2001 <a href="http://web.archive.org/web/20010401053410/https://vandersluijs.nl/" target="_blank">wayback.archive.org</a> shows my blog in my own build HTML and ASP (classic, I really feel old when I say classic).
+As you can see on wayback.archive.org, I started my first blog in Januari 1999. In 2001 <a href="http://web.archive.org/web/20010401053410/https://www.vandersluijs.nl/" target="_blank">wayback.archive.org</a> shows my blog in my own build HTML and ASP (classic, I really feel old when I say classic).
 
-In 2003 I  radically changed the <a href="http://web.archive.org/web/20030920095553/https://vandersluijs.nl/" target="_blank">layout</a> but I still used my own HTML and ASP techniques.
+In 2003 I  radically changed the <a href="http://web.archive.org/web/20030920095553/https://www.vandersluijs.nl/" target="_blank">layout</a> but I still used my own HTML and ASP techniques.
 
-In the beginning of2004 I still used ASP but changed the <a href="http://web.archive.org/web/20040406165140/https://vandersluijs.nl/" target="_blank">layout</a> again! But I really liked building my own CMS and use ASP with good old MS Access.
+In the beginning of2004 I still used ASP but changed the <a href="http://web.archive.org/web/20040406165140/https://www.vandersluijs.nl/" target="_blank">layout</a> again! But I really liked building my own CMS and use ASP with good old MS Access.
 
-Then I wanted something different. I heard about a service which was called <a href="http://web.archive.org/web/20041015175809/https://vandersluijs.nl//" target="_blank">blogger</a>  it seemed great in that time, but it actually was not. It lacked the freedom I had with my own build CMS and it just did not feel right.
+Then I wanted something different. I heard about a service which was called <a href="http://web.archive.org/web/20041015175809/https://www.vandersluijs.nl//" target="_blank">blogger</a>  it seemed great in that time, but it actually was not. It lacked the freedom I had with my own build CMS and it just did not feel right.
 
-In the beginning of 2005 I started using <a href="http://web.archive.org/web/20050305190328/https://vandersluijs.nl/" target="_blank">Mambo</a>, what became Joomla! later. I really liked Joomla!. It was not very easy to use but it had the freedom I wanted. I could build my own components, mambots and modules. And I could give it every look I wanted. During 2006, 2007 and 2008 I used Joomla! for all my blogging.
+In the beginning of 2005 I started using <a href="http://web.archive.org/web/20050305190328/https://www.vandersluijs.nl/" target="_blank">Mambo</a>, what became Joomla! later. I really liked Joomla!. It was not very easy to use but it had the freedom I wanted. I could build my own components, mambots and modules. And I could give it every look I wanted. During 2006, 2007 and 2008 I used Joomla! for all my blogging.
 
 By the end of 2008 I heard about WordPress for the first time. When I looked at it I was very impressed. It was easy to use, easy to update and blogging was fun again!
 
-By the beginning of 2009 I had rebuild my whole site into <a href="http://web.archive.org/web/20100117195133/https://vandersluijs.nl/" target="_blank">WordPress</a>.
+By the beginning of 2009 I had rebuild my whole site into <a href="http://web.archive.org/web/20100117195133/https://www.vandersluijs.nl/" target="_blank">WordPress</a>.
 
 The last couple of years I used WordPress with many many sites. Not only my vandersluijs.nl but also this site.
 

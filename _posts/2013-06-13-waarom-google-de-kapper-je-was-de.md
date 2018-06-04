@@ -27,7 +27,7 @@ itrr_another_apply:
 categories:
   - Tech
 ---
-Google en menig ander groot Amerikaans IT bedrijf doet veel voor hun medewerkers. Niet alleen zorgen ze dat ze in een werkomgeving zitten waarbij ze zich helemaal op hun gemak voelen ([Breng de productiviteit omhoog met creatieve werkplekken](https://vandersluijs.nl/2013/06/breng-de-productiviteit-omhoog-met-creatieve-werkplekken.html "Breng de productiviteit omhoog met creatieve werkplekken")) maar ze gaan nog verder!
+Google en menig ander groot Amerikaans IT bedrijf doet veel voor hun medewerkers. Niet alleen zorgen ze dat ze in een werkomgeving zitten waarbij ze zich helemaal op hun gemak voelen ([Breng de productiviteit omhoog met creatieve werkplekken](https://www.vandersluijs.nl/2013/06/breng-de-productiviteit-omhoog-met-creatieve-werkplekken.html "Breng de productiviteit omhoog met creatieve werkplekken")) maar ze gaan nog verder!
 
 Dit soort bedrijven regelt namelijk bijna alles voor de medewerker!<!--more-->
 

@@ -4,7 +4,7 @@ title: ZeelandNet verhoogt downloadsnelheid 400Mbit/s
 date: 2016-02-29T17:41:07+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://vandersluijs.nl/?p=126
+guid: https://www.vandersluijs.nl/?p=126
 permalink: /2016/02/zeelandnet-verhoogt-downloadsnelheid-400mbits.html
 hefo_before:
   - "0"

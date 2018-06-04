@@ -16,7 +16,7 @@ volgt.
 Nu moet ik zeggen, als iemand je dat zegt…. dan geeft dat best een goed
 gevoel. Kijk, ik zie echt wel aan mijn google analytics dat ik bezoekers
 krijg. Zo’n 10 per dag. Dat is nog bij lange na niet wat ik in de hoogtij
-dagen op [vandersluijs.nl](https://vandersluijs.nl/) kreeg, zo’n 500 per dag,
+dagen op [vandersluijs.nl](https://www.vandersluijs.nl/) kreeg, zo’n 500 per dag,
 maar het groeit langzaam.  
   
 Maar wat ik wilde zeggen, als iemand ook daadwerkelijk zegt van… ik volg je

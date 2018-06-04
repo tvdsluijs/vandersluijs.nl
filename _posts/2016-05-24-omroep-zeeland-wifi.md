@@ -4,7 +4,7 @@ title: Omroep Zeeland item wifi in Zeeland
 date: 2016-05-24T15:24:36+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://vandersluijs.nl/?p=179
+guid: https://www.vandersluijs.nl/?p=179
 permalink: /2016/05/omroep-zeeland-wifi.html
 hefo_before:
   - "0"
@@ -36,7 +36,7 @@ Signalen die elkaar verstoren en dus een slechter wifi bereik en trage wifi ople
 
 <blockquote class="wp-embedded-content" data-secret="ffDT9Eotjj">
   <p>
-    <a href="https://vandersluijs.nl/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
+    <a href="https://www.vandersluijs.nl/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
   </p>
 </blockquote>
 

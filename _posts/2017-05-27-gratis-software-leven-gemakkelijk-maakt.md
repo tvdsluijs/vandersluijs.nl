@@ -4,7 +4,7 @@ title: Gratis software die het leven gemakkelijk maakt
 date: 2017-05-27T15:13:53+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://vandersluijs.nl/?p=4304
+guid: https://www.vandersluijs.nl/?p=4304
 permalink: /2017/05/gratis-software-leven-gemakkelijk-maakt.html
 wp_review_location:
   - bottom

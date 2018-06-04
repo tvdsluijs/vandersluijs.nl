@@ -59,7 +59,7 @@ Bron : ANP
 
 Zie ook : Blog Greenchoice
 
-<strong style="line-height: 1.5;">Geld besparen op je <strong><strong><a class="thirstylink" title="energie rekening" href="https://vandersluijs.nl/endorses/energie-vergelijker" target="_blank" rel="nofollow">energie rekening</a></strong></strong>?</strong>
+<strong style="line-height: 1.5;">Geld besparen op je <strong><strong><a class="thirstylink" title="energie rekening" href="https://www.vandersluijs.nl/endorses/energie-vergelijker" target="_blank" rel="nofollow">energie rekening</a></strong></strong>?</strong>
 
 Oftewel idee gejat! Dat vind ik prima, maar een bedankje kon er niet vanaf. Of wellicht hadden ze mijn idee eerder bedacht. Dat kan natuurlijk. Maar ook dan had ik een mailtje verwacht waar in zou staan dat ze met dit idee bezig was.
 
@@ -115,4 +115,4 @@ Ben ik er verder beter van geworden….. nee helaas. Er zijn geen miljoenen gest
 
 Ach…. ik vond het bedankje al heel netjes!
 
-<strong style="line-height: 1.5;">Wil je niet naar Greenchoice maar wel geld besparen op je <strong><strong><a class="thirstylink" title="energie rekening" href="https://vandersluijs.nl/endorses/energie-vergelijker" target="_blank" rel="nofollow">energie rekening</a></strong></strong>?</strong>
+<strong style="line-height: 1.5;">Wil je niet naar Greenchoice maar wel geld besparen op je <strong><strong><a class="thirstylink" title="energie rekening" href="https://www.vandersluijs.nl/endorses/energie-vergelijker" target="_blank" rel="nofollow">energie rekening</a></strong></strong>?</strong>

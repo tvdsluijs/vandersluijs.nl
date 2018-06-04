@@ -29,7 +29,7 @@ Gelukkig maar kort, alhoewel ik het wel had gehad met bloggen en ik er aan dacht
 
 Maar dat heb ik dus niet gedaan.
 
-De reden van sluiting kan je vinden in deze [post](https://vandersluijs.nl/uncategorized/alle-plaatjes-weg-door-aankomende-rechtzaken/ "Blog op zwart door rechten op plaatjes.").
+De reden van sluiting kan je vinden in deze [post](https://www.vandersluijs.nl/uncategorized/alle-plaatjes-weg-door-aankomende-rechtzaken/ "Blog op zwart door rechten op plaatjes.").
 
 Echter vroegen veel mensen waar ze mijn artikelen konden vinden.
 

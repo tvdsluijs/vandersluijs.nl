@@ -23,7 +23,7 @@ hits:
 categories:
   - Grumpy
 ---
-Een paar maanden geleden heb ik een <a href="https://vandersluijs.nl/algemeen/mag-meneer-weer-terug-komen-alstublieft/" target="_blank">blogpost</a> geschreven over het feit dat ik me groen en geel erger aan mensen die ik niet ken, mij direct door de telefoon of per mail aanspreken met : &#8220;Hallo Theo&#8221;, &#8220;Hey Theo&#8221;, &#8220;Theo, &#8230;.&#8221; enz.
+Een paar maanden geleden heb ik een <a href="https://www.vandersluijs.nl/algemeen/mag-meneer-weer-terug-komen-alstublieft/" target="_blank">blogpost</a> geschreven over het feit dat ik me groen en geel erger aan mensen die ik niet ken, mij direct door de telefoon of per mail aanspreken met : &#8220;Hallo Theo&#8221;, &#8220;Hey Theo&#8221;, &#8220;Theo, &#8230;.&#8221; enz.
 
 Ik ken deze mensen niet, heb niet met ze op school gezeten of heb niet op voetbal met ze gezeten. Nee, deze mensen kennen geen géne en noemen mij geheel ongehinderd door wat voor opvoeding dan ook bij mijn voornaam.
 

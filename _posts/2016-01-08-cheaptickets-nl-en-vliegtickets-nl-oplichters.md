@@ -118,7 +118,7 @@ Maar je krijgt niet de beste deal! Ze zijn niet de beste aanbieder van vliegtick
 
 Voor mij ruikt het naar misleiding!! Ze lokken je met mooie lage prijzen, en er komen toch nog allerlei kosten boven op en laten de vlucht voor je niet doorgaan als je niet nog een achter af bijbetaald!
 
-Volgende keer boek ik gewoon weer via **<a href="https://vandersluijs.nl/endorses/expedia" target="_blank">Expedia</a>**!
+Volgende keer boek ik gewoon weer via **<a href="https://www.vandersluijs.nl/endorses/expedia" target="_blank">Expedia</a>**!
 
 ## Help je mij dit bericht te delen?
 

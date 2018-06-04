@@ -23,7 +23,7 @@ Nog geen 2 maanden heb ik de nieuwe Samsung S7 gehad. Daarvoor had ik een iPhone
 
 <blockquote class="wp-embedded-content" data-secret="C5XLYf1ATv">
   <p>
-    <a href="https://vandersluijs.nl/2016/03/dag-iphone-weg-deed.html">De dag dat ik mijn iPhone weg deed</a>
+    <a href="https://www.vandersluijs.nl/2016/03/dag-iphone-weg-deed.html">De dag dat ik mijn iPhone weg deed</a>
   </p>
 </blockquote>
 

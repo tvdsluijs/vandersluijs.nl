@@ -4,7 +4,7 @@ title: Polar V800 gerepareerd
 date: 2017-06-08T07:00:36+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://vandersluijs.nl/?p=4346
+guid: https://www.vandersluijs.nl/?p=4346
 permalink: /2017/06/polar-v800-gerepareerd.html
 hits:
   - "327"
@@ -56,7 +56,7 @@ Vocht! Het zou niet moeten kunnen! Ik bedoel dan natuurlijk in het horloge zelf.
 
 <blockquote class="wp-embedded-content" data-secret="bjxZgFlAV8">
   <p>
-    <a href="https://vandersluijs.nl/2017/05/polar-v800-binnen-2-jaar-kapot.html">Polar V800 binnen 2 jaar kapot</a>
+    <a href="https://www.vandersluijs.nl/2017/05/polar-v800-binnen-2-jaar-kapot.html">Polar V800 binnen 2 jaar kapot</a>
   </p>
 </blockquote>
 
@@ -98,46 +98,46 @@ Ik ga hem de komende weken testen en eens kijken of ik nog meer nieuwigheden kan
     
   
   <div class='gallery-icon landscape'>
-    <a href='https://vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_12'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_12-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_12-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_12-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_12-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_12'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_12-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_12-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_12-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_12-50x50.jpg 50w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_11'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_11-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_11-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_11-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_11-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_11'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_11-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_11-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_11-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_11-50x50.jpg 50w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_10'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_10-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_10-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_10-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_10-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_10'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_10-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_10-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_10-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_10-50x50.jpg 50w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_9'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_9-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_9-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_9-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_9-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_9'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_9-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_9-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_9-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_9-50x50.jpg 50w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_8'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_8-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_8-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_8-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_8-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_8'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_8-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_8-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_8-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_8-50x50.jpg 50w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_7'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_7-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_7-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_7-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_7'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_7-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_7-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_7-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_7-50x50.jpg 50w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_2'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_2-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_2-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_2-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_2'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_2-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_2-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_2-50x50.jpg 50w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_3'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_3-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_3-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_3-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_3'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_3-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_3-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_3-50x50.jpg 50w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_4'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_4-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_4-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_4-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_4'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_4-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_4-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_4-50x50.jpg 50w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_5'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_5-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_5-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_5-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_5'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_5-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_5-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_5-50x50.jpg 50w" sizes="100vw" /></a>
   </div>   
   
   <div class='gallery-icon portrait'>
-    <a href='https://vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_6'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_6-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_6-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_6-50x50.jpg 50w" sizes="100vw" /></a>
+    <a href='https://www.vandersluijs.nl/blog/2017/06/polar-v800-gerepareerd.html/polar-v800_-_6'><img width="150" height="150" src="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_6-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_6-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_6-65x65.jpg 65w, https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_6-50x50.jpg 50w" sizes="100vw" /></a>
   </div> 
 </div>

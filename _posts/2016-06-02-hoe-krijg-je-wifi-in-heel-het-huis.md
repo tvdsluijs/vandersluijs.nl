@@ -4,7 +4,7 @@ title: Hoe krijg je Wifi in heel het huis
 date: 2016-06-02T19:58:37+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://vandersluijs.nl/?p=203
+guid: https://www.vandersluijs.nl/?p=203
 permalink: /2016/06/hoe-krijg-je-wifi-in-heel-het-huis.html
 hefo_before:
   - "0"
@@ -44,9 +44,9 @@ Klaar voor Wifi in je hele huis? Volg dan het stappen plan hieronder.
 
 ## Stappen plan voor wifi in het hele huis
 
-Stap 1: Zet Wifi uit op je ZeelandNet modem. Hoe dat moet lees je [hier](https://vandersluijs.nl/uitzetten-wifi/).
+Stap 1: Zet Wifi uit op je ZeelandNet modem. Hoe dat moet lees je [hier](https://www.vandersluijs.nl/uitzetten-wifi/).
   
-Stap 2: Installeer Software op je [PC](https://vandersluijs.nl/inssider/) of [Mac](https://vandersluijs.nl/wifi-explorer/).
+Stap 2: Installeer Software op je [PC](https://www.vandersluijs.nl/inssider/) of [Mac](https://www.vandersluijs.nl/wifi-explorer/).
   
 Stap 3: Koop een nieuwe Router en access points.
   
@@ -66,4 +66,4 @@ Zodra je alles op papier hebt, is het tijd om naar de winkel te gaan. Ga bij voo
 
 Het kan handig zijn om verdieping voor verdieping te kopen, want in sommige gevallen is een tussen station (repeater / versterker) ophangen al voldoende om de verdieping hoger ook te voorzien van Wifi.
 
-Mocht je willen weten welke router en access point je kan kopen, kijk dan eens op [deze pagina](https://vandersluijs.nl/dag-aanbiedingen-wifi/).
+Mocht je willen weten welke router en access point je kan kopen, kijk dan eens op [deze pagina](https://www.vandersluijs.nl/dag-aanbiedingen-wifi/).

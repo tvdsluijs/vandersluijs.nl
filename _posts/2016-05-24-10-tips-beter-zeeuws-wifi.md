@@ -4,7 +4,7 @@ title: 10 tips voor beter Zeeuws Wifi
 date: 2016-05-24T07:00:39+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://vandersluijs.nl/?p=163
+guid: https://www.vandersluijs.nl/?p=163
 permalink: /2016/05/10-tips-beter-zeeuws-wifi.html
 hefo_before:
   - "0"
@@ -41,10 +41,10 @@ Je kan zelf heel veel doen om je Wifi signaal te verbeteren. Van het verplaatsen
   4. Zet het Wifi modem of Router niet in de meterkast, hier zitten te veel verstorende factoren zoals: ijzeren buizen, electra enz.;
   5. Zet het Wifi modem niet te dicht bij ijzeren objecten of vloeren / muren met gewapend beton;
   6. Zorg dat het Wifi modem bij 2,4Ghz op een kanaal zit wat niet veel gebruikt wordt in de buurt, bij voorkeur kanaal 1, 6 of 11;
-  7. Koop een [Wifi Router](https://vandersluijs.nl/wifi-tip/cool-routers/) met meerdere zenders, zo kan de router de snelheid optimaal verdelen;
-  8. Koop een [Wifi Router](https://vandersluijs.nl/wifi-tip/alternate-routers/) met zowel 2,4Ghz en 5Ghz ondersteuning voor een scheiding van oude apparaten en nieuwe apparaten die wel en geen 5Ghz ondersteunen;
-  9. Koop voor ruimtes met slecht bereik een zogenaamde [Wifi Access Point](https://vandersluijs.nl/wifi-tip/cool-access-points/), [Repeater](https://vandersluijs.nl/wifi-tip/cool-repeaters/) of [versterker](https://vandersluijs.nl/wifi-tip/alternate-extender/);
- 10. Echt slecht tot geen bereik neem dan [Powerline Adapters](https://vandersluijs.nl/wifi-tip/alternate-powerline/) en je hebt internet via het [stopcontact](https://vandersluijs.nl/wifi-tip/cool-powerline/);
+  7. Koop een [Wifi Router](https://www.vandersluijs.nl/wifi-tip/cool-routers/) met meerdere zenders, zo kan de router de snelheid optimaal verdelen;
+  8. Koop een [Wifi Router](https://www.vandersluijs.nl/wifi-tip/alternate-routers/) met zowel 2,4Ghz en 5Ghz ondersteuning voor een scheiding van oude apparaten en nieuwe apparaten die wel en geen 5Ghz ondersteunen;
+  9. Koop voor ruimtes met slecht bereik een zogenaamde [Wifi Access Point](https://www.vandersluijs.nl/wifi-tip/cool-access-points/), [Repeater](https://www.vandersluijs.nl/wifi-tip/cool-repeaters/) of [versterker](https://www.vandersluijs.nl/wifi-tip/alternate-extender/);
+ 10. Echt slecht tot geen bereik neem dan [Powerline Adapters](https://www.vandersluijs.nl/wifi-tip/alternate-powerline/) en je hebt internet via het [stopcontact](https://www.vandersluijs.nl/wifi-tip/cool-powerline/);
 
 Als je bovenstaande tips volgt is het bijna onmogelijk om een slecht wifi bereik te hebben. Helaas is het niet voor iedereen een oplossing en zullen er in bepaalde huizen altijd verstoringen blijven.
 

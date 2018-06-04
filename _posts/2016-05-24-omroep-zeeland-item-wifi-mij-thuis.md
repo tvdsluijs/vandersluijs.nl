@@ -58,7 +58,7 @@ Dus Omroep Zeeland dook er in om er een item over te maken en zo de Zeeuwen te h
 
 <blockquote class="wp-embedded-content" data-secret="lvdiAPGVub">
   <p>
-    <a href="https://vandersluijs.nl/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
+    <a href="https://www.vandersluijs.nl/2015/01/snel-wifi-gooi-je-zeelandnet-modem-er.html">Snel Wifi? Gooi je Zeelandnet modem er uit!</a>
   </p>
 </blockquote>
 

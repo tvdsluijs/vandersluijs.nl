@@ -25,7 +25,7 @@ dsq_thread_id:
 categories:
   - Grumpy
 ---
-So a couple of weeks ago I wrote about the <a title="Endorsements on Linkedin are a sham!" href="https://vandersluijs.nl/2013/05/endorsements-on-linkedin-are-a-sham.html" target="_blank">Linkedin endorsements</a> and how they became a <a title="Endorsements on Linkedin are a sham!" href="https://vandersluijs.nl/2013/05/endorsements-on-linkedin-are-a-sham.html" target="_blank">Sham</a>!
+So a couple of weeks ago I wrote about the <a title="Endorsements on Linkedin are a sham!" href="https://www.vandersluijs.nl/2013/05/endorsements-on-linkedin-are-a-sham.html" target="_blank">Linkedin endorsements</a> and how they became a <a title="Endorsements on Linkedin are a sham!" href="https://www.vandersluijs.nl/2013/05/endorsements-on-linkedin-are-a-sham.html" target="_blank">Sham</a>!
 
 And now I even got proof that people just endorse without having a clue what they are doing and who they are doing it for.<!--more-->
 
@@ -35,7 +35,7 @@ _Please don&#8217;t feel offended in any way when you read this Article._
 
 So this guy Carl is connect to me on linkedin. I don&#8217;t even remember why, but we&#8217;ve got a connection. As you might understand, I&#8217;ve got over 500 connections on Linkedin, my Linkedin url is on my business card so &#8230; no I do not know everybody connected personally on Linkedin.
 
-This guy Carl who I really don&#8217;t know but we&#8217;re connected, suddenly endorses me for a few of my skills. I just wrote about the <a title="Endorsements on Linkedin are a sham!" href="https://vandersluijs.nl/2013/05/endorsements-on-linkedin-are-a-sham.html" target="_blank">Linkedin Endorsement Sham</a> so I thought&#8230; here you go!
+This guy Carl who I really don&#8217;t know but we&#8217;re connected, suddenly endorses me for a few of my skills. I just wrote about the <a title="Endorsements on Linkedin are a sham!" href="https://www.vandersluijs.nl/2013/05/endorsements-on-linkedin-are-a-sham.html" target="_blank">Linkedin Endorsement Sham</a> so I thought&#8230; here you go!
 
 A week or so later he endorses me again, for more skills. And another week later he endorses me for another 10 or so skills!
 

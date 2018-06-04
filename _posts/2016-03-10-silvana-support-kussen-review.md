@@ -77,7 +77,7 @@ De verschillende varianten zijn:
 
 Het Silvana Support kussen is de beste nek ondersteunende hoofdkussen en dit al voor zo&#8217;n 30 jaar! De kussens zijn ontwikkeld in samenwerking met fysiotherapeuten, zijn gemaakt van de allerbeste materialen en tot in detail uitgedacht om het lichaam optimaal te ondersteunen.
 
-Ik zelf heb voor het net wat stevigere kussen gekozen en kreeg de Fluorine opgestuurd. Voor mij is het kussen ideaal omdat het mijn nek goed ondersteund en ik heb snel [last van mijn nek](https://vandersluijs.nl/blog/2016/03/silvana-support-kussen-tegen-nekklachten.html) dus het is echt handig om een kussen zoals deze te hebben.
+Ik zelf heb voor het net wat stevigere kussen gekozen en kreeg de Fluorine opgestuurd. Voor mij is het kussen ideaal omdat het mijn nek goed ondersteund en ik heb snel [last van mijn nek](https://www.vandersluijs.nl/blog/2016/03/silvana-support-kussen-tegen-nekklachten.html) dus het is echt handig om een kussen zoals deze te hebben.
 
 ## Hoe ligt het Silvana kussen?
 

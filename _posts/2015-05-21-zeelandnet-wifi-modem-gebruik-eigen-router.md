@@ -4,7 +4,7 @@ title: ZeelandNet wifi-modem in voor gebruik met een eigen router?
 date: 2015-05-21T20:55:15+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://vandersluijs.nl
+guid: https://www.vandersluijs.nl
 permalink: /2015/05/zeelandnet-wifi-modem-gebruik-eigen-router.html
 hits:
   - "128"

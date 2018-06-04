@@ -31,7 +31,7 @@ Maar de komende tijd gaat het bloggen heel erg veranderen. Nieuws sites / fotogr
 
 Het is niet meer dan logisch dat bedrijven voor hun rechten op komen. Ze hebben geld geïnvesteerd in het schrijven van een artikel, het maken van een foto of enig ander iets wat ze publiceren (analoog of digitaal).
 
-Een paar weken geleden heb ik net zoals <a href="http://www.kluun.nl/" target="_blank">kluun</a>, mijn site even op <a title="Site op zwart" href="https://vandersluijs.nl/2013/03/alle-plaatjes-weg-door-aankomende-rechtzaken.html" target="_blank">zwart gezet</a>. Dit omdat mijn klanten redelijk wat brieven kregen met claims over gebruikte thumbnails. Daar ik ook niet zeker was of ik de rechten had van alle door mij gebruikte plaatjes was de makkelijkste manier om dit even tegen te houden door de site op zwart te gooien.
+Een paar weken geleden heb ik net zoals <a href="http://www.kluun.nl/" target="_blank">kluun</a>, mijn site even op <a title="Site op zwart" href="https://www.vandersluijs.nl/2013/03/alle-plaatjes-weg-door-aankomende-rechtzaken.html" target="_blank">zwart gezet</a>. Dit omdat mijn klanten redelijk wat brieven kregen met claims over gebruikte thumbnails. Daar ik ook niet zeker was of ik de rechten had van alle door mij gebruikte plaatjes was de makkelijkste manier om dit even tegen te houden door de site op zwart te gooien.
 
 En nu komt ronde twee. Nu gaan ook uitgevers blogs hard onder handen nemen. Zodra je een stuk tekst uit een krant of van een site plukt zal je dus aan de hoge boom gehangen worden en snel een brief verwachten van een advocaten kantoor.
 

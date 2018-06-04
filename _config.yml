@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/"
-url: "https://vandersluijs.nl"
+url: "https://www.vandersluijs.nl"
 title: Type on Strap # site's title
 description: "To boldly go where no blog has gone before!" # used by search engines
 

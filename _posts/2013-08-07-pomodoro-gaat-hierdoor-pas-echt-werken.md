@@ -42,7 +42,7 @@ Bij deze techniek gebruik je dus een een kookwekker (in echte of digitale vorm) 
 </div>
 
 <div>
-  Ik gebruik het al een <a href="https://vandersluijs.nl/algemeen/wat-is-pomodoro-en-wat-kan-ik-ermee/" target="_blank">tijdje</a>, maar ik kreeg toch niet de voldoening er uit die ik wilde hebben. Ik werd namelijk te veel gestoord!!!<br /><!--more-->Er is namelijk 1 groot probleem bij Pomodoro en dat is&#8230; hoe laat je zien dat je bezig bent met een Pomodoro.
+  Ik gebruik het al een <a href="https://www.vandersluijs.nl/algemeen/wat-is-pomodoro-en-wat-kan-ik-ermee/" target="_blank">tijdje</a>, maar ik kreeg toch niet de voldoening er uit die ik wilde hebben. Ik werd namelijk te veel gestoord!!!<br /><!--more-->Er is namelijk 1 groot probleem bij Pomodoro en dat is&#8230; hoe laat je zien dat je bezig bent met een Pomodoro.
 </div>
 
 <div>

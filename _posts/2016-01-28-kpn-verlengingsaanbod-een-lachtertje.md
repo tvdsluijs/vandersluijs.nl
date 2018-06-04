@@ -36,7 +36,7 @@ KPN, ze willen zo graag dat ik met mijn mobiele abonnement bij ze blijf dat ze
 
 Althans&#8230;. dat geloven ze zelf! Dat het een OH ZO GE-WEL-DIG aanbod is.
 
-Maar ik zei het al [eerder](https://vandersluijs.nl/blog/2015/12/kpn-mobiel-verlengingsaanbod-om-klanten-weg-te-jagen.html)! Hun verlengingsaanbod is een lachertje!<!--more-->
+Maar ik zei het al [eerder](https://www.vandersluijs.nl/blog/2015/12/kpn-mobiel-verlengingsaanbod-om-klanten-weg-te-jagen.html)! Hun verlengingsaanbod is een lachertje!<!--more-->
 
 6 juni 2016 is de dag dat ik KPN vaarwel ga zeggen als een andere partij me een beter aanbod dan dit doet.
 

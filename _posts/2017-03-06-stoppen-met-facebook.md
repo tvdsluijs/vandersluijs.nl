@@ -4,7 +4,7 @@ title: Stoppen met Facebook
 date: 2017-03-06T10:21:17+00:00
 author: Theo van der Sluijs
 layout: post
-guid: https://vandersluijs.nl/?p=4394
+guid: https://www.vandersluijs.nl/?p=4394
 permalink: /2017/03/stoppen-met-facebook.html
 wp_review_location:
   - bottom

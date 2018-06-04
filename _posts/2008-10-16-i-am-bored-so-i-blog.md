@@ -35,6 +35,6 @@ Some people however really blog like everything&#8230;. they use web apps like <
 
 Are those people bored &#8230; or do they just have to much time on their hands ? Talking about this to my Collegue <a href="http://www.themuth.com/" target="_blank">The Muth</a>, he thought up a really great internet name&#8230;.. I am Bored So I Blog.
 
-So&#8230; am I bored &#8230;.. No but I really liked the name&#8230; and as from today I will blog on this site. (and not on my &#8220;old&#8221;  site, <a href="https://vandersluijs.nl/" target="_blank">www.vandersluijs.nl</a>)
+So&#8230; am I bored &#8230;.. No but I really liked the name&#8230; and as from today I will blog on this site. (and not on my &#8220;old&#8221;  site, <a href="https://www.vandersluijs.nl/" target="_blank">www.vandersluijs.nl</a>)
 
 <a name="more"></a>
