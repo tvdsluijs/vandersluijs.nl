@@ -6,7 +6,7 @@ slug: 'mijn-eerste-agile-boek-sort-of-'
 date: '2016-02-08 07:55:15+00:00'
 publish_date: '2016-02-08 07:55:15+00:00'
 image:
-feature: 'https://vandersluijs.resultants-e/1*mHiSqk4anKoKxr__nML5lA.jpeg'
+  feature: 'https://vandersluijs.resultants-e/1*mHiSqk4anKoKxr__nML5lA.jpeg'
   credit: 'Pixabay'
   creditlink:  'https://www.pexels.com/u/pixabay/'
 category: ['Agile']

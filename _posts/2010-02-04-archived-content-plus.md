@@ -6,7 +6,7 @@ slug: 'archived-content-plus'
 date: '2010-02-04 10:23'
 publish_date: '2010-02-04 10:23'
 image:
-feature: 'https://vandersluijs.resultants-e/0*qb8ur2HNqFc39eBO.png'
+  feature: 'https://vandersluijs.resultants-e/0*qb8ur2HNqFc39eBO.png'
 category: ['Coding']
 tags: ['Coding']
 ---

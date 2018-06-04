@@ -1,12 +1,11 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
 title: 'Ontwikkel software op een Chromebook'
 slug: 'ontwikkel-software-op-een-chromebook'
 date: '2017-10-09 05:56:00.717000+00:00'
 publish_date: '2017-10-09 05:56:00.717000+00:00'
 image:
-feature: 'https://vandersluijs.resultants-e/1*nyoIG-yq4D5ci0dnXsIqIA.jpeg'
+  feature: 'https://vandersluijs.resultants-e/1*nyoIG-yq4D5ci0dnXsIqIA.jpeg'
   credit: 'Kaboompics // Karolina'
   creditlink:  'https://www.pexels.com/u/kaboompics/'
 category: ['Chromebook', 'MacBook', 'Developer', 'Developing']

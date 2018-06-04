@@ -6,7 +6,7 @@ slug: '-mijn-nummer-is-verkeerd-in-iphone-contacten'
 date: '2017-03-08 19:06:42+00:00'
 publish_date: '2017-03-08 19:06:42+00:00'
 image:
-feature: 'https://vandersluijs.resultants-e/1*YdwDXtGMBeiQr3f4gQvDVQ.jpeg'
+  feature: 'https://vandersluijs.resultants-e/1*YdwDXtGMBeiQr3f4gQvDVQ.jpeg'
 category: ['Tech', 'iPhone', 'Quickfixphone', 'Development']
 tags: ['Tech', 'iPhone', 'Quickfixphone', 'Development']
 ---

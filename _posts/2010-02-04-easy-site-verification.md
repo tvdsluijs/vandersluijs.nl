@@ -6,7 +6,7 @@ slug: 'easy-site-verification'
 date: '2010-02-04 12:52'
 publish_date: '2010-02-04 12:52'
 image:
-feature: 'https://vandersluijs.resultants-e/0*9bLdrVhEkGwVdkIE.gif'
+  feature: 'https://vandersluijs.resultants-e/0*9bLdrVhEkGwVdkIE.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

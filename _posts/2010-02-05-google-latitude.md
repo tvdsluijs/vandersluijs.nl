@@ -6,7 +6,7 @@ slug: 'google-latitude'
 date: '2010-02-05 11:51'
 publish_date: '2010-02-05 11:51'
 image:
-feature: 'https://vandersluijs.resultants-e/0*OIeSuRU09gW96i_J.gif'
+  feature: 'https://vandersluijs.resultants-e/0*OIeSuRU09gW96i_J.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

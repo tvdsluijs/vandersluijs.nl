@@ -6,7 +6,7 @@ slug: 'adobe-flex'
 date: '2008-12-01 11:12'
 publish_date: '2008-12-01 11:12'
 image:
-feature: 'https://vandersluijs.resultants-e/0*priOpjR3uwhjGsPU.png'
+  feature: 'https://vandersluijs.resultants-e/0*priOpjR3uwhjGsPU.png'
 category: ['Coding']
 tags: ['Coding']
 ---

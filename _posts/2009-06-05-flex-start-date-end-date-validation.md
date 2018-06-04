@@ -6,7 +6,7 @@ slug: 'flex-start-date-end-date-validation'
 date: '2009-06-05 10:46'
 publish_date: '2009-06-05 10:46'
 image:
-feature: 'https://vandersluijs.resultants-e/0*ti7JN9sPc-PIyLLV.gif'
+  feature: 'https://vandersluijs.resultants-e/0*ti7JN9sPc-PIyLLV.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

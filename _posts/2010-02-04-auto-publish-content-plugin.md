@@ -6,7 +6,7 @@ slug: 'auto-publish-content-plugin'
 date: '2010-02-04 10:11'
 publish_date: '2010-02-04 10:11'
 image:
-feature: 'https://vandersluijs.resultants-e/0*semnMA-nsHurJu8Q.png'
+  feature: 'https://vandersluijs.resultants-e/0*semnMA-nsHurJu8Q.png'
 category: ['Coding']
 tags: ['Coding']
 ---

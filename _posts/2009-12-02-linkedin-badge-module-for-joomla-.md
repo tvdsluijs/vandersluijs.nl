@@ -6,7 +6,7 @@ slug: 'linkedin-badge-module-for-joomla-'
 date: '2009-12-02 21:22'
 publish_date: '2009-12-02 21:22'
 image:
-feature: 'https://vandersluijs.resultants-e/0*Rf5iC28ozStgSNc9.gif'
+  feature: 'https://vandersluijs.resultants-e/0*Rf5iC28ozStgSNc9.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

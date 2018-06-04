@@ -1,12 +1,12 @@
 ---
 layout: post
 excerpt_separator: < !--more -->
-title: 'Afkicken van Facebook! Gelukt!'
-slug: 'afkicken-van-facebook-gelukt-'
-date: '2018-02-05 18:56:20.851000+00:00'
+title: Afkicken van Facebook! Gelukt!
+slug: afkicken-van-facebook-gelukt
+date: 2018-02-05 18:56:20.851000+00:00
 publish_date: '2018-02-05 18:56:20.851000+00:00'
 image:
-feature: 'https://vandersluijs.resultants-e/1*SYe8Q9PajhrCDeL7UR5uGw.jpeg'
+  feature: 'https://vandersluijs.resultants-e/1*SYe8Q9PajhrCDeL7UR5uGw.jpeg'
   credit: 'pixabay.com'
   creditlink:  'https://pixabay.com/en/twitter-facebook-together-292989/'
 category: ['Facebook', 'Social Media']

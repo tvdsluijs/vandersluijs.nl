@@ -6,7 +6,7 @@ slug: 'flex-original-value-check'
 date: '2009-06-15 11:00'
 publish_date: '2009-06-15 11:00'
 image:
-feature: 'https://vandersluijs.resultants-e/0*pvzm8qD7iWIRXhmP.gif'
+  feature: 'https://vandersluijs.resultants-e/0*pvzm8qD7iWIRXhmP.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

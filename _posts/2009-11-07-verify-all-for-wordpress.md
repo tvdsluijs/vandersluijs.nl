@@ -6,7 +6,7 @@ slug: 'verify-all-for-wordpress'
 date: '2009-11-07 23:47'
 publish_date: '2009-11-07 23:47'
 image:
-feature: 'https://vandersluijs.resultants-e/0*bw1lQS2wlujKsIrR.gif'
+  feature: 'https://vandersluijs.resultants-e/0*bw1lQS2wlujKsIrR.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

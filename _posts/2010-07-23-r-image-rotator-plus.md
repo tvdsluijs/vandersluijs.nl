@@ -6,7 +6,7 @@ slug: 'r-image-rotator-plus'
 date: '2010-07-23 22:43'
 publish_date: '2010-07-23 22:43'
 image:
-feature: 'https://vandersluijs.resultants-e/0*2VhG0Gqq2WzSSI4B.gif'
+  feature: 'https://vandersluijs.resultants-e/0*2VhG0Gqq2WzSSI4B.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

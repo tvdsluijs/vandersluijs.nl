@@ -6,7 +6,7 @@ slug: 'linkedin-badge'
 date: '2010-02-05 11:56'
 publish_date: '2010-02-05 11:56'
 image:
-feature: 'https://vandersluijs.resultants-e/0*HU2W6XOpe2ow1IEl.gif'
+  feature: 'https://vandersluijs.resultants-e/0*HU2W6XOpe2ow1IEl.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

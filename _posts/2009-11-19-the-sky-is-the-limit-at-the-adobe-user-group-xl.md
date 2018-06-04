@@ -6,7 +6,7 @@ slug: 'the-sky-is-the-limit-at-the-adobe-user-group-xl'
 date: '2009-11-19 19:58'
 publish_date: '2009-11-19 19:58'
 image:
-feature: 'https://vandersluijs.resultants-e/0*aaYTt1hg0ZncG4yw.gif'
+  feature: 'https://vandersluijs.resultants-e/0*aaYTt1hg0ZncG4yw.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

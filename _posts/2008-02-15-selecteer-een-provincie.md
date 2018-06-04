@@ -21,7 +21,7 @@ En hier de code van deze geweldige applicatie:
 [Bindable]  
 public var provincies:Array = [{label:”Maak een keuze”, data:0},  
 {label:”Groningen”, data:1},  
-{label:”Fryslân”, data:2},  
+{label:”Fryslan”, data:2},  
 {label:”Drenthe”, data:3},  
 {label:”Overijssel”, data:4},  
 {label:”Gelderland”, data:5},  
