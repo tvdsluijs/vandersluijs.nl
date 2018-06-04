@@ -27,7 +27,7 @@ dsq_thread_id:
 categories:
   - My Life
 ---
-![Tassimo](/images/2014/May/IMG_0673.JPG)
+![Tassimo](https://vandersluijs.resultants-e/2014/May/IMG_0673.JPG)
 
 Na zo&#8217;n 5 jaar Nespresso gedronken te hebben was ik er wel een beetje op uit&#8230;gedronken.
 

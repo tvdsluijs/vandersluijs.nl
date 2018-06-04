@@ -25,7 +25,7 @@ hits:
 categories:
   - Grumpy
 ---
-[<img class="alignleft size-medium wp-image-768" alt="linkedin_endorsements" src="https://vandersluijs.resultants-e.nl/2013/05/linkedin_endorsements-300x225-300x225.jpg" width="300" height="225" />](/images/2013/05/linkedin_endorsements-300x225.jpg)So you&#8217;ve got Linkedin like [me](http://nl.linkedin.com/in/tvdsluijs "my linkedin page")? Great! Let&#8217;s connect! No really! Let&#8217;s connect! And please endorse me! yes tell people how good I am at certain skills!
+[<img class="alignleft size-medium wp-image-768" alt="linkedin_endorsements" src="https://vandersluijs.resultants-e.nl/2013/05/linkedin_endorsements-300x225-300x225.jpg" width="300" height="225" />](https://vandersluijs.resultants-e/2013/05/linkedin_endorsements-300x225.jpg)So you&#8217;ve got Linkedin like [me](http://nl.linkedin.com/in/tvdsluijs "my linkedin page")? Great! Let&#8217;s connect! No really! Let&#8217;s connect! And please endorse me! yes tell people how good I am at certain skills!
 
 Ever had this conversation? No? Me neither but it happens every day! (even without the conversation!)<!--more-->
 

@@ -27,7 +27,7 @@ itrr_another_apply:
 categories:
   - Tech
 ---
-![No I will not Fix your computer](/images/2014/Sep/no_I_will_not_fix_computer.jpg)  
+![No I will not Fix your computer](https://vandersluijs.resultants-e/2014/Sep/no_I_will_not_fix_computer.jpg)  
 Er gaat geen maand voorbij of ik heb wel een Windows computer onder mijn bureau staan (of op mijn bureau bij laptop) van een goede buur, vriend of van mijn moeder.
 
 Tja&#8230; als je net zoals ik al zo lang in de IT zit dan kan je blijkbaar alle problemen oplossen met Windows. Ik vind het niet heel erg om te doen, maar ook ik als Mac gebruiker moet vaak zoeken in windows (zeker in 8) waar alles zit. En ook ik kan het vaak niet anders meer oplossen dan gewoon een simpele herinstall te doen. 

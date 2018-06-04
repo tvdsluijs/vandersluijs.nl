@@ -59,4 +59,4 @@ het installeren van de Help-files. Met de Help-files werkt het
   
 dit te installeren, als je er zin in hebt kan je hier klikken. Vroeger was de meegeleverde Nederlandstalige vertaling onvolledig, ik weet niet of dat nu nog zo is.
 
-Gebruikers van Linux Systemen zoals Ubuntu hebben vaak al Gimp op hun pc staan. Zo niet ga dan naar [http://www.gimp.org/unix/](/images/2011/06/unix) . Ubuntu gebruikers kunnen het installeren via apt/synaptic (maar kijk even goed of het er niet op staat, want volgens mij is het standaard bij ubuntu.
+Gebruikers van Linux Systemen zoals Ubuntu hebben vaak al Gimp op hun pc staan. Zo niet ga dan naar [http://www.gimp.org/unix/](https://vandersluijs.resultants-e/2011/06/unix) . Ubuntu gebruikers kunnen het installeren via apt/synaptic (maar kijk even goed of het er niet op staat, want volgens mij is het standaard bij ubuntu.

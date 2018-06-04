@@ -29,7 +29,7 @@ dsq_thread_id:
 categories:
   - Tech
 ---
-![Google Amsterdam](/images/2014/Sep/google-amsterdam-offices-by-d-dock-3.jpg)  
+![Google Amsterdam](https://vandersluijs.resultants-e/2014/Sep/google-amsterdam-offices-by-d-dock-3.jpg)  
 Ik had vandaag een hele interessante dag! Ik was door [Webr.nl](http://webr.nl/) uitgenodigd om bij een &#8220;KNOWLEDGE TOUR&#8221; te komen kijken en wel in het nieuwe kantoor van Google te Amsterdam.
 
 Het was een soort van 3 in 1 klapper want ik kon in één keer drie dingen van mijn Bucketlist afschrappen! 

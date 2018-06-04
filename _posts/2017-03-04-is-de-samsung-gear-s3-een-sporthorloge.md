@@ -124,7 +124,7 @@ Samsung heeft alles op alles gezet om zo goed mogelijk te herkennen dat je aan h
 
 Zo kan het zien dat je een trap op loopt. En dat werkt inderdaad prima! De 5 trappen die ik had ingesteld die ik moest lopen herkende hij.
   
-!\[Samsung S3 Gear Frontier\](/images/2017/03/samsung-gear-s3-frontier.jpg)
+!\[Samsung S3 Gear Frontier\](https://vandersluijs.resultants-e/2017/03/samsung-gear-s3-frontier.jpg)
   
 Maar hij herkende ook de volgende sporten, en moedigde mij er bij aan om vooral door te gaan.
 

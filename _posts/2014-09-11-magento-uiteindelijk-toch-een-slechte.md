@@ -29,7 +29,7 @@ dsq_thread_id:
 categories:
   - Tech
 ---
-![Magento is a Bad Choice](/images/2014/Sep/magento_bad_choice.png)  
+![Magento is a Bad Choice](https://vandersluijs.resultants-e/2014/Sep/magento_bad_choice.png)  
 Magento, het zag er zo mooi uit vanuit de verte.
 
 De gouden berg voor e-commerce, met diamanten oplossingen en platina keuzes. Gemaakt om een enorme webshop te bevatten en zowel de eigenaar ervan als de gebruikende klant te voorzien van geweldige business.
