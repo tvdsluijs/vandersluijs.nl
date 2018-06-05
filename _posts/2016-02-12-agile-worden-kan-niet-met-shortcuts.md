@@ -14,7 +14,7 @@ inziens zoveel tijd gaat kosten.
 
 Ik kijk deze personen altijd aan met een moeilijke blik en zeg ze…. “Oh, je
 wilt niet Agile worden?”
-
+< !--more -->
 Een Agile transformatie is niet iets wat je er even in een weekje bij doet.
 Het is ook niet iets wat je in een maand gedaan krijgt. Een Agile
 transformatie is een proces wat enkele maanden zal duren. Zeker in

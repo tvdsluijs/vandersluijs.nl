@@ -2,6 +2,7 @@
 id: 4320
 title: Polar V800 binnen 2 jaar kapot
 date: 2017-05-11T16:28:49+00:00
+excerpt_separator: < !--more -->
 author: Theo van der Sluijs
 layout: post
 guid: https://www.vandersluijs.nl/?p=4320

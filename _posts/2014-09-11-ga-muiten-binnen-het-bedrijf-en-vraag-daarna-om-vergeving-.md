@@ -15,7 +15,7 @@ bedrijf.
   
 De meeste goede ideeën komen niet uit de koker van je baas, maar juist van het
 personeel op de werkvloer.  
-  
+< !--more -->
 Maar helaas wil een baas niet altijd luisteren naar wat je te zeggen hebt en
 dan is het tijd om een muiterij te beginnen.
 

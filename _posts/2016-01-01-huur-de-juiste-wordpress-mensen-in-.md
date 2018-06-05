@@ -12,18 +12,13 @@ image:
 category: ['Coding']
 tags: ['Coding']
 ---
-![](https://vandersluijs.resultants-e/1*ElZM2hjwYLDE29GCAmYxoA.jpeg)
-
-Source: [pixabay.com](https://pixabay.com/en/wordpress-blogging-writing-
-typing-923188/)
-
 Ik zie het maar al te vaak. Personen die leuke sites kunnen maken met
 Wordpress maar eigenlijk geen idee hebben wat ze aan het doen zijn.
 
 Dat is niet erg, als je niet weet wat je aan het doen bent, maar probeer
 jezelf dan niet te verkopen als Wordpress kenner of Wordpress / Site
 marketeer.
-
+< !--more -->
 Het ergste voorbeeld was van de week toen een “Wordpress” kenner me vroeg om
 te kijken naar een htaccess bestand dat was aangepast om zo slechte bots
 buiten de deur te houden.

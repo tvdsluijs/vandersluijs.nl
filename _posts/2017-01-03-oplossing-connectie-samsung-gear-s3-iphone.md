@@ -3,6 +3,7 @@ id: 3634
 title: Oplossing connectie Samsung Gear S3 iPhone
 date: 2017-01-03T11:13:35+00:00
 author: Theo van der Sluijs
+excerpt_separator: < !--more -->
 layout: post
 guid: http://vandersluijs.nl/?p=3634
 permalink: /2017/01/oplossing-connectie-samsung-gear-s3-iphone.html

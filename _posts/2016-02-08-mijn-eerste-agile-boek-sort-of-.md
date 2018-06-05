@@ -12,16 +12,12 @@ image:
 category: ['Agile']
 tags: ['Agile']
 ---
-![](https://vandersluijs.resultants-e/1*mHiSqk4anKoKxr__nML5lA.jpeg)
-
-[Pixabay](https://www.pexels.com/u/pixabay/)
-
 Vandaag kreeg ik een uitnodiging van [Yves Hanoulle](http://www.hanoulle.be/),
 bekend van de boeken “[Who is Agile](https://leanpub.com/WhoIsAgile)” en “[The
 Scaling ball game](https://leanpub.com/TheScalingBallGame)” om mee te
 schrijven aan een Agile boek. Mijn eerste Agile Boek, hoe vet is dat. Maar het
 is niet helemaal mijn boek.
-
+< !--more -->
 Het is namelijk een bestaand boek, echter is het engels en is er geen
 Nederlandse versie van. Ik he het dus niet echt schrijven maar vertalen. Yves
 en veel andere mensen zijn erg te spreken over het boek “[Toolbox for the

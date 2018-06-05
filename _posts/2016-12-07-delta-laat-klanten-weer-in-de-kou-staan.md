@@ -3,6 +3,7 @@ id: 3584
 title: Delta laat klanten weer in de kou staan
 date: 2016-12-07T22:02:40+00:00
 author: Theo van der Sluijs
+excerpt_separator: < !--more -->
 layout: post
 guid: http://vandersluijs.nl/?p=3584
 permalink: /2016/12/delta-laat-klanten-weer-in-de-kou-staan.html

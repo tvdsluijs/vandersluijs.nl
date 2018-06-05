@@ -13,7 +13,7 @@ wel 300 mail op een dag ontving.
 
 Mailtjes met vragen van collega’s, mailtjes met enorme verhalen van collega’s
 en mailtjes waarin ik in de cc of bcc stond.
-
+< !--more -->
 Ik had bijna de hele dag nodig om mijn mail opgeruimd te krijgen. En toen ben
 ik #WQM, [We Quit
 Mail](https://partnerprogramma.bol.com/click/click?p=1&t=url&s=33431&f=TXL&url=http%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fwe-

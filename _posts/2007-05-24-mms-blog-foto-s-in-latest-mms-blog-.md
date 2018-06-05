@@ -23,7 +23,7 @@ aan de praat heb gekregen.
   
 De volgende vraag die ik kreeg was hoe ik dan in de module “Latest mms blog”
 de foto’s liet zien.  
-  
+< !--more -->
 Ja…. dat heb ik dus zelf gemaakt. Ik heb het originele bestand genomen en
 hiervan een subversie gemaakt.  
   

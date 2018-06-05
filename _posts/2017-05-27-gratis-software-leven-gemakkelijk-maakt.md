@@ -2,6 +2,7 @@
 id: 4304
 title: Gratis software die het leven gemakkelijk maakt
 date: 2017-05-27T15:13:53+00:00
+excerpt_separator: < !--more -->
 author: Theo van der Sluijs
 layout: post
 guid: https://www.vandersluijs.nl/?p=4304

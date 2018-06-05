@@ -15,7 +15,7 @@ staan de personen die zeggen… Wat? Stop Theo als ICT Manager?
 Het klinkt raar, maar alhoewel er achter mijn naam als functie “ICT Manager”
 staat ben ik nooit echt Manager geweest en heb ik dat ook nooit willen zijn.
 Toch heb ik deze functie jarenlang gehad.
-
+< !--more -->
 #### Wat is een Manager
 
 Een manager is iemand die managementactiviteiten beoefent. Zijn focus is

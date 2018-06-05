@@ -13,7 +13,7 @@ de de hoek van de straat, de fashion boetiek of de slager.
   
 Nee ik heb het over grote jongens zoals MasterCard, NS en ABN-AMRO. Ze blijven
 maar in het verleden hangen.
-
+< !--more -->
 #### Waar het fout gaat
 
 Bedrijven zoals NS, MasterCard en ABN-AMRO denken dat wanneer in het verleden

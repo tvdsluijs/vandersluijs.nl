@@ -11,7 +11,7 @@ tags: ['Agile', 'Agile Transformation', 'Agile Methodology']
 En ook dag twee is voorbij van de [Masterclass — Leading Agile
 Transformations](http://www.scrum.nl/training/Masterclass-Leading-Agile-
 Transformations-150324) van [Prowareness](http://www.prowareness.nl/).
-
+< !--more -->
 Zoals ik gisteren al vertelde staat het bedrijf waar ik werk aan de vooravond
 van twee grote transformaties. Ik ga proberen om het bedrijf te laten werken
 met zelf organiserende teams en het bedrijf Agile te maken.

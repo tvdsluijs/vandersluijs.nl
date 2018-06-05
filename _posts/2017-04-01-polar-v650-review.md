@@ -2,6 +2,7 @@
 id: 4325
 title: Polar V650 review
 date: 2017-04-01T16:32:26+00:00
+excerpt_separator: < !--more -->
 author: Theo van der Sluijs
 layout: post
 guid: https://www.vandersluijs.nl/?p=4325

@@ -37,7 +37,7 @@ Google Analytics biedt een groot aantal uiterst nuttige functies en voordelen vo
 Snelle implementatie
 
 Plak de conversiecode voor Google Analytics eenvoudig op alle pagina’s van uw website. De gegevens worden direct bijgehouden.
-
+< !--more -->
 Zoekwoorden en campagnes vergelijken
 
 Al  

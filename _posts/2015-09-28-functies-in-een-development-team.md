@@ -13,7 +13,7 @@ bestaan. Nu kan dit natuurlijk per bedrijf anders zijn en zeker wanneer je
 kijkt naar wat ze willen ontwikkelen, maar als ik kijk naar puur de sector
 waarin ik me vaak begeef, web-development, blijven er maar 2 vragen over. Heb
 je een grote of kleine organisatie? En wil je het echt zelf intern gaan doen?
-
+< !--more -->
 Dit artikel gaat over hoeveel personen je nodig hebt binnen een development
 team, uit welke functies een development team bestaat en vooral waarom je
 welke functies binnen het team nodig hebt.

@@ -30,7 +30,7 @@ layout: default
             </p>
           </header>
           <div class="excerpt">
-            {% if post.excerpt %}
+            {% if post.excerpt AND post.content contains '<!--more-->'%}
               {{ post.excerpt | strip_html | escape }}
             {% else %}
 	          {{ post.content | strip_html | truncatewords: 50 }}
