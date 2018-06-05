@@ -3,6 +3,7 @@ id: 537
 title: Problems with Vista and older Logitech Webcams
 date: 2007-07-05T08:49:00+00:00
 author: Theo van der Sluijs
+excerpt_separator: < !--more -->
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/07/05/problems-with-vista-and-older-logitec/
 permalink: /2007/07/problems-with-vista-and-older-logitec.html

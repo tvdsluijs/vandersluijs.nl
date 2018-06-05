@@ -3,6 +3,7 @@ id: 542
 title: Vista cannot connect to XP printer share
 date: 2007-06-29T11:33:00+00:00
 author: Theo van der Sluijs
+excerpt_separator: < !--more -->
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/06/29/vista-cannot-connect-to-xp-printer-share/
 permalink: /2007/06/vista-cannot-connect-to-xp-printer-share.html

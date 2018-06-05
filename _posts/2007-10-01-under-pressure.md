@@ -3,6 +3,7 @@ id: 528
 title: Under Pressure
 date: 2007-10-01T16:53:00+00:00
 author: Theo van der Sluijs
+excerpt_separator: < !--more -->
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/10/01/under-pressure/
 permalink: /2007/10/under-pressure.html
