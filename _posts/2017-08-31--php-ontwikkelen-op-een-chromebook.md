@@ -1,8 +1,8 @@
 ---
 layout: post
 excerpt_separator: < !--more -->
-title: '<?php ontwikkelen op een Chromebook'
-slug: '-php-ontwikkelen-op-een-chromebook'
+title: php ontwikkelen op een Chromebook
+slug: 'php-ontwikkelen-op-een-chromebook'
 date: '2017-08-31 20:04:22.459000+00:00'
 publish_date: '2017-08-31 20:04:22.459000+00:00'
 image:
@@ -11,9 +11,8 @@ category: ['Apple', 'Chromebook', 'Development', 'PHP']
 tags: ['Apple', 'Chromebook', 'Development', 'PHP']
 ---
 Zoals je wellicht hebt kunnen lezen heb ik mijn baan opgezegd en moest ik
-daarbij mijn Macbook inleveren. Tja daar ging mijn ontwikkel…
-
-![](https://vandersluijs.resultants-e/1*_UI1YYXp2vby2qdgUKcsyA.jpeg)
+daarbij mijn Macbook inleveren. Tja daar ging mijn ontwikkel omgeving
+< !--more -->
 
 Zoals je wellicht hebt kunnen lezen heb ik mijn baan opgezegd en moest ik
 daarbij mijn Macbook inleveren. Tja daar ging mijn ontwikkel omgeving.
