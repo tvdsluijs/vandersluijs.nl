@@ -53,7 +53,7 @@ tags:
   <p>
     Social media&#8230; het lijkt zo leuk, maar is dat het ook? Laatst las ik iets over het feit dat mensen steeds vaker bezig zijn met het zich zelf te bewijzen voor anderen en dat ze er eigenlijk heel ongelukkig van worden.
   </p>
-  
+  < !--more -->
   <p>
     Zelf zijn ze alleen maar bezig met : &#8220;Kijk is hoe leuk ik het heb, kijk is wat ik heb gekocht, kijk is hoe goed ik dit doe, kijk is wat een geweldig leven ik heb&#8221;. Terwijl ze zelf niet kunnen tegen het feit dat andere mensen het nog veel leuker en beter lijken te hebben dan zij zelf.
   </p>

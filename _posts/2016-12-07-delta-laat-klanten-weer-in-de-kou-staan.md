@@ -52,7 +52,7 @@ format: image
 > Dikke Delta Deal!
 
 Je snapt, ik kon niet wachten op die Dikke Delta Deal! Ik ben al een tijdje lid van de club dus ik dacht&#8230; kom maar op! Krijg ik dikke korting of gratis upgrade naar het super pakket!!! Oh boy oh boy kwam ik even terug van de koude kermis toen ik mijn aanbod kreeg van Zeelandnet en Delta.<!--more-->
-
+< !--more -->
 Delta is zieltjes aan het winnen. Natuurlijk, is logisch want ze hebben het niet makkelijk. Ik ben al lang klant van Delta. En van Zeelandnet ook overigens. Okay ik neem geen stroom en gas af, maar wel water, tv, internet en telefonie.
 
 Zo nu en dan ben ik ook weg geweest met internet en telefonie, maar ik kwam op een gegeven moment toch weer terug.

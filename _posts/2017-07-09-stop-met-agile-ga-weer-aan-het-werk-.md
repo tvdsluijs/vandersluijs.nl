@@ -10,15 +10,13 @@ image:
 category: ['Agile', 'Scrum', 'Agility']
 tags: ['Agile', 'Scrum', 'Agility']
 ---
-![](https://vandersluijs.resultants-e/1*snWq_plHQNlM-A65kUknug.png)
-
 Agile! Het is geweldig! Het gaat al je problemen in je bedrijf oplossen!
 Development gaat weer sneller, beter en er komen weer dingen af. Teams werken
 gestructureerder en wedstrijden (genaamd sprinsts) zorgen dat de teams op
 hoger niveau komen met nog meer omzet. Fouten maken mag en daar leer je alleen
 van, en na iedere oplevering leer je weer van elkaar door uit te spreken wat
 er fout ging.
-
+< !--more -->
 > Agile is geweldig!
 
 Maar niets is minder waar! Het werkt namelijk niet.

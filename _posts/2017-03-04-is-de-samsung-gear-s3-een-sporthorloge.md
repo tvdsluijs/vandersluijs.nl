@@ -51,7 +51,7 @@ tags:
 format: image
 ---
 Ik wilde eens een mooie smartwatch. Mijn Polar V800 was een beest in de mogelijkheden met sporten, maar mooi&#8230; tja dat was de V800 niet. Maar daar was toen de Samsung Gear S3 Frontier! Een vreselijk vette smartwatch met sportmogelijkheden!
-
+< !--more -->
 Ik kocht hem&#8230;. en kwam er na 3 maanden achter dat het alles behalve een sporthorloge is.
 
 ## Samsung Gear S3 Frontier

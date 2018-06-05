@@ -12,14 +12,6 @@ category: ['Facebook', 'Social Media']
 tags: ['Facebook', 'Social Media']
 ---
 Misschien wist je het nog niet maar facebook nog meer verslavend als de meeste
-drugs. Erger nog… er zijn meer verslaafde personen aan…
-
-![](https://vandersluijs.resultants-e/1*SYe8Q9PajhrCDeL7UR5uGw.jpeg)
-
-Source: [pixabay.com](https://pixabay.com/en/twitter-facebook-
-together-292989/)
-
-Misschien wist je het nog niet maar facebook nog meer verslavend als de meeste
 drugs. Erger nog… er zijn meer verslaafde personen aan facebook als aan drugs.
 
 Ik zelf was ook iedere dag druk met Facebook. Selfie hier, selfie daar….

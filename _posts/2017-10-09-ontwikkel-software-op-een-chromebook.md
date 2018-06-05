@@ -12,13 +12,6 @@ category: ['Chromebook', 'MacBook', 'Developer', 'Developing']
 tags: ['Chromebook', 'MacBook', 'Developer', 'Developing']
 ---
 Dus je wilt ontwikkelen maar hebt geen geld voor een Macbook…. zo iets als ik…
-ik heb het geld er wel voor… maar om nu even bijna 1 bitcoin…
-
-![](https://vandersluijs.resultants-e/1*nyoIG-yq4D5ci0dnXsIqIA.jpeg)
-
-[Kaboompics // Karolina](https://www.pexels.com/u/kaboompics/)
-
-Dus je wilt ontwikkelen maar hebt geen geld voor een Macbook…. zo iets als ik…
 ik heb het geld er wel voor… maar om nu even bijna 1 bitcoin op tafel te
 gooien voor een prachtig overpriced macbook…. gaat me wat ver.
 

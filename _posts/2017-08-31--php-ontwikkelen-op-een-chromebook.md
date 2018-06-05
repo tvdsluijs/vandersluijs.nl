@@ -11,16 +11,12 @@ category: ['Apple', 'Chromebook', 'Development', 'PHP']
 tags: ['Apple', 'Chromebook', 'Development', 'PHP']
 ---
 Zoals je wellicht hebt kunnen lezen heb ik mijn baan opgezegd en moest ik
-daarbij mijn Macbook inleveren. Tja daar ging mijn ontwikkel omgeving
-< !--more -->
-
-Zoals je wellicht hebt kunnen lezen heb ik mijn baan opgezegd en moest ik
 daarbij mijn Macbook inleveren. Tja daar ging mijn ontwikkel omgeving.
 
 Ik dacht er aan om een MacBook te kopen, maar ja om nu weer 3000 euro te gaan
 uitgeven aan een over de top gehyped(maar wel heel goed werkende) laptop vond
 ik wat overdreven.
-
+< !--more -->
 Maar ja… ik moest verder. Zonder eigen dev-bak kon ik toch niet verder?
 
 > Toch?

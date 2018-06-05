@@ -10,13 +10,11 @@ image:
 category: ['Agile', 'Scrum', 'Scrum Master']
 tags: ['Agile', 'Scrum', 'Scrum Master']
 ---
-![](https://vandersluijs.resultants-e/1*CM0RAFUO3RXyiurXQHucjA.jpeg)
-
 Agile wordt steeds populairder. Steeds meer organisaties gaan op een Agile
 manier werken. … Agile betekent letterlijk: behendig, lenig. In de IT staat
 het voor softwareontwikkeling in korte, overzichtelijke perioden van vaak niet
 meer dan een maand, soms zelfs hooguit een week.
-
+< !--more -->
 Het is echt geweldig, “The Silver Bullet”, “De oplossing voor alles”, “De
 redding van het bedrijf”, “We bouwen weer aan de toekomst”.
 

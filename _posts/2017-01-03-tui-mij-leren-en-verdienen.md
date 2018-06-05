@@ -50,7 +50,7 @@ tags:
 format: image
 ---
 Tja, ik heb het geluk dat ik zo nu en dan naar Curaçao mag voor mijn werk om daar het één en ander te regelen bij mijn Collega&#8217;s daar ter plaatse. De vorige keer vloog ik met [KLM](https://www.vandersluijs.nl/endorses/klm) maar omdat er wat collega&#8217;s mee gaan en die al via [TUI](https://www.vandersluijs.nl/endorses/tui) hadden geboekt vlieg ik ook maar eens een keer met TUI. En voor dat de reis reeds is begonnen kunnen ze bij TUI al wat van me leren en ook nog eens extra aan mij verdienen. Maar dat laatste wilden ze niet.<!--more-->
-
+< !--more -->
 TUI, ze hebben mooie vliegtuigen! En met mijn a.s. trip naar Curaçao dacht ik eens mooi met de Dreamliner te gaan vliegen.
 
 Mijn collega&#8217;s hadden comfort geboekt en eigenlijk wilde ik premium. Niet zo zeer om de been ruimte, want met mijn 1.70mtr heb ik zat aan comfort. Maar meer om het gemak van eten / drinken en entertainment.

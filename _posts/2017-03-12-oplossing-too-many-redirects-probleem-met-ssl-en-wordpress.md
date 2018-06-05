@@ -10,14 +10,12 @@ image:
 category: ['Tech', 'WordPress', 'Https', 'Ssl Certificate', 'Coding']
 tags: ['Tech', 'WordPress', 'Https', 'Ssl Certificate', 'Coding']
 ---
-![](https://vandersluijs.resultants-e/1*eqxgrhVHH0GE6TRVa3mPeg.jpeg)
-
 Dus je wilt eindelijke een veilige Wordpress omgeving! Je hebt netjes een
 certificaat aangevraagd! Via Comodo of Letsencrypt. Je hebt alle server
 aanpassingen gedaan, en dan is het eindelijk tijd om Wordpress om te zetten.
 
 En voor je het weet… is alles kapot!
-
+< !--more -->
 > SSL voor een veilige site en voor Google
 
 Met de campagne HTTPS everywhere heeft Google wat maanden terug de stap gezet

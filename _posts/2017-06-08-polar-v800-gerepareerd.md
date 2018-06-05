@@ -50,7 +50,8 @@ tags:
   - v800
 format: image
 ---
-Plots was hij kapot! Mijn Polar V800 had een witte waas op het scherm&#8230; vocht! En je weet wat vocht doet met de electronica! Dus mail de ik de Polar helpdesk en die verwezen me door naar het service center. Ik stuurde na een kort formulier mijn polar V800 op en wat denk je&#8230; na 2 weken kreeg ik mijn Polar V800 gerepareerd terug&#8230; althans&#8230; dat dacht ik!<!--more-->
+Plots was hij kapot! Mijn Polar V800 had een witte waas op het scherm&#8230; vocht! En je weet wat vocht doet met de electronica! Dus mail de ik de Polar helpdesk en die verwezen me door naar het service center. Ik stuurde na een kort formulier mijn polar V800 op en wat denk je&#8230; na 2 weken kreeg ik mijn Polar V800 gerepareerd terug&#8230; althans&#8230; dat dacht ik!
+<!--more-->
 
 Vocht! Het zou niet moeten kunnen! Ik bedoel dan natuurlijk in het horloge zelf. Met een horloge waarvan ze zeggen dat hij 40meter diep kan, daar verwacht je geen vocht in. Maar toch zat het er in. Zoals je in dit blog artikel kan lezen
 

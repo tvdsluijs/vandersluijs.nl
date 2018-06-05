@@ -53,7 +53,7 @@ tags:
 format: image
 ---
 Nog net voor de kerst kwam hij binnen. Mijn Samsung Gear S3 Frontier. Hoe blij ik er mee was, wist ik ook dat er één heel groot probleem kon zijn. De connectie met mijn Apple iPhone SE. De Gear S3 draait namelijk  (net zoals de Gear S2) op het besturingssysteem Tizen, en daar wil iOS nog niet mee koppelen.
-
+< !--more -->
 Maar gelukkig, hebben we de Beta App van Samsung!<!--more-->
 
 Ik kan je hierbij een volmondig JA geven als het gaat over of de Beta App van Samsung werkt op mijn iPhone SE en met de Samsung Gear S3.

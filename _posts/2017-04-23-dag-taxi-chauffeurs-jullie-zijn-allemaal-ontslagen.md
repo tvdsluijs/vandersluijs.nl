@@ -10,12 +10,10 @@ image:
 category: ['Future', 'Self Driving Cars', 'Tesla']
 tags: ['Future', 'Self Driving Cars', 'Tesla']
 ---
-![](https://vandersluijs.resultants-e/1*epOby2wtI5_YdLFbjr5sXw.jpeg)
-
 Het was een mooie dag in 2015, Autofabrikant Tesla maakt zijn Model S in dat
 jaar deels zelfrijdend via een software-update. Ja je moest je handen nog aan
 het stuur houden, maar dat gaat niet lang meer duren.
-
+< !--more -->
 Taxi-chauffeurs, vanaf de dag dat Tesla zei dat auto’s zelf gingen rijden is
 het een beroep geworden waar je beter nu niet meer voor gaat leren (als je er
 al voor kan leren).

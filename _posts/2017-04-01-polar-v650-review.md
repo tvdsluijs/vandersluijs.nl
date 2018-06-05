@@ -19,7 +19,7 @@ tags:
 format: image
 ---
 Fietsen, sinds mijn knie door een niet zo&#8217;n goede fysiotherapeut als zogenaamd kapot is verklaard doe ik het. Ik fietste met mijn Polar V800 in zo&#8217;n speciale houder, maar echt handig was dat niet. Ik wilde meer kunnen zien, routes kunnen volgen en een apparaat dat speciaal voor het fietsen was. Dus kocht ik een Polar V650.
-
+< !--more -->
 De reden dat ik een fiets computer wilde is omdat ik het zat was om mijn Polar V800 steeds op de fiets mount te monteren. Het was zo idioot ingewikkeld (ik bedoel, niet in 2 seconden te bevestigen) dat ik hem maar omhield.
 
 Echter wilde ik ook iets hebben om af te kunnen lezen waar ik ben en in iets groter formaat dan mijn horloge.

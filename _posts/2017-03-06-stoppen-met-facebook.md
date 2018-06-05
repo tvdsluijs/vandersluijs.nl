@@ -51,7 +51,7 @@ categories:
   <p>
     Het is me gelukt! Op 23 december besloot ik te stoppen met veel van het social media gebeuren. Zo heb ik diverse twitter accounts verwijderd ben ik van pinterest af en heb ik op facebook alles geblokkeerd en alle app-koppelingen verwijderd. Het lukte me om zo&#8217;n 3 maanden facebook vrij te blijven en vandaag besloot ik mijn facebook account te deactiveren.
   </p>
-  
+  < !--more -->
   <h2 id="hoedeactiveerikfacebook">
     Hoe deactiveer ik facebook?
   </h2>

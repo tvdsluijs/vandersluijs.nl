@@ -10,12 +10,10 @@ image:
 category: ['Tech', 'iPhone', 'Quickfixphone', 'Development']
 tags: ['Tech', 'iPhone', 'Quickfixphone', 'Development']
 ---
-![](https://vandersluijs.resultants-e/1*YdwDXtGMBeiQr3f4gQvDVQ.jpeg)
-
 Dus je hebt een iPhone en deze heb je al geactiveerd voordat je nummer werd
 omgezet naar je nieuwe Simkaart…. en wat valt je op nadat je nummer is
 omgezet? Juist het eerste (en dus verkeerde simkaart nummer staat er!
-
+< !--more -->
 Door dit verkeerde nummer gaat ook facetime, iMessage enz de mist in. Apple
 weet namelijk niet goed wie je bent!
 

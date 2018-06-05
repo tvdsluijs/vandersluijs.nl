@@ -47,7 +47,8 @@ categories:
   - My Life
 format: image
 ---
-Op een dag krijg je een geweldige ingeving, een idee waarvan je niet denkt, maar wéét dat het een succesvolle business kan opleveren. Je stopt waar je mee bezig bent en rent naar je laptop en begint te werken. Je plan verloopt op stelten, en op een gegeven moment kom je bij een cruciale keuze, hoe ga je jouw logo maken? Huur je een logo designer in en [waar moet je nu opletten](http://www.startersinformatiecentrum.nl/logo-en-huisstijl-waar-moet-je-op-letten/)? Of maak je er zelf één of ga je gebruik maken een logogenerator? <!--more-->
+Op een dag krijg je een geweldige ingeving, een idee waarvan je niet denkt, maar wéét dat het een succesvolle business kan opleveren. Je stopt waar je mee bezig bent en rent naar je laptop en begint te werken. Je plan verloopt op stelten, en op een gegeven moment kom je bij een cruciale keuze, hoe ga je jouw logo maken? Huur je een logo designer in en [waar moet je nu opletten](http://www.startersinformatiecentrum.nl/logo-en-huisstijl-waar-moet-je-op-letten/)? Of maak je er zelf één of ga je gebruik maken een logogenerator?
+ <!--more-->
 
 Helaas kun je een designer niet huren, omdat je een klein budget hebt. Daarnaast heb je zelf geen ontwerp-skills, dus blijft optie 3 over. Een logo maker. Dus je voert een zoekterm in, en wat blijkt? Tientallen logo makers! Welke is nu de beste en welke kan ik het liefst vermijden. Of zijn ze allemaal even goed met de ene net ietsje beter dan de ander? Dat gaan we in dit artikel zo goed mogelijk aan bod proberen te brengen.
 

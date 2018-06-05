@@ -49,6 +49,8 @@ format: image
 ---
 <span lang="FR">Op deze site ben je vast gewend dat alle software zelf wordt gebakken, maar vaak is het echt niet nodig om zelf het wiel uit te vinden. Er zijn diverse gratis tools, die ook legaal zijn, dus doe er je voordeel mee.<br /> Hieronder een lijstje met mijn favorieten.</span>
 
+< !--more -->
+
 **<span lang="FR">Gratis virusscanner: onontbeerlijk</span>**
 
 <span lang="FR">Geen enkele computer kan tegenwoordig zonder virusscanner. Vanuit het grote internet wordt in principe elke pc of laptop constant belaagd door allerlei booswichten die proberen om schadelijke dingen op je los te laten. Net als in het dagelijks leven met bacillen zo’n beetje, maar dan expres. Met een paar handige tools kun je je hier behoorlijk tegen beschermen. Net zoals geregeld handen wassen een goed idee is voor je offline leven.<br /> Avast bijvoorbeeld is een uitstekende gratis virusscanner. Het geeft je realtime bescherming en is geen grote belasting voor je systeem. Daarnaast heeft Avast een zogenaamde game mode occurence waarmee je wel zonder problemen websites met spelletjes kunt bezoeken en de spellen spelen. Avast heeft ook <a href="https://www.avast.com/nl-nl/store">betaalde licenties</a> voor een redelijk tarief, waarmee je bredere bescherming krijgt, of voor meerdere pc’s.<br /> Voor een stukje extra bescherming kun je ook het programma Malwarebytes installeren, voor de dingetjes die Avast mist. Malwarebytes is een heel betrouwbaar programma dat al jaren bestaat. Daarentegen heeft Malwarebytes in de gratis versie geen real time protection wat Avast wel heeft. Gecombineerd zijn ze je beste – en gratis – optie om je geliefde computer te beschermen.</span>

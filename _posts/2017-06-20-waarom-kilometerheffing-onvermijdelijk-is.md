@@ -10,7 +10,6 @@ image:
 category: ['Future', 'AI', 'Self Driving Cars', 'Tesla']
 tags: ['Future', 'AI', 'Self Driving Cars', 'Tesla']
 ---
-![](https://vandersluijs.resultants-e/1*RGMiFk43GguyiJHfyWrQ-g.jpeg)
 
 De staatskas moet gevuld worden. Daar heb je allerlei belastingen voor zoals
 loonbelasting, BTW, Accijns, winstbelasting enz. Ook op de auto zitten
@@ -19,7 +18,7 @@ over de waarde van de auto en wegenbelasting (houderschapsbelasting) echter
 zijn deze belastingen binnenkort niet meer te heffen en dan zal
 kilometerheffing onvermijdelijk worden en dat heeft niks te maken met het
 oplossen van het fileprobleem.
-
+< !--more -->
 Files, iedereen heeft er een hekel aan en jaren geleden dacht men dit op te
 lossen doormiddel van de zogenaamde kilometerheffing. Door een belasting
 vergoeding te vragen per kilometer en deze in tijden van drukte te verhogen
