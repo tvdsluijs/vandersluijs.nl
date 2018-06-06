@@ -12,7 +12,7 @@ theme_settings:
   title: Theo van der Sluijs # blog's title
   avatar: https://nl.gravatar.com/userimage/4342738/55dc66ed50cf30a99a5c12767dae233a.jpg?size=400
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
+  gravatar: B40D3B7DA056FCC44BF7792E4ED4BDA3
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
