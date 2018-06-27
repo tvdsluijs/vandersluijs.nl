@@ -37,7 +37,7 @@ wp_review_bordercolor:
 hits:
   - "541"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Geniaal wil ik het nog net niet noemen, maar een erg slimme marketing actie is het wel.
 

@@ -45,7 +45,7 @@ asalah_sidebar_position:
   - "0"
 feature-img: https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-geen-sporthorloge-825x510.jpg
 categories:
-  - Sport
+  - Tech
 tags:
   - samsung
   - smartwatch

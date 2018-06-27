@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/01/waarom-klanten-idioten-lijken-en-waarom.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2014/01/idiots-300x225.jpg
+  - https://vandersluijs.resultants-e.nl/2014/01/idiots-300x225.jpg
 hits:
   - "920"
 dsq_thread_id:

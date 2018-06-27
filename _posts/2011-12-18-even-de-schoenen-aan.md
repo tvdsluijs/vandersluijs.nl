@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "930"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Dit is echt heeeeeeel herkenbaar ! 
 

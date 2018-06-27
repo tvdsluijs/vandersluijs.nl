@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/01/van-md5-schijnveiligheid-naar-veilige.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2014/01/6101434856_e7eafdfdf2_m.jpg
+  - https://vandersluijs.resultants-e.nl/2014/01/6101434856_e7eafdfdf2_m.jpg
 hits:
   - "669"
 itrr_another_apply:

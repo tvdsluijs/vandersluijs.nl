@@ -41,7 +41,7 @@ hits:
 dsq_thread_id:
   - "5701840516"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Toen ik werd benaderd door Fotofabriek om een review te schrijven over hun fotoboek was ik verbaasd. Niet omdat ik werd benaderd door een bedrijf, dat gebeurd wel vaker, maar omdat ik nog nooit van het bedrijf Fotofabriek gehoord had. Die aanvraag greep ik natuurlijk met twee handen aan want ik wilde wel eens of ze de Radar Fotoboeken test ook waar konden maken.<!--more-->
 

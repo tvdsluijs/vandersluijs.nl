@@ -30,7 +30,7 @@ dsq_thread_id:
   - "5883933711"
 feature-img: https://vandersluijs.resultants-e.nl/2016/01/gele_zweem_lightroom.jpg
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Lightroom
 ---

@@ -5,8 +5,8 @@ title: 'Het nieuwe werken, moet van twee kanten komen'
 slug: 'het-nieuwe-werken-moet-van-twee-kanten-komen'
 date: '2012-10-05 15:34'
 publish_date: '2012-10-05 15:34'
-category: ['Agile', 'Nieuwe Werken', 'Scrum']
-tags: ['Agile', 'Nieuwe Werken', 'Scrum']
+category: ['Agile', 'Scrum']
+tags: ['Agile', 'Scrum']
 ---
 Het nieuwe werken. Iets wat al ik al lang doe. Al voor dat ik überhaupt wist
 wat het nieuwe werken was deed ik het al.  

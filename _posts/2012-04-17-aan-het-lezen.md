@@ -19,11 +19,11 @@ blogger_comments:
 blogger_permalink:
   - /2012/04/aan-het-lezen.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/04/tumblr_m2mspilLIe1rpqrb1o1_1280-300x300.jpg
+  - https://vandersluijs.resultants-e.nl/2012/04/tumblr_m2mspilLIe1rpqrb1o1_1280-300x300.jpg
 hits:
   - "469"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <div>
   <img alt="" src="https://vandersluijs.resultants-e.nl/2012/04/tumblr_m2mspilLIe1rpqrb1o1_1280-300x300.jpg" />

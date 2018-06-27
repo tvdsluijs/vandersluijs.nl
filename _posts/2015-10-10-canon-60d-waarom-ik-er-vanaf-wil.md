@@ -38,7 +38,7 @@ dsq_thread_id:
   - "5700423670"
 feature-img: https://vandersluijs.resultants-e.nl/2015/10/1200px-Canon_Powershot_G12-e1444485935176-1.jpg
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Camera
   - Canon

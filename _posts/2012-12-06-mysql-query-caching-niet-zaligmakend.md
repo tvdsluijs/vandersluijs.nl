@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2012/12/mysql-query-caching-niet-zaligmakend.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/12/mysql_query_cache.jpg
+  - https://vandersluijs.resultants-e.nl/2012/12/mysql_query_cache.jpg
 hits:
   - "517"
 itrr_another_apply:

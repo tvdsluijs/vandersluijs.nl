@@ -39,7 +39,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5946039552"
 categories:
-  - Photography
+  - Fotografie
 ---
 Vandaag werd ik er weer even op gewezen hoe mooi HDR fotografie is. HDR staat voor: High dynamic Range. Je maakt meerdere foto’s van een onderwerp met verschillende belichtingen en die kun je dan vervolgens met software samenvoegen tot een foto. Met HDR kan je echt hele mooie foto’s krijgen die qua belichting eigenlijk te perfect is. Hierdoor krijg je ook vaak een soort van sprookjesachtige foto. Hoe je een HDR foto maakt ? Eigenlijk is het heel makkelijk!!
   

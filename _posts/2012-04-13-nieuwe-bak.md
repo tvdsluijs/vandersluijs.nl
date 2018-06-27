@@ -19,11 +19,11 @@ blogger_comments:
 blogger_permalink:
   - /2012/04/nieuwe-bak.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/04/tumblr_m2f53byuNd1rpqrb1o1_1280-300x300.jpg
+  - https://vandersluijs.resultants-e.nl/2012/04/tumblr_m2f53byuNd1rpqrb1o1_1280-300x300.jpg
 hits:
   - "522"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <div>
   <img alt="" src="https://vandersluijs.resultants-e.nl/2012/04/tumblr_m2f53byuNd1rpqrb1o1_1280-300x300.jpg" />

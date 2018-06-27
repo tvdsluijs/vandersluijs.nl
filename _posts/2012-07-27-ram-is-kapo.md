@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2012/07/ram-is-kapot.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/07/tumblr_m7tgmaW1T11rpqrb1o1_1280-300x300.jpg
+  - https://vandersluijs.resultants-e.nl/2012/07/tumblr_m7tgmaW1T11rpqrb1o1_1280-300x300.jpg
 hits:
   - "1601"
 categories:

@@ -25,7 +25,7 @@ hits:
 dsq_thread_id:
   - "5734440936"
 categories:
-  - My Life
+  - Lifestyle
 ---
 ![Tassimo](https://vandersluijs.resultants-e/2014/May/IMG_0673.JPG)
 

@@ -19,13 +19,13 @@ blogger_comments:
 blogger_permalink:
   - /2012/08/bax-shop-reclame-in-de-bios.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/08/tumblr_m889lun1tI1rpqrb1o1_1280-300x300.jpg
+  - https://vandersluijs.resultants-e.nl/2012/08/tumblr_m889lun1tI1rpqrb1o1_1280-300x300.jpg
 hits:
   - "1190"
 dsq_thread_id:
   - "6152904698"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <div>
   <img alt="" src="https://vandersluijs.resultants-e.nl/2012/08/tumblr_m889lun1tI1rpqrb1o1_1280-300x300.jpg" />

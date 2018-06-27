@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2012/10/lightroom-plugins-installeren-op-een-mac.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/10/lightroom.jpg
+  - https://vandersluijs.resultants-e.nl/2012/10/lightroom.jpg
 wp_review_location:
   - bottom
 wp_review_desc_title:
@@ -41,7 +41,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "6322992779"
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Adobe
   - Lightroom

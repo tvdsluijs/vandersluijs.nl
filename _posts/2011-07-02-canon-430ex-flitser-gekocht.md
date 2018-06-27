@@ -37,7 +37,7 @@ hits:
 itrr_another_apply:
   - 'no'
 categories:
-  - Photography
+  - Fotografie
 ---
 Zoals Ludwig van Hooren al in de cursus zei… volgende keer allemaal jullie camera en flitser meenemen.
 

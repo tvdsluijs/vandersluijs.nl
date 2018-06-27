@@ -7,7 +7,7 @@ date: '2017-05-06 14:22:27+00:00'
 publish_date: '2017-05-06 14:22:27+00:00'
 image:
   feature: 'https://vandersluijs.resultants-e/1*CM0RAFUO3RXyiurXQHucjA.jpeg'
-category: ['Agile', 'Scrum', 'Scrum Master']
+category: ['Agile']
 tags: ['Agile', 'Scrum', 'Scrum Master']
 ---
 Agile wordt steeds populairder. Steeds meer organisaties gaan op een Agile

@@ -22,7 +22,7 @@ blogger_permalink:
 hits:
   - "973"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Ja, je leest het goed. 
 

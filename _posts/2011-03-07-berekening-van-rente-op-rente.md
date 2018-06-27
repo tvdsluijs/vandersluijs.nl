@@ -23,7 +23,7 @@ hits:
 dsq_thread_id:
   - "5799721146"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Zoals verschillende van jullie wellicht weten heb ik nogal wat sites onder mijn hoede. Zo ook de site www.gebruikmaar.nl.
 

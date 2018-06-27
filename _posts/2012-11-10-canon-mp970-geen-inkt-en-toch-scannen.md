@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2012/11/canon-mp970-geen-inkt-en-toch-scannen.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/11/canon_mp970-300x225.jpg
+  - https://vandersluijs.resultants-e.nl/2012/11/canon_mp970-300x225.jpg
 hits:
   - "2387"
 itrr_another_apply:

@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/03/hoe-lief-kan-een-365-dieren-baby.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2014/03/IMG_0058.jpg
+  - https://vandersluijs.resultants-e.nl/2014/03/IMG_0058.jpg
 hits:
   - "574"
 dsq_thread_id:

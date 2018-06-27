@@ -13,7 +13,10 @@ dsq_thread_id:
   - "5886317978"
 feature-img: https://vandersluijs.resultants-e.nl/2017/06/vocht-polar-v800-1-825x510.jpg
 categories:
-  - Sport
+  - Tech
+tags:
+  - Polar
+  - v800
 ---
 <section class="gh-view"> <section id="ember2103" class="ember-view view-container view-editor"> <section class="entry-preview js-entry-preview "> <section class="entry-preview-content js-entry-preview-content"> 
 

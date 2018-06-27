@@ -23,7 +23,7 @@ hits:
 dsq_thread_id:
   - "6021367159"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Vorige week is de video live gegaan van Google die opgenomen is bij Bax-shop.
 

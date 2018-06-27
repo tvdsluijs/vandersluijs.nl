@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "854"
 categories:
-  - My Life
+  - Lifestyle
   - Tech
 ---
 PFCongres is hét webdevelopment congres van het jaar. Op 14 september 2013 verwelkomt organisator PFZ.nl voor de achtste maal een grote groep webontwikkelaars voor een jaarlijkse kennisupdate. Ook dit jaar kun je weer rekenen op een gehele congresdag met twee gelijktijdige tracks.

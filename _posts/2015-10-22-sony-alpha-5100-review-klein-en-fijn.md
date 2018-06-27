@@ -49,7 +49,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5726337633"
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Camera
   - Sony

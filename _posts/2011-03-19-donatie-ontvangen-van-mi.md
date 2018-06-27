@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "1099"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Tja, veel mensen zal MIT niets zeggen.
 

@@ -23,7 +23,7 @@ hits:
 dsq_thread_id:
   - "6350511181"
 categories:
-  - My Life
+  - Lifestyle
 ---
 4 tot 6 weken dacht ik. Maar zal wel 4 tot 6 dagen geweest zijn. Maar het Q-music pakket wat ik pas geleden won bij ruud de wild is binnen. 1 madonna cd/dvd pakket. 1 dvd van the vampires assistent en bios-kaartjes voor de film first mission.
 

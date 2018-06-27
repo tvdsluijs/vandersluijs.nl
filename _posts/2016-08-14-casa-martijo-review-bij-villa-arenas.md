@@ -56,7 +56,7 @@ dsq_thread_id:
   - "5746507884"
 feature-img: https://vandersluijs.resultants-e.nl/2016/08/dpc-11-825x510.jpg
 categories:
-  - My Life
+  - Lifestyle
   - Travel
 format: image
 ---

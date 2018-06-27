@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "586"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Well a few blogs back I wrote that I wanted to have www.iamboredsoiblog.com and that another company claimed the name one day after I did.  
 I was a little pissed off about it, because it was a spam / commercial / ads company and my hoster did not do his job very well &#8230;..  

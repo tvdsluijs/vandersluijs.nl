@@ -53,7 +53,7 @@ asalah_custom_description:
 asalah_sidebar_position:
   - "0"
 categories:
-  - My Life
+  - Lifestyle
 ---
 > Enter enter enter, en je bent’er!
 

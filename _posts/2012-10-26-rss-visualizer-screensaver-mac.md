@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2012/10/rss-visualizer-screensaver-mac.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/10/RSS-Visualizer-300x214.jpg
+  - https://vandersluijs.resultants-e.nl/2012/10/RSS-Visualizer-300x214.jpg
 wp_review_location:
   - bottom
 wp_review_desc_title:

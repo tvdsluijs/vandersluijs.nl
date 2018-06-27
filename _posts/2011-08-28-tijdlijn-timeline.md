@@ -55,7 +55,7 @@ asalah_sidebar_position:
 dsq_thread_id:
   - "5973201233"
 categories:
-  - My Life
+  - Lifestyle
 tags:
   - Boek
 ---

@@ -23,7 +23,7 @@ blogger_thumbnail:
 hits:
   - "1150"
 categories:
-  - My Life
+  - Lifestyle
 ---
 A colleague of mine was worrying about me and my colleagues here eating enough.
 

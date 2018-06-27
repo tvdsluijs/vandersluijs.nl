@@ -70,7 +70,7 @@ dsq_thread_id:
   - "5709848224"
 feature-img: https://vandersluijs.resultants-e.nl/2015/08/belvedere-hotels-kreta1.jpg
 categories:
-  - My Life
+  - Lifestyle
   - Travel
 format: image
 ---

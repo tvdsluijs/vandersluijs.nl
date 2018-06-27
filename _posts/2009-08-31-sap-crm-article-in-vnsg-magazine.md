@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "1323"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Today my collegue emailed me about the VNSG magazine.
 

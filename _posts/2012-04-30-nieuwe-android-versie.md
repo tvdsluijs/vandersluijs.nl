@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2012/04/nieuwe-android-versie.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/04/tumblr_m3adjxjEXW1rpqrb1o1_1280-300x300.jpg
+  - https://vandersluijs.resultants-e.nl/2012/04/tumblr_m3adjxjEXW1rpqrb1o1_1280-300x300.jpg
 hits:
   - "1277"
 itrr_another_apply:

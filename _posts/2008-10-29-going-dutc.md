@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "648"
 categories:
-  - My Life
+  - Lifestyle
 ---
 No no no&#8230;.. Iam not getting cheap&#8230;.  
 But a lot of my regular visitors on www.vandersluijs.nl asked me to go Dutch again.  

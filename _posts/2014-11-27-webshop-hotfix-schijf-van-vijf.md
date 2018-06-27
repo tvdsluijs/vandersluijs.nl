@@ -50,7 +50,7 @@ dsq_thread_id:
   - "5761560170"
 feature-img: https://vandersluijs.resultants-e.nl/2014/11/15893676895_f2f4bb6db5_c.jpg
 categories:
-  - My Life
+  - Lifestyle
   - Tech
 ---
 Hotfixes! Soms is het dagelijkse kost, soms komt het een tijdje niet voor. Maar hotfixes zullen altijd de dagelijkse ontwikkel flow verstoren. In veel organisaties is het niet duidelijk wat een hotfix nu precies is, of beter gezegd wat zou nu wel en wat zou nu niet een hotfix zijn.

@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "513"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Since a few month I sell T-shirts in my [webshop](http://www.iamboredsoiblog.eu/shop/ "Shirts in my Webshop"). Don’t earn much on it, doing it just for fun and to keep the costs of this site low.
 

@@ -53,7 +53,7 @@ asalah_custom_description:
 asalah_sidebar_position:
   - "0"
 categories:
-  - My Life
+  - Lifestyle
   - Tech
 ---
 Dit jaar is het jaar dat ik al 15 jaar lang een mobieltje in mijn zak heb.

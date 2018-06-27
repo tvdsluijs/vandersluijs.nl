@@ -7,7 +7,7 @@ date: '2017-07-09 06:25:16+00:00'
 publish_date: '2017-07-09 06:25:16+00:00'
 image:
   feature: 'https://vandersluijs.resultants-e/1*snWq_plHQNlM-A65kUknug.png'
-category: ['Agile', 'Scrum', 'Agility']
+category: ['Agile']
 tags: ['Agile', 'Scrum', 'Agility']
 ---
 Agile! Het is geweldig! Het gaat al je problemen in je bedrijf oplossen!

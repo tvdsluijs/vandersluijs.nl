@@ -27,7 +27,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5768624218"
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Canon
 ---

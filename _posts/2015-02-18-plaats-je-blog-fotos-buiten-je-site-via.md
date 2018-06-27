@@ -52,7 +52,7 @@ dsq_thread_id:
   - "5853232214"
 feature-img: https://vandersluijs.resultants-e.nl/2015/02/1424312906_blog_compose.png
 categories:
-  - Photography
+  - Fotografie
 ---
 <div class="separator" style="clear: both; text-align: left;">
   WordPress, Blogger, Ghost.org, Tumblr, SquareSpace, het zijn stuk voor stuk prima sites waar je je blog kan plaatsen. Je kan met sommige op je eigen server een blog beginnen maar ze bieden ook allemaal de optie om het bij hun in de cloud te doen.<br /> Hoe dan ook, services genoeg om je site / blog te starten! Maar pas op met plaatjes en foto&#8217;s!!<!--more--></p> 

@@ -24,7 +24,7 @@ hits:
   - "1067"
 feature-img: https://vandersluijs.resultants-e.nl/2009/01/pixel2.gif
 categories:
-  - My Life
+  - Lifestyle
 ---
 Until now it is going very well with the donations for my iMac. I started this  Donations for an iMac 8 days ago and until now I have gotten a nice amount of donations. The exact amount is    
 <a name="more"></a>  

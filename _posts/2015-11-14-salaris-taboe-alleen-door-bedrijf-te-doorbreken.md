@@ -37,7 +37,7 @@ dsq_thread_id:
 feature-img: https://vandersluijs.resultants-e.nl/2015/11/7183015604_f089b2c1ed_h-e1447363631451.jpg
 categories:
   - Grumpy
-  - My Life
+  - Lifestyle
 ---
 Jou salaris, zeg eens eerlijk. Wanneer heb je voor het laatst je salaris open en bloot besproken met vrienden, buren, collega&#8217;s of met familie?
 

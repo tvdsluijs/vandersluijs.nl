@@ -7,7 +7,7 @@ date: '2017-06-20 17:56:05+00:00'
 publish_date: '2017-06-20 17:56:05+00:00'
 image:
   feature: 'https://vandersluijs.resultants-e/1*RGMiFk43GguyiJHfyWrQ-g.jpeg'
-category: ['Future', 'AI', 'Self Driving Cars', 'Tesla']
+category: ['Tech']
 tags: ['Future', 'AI', 'Self Driving Cars', 'Tesla']
 ---
 

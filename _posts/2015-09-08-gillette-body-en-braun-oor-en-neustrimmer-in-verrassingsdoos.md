@@ -36,7 +36,7 @@ dsq_thread_id:
   - "5702752560"
 feature-img: https://vandersluijs.resultants-e.nl/2015/09/Theo-pleinshoppen.jpg
 categories:
-  - My Life
+  - Lifestyle
 ---
 Vandaag ontving ik van pleinshoppen een mooie doos. Ik wist natuurlijk al wat er in zat, maar het was toch spannend om open te maken.
 

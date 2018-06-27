@@ -60,3 +60,6 @@ Technische feitjes van Theo van der Sluijs
 *   2017     Chromebook Asus 14"
 *   2018     Vijfde Mac / Macbook Pro Touch 13"
 *   2018     Samsung Galaxy A8
+
+Vind je deze site leuk en wil je dat ik meer artikelen schrijf? Koop dan een kop koffie voor me! Bedankt!!
+<a href="https://www.buymeacoffee.com/itheo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Koop me een koffie" style="height: auto !important;width: auto !important;" ></a>

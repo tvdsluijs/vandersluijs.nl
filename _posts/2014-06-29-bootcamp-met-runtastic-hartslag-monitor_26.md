@@ -25,7 +25,7 @@ hits:
 dsq_thread_id:
   - "5717400008"
 categories:
-  - My Life
+  - Lifestyle
 ---
 ![Runtastic Hartslag monitor](https://vandersluijs.resultants-e/2014/Jun/runtastic_heart_reate.jpg)  
 Een tijdje was ik al op zoek naar een alles in één armband of horloge. Zo één die en GPS, pedometer, slaapmonitor en hartslag in zich had.

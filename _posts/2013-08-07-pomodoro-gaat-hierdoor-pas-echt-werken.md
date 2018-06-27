@@ -19,13 +19,13 @@ blogger_comments:
 blogger_permalink:
   - /2013/08/pomodoro-gaat-hierdoor-pas-echt-werken.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2013/08/pomodoro-technique-300x239.jpg
+  - https://vandersluijs.resultants-e.nl/2013/08/pomodoro-technique-300x239.jpg
 hits:
   - "1291"
 dsq_thread_id:
   - "6026258934"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <div style="clear: both; text-align: center;">
   <a href=https://vandersluijs.resultants-e.nl/2013/08/pomodoro-technique.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="159" src="https://vandersluijs.resultants-e.nl/2013/08/pomodoro-technique-300x239.jpg" width="200" /></a>

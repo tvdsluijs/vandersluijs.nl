@@ -44,7 +44,7 @@ dsq_thread_id:
   - "5767472467"
 feature-img: https://vandersluijs.resultants-e.nl/2016/05/omroepzeeland-1-825x510.jpg
 categories:
-  - My Life
+  - Lifestyle
 ---
 Daar zat ik dan&#8230; best wel zenuwachtig te wachten op de heren van Omroep Zeeland. Ze wilden een item over de Wifi problemen in Zeeland. Zo&#8217;n ander halve week geleden belden ze van Omroep Zeeland omdat ze er over zaten te denken om een item hierover te maken.
 

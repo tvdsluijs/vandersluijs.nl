@@ -39,7 +39,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5719816469"
 categories:
-  - Photography
+  - Fotografie
 ---
 Afgelopen zaterdag ben ik met Patrick s avonds op stap geweest om fotos te maken van autolichten. Een Nachtfotografie, Autolichten uitje zeg maar.
 

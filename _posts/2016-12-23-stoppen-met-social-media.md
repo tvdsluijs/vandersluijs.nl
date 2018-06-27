@@ -43,7 +43,7 @@ hits:
   - "487"
 feature-img: https://vandersluijs.resultants-e.nl/2016/12/Socialmedia-pm-825x510.png
 categories:
-  - My Life
+  - Lifestyle
 tags:
   - Social Media
 format: image

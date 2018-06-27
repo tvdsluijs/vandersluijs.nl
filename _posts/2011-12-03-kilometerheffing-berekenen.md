@@ -25,7 +25,7 @@ hits:
 dsq_thread_id:
   - "5760533306"
 categories:
-  - My Life
+  - Lifestyle
 ---
 ## Wat gaat auto rijden u eigenlijk kosten?
 

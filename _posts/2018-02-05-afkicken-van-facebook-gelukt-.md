@@ -8,7 +8,7 @@ image:
   feature: 'https://vandersluijs.resultants-e/1*SYe8Q9PajhrCDeL7UR5uGw.jpeg'
   credit: 'pixabay.com'
   creditlink:  'https://pixabay.com/en/twitter-facebook-together-292989/'
-category: ['Facebook', 'Social Media']
+category: ['Lifestyle']
 tags: ['Facebook', 'Social Media']
 ---
 Misschien wist je het nog niet maar facebook nog meer verslavend als de meeste

@@ -26,7 +26,7 @@ dsq_thread_id:
   - "6021395841"
 feature-img: https://vandersluijs.resultants-e.nl/2009/01/pixel1.gif
 categories:
-  - My Life
+  - Lifestyle
 ---
 So what do I really want ? As you know I am trying to get enough money to get a iMac.
 

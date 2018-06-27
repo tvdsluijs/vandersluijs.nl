@@ -50,7 +50,7 @@ dsq_thread_id:
   - "5831164522"
 feature-img: https://vandersluijs.resultants-e.nl/2015/02/33.jpg
 categories:
-  - My Life
+  - Lifestyle
 ---
 <div class="separator" style="clear: both; text-align: left;">
   Dan Brown, een schrijver van goede boeken&#8230; of niet? Ieder zal er wel zo zijn of haar mening over hebben. Dat is ook niet erg.

@@ -27,7 +27,7 @@ hits:
 dsq_thread_id:
   - "5700416222"
 categories:
-  - My Life
+  - Lifestyle
 ---
 > Listen, smile, agree, and then do whatever the fuck you were gonna do anyway
 

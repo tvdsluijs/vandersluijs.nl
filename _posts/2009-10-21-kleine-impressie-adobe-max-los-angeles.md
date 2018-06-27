@@ -35,7 +35,7 @@ wp_review_bordercolor:
 hits:
   - "1320"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Hier een kleine impressie van mijn trip naar Adobe Max 2009 en Los Angeles met mijn 2 Collega vrienden.
 

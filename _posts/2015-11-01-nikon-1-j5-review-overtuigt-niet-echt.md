@@ -53,7 +53,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5715751391"
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Camera
   - Nikon

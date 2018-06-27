@@ -39,7 +39,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "6004314535"
 categories:
-  - Photography
+  - Fotografie
   - Tech
 ---
 Tja…
@@ -58,4 +58,4 @@ Ook al heb ik nu de Canon D350 en een Peleng objectief.
 
 Ik zou zeggen, ga snel eens kijken of deze site, met echt geweldig mooie foto’s
 
-[www.wildthingsphotography.com](https://vandersluijs.resultants-e/2014/01/www.wildthingsphotography.com)
+[www.wildthingsFotografie.com](https://vandersluijs.resultants-e/2014/01/www.wildthingsFotografie.com)

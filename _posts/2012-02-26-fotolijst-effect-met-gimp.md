@@ -39,7 +39,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5708270363"
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Gimp
 ---

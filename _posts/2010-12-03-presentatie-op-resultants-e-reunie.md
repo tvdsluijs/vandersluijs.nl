@@ -23,7 +23,7 @@ hits:
 dsq_thread_id:
   - "6030722425"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Gisteren ben ik naar rotterdam gereden om een gezellig dagje met ex-collega’s van Resultants-e te beleven.
 

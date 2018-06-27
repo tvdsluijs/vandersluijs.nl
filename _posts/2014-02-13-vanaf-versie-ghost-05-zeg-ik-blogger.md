@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/02/vanaf-versie-ghost-05-zeg-ik-blogger.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2014/02/import_tool_PNG.png
+  - https://vandersluijs.resultants-e.nl/2014/02/import_tool_PNG.png
 hits:
   - "1542"
 itrr_another_apply:

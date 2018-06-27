@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "1379"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Yes, and his english is very well! &#8220;Sank you Brittish! I&#8217;m True I&#8217;m True!&#8221;
 

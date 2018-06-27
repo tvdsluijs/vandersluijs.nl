@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2013/01/youless-leuk-maar-wat-weet-je-nu-precies.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2013/01/energie_verbruik-300x201.png
+  - https://vandersluijs.resultants-e.nl/2013/01/energie_verbruik-300x201.png
 hits:
   - "1016"
 itrr_another_apply:

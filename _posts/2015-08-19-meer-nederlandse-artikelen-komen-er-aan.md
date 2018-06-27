@@ -23,7 +23,7 @@ wp_review_bordercolor:
 hits:
   - "500"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Al een tijdje blog ik hier in zowel het Engels als het Nederlands! Veel ICT gerelateerde zaken schreef ik vooral in het Engels!<!--more-->
 

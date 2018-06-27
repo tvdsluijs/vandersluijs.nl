@@ -39,7 +39,7 @@ hits:
 dsq_thread_id:
   - "5907466944"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Laatst zat ik op een website te lezen dat alle apparaten die in standby mode staan nogal wat watt verbruiken.
 

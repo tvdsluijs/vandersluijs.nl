@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/01/van-md5-naar-veilige-versleuteling.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2014/01/34164244_d529aee319_m.jpg
+  - https://vandersluijs.resultants-e.nl/2014/01/34164244_d529aee319_m.jpg
 hits:
   - "1740"
 itrr_another_apply:

@@ -46,7 +46,7 @@ dsq_thread_id:
   - "5740303139"
 feature-img: https://vandersluijs.resultants-e.nl/2016/02/25232433286_0f602ac9f5_o-e1457639810425-825x465.jpg
 categories:
-  - Photography
+  - Fotografie
   - Tech
 tags:
   - iPhone

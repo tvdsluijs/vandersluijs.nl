@@ -11,7 +11,7 @@ hits:
 dsq_thread_id:
   - "5820151032"
 categories:
-  - My Life
+  - Lifestyle
 tags:
   - iPhone
 ---

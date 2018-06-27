@@ -19,11 +19,11 @@ blogger_comments:
 blogger_permalink:
   - /2013/06/why-i-leaving-foursquare-and-why-i.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2013/06/foursquare.jpg
+  - https://vandersluijs.resultants-e.nl/2013/06/foursquare.jpg
 hits:
   - "1874"
 categories:
-  - My Life
+  - Lifestyle
 tags:
   - Social Media
 ---

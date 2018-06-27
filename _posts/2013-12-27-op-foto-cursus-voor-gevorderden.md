@@ -39,7 +39,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5898796951"
 categories:
-  - Photography
+  - Fotografie
 ---
 Sinds kort zit ik op de Cursus “Fotografie voor gevorderden” bij Ludwig van Hooren .
 

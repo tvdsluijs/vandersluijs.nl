@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "496"
 categories:
-  - My Life
+  - Lifestyle
 ---
 David Guetta met Memories, niet alleen het nummer is super.
 

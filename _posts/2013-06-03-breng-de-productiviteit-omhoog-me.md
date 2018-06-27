@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "547"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Een werkplek is een plek waar je zo&#8217;n 45 jaar, 47 weken per jaar, 5 dagen per week, 40 uur per week,  8 uur per dag doorbrengt. Dat is per leven gemiddeld zo&#8217;n 80.000 uur.
 

@@ -34,7 +34,7 @@ hits:
   - "595"
 feature-img: https://vandersluijs.resultants-e.nl/2015/11/16821448686_7346aa4abd_b-e1448398519994.jpg
 categories:
-  - My Life
+  - Lifestyle
 ---
 Via facebook las ik het blog artikel van <a href="http://bjarnvidar.nl/elke-dag-bloggen/" target="_blank">Bjarne-Vidar</a> over het feit dat hij tot het einde van het jaar iedere werkdag ging bloggen!
 

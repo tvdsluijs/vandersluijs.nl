@@ -42,7 +42,7 @@ dsq_thread_id:
   - "5700712359"
 feature-img: https://vandersluijs.resultants-e.nl/2016/04/20160416_0858210-825x510.jpg
 categories:
-  - My Life
+  - Lifestyle
 format: image
 ---
 Kooos, vlooien!!! Riep Mien Dobbelsteen jaren geleden op de radio! Nou zal ik je wat zeggen? Ze heeft gelijk! Want de vlooien en teken tijd is weer aangebroken! En dat betekent dat je er snel bij moet zijn met de vlooien & teken druppels!

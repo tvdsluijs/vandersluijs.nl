@@ -22,7 +22,7 @@ blogger_permalink:
 hits:
   - "749"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Wow… mijn site doet het goed…. te goed eigenlijk.
 

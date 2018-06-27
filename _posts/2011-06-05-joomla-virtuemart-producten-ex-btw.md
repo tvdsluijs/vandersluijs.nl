@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2011/06/joomla-virtuemart-producten-ex-btw.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2011/06/600px-Virtuemart_logo-300x239.png
+  - https://vandersluijs.resultants-e.nl/2011/06/600px-Virtuemart_logo-300x239.png
 hits:
   - "711"
 itrr_another_apply:

@@ -44,7 +44,7 @@ dsq_thread_id:
   - "5725875145"
 feature-img: https://vandersluijs.resultants-e.nl/2016/03/mymuesli-e1457620813380-1200x501.jpg
 categories:
-  - My Life
+  - Lifestyle
 ---
 MyMuesli, ik eet het ivm gezonder ontbijten al wat langer. Ik heb door de maanden heen al redelijk wat Muesli&#8217;s gegeten van MyMuesli en ik heb daarover ook al diverse reviews geschreven op deze en op mijn <a href="http://40enfit.nl" target="_blank">40enfit.nl</a> site. Die reviews waren allemaal prima want tot voor kort vond ik alle smaken lekker. Maar nu heb ik er eentje &#8230;. de Matcha-Muesli&#8230;. die is echt niet te doen!
 

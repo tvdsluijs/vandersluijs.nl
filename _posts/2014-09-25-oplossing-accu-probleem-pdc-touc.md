@@ -39,7 +39,7 @@ hits:
 dsq_thread_id:
   - "5700415760"
 categories:
-  - My Life
+  - Lifestyle
 tags:
   - Console
 ---

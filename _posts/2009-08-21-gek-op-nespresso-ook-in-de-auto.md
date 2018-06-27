@@ -23,7 +23,7 @@ hits:
 dsq_thread_id:
   - "5700568543"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Ik hou nogal van een nespresso-tje op zijn tijd. Als ik thuis werk dan tik ik aardig wat Nespresso’s weg.
 

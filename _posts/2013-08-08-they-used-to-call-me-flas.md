@@ -19,11 +19,11 @@ blogger_comments:
 blogger_permalink:
   - /2013/08/they-used-to-call-me-flash.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2013/08/theo_van_der_sluijs_the_flash-300x143.png
+  - https://vandersluijs.resultants-e.nl/2013/08/theo_van_der_sluijs_the_flash-300x143.png
 hits:
   - "800"
 categories:
-  - My Life
+  - Lifestyle
   - Tech
 ---
 Sorry, image in dutch text only!

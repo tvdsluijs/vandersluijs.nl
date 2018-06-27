@@ -23,7 +23,7 @@ hits:
 dsq_thread_id:
   - "5713308131"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Een paar weken geleden kreeg (dat wil zeggen mijn eigen bedrijfje) een brief op de deurmat met de vraag of ik even 600 euro wilde over maken omdat ik blijkbaar een foto had gebruikt op mijn site van een partij waarop copyrights zouden rusten.
 

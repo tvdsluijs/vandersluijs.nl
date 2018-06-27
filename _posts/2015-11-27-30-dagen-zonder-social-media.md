@@ -36,7 +36,7 @@ dsq_thread_id:
   - "5700416009"
 feature-img: https://vandersluijs.resultants-e.nl/2015/11/social_media-e1449262641636.jpg
 categories:
-  - My Life
+  - Lifestyle
 tags:
   - GTD
   - Social Media

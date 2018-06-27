@@ -44,7 +44,7 @@ hits:
 dsq_thread_id:
   - "5892206793"
 categories:
-  - My Life
+  - Lifestyle
 tags:
   - Social Media
 ---

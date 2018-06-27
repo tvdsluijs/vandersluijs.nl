@@ -35,7 +35,7 @@ wp_review_bordercolor:
 hits:
   - "1451"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Here&#8217;s a small impression of my (and my collegue friends) trip to Adobe Max 2009 & LA.
 

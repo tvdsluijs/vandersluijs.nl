@@ -19,13 +19,13 @@ blogger_comments:
 blogger_permalink:
   - /2013/06/work-locally-fast-on-mounted-drive-in.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2013/06/network_mounted_directory_may_be_slow_phpstorm-300x37-300x37.png
+  - https://vandersluijs.resultants-e.nl/2013/06/network_mounted_directory_may_be_slow_phpstorm-300x37-300x37.png
 hits:
   - "2131"
 dsq_thread_id:
   - "5701004594"
 categories:
-  - My Life
+  - Lifestyle
 ---
 So you&#8217;ve got a big project you&#8217;re working on and got a good development environment and your IDE handles stuff through a mounted drive!
 

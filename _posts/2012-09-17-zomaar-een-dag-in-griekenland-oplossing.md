@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "1327"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Het is een mooie onbewolkte dag in een klein Grieks dorpje. De straten zijn leeg, de enige   
 beweging komt van overscherende zwaluwen en de zon die de lucht boven het gescheurde   

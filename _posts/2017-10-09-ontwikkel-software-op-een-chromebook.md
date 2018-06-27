@@ -8,7 +8,7 @@ image:
   feature: 'https://vandersluijs.resultants-e/1*nyoIG-yq4D5ci0dnXsIqIA.jpeg'
   credit: 'Kaboompics // Karolina'
   creditlink:  'https://www.pexels.com/u/kaboompics/'
-category: ['Chromebook', 'MacBook', 'Developer', 'Developing']
+category: ['Coding']
 tags: ['Chromebook', 'MacBook', 'Developer', 'Developing']
 ---
 Dus je wilt ontwikkelen maar hebt geen geld voor een Macbook…. zo iets als ik…

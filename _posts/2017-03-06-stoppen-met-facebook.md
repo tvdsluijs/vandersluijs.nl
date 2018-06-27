@@ -44,7 +44,7 @@ hits:
 dsq_thread_id:
   - "5890731374"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <section class="gh-view"> <section id="ember2579" class="ember-view view-container view-editor"> <section class="entry-preview js-entry-preview "> <section class="entry-preview-content js-entry-preview-content"> 
 

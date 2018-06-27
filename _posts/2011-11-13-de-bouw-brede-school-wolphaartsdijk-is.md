@@ -23,6 +23,6 @@ hits:
 dsq_thread_id:
   - "6166965103"
 categories:
-  - My Life
+  - Lifestyle
 ---
 De Ichthusschool en de Achthoek gaan in de toekomst één gebouw delen met Kinderopvang de Bevelanden.

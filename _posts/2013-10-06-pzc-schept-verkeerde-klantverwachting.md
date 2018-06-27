@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2013/10/pzc-schept-verkeerde-klantverwachting.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2013/10/pcz_klant_verwachting.png
+  - https://vandersluijs.resultants-e.nl/2013/10/pcz_klant_verwachting.png
 hits:
   - "798"
 categories:

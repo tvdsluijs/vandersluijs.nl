@@ -29,7 +29,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5713315214"
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Lightroom
 ---

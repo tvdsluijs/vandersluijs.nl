@@ -34,7 +34,7 @@ dsq_thread_id:
   - "5712250963"
 feature-img: https://vandersluijs.resultants-e.nl/2016/02/25238558425_27ee1c9977_o-825x510.jpg
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Vloggen
 ---

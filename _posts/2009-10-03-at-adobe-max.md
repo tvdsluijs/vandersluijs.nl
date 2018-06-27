@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "1109"
 categories:
-  - My Life
+  - Lifestyle
 ---
 So, let&#8217;s put a quick 2 days here.
 

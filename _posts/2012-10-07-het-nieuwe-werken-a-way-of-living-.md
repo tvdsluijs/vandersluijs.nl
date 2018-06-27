@@ -5,8 +5,8 @@ title: 'Het nieuwe werken, a way of living!'
 slug: 'het-nieuwe-werken-a-way-of-living-'
 date: '2012-10-07 11:53'
 publish_date: '2012-10-07 11:53'
-category: ['Agile', 'Nieuwe Werken']
-tags: ['Agile', 'Nieuwe Werken']
+category: ['Agile']
+tags: ['Agile']
 ---
 Toen ik een paar dagen geleden de blog post “[Het nieuwe werken moet van twee
 kanten komen](https://www.vandersluijs.nl/2012/10/het-nieuwe-werken-moet-van-twee-

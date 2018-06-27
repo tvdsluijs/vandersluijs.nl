@@ -39,7 +39,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5719521291"
 categories:
-  - Photography
+  - Fotografie
 ---
 Tja je zal denken.. foto verkocht ?
 

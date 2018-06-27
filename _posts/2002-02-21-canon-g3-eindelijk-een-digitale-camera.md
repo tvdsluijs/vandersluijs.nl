@@ -40,7 +40,7 @@ dsq_thread_id:
   - "5821496035"
 feature-img: https://vandersluijs.resultants-e.nl/2016/01/IMG_2467.jpg
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Camera
   - Canon

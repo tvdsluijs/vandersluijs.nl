@@ -23,7 +23,7 @@ blogger_permalink:
 hits:
   - "1198"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <div>
 </div>

@@ -56,7 +56,7 @@ dsq_thread_id:
   - "5701767410"
 feature-img: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
 categories:
-  - My Life
+  - Lifestyle
 ---
 <img class="alignleft size-thumbnail wp-image-2545" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_3274-150x150.jpg" alt="silvana support kussen ergonomisch" width="150" height="150" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_3274-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3274-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />Mijn Ergonomisch Kussen van Tempur was na zo&#8217;n 3 jaar echt aan vervanging toe! Die had ik overigens al na 1 of 2 jaar moeten vervangen maar ik was dus aan een nieuw kussen toe. Gelukkig was Silvana zo aardig om me een Silvana  kussen toe te sturen, het Silvana Support Fluorine kussen wel te verstaan.
 

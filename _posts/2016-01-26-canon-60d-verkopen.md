@@ -27,7 +27,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5785299272"
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Canon
   - Tamron

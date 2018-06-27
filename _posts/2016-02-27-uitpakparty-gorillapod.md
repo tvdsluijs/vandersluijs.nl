@@ -31,7 +31,7 @@ hits:
 itrr_another_apply:
   - 'no'
 categories:
-  - Photography
+  - Fotografie
   - Tech
 format: video
 ---

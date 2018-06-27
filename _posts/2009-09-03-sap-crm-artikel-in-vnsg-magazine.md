@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "1411"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Van de week vertelde een collega mij dat ik in het VNSG stond .
 

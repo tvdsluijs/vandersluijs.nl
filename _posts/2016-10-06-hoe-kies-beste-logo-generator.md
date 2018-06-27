@@ -44,7 +44,7 @@ dsq_thread_id:
   - "5707760928"
 feature-img: https://vandersluijs.resultants-e.nl/2016/10/Picture1-825x494.png
 categories:
-  - My Life
+  - Lifestyle
 format: image
 ---
 Op een dag krijg je een geweldige ingeving, een idee waarvan je niet denkt, maar wéét dat het een succesvolle business kan opleveren. Je stopt waar je mee bezig bent en rent naar je laptop en begint te werken. Je plan verloopt op stelten, en op een gegeven moment kom je bij een cruciale keuze, hoe ga je jouw logo maken? Huur je een logo designer in en [waar moet je nu opletten](http://www.startersinformatiecentrum.nl/logo-en-huisstijl-waar-moet-je-op-letten/)? Of maak je er zelf één of ga je gebruik maken een logogenerator?

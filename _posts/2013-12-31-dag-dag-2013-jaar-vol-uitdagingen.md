@@ -19,13 +19,13 @@ blogger_comments:
 blogger_permalink:
   - /2013/12/dag-dag-2013-jaar-vol-uitdagingen.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2013/12/11611784853_148d484536_m.jpg
+  - https://vandersluijs.resultants-e.nl/2013/12/11611784853_148d484536_m.jpg
 hits:
   - "1095"
 dsq_thread_id:
   - "6489672088"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <table cellpadding="0" cellspacing="0" style="float: left; margin-right: 1em; text-align: left;">
   <tr>

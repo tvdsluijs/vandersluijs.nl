@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2010/12/twitter-friends-followers-plus.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2010/12/compat_15_native.png
+  - https://vandersluijs.resultants-e.nl/2010/12/compat_15_native.png
 hits:
   - "476"
 itrr_another_apply:

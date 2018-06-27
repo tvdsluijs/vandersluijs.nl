@@ -45,7 +45,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "6100326179"
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Camera
 ---

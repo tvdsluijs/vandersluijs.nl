@@ -36,7 +36,7 @@ dsq_thread_id:
   - "5700416160"
 feature-img: https://vandersluijs.resultants-e.nl/2015/10/popcorn_time_wallpaper____blue_space__by_chrisfr06-d8g5x2a-e1445404373485.png
 categories:
-  - My Life
+  - Lifestyle
 ---
 Van de week had ik een discussie op internet met iemand of het gebruik (en dan met name het verspreiden van films) van popcorn time illegaal was.
 

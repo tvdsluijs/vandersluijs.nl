@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "1134"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Een eitje pellen…. tja hoe lang doe je daar eigenlijk over …. 
 

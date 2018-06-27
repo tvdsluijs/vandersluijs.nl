@@ -39,7 +39,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5710209837"
 categories:
-  - Photography
+  - Fotografie
 ---
 Heb je dat ook wel eens gezien ?
 

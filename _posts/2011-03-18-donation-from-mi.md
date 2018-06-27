@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "1438"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Well, I think many people will not know MIT.   
 Even worse! Some of my colleagues did not know what MIT was until we told them what MIT was. The Massachusetts Institute of Technology (MIT) is one of the most prestigioustechnical universities in the  world. The Institute is located in Cambridge(Massachusetts) and has about 10,000 students.<a name="more"></a>What has been invented at MIT. 

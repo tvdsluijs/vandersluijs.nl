@@ -19,11 +19,11 @@ blogger_comments:
 blogger_permalink:
   - /2012/10/een-taart-momentje.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/10/photo-300x225.jpg
+  - https://vandersluijs.resultants-e.nl/2012/10/photo-300x225.jpg
 hits:
   - "458"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <div>
   Een Taart momentje van het Bax-shop.nl Development Team.

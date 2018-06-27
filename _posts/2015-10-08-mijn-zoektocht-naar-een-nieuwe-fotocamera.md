@@ -37,7 +37,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5852102951"
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Camera
   - Canon
@@ -84,7 +84,7 @@ Zo heeft:
   * <a href=https://vandersluijs.resultants-e.nl/2015/10/cameras" target="_blank">Canon</a> zijn Canon EOS M3
   * <a href=https://vandersluijs.resultants-e.nl/2015/10/lumix-g-systeemcameras.html" target="_blank">Panasonic</a> de Lumix G serie of DMG GM serie camera&#8217;s
   * <a href=https://vandersluijs.resultants-e.nl/2015/10/cameras1" target="_blank">Sony</a> de α5xxx en α6xxx reeks
-  * <a href="http://www.samsung.com/nl/consumer/photography/photo-camera" target="_blank">Samsung</a> heeft bijvoorbeeld de NX500
+  * <a href="http://www.samsung.com/nl/consumer/Fotografie/photo-camera" target="_blank">Samsung</a> heeft bijvoorbeeld de NX500
   * en de <a href=https://vandersluijs.resultants-e.nl/2015/10/nikon-1-j5" target="_blank">Nikon</a> heeft de 1 J5
 
 De komende weken laat ik je weten hoe mijn zoektocht gaat naar de camera die mij weer gelukkig maakt bij het maken van foto&#8217;s.

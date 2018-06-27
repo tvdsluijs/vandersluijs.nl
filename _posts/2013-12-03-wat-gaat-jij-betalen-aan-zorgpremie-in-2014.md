@@ -23,7 +23,7 @@ wp_review_bordercolor:
 hits:
   - "2493"
 categories:
-  - My Life
+  - Lifestyle
 ---
 ## Kijk hoeveel zorgpremie jij moet betalen!
 

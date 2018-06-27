@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "1570"
 categories:
-  - My Life
+  - Lifestyle
 tags:
   - Wordpress
 ---

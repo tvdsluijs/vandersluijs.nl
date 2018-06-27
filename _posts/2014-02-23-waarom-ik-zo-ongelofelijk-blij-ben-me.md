@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2014/02/waarom-ik-zo-ongelofelijk-blij-ben-met.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2014/02/ptt_tango.jpg
+  - https://vandersluijs.resultants-e.nl/2014/02/ptt_tango.jpg
 hits:
   - "1528"
 dsq_thread_id:

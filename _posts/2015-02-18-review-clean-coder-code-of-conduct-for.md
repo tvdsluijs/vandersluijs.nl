@@ -50,7 +50,7 @@ dsq_thread_id:
   - "5737659824"
 feature-img: https://vandersluijs.resultants-e.nl/2015/02/1001004011427023.jpg
 categories:
-  - My Life
+  - Lifestyle
   - Tech
 ---
 <div>

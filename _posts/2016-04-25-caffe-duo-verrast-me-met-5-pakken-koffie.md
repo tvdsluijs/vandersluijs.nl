@@ -42,7 +42,7 @@ dsq_thread_id:
   - "5737861928"
 feature-img: https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-11-1-825x510.jpg
 categories:
-  - My Life
+  - Lifestyle
 tags:
   - Koffie
 format: image

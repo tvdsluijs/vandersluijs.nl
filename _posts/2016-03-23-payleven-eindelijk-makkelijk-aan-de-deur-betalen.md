@@ -32,7 +32,7 @@ dsq_thread_id:
   - "5900134444"
 feature-img: https://vandersluijs.resultants-e.nl/2016/03/payleven-pagamento-web-825x300.jpg
 categories:
-  - My Life
+  - Lifestyle
 ---
 Laatst stond er een PostNL medewerker voor de deur. &#8220;Ik heb hier pakket voor u meneer, echter moet u nog 18 euro douane kosten betalen. Contant aub&#8221;. Okay&#8230; dat was een uitdaging, want ik wilde dat pakketje hebben, maar ik had voor nog geen 10 cent los in huis.
 

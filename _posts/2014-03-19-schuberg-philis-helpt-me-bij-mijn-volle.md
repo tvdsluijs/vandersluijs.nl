@@ -19,11 +19,11 @@ blogger_comments:
 blogger_permalink:
   - /2014/03/schuberg-philis-helpt-me-bij-mijn-volle.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2014/03/moleskine.jpg
+  - https://vandersluijs.resultants-e.nl/2014/03/moleskine.jpg
 hits:
   - "495"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <div style="clear: both; text-align: center;">
   <a href=https://vandersluijs.resultants-e.nl/2014/03/moleskine.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.resultants-e.nl/2014/03/moleskine.jpg" height="200" width="200" /></a>

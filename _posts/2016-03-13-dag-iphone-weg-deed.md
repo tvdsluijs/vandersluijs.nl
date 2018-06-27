@@ -32,7 +32,7 @@ dsq_thread_id:
   - "5709544058"
 feature-img: https://vandersluijs.resultants-e.nl/2016/03/iphone5s-banner-825x460.png
 categories:
-  - My Life
+  - Lifestyle
 tags:
   - Apple
   - iPhone

@@ -19,13 +19,13 @@ blogger_comments:
 blogger_permalink:
   - /2012/04/nog-slimmer.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/04/tumblr_m33hamoZWQ1rpqrb1o1_1280-300x300.jpg
+  - https://vandersluijs.resultants-e.nl/2012/04/tumblr_m33hamoZWQ1rpqrb1o1_1280-300x300.jpg
 hits:
   - "448"
 dsq_thread_id:
   - "1213222860"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <div>
   <img alt="" src="https://vandersluijs.resultants-e.nl/2012/04/tumblr_m33hamoZWQ1rpqrb1o1_1280-300x300.jpg" />

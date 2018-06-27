@@ -23,7 +23,7 @@ hits:
 dsq_thread_id:
   - "6475629318"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Yes, the blog is back!
 

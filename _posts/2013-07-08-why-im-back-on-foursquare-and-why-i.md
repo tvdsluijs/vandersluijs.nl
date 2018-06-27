@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "511"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Okay, I&#8217;ll be honest! I missed Foursquare! I deleted my account a couple of weeks ago. I really did! (read : [Why I’m leaving Foursquare, and why I’m happy about it.](https://www.vandersluijs.nl/2013/06/why-im-leaving-foursquare-and-why-im-happy-about-it.html "Why I’m leaving Foursquare, and why I’m happy about it."))
 

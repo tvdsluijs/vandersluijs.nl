@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2012/10/kopieerheffing-gaat-erg-ver-maar-kan-ik.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/10/kopieerheffing-300x193.jpg
+  - https://vandersluijs.resultants-e.nl/2012/10/kopieerheffing-300x193.jpg
 hits:
   - "472"
 categories:

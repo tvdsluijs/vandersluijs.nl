@@ -19,13 +19,13 @@ blogger_comments:
 blogger_permalink:
   - /2014/03/hoe-mijn-nieuwe-boek-een-hit-werd-maar.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2014/03/theo_van_der_sluijs_boek.jpg
+  - https://vandersluijs.resultants-e.nl/2014/03/theo_van_der_sluijs_boek.jpg
 hits:
   - "441"
 dsq_thread_id:
   - "5704203877"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <div style="clear: both; text-align: center;">
   <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href=https://vandersluijs.resultants-e.nl/2014/03/theo_van_der_sluijs_boek.jpg"><img src="https://vandersluijs.resultants-e.nl/2014/03/theo_van_der_sluijs_boek.jpg" alt="" width="200" height="142" border="0" /></a>

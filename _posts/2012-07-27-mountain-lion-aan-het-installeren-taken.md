@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2012/07/mountain-lion-aan-het-installeren-taken.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2012/07/tumblr_m7tybjRuLB1rpqrb1o1_1280-300x300.jpg
+  - https://vandersluijs.resultants-e.nl/2012/07/tumblr_m7tybjRuLB1rpqrb1o1_1280-300x300.jpg
 hits:
   - "527"
 itrr_another_apply:

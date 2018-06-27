@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "1119"
 categories:
-  - My Life
+  - Lifestyle
 ---
 Ja! Mijn blog is terug van weggeweest.
 

@@ -7,7 +7,7 @@ date: '2017-08-31 20:04:22.459000+00:00'
 publish_date: '2017-08-31 20:04:22.459000+00:00'
 image:
   feature: 'https://vandersluijs.resultants-e/1*_UI1YYXp2vby2qdgUKcsyA.jpeg'
-category: ['Apple', 'Chromebook', 'Development', 'PHP']
+category: ['Coding']
 tags: ['Apple', 'Chromebook', 'Development', 'PHP']
 ---
 Zoals je wellicht hebt kunnen lezen heb ik mijn baan opgezegd en moest ik

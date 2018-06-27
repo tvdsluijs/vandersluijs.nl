@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2013/05/endorsements-on-linkedin-are-sham.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2013/05/linkedin_endorsements-300x225-300x225.jpg
+  - https://vandersluijs.resultants-e.nl/2013/05/linkedin_endorsements-300x225-300x225.jpg
 hits:
   - "472"
 categories:

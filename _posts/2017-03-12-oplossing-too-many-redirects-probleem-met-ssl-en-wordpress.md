@@ -7,7 +7,7 @@ date: '2017-03-12 13:06:57+00:00'
 publish_date: '2017-03-12 13:06:57+00:00'
 image:
   feature: 'https://vandersluijs.resultants-e/1*eqxgrhVHH0GE6TRVa3mPeg.jpeg'
-category: ['Tech', 'WordPress', 'Https', 'Ssl Certificate', 'Coding']
+category: ['Tech']
 tags: ['Tech', 'WordPress', 'Https', 'Ssl Certificate', 'Coding']
 ---
 Dus je wilt eindelijke een veilige Wordpress omgeving! Je hebt netjes een

@@ -37,7 +37,7 @@ hits:
 itrr_another_apply:
   - 'no'
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Adobe
   - Lightroom

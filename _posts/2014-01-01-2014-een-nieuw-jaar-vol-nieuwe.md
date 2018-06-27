@@ -19,11 +19,11 @@ blogger_comments:
 blogger_permalink:
   - /2014/01/2014-een-nieuw-jaar-vol-nieuwe.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2014/01/11178388835_b7d56ea6c9_m.jpg
+  - https://vandersluijs.resultants-e.nl/2014/01/11178388835_b7d56ea6c9_m.jpg
 hits:
   - "952"
 categories:
-  - My Life
+  - Lifestyle
 ---
 <table cellpadding="0" cellspacing="0" style="float: left; margin-right: 1em;">
   <tr>

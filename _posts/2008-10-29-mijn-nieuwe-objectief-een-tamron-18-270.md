@@ -27,7 +27,7 @@ itrr_another_apply:
 dsq_thread_id:
   - "5840000048"
 categories:
-  - Photography
+  - Fotografie
 tags:
   - Tamron
 ---

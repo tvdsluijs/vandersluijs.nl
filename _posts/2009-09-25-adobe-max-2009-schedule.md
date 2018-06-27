@@ -21,7 +21,7 @@ blogger_permalink:
 hits:
   - "567"
 categories:
-  - My Life
+  - Lifestyle
 ---
 The **Adobe MAX** is a large annual event held by [Adobe Systems](http://en.wikipedia.org/wiki/Adobe_Systems) in [North America](http://en.wikipedia.org/wiki/North_America), [Europe](http://en.wikipedia.org/wiki/Europe) and [Japan](http://en.wikipedia.org/wiki/Japan). The purpose of the event is to provide unique opportunities for those in the [computer design](http://en.wikipedia.org/wiki/Computer_design) and development industries to connect and learn the latest cutting-edge technologies that Adobe releases. The event also announces the winners of Adobe&#8217;s highest honor, the [Adobe MAX Award](http://en.wikipedia.org/w/index.php?title=Adobe_MAX_Award&action=edit&redlink=1). There are 6 MAX Award winners from 6 different categories: 
 

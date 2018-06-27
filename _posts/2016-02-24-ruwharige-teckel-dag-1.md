@@ -32,7 +32,7 @@ dsq_thread_id:
   - "5720156359"
 feature-img: https://vandersluijs.resultants-e.nl/2016/02/IMG_3136-e1456304961732-825x501.jpg
 categories:
-  - My Life
+  - Lifestyle
 tags:
   - Teckel
 ---

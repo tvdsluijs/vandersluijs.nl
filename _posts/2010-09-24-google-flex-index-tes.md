@@ -19,7 +19,7 @@ blogger_comments:
 blogger_permalink:
   - /2010/09/google-flex-index-test.html
 blogger_thumbnail:
-  - http://blog.theovandersluijs.nl/wp-content/uploads/2010/09/get_flash_player.gif
+  - https://vandersluijs.resultants-e.nl/2010/09/get_flash_player.gif
 hits:
   - "597"
 itrr_another_apply:
