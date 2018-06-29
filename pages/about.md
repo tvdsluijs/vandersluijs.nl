@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Over
 permalink: /over-theo-van-der-sluijs/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]

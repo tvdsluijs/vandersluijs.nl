@@ -208,7 +208,7 @@ The page layout have a bit more features explained here.
 ```yml
 ---
 layout: page
-title: "About"
+title: "Over"
 subtitle: "This is a subtitle"
 feature-img: "assets/img/sample.png"
 permalink: /about.html               # Set a permalink your your page
