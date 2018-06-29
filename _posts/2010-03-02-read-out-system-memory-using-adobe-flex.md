@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Read out system memory using Adobe Flex'
 slug: 'read-out-system-memory-using-adobe-flex'
 date: '2010-03-02 19:15'

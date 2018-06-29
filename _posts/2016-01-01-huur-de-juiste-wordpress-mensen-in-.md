@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Huur de juiste Wordpress mensen in!'
 slug: 'huur-de-juiste-wordpress-mensen-in-'
 date: '2016-01-01 22:56'
@@ -18,7 +18,7 @@ Wordpress maar eigenlijk geen idee hebben wat ze aan het doen zijn.
 Dat is niet erg, als je niet weet wat je aan het doen bent, maar probeer
 jezelf dan niet te verkopen als Wordpress kenner of Wordpress / Site
 marketeer.
-< !--more -->
+<!--more-->
 Het ergste voorbeeld was van de week toen een “Wordpress” kenner me vroeg om
 te kijken naar een htaccess bestand dat was aangepast om zo slechte bots
 buiten de deur te houden.

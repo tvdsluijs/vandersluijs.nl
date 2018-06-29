@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Hoe blijft je als Manager bij, een ICT managers verhaal'
 slug: 'hoe-blijft-je-als-manager-bij-een-ict-managers-verhaal'
 date: '2012-10-12 22:10'

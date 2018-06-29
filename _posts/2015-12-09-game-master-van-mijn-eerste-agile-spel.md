@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Game Master van mijn eerste Agile spel'
 slug: 'game-master-van-mijn-eerste-agile-spel'
 date: '2015-12-09 20:00:23+00:00'
@@ -12,7 +12,7 @@ Sinds een kleine 2 maanden is de mindset binnen het bedrijf waar ik werk
 steeds meer en meer Agile aan het worden. Ik zit hier bij in het Agile
 Transformatie of Agile Enabling team om mee te helpen het bedrijf Agile minded
 te maken en daarbij waren ze toe aan een Agile Spel.
-< !--more -->
+<!--more-->
 Natuurlijk is de IT afdeling, waar ik ICT Enabler van ben, al lang Agile
 minded en gebruiken we SCRUM met veel plezier en goede resultaten, maar ik
 merkte dat de rest van het bedrijf eigenlijk ook Agile minded moet zijn. Ten

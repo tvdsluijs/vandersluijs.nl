@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Ik ben Pomodoro Master (al een tijdje!)'
 slug: 'ik-ben-pomodoro-master-al-een-tijdje-'
 date: '2013-01-16 21:10'

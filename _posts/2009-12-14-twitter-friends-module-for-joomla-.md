@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Twitter Friends Module for Joomla!'
 slug: 'twitter-friends-module-for-joomla-'
 date: '2009-12-14 20:30'

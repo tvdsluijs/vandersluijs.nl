@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex Auto Select Combobox'
 slug: 'flex-auto-select-combobox'
 date: '2009-02-13 13:00'

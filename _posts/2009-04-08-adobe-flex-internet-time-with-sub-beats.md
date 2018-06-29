@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Adobe Flex Internet Time with Sub Beats'
 slug: 'adobe-flex-internet-time-with-sub-beats'
 date: '2009-04-08 21:43'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Easy Joomla! Site Verification'
 slug: 'easy-joomla-site-verification'
 date: '2009-10-28 07:00'

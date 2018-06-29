@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'R Image Rotator Plus'
 slug: 'r-image-rotator-plus'
 date: '2010-07-23 22:43'

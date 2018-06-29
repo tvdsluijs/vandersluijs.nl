@@ -2,7 +2,7 @@
 id: 4304
 title: Gratis software die het leven gemakkelijk maakt
 date: 2017-05-27T15:13:53+00:00
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 author: Theo van der Sluijs
 layout: post
 guid: https://www.vandersluijs.nl/?p=4304
@@ -50,7 +50,7 @@ format: image
 ---
 <span lang="FR">Op deze site ben je vast gewend dat alle software zelf wordt gebakken, maar vaak is het echt niet nodig om zelf het wiel uit te vinden. Er zijn diverse gratis tools, die ook legaal zijn, dus doe er je voordeel mee.<br /> Hieronder een lijstje met mijn favorieten.</span>
 
-< !--more -->
+<!--more-->
 
 **<span lang="FR">Gratis virusscanner: onontbeerlijk</span>**
 

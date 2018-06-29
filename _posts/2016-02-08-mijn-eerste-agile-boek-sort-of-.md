@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Mijn eerste Agile boek, sort of.'
 slug: 'mijn-eerste-agile-boek-sort-of-'
 date: '2016-02-08 07:55:15+00:00'
@@ -17,7 +17,7 @@ bekend van de boeken “[Who is Agile](https://leanpub.com/WhoIsAgile)” en “
 Scaling ball game](https://leanpub.com/TheScalingBallGame)” om mee te
 schrijven aan een Agile boek. Mijn eerste Agile Boek, hoe vet is dat. Maar het
 is niet helemaal mijn boek.
-< !--more -->
+<!--more-->
 Het is namelijk een bestaand boek, echter is het engels en is er geen
 Nederlandse versie van. Ik he het dus niet echt schrijven maar vertalen. Yves
 en veel andere mensen zijn erg te spreken over het boek “[Toolbox for the

@@ -3,7 +3,7 @@ id: 533
 title: I hate Microsoft Vista !!!!!
 date: 2007-08-20T10:41:00+00:00
 author: Theo van der Sluijs
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/08/20/i-hate-microsoft-vista/
 permalink: /2007/08/i-hate-microsoft-vista.html

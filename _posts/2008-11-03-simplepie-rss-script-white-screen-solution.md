@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Simplepie RSS script white screen solution'
 slug: 'simplepie-rss-script-white-screen-solution'
 date: '2008-11-03 00:00'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'We have a Review Writer Winner'
 slug: 'we-have-a-review-writer-winner'
 date: '2010-03-05 08:53'

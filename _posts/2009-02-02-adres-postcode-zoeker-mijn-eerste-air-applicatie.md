@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Adres/Postcode Zoeker, mijn eerste Air applicatie'
 slug: 'adres-postcode-zoeker-mijn-eerste-air-applicatie'
 date: '2009-02-02 15:47'

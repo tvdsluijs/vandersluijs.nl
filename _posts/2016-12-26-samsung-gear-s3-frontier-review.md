@@ -1,7 +1,7 @@
 ---
 id: 3606
 title: Samsung Gear S3 Frontier Review
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 date: 2016-12-26T19:35:14+00:00
 author: Theo van der Sluijs
 layout: post
@@ -58,7 +58,7 @@ format: image
 Na 2 jaar gebruik te hebben gemaakt van mijn Polar M400 en V800 vond ik het tijd voor een echte smartwatch dat is de Samsung Gear S3 Frontier geworden.
 
 Natuurlijk had ik als iPhone fanboy een Apple Watch moeten kopen, maar ik vind de Apple Watch te lelijk. Een vierkant ding wat goed zou staan om een teletubbie arm of een 4 jarig kind. Nee geef mij maar een mooi robuust horloge. En de enige die dat heeft is Samsung met zijn S3 frontier.<!--more-->
-< !--more -->
+<!--more-->
 ## Dag Polar, Geen Appel / Garmin / Suunto
 
 Nee voor mij echt geen Apple Watch. Alhoewel ik echt wel fan ben van Apple en ik niet zonder mijn iPhone (heb een samsung 2 maanden geprobeerd wat een hel) en mijn macbook kan, laat ik voor nu de Apple Watch links liggen.

@@ -3,7 +3,7 @@ id: 4394
 title: Stoppen met Facebook
 date: 2017-03-06T10:21:17+00:00
 author: Theo van der Sluijs
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 layout: post
 guid: https://www.vandersluijs.nl/?p=4394
 permalink: /2017/03/stoppen-met-facebook.html
@@ -52,7 +52,7 @@ categories:
   <p>
     Het is me gelukt! Op 23 december besloot ik te stoppen met veel van het social media gebeuren. Zo heb ik diverse twitter accounts verwijderd ben ik van pinterest af en heb ik op facebook alles geblokkeerd en alle app-koppelingen verwijderd. Het lukte me om zo&#8217;n 3 maanden facebook vrij te blijven en vandaag besloot ik mijn facebook account te deactiveren.
   </p>
-  < !--more -->
+  <!--more-->
   <h2 id="hoedeactiveerikfacebook">
     Hoe deactiveer ik facebook?
   </h2>

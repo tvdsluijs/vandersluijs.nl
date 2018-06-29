@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Verify All for Wordpress'
 slug: 'verify-all-for-wordpress'
 date: '2009-11-07 23:47'

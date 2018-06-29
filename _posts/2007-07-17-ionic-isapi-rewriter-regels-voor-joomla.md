@@ -3,7 +3,7 @@ id: 534
 title: Ionic Isapi Rewriter regels voor Joomla!
 date: 2007-07-17T17:38:00+00:00
 author: Theo van der Sluijs
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/07/17/ionic-isapi-rewriter-regels-voor-joomla/
 permalink: /2007/07/ionic-isapi-rewriter-regels-voor-joomla.html

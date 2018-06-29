@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Artisteer 2.x Template Wordpress NL / Dutch vertaling'
 slug: 'artisteer'
 date: '2009-11-24 17:45'

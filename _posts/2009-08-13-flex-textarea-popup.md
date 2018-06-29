@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex textArea Popup'
 slug: 'flex-textarea-popup'
 date: '2009-08-13 08:13'

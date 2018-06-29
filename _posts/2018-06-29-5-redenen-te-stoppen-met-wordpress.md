@@ -2,7 +2,7 @@
 layout: post
 title: 5 redenen te stoppen met Wordpress
 author: Theo van der Sluijs
-permalink: /2018/06/5-redenen-te-stoppen-met-wordpress.html
+permalink: /2018/06/5-redenen-te-stoppen-met-wordpress
 date: 2018-06-29
 publish_date: 2018-06-29
 image:
@@ -14,7 +14,7 @@ tags: Wordpress
  - Jekyll
  - Hacking
 comments: true
-excerpt_separator: <!--more-->
+excerpt_separator: '<!--more-->'
 
 ---
 Ik heb het helemaal gehad met Wordpress. Ook al onderhield ik mijn site dagelijks 

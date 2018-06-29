@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex Menu Slide in Slide out Docking'
 slug: 'flex-menu-slide-in-slide-out-docking'
 date: '2009-03-24 06:42'

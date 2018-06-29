@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Manager tools'
 slug: 'manager-tools'
 date: '2012-10-10 18:36'

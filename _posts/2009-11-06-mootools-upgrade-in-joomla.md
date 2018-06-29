@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Mootools upgrade in Joomla 1.5'
 slug: 'mootools-upgrade-in-joomla'
 date: '2009-11-06 22:46'

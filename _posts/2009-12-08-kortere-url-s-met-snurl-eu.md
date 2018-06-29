@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Kortere URL’s met snurl.eu'
 slug: 'kortere-url-s-met-snurl-eu'
 date: '2009-12-08 02:43'

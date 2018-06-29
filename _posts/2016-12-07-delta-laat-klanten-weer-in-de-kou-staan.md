@@ -3,7 +3,7 @@ id: 3584
 title: Delta laat klanten weer in de kou staan
 date: 2016-12-07T22:02:40+00:00
 author: Theo van der Sluijs
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 layout: post
 guid: http://vandersluijs.nl/?p=3584
 permalink: /2016/12/delta-laat-klanten-weer-in-de-kou-staan.html
@@ -53,7 +53,7 @@ format: image
 > Dikke Delta Deal!
 
 Je snapt, ik kon niet wachten op die Dikke Delta Deal! Ik ben al een tijdje lid van de club dus ik dacht&#8230; kom maar op! Krijg ik dikke korting of gratis upgrade naar het super pakket!!! Oh boy oh boy kwam ik even terug van de koude kermis toen ik mijn aanbod kreeg van Zeelandnet en Delta.<!--more-->
-< !--more -->
+<!--more-->
 Delta is zieltjes aan het winnen. Natuurlijk, is logisch want ze hebben het niet makkelijk. Ik ben al lang klant van Delta. En van Zeelandnet ook overigens. Okay ik neem geen stroom en gas af, maar wel water, tv, internet en telefonie.
 
 Zo nu en dan ben ik ook weg geweest met internet en telefonie, maar ik kwam op een gegeven moment toch weer terug.

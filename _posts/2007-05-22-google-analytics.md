@@ -3,7 +3,7 @@ id: 548
 title: Google Analytics
 date: 2007-05-22T14:22:00+00:00
 author: Theo van der Sluijs
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/05/22/google-analytics/
 permalink: /2007/05/google-analytics.html
@@ -37,7 +37,7 @@ Google Analytics biedt een groot aantal uiterst nuttige functies en voordelen vo
 Snelle implementatie
 
 Plak de conversiecode voor Google Analytics eenvoudig op alle pagina’s van uw website. De gegevens worden direct bijgehouden.
-< !--more -->
+<!--more-->
 Zoekwoorden en campagnes vergelijken
 
 Al  

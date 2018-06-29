@@ -2,7 +2,7 @@
 id: 544
 title: New version Nokia 6600 software
 date: 2007-06-04T17:59:00+00:00
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/06/04/new-version-nokia-6600-software/

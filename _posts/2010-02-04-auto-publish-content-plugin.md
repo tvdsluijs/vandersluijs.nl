@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Auto Publish Content Plugin'
 slug: 'auto-publish-content-plugin'
 date: '2010-02-04 10:11'

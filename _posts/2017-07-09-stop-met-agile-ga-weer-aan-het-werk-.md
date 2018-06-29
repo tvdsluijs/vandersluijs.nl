@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Stop met Agile! Ga weer aan het werk!'
 slug: 'stop-met-agile-ga-weer-aan-het-werk-'
 date: '2017-07-09 06:25:16+00:00'
@@ -16,7 +16,7 @@ gestructureerder en wedstrijden (genaamd sprinsts) zorgen dat de teams op
 hoger niveau komen met nog meer omzet. Fouten maken mag en daar leer je alleen
 van, en na iedere oplevering leer je weer van elkaar door uit te spreken wat
 er fout ging.
-< !--more -->
+<!--more-->
 > Agile is geweldig!
 
 Maar niets is minder waar! Het werkt namelijk niet.

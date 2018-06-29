@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Loading local XML file in flash builder'
 slug: 'loading-local-xml-file-in-flash-builder'
 date: '2009-11-06 07:00'

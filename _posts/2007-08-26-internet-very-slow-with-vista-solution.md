@@ -3,7 +3,7 @@ id: 531
 title: Internet very slow with Vista, Solution !!!
 date: 2007-08-26T16:42:00+00:00
 author: Theo van der Sluijs
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/08/26/internet-very-slow-with-vista-solution/
 permalink: /2007/08/internet-very-slow-with-vista-solution.html

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: php ontwikkelen op een Chromebook
 slug: 'php-ontwikkelen-op-een-chromebook'
 date: '2017-08-31 20:04:22.459000+00:00'
@@ -16,7 +16,7 @@ daarbij mijn Macbook inleveren. Tja daar ging mijn ontwikkel omgeving.
 Ik dacht er aan om een MacBook te kopen, maar ja om nu weer 3000 euro te gaan
 uitgeven aan een over de top gehyped(maar wel heel goed werkende) laptop vond
 ik wat overdreven.
-< !--more -->
+<!--more-->
 Maar ja… ik moest verder. Zonder eigen dev-bak kon ik toch niet verder?
 
 > Toch?

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Agile worden kan niet met Shortcuts'
 slug: 'agile-worden-kan-niet-met-shortcuts'
 date: '2016-02-12 15:14:56+00:00'
@@ -14,7 +14,7 @@ inziens zoveel tijd gaat kosten.
 
 Ik kijk deze personen altijd aan met een moeilijke blik en zeg ze…. “Oh, je
 wilt niet Agile worden?”
-< !--more -->
+<!--more-->
 Een Agile transformatie is niet iets wat je er even in een weekje bij doet.
 Het is ook niet iets wat je in een maand gedaan krijgt. Een Agile
 transformatie is een proces wat enkele maanden zal duren. Zeker in

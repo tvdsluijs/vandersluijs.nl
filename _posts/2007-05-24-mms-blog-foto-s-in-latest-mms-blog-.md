@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'MMS_BLOG foto’s in “latest mms blog”'
 slug: 'mms-blog-foto-s-in-latest-mms-blog-'
 date: '2007-05-24 16:24'
@@ -23,7 +23,7 @@ aan de praat heb gekregen.
   
 De volgende vraag die ik kreeg was hoe ik dan in de module “Latest mms blog”
 de foto’s liet zien.  
-< !--more -->
+<!--more-->
 Ja…. dat heb ik dus zelf gemaakt. Ik heb het originele bestand genomen en
 hiervan een subversie gemaakt.  
   

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Address/Postal Searcher, My First Air Application'
 slug: 'address-postal-searcher-my-first-air-application'
 date: '2009-02-02 14:29'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'AIR Application Descriptor Manager'
 slug: 'air-application-descriptor-manager'
 date: '2009-03-11 09:29'

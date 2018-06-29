@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Waarom kilometerheffing onvermijdelijk is'
 slug: 'waarom-kilometerheffing-onvermijdelijk-is'
 date: '2017-06-20 17:56:05+00:00'
@@ -18,7 +18,7 @@ over de waarde van de auto en wegenbelasting (houderschapsbelasting) echter
 zijn deze belastingen binnenkort niet meer te heffen en dan zal
 kilometerheffing onvermijdelijk worden en dat heeft niks te maken met het
 oplossen van het fileprobleem.
-< !--more -->
+<!--more-->
 Files, iedereen heeft er een hekel aan en jaren geleden dacht men dit op te
 lossen doormiddel van de zogenaamde kilometerheffing. Door een belasting
 vergoeding te vragen per kilometer en deze in tijden van drukte te verhogen

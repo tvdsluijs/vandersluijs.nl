@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex PHP UTF8 Problem solved'
 slug: 'flex-php-utf8-problem-solved'
 date: '2010-10-03 21:50'

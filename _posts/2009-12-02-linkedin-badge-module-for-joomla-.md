@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'LinkedIn Badge Module for Joomla!'
 slug: 'linkedin-badge-module-for-joomla-'
 date: '2009-12-02 21:22'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Auto publish content on Frontpage'
 slug: 'auto-publish-content-on-frontpage'
 date: '2009-10-27 12:34'

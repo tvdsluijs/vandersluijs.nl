@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Selecteer een Provincie'
 slug: 'selecteer-een-provincie'
 date: '2008-02-15 00:15'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'EvenList Scroller Module'
 slug: 'evenlist-scroller-module'
 date: '2010-06-09 23:02'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Adobe Flex Postcode Validatie'
 slug: 'adobe-flex-postcode-validatie'
 date: '2008-12-29 21:01'

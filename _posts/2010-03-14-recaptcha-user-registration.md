@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'reCaptcha User Registration'
 slug: 'recaptcha-user-registration'
 date: '2010-03-14 13:56'

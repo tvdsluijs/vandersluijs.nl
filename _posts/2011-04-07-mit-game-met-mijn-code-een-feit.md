@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'MIT game met mijn code een feit'
 slug: 'mit-game-met-mijn-code-een-feit'
 date: '2011-04-07 01:45'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Notities Dag 3 Masterclass — Leading Agile Transformations'
 slug: 'notities-dag'
 date: '2015-10-30 18:43:17+00:00'
@@ -12,7 +12,7 @@ En daar ging dag 3 van de [Masterclass — Leading Agile
 Transformations](http://www.scrum.nl/training/Masterclass-Leading-Agile-
 Transformations-150324) van [Prowareness](http://www.prowareness.nl/). Drie
 redelijk zware dagen. Drie geweldige dagen. Drie informatieve dagen!
-< !--more -->
+<!--more-->
 Als je wilt weten wat Agile is, en wat deze Masterclass inhoudt volg dan zeker
 deze cursus van Prowareness die gegeven wordt door [Henk Jan
 Huizer](https://www.linkedin.com/in/henkjanhuizer) en [Rini van

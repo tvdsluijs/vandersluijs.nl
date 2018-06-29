@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Correct sub menu in Artisteer and Wordpress'
 slug: 'correct-sub-menu-in-artisteer-and-wordpress'
 date: '2009-11-16 20:22'

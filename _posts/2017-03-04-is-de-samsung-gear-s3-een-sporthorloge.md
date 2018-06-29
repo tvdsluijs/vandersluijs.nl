@@ -3,7 +3,7 @@ id: 4312
 title: Is de Samsung Gear S3 een Sporthorloge
 date: 2017-03-04T16:23:31+00:00
 author: Theo van der Sluijs
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 layout: post
 guid: https://www.vandersluijs.nl/?p=4312
 permalink: /2017/03/is-de-samsung-gear-s3-een-sporthorloge.html
@@ -52,7 +52,7 @@ tags:
 format: image
 ---
 Ik wilde eens een mooie smartwatch. Mijn Polar V800 was een beest in de mogelijkheden met sporten, maar mooi&#8230; tja dat was de V800 niet. Maar daar was toen de Samsung Gear S3 Frontier! Een vreselijk vette smartwatch met sportmogelijkheden!
-< !--more -->
+<!--more-->
 Ik kocht hem&#8230;. en kwam er na 3 maanden achter dat het alles behalve een sporthorloge is.
 
 ## Samsung Gear S3 Frontier

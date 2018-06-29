@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Pomodoro iets voor een Manager?'
 slug: 'pomodoro-iets-voor-een-manager-'
 date: '2012-10-11 19:15'

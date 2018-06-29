@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Easy Site Verification'
 slug: 'easy-site-verification'
 date: '2010-02-04 12:52'

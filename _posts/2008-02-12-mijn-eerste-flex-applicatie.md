@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Mijn eerste Flex Applicatie'
 slug: 'mijn-eerste-flex-applicatie'
 date: '2008-02-12 06:00'

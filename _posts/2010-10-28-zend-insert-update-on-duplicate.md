@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Zend Insert Update ON Duplicate'
 slug: 'zend-insert-update-on-duplicate'
 date: '2010-10-28 17:10'

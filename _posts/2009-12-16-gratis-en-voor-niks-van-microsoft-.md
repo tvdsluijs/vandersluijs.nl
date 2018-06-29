@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Gratis en voor niks van microsoft.'
 slug: 'gratis-en-voor-niks-van-microsoft-'
 date: '2009-12-16 21:46'

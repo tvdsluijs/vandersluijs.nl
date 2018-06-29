@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex with Swiz framework Workshop @Flugr'
 slug: 'flex-with-swiz-framework-workshop-flugr'
 date: '2010-05-20 11:50'

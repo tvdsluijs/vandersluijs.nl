@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Google Latitude'
 slug: 'google-latitude'
 date: '2010-02-05 11:51'

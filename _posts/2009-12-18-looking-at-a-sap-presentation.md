@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Looking at a sap presentation'
 slug: 'looking-at-a-sap-presentation'
 date: '2009-12-18 08:30'

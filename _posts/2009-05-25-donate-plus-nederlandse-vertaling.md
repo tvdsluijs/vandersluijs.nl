@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Donate Plus Nederlandse vertaling'
 slug: 'donate-plus-nederlandse-vertaling'
 date: '2009-05-25 14:43'

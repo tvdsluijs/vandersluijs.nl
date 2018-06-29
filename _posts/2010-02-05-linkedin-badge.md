@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'LinkedIn Badge'
 slug: 'linkedin-badge'
 date: '2010-02-05 11:56'

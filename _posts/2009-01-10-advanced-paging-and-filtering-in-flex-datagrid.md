@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Advanced Paging and Filtering in Flex Datagrid'
 slug: 'advanced-paging-and-filtering-in-flex-datagrid'
 date: '2009-01-10 21:53'

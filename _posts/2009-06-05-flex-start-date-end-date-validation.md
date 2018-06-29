@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex Start Date End Date Validation'
 slug: 'flex-start-date-end-date-validation'
 date: '2009-06-05 10:46'

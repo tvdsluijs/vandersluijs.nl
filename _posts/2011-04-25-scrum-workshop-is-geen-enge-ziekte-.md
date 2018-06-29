@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'SCRUM workshop, is geen enge ziekte !'
 slug: 'scrum-workshop-is-geen-enge-ziekte-'
 date: '2011-04-25 20:33'

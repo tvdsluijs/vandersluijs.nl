@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'LiveCycle PDF Form big sized.'
 slug: 'livecycle-pdf-form-big-sized-'
 date: '2009-04-06 13:35'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Adobe Flex Coding Guidelines'
 slug: 'adobe-flex-coding-guidelines'
 date: '2009-01-14 08:26'

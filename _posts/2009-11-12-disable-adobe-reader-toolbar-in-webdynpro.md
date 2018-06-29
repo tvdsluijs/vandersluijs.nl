@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Disable Adobe Reader Toolbar in Webdynpro'
 slug: 'disable-adobe-reader-toolbar-in-webdynpro'
 date: '2009-11-12 21:20'

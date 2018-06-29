@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Adobe Flex, Problems with Eclipse installing Plug-ins ?'
 slug: 'adobe-flex-problems-with-eclipse-installing-plug-in-s-'
 date: '2009-01-16 17:45'

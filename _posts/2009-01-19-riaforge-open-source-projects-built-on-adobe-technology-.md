@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'RIAForge, Open Source projects built on Adobe technology.'
 slug: 'riaforge-open-source-projects-built-on-adobe-technology-'
 date: '2009-01-19 08:19'

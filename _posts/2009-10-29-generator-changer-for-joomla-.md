@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Generator changer for Joomla! 1.5'
 slug: 'generator-changer-for-joomla-'
 date: '2009-10-29 06:00'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Dag taxi chauffeurs, jullie zijn allemaal ontslagen'
 slug: 'dag-taxi-chauffeurs-jullie-zijn-allemaal-ontslagen'
 date: '2017-04-23 21:16:13+00:00'
@@ -13,7 +13,7 @@ tags: ['Future', 'Self Driving Cars', 'Tesla']
 Het was een mooie dag in 2015, Autofabrikant Tesla maakt zijn Model S in dat
 jaar deels zelfrijdend via een software-update. Ja je moest je handen nog aan
 het stuur houden, maar dat gaat niet lang meer duren.
-< !--more -->
+<!--more-->
 Taxi-chauffeurs, vanaf de dag dat Tesla zei dat auto’s zelf gingen rijden is
 het een beroep geworden waar je beter nu niet meer voor gaat leren (als je er
 al voor kan leren).

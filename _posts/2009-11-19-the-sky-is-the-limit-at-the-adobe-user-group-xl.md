@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'The sky is the limit! at the Adobe User Group XL'
 slug: 'the-sky-is-the-limit-at-the-adobe-user-group-xl'
 date: '2009-11-19 19:58'

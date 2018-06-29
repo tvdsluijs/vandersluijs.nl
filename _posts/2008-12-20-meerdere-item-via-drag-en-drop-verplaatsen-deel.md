@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Meerdere item via drag en drop verplaatsen Deel 2'
 slug: 'meerdere-item-via-drag-en-drop-verplaatsen-deel'
 date: '2008-12-20 14:23'

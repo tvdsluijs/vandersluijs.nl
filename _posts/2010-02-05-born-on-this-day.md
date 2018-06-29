@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Born on this Day'
 slug: 'born-on-this-day'
 date: '2010-02-05 11:59'

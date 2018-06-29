@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex/Swiz workshop'
 slug: 'flex-swiz-workshop'
 date: '2011-01-12 21:51'

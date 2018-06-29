@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Section Category List for Joomla! 1.5'
 slug: 'section-category-list-for-joomla-'
 date: '2010-01-13 21:14'

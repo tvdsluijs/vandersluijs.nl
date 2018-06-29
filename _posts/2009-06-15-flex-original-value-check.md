@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex Original value check'
 slug: 'flex-original-value-check'
 date: '2009-06-15 11:00'

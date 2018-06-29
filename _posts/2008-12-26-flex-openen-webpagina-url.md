@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex Openen Webpagina / URL'
 slug: 'flex-openen-webpagina-url'
 date: '2008-12-26 13:34'

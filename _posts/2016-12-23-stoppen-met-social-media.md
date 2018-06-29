@@ -4,7 +4,7 @@ title: Stoppen met Social Media
 date: 2016-12-23T17:25:36+00:00
 author: Theo van der Sluijs
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 guid: http://vandersluijs.nl/?p=3593
 permalink: /2016/12/stoppen-met-social-media.html
 wp_review_location:
@@ -49,7 +49,7 @@ tags:
 format: image
 ---
 Social media&#8230; het lijkt zo leuk, maar is dat het ook? Laatst las ik iets over het feit dat mensen steeds vaker bezig zijn met het zich zelf te bewijzen voor anderen en dat ze er eigenlijk heel ongelukkig van worden.
-< !--more -->
+<!--more-->
 Zelf zijn ze alleen maar bezig met : &#8220;Kijk is hoe leuk ik het heb, kijk is wat ik heb gekocht, kijk is hoe goed ik dit doe, kijk is wat een geweldig leven ik heb&#8221;. Terwijl ze zelf niet kunnen tegen het feit dat andere mensen het nog veel leuker en beter lijken te hebben dan zij zelf.
 
 Daarnaast worden ze ongelukkig wanneer een post geen likes krijgt. Ze verwachten een bevestiging te krijgen door alle duimpjes, like-jes en reacties op hun social media kanalen.

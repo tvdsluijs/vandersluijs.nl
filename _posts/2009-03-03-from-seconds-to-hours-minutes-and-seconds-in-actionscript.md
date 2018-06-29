@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'From Seconds to Hours, Minutes and Seconds in Actionscript'
 slug: 'from-seconds-to-hours-minutes-and-seconds-in-actionscript'
 date: '2009-03-03 19:50'

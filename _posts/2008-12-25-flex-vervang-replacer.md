@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex vervang / replacer'
 slug: 'flex-vervang-replacer'
 date: '2008-12-25 11:29'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Stop nu met Agile, je doet het fout!'
 slug: 'stop-nu-met-agile-je-doet-het-fout-'
 date: '2017-05-06 14:22:27+00:00'
@@ -14,7 +14,7 @@ Agile wordt steeds populairder. Steeds meer organisaties gaan op een Agile
 manier werken. … Agile betekent letterlijk: behendig, lenig. In de IT staat
 het voor softwareontwikkeling in korte, overzichtelijke perioden van vaak niet
 meer dan een maand, soms zelfs hooguit een week.
-< !--more -->
+<!--more-->
 Het is echt geweldig, “The Silver Bullet”, “De oplossing voor alles”, “De
 redding van het bedrijf”, “We bouwen weer aan de toekomst”.
 

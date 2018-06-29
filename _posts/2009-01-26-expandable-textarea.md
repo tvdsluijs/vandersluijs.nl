@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Expandable Textarea'
 slug: 'expandable-textarea'
 date: '2009-01-26 06:52'

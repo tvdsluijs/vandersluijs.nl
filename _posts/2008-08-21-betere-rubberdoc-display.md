@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Betere Rubberdoc display'
 slug: 'betere-rubberdoc-display'
 date: '2008-08-21 13:58'

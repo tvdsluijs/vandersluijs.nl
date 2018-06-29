@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Juiste datum in PhP'
 slug: 'juiste-datum-in-php'
 date: '2008-10-27 18:14'

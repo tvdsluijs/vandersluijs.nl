@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Ga muiten binnen het bedrijf en vraag daarna om vergeving!'
 slug: 'ga-muiten-binnen-het-bedrijf-en-vraag-daarna-om-vergeving-'
 date: '2014-09-11 20:24'
@@ -15,7 +15,7 @@ bedrijf.
   
 De meeste goede ideeën komen niet uit de koker van je baas, maar juist van het
 personeel op de werkvloer.  
-< !--more -->
+<!--more-->
 Maar helaas wil een baas niet altijd luisteren naar wat je te zeggen hebt en
 dan is het tijd om een muiterij te beginnen.
 

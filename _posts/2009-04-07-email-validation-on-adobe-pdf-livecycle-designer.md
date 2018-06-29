@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Email Validation on Adobe PDF, LiveCycle Designer'
 slug: 'email-validation-on-adobe-pdf-livecycle-designer'
 date: '2009-04-07 09:32'

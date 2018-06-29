@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Generator Changer'
 slug: 'generator-changer'
 date: '2010-02-05 11:44'

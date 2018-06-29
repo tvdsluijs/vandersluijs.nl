@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Blue Tech Business Joomla! Template'
 slug: 'blue-tech-business-joomla-template'
 date: '2010-01-18 20:35'

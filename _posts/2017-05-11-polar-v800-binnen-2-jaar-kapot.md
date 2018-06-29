@@ -2,7 +2,7 @@
 id: 4320
 title: Polar V800 binnen 2 jaar kapot
 date: 2017-05-11T16:28:49+00:00
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 author: Theo van der Sluijs
 layout: post
 guid: https://www.vandersluijs.nl/?p=4320
@@ -24,7 +24,7 @@ tags:
   <p>
     Blij, heel blij ben ik de afgelopen anderhalf jaar geweest met mijn Polar V800! Ik heb er zelfs mijn Samsung Gear S3 Frontier voor weg gedaan. Maar sinds een paar weken ben ik minder blij met mijn Polar. Er zit namelijk vocht in en ik weet niet hoe. Ik weet alleen dat mijn polar V800 dus binnen 2 jaar kapot is.
   </p>
-  < !--more -->
+  <!--more-->
   <p>
     Een week of 5 geleden zag ik het voor het eerst. Ik was aan het fietsen en dacht dat mijn horloge vies was. Ik wreef over het glas en kreeg het er niet af. Ik snapte af, om te kijken wat het was en ik schrok me een hoedje&#8230; zit er nou condens in mijn horloge?
   </p>

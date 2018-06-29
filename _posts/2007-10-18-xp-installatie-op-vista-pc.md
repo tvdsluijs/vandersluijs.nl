@@ -3,7 +3,7 @@ id: 526
 title: XP installatie op Vista PC
 date: 2007-10-18T16:06:00+00:00
 author: Theo van der Sluijs
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/10/18/xp-installatie-op-vista-pc/
 permalink: /2007/10/xp-installatie-op-vista-pc.html

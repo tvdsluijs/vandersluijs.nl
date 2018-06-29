@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Wat deed ik eigenlijk op het Atlassian Summit'
 slug: 'wat-deed-ik-eigenlijk-op-het-atlassian-summit'
 date: '2014-01-13 18:00'

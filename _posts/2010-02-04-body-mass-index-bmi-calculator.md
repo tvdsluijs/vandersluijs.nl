@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Body Mass Index (BMI) Calculator'
 slug: 'body-mass-index-bmi-calculator'
 date: '2010-02-04 10:32'

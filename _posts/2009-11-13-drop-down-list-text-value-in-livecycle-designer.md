@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Drop down list text value in Livecycle Designer'
 slug: 'drop-down-list-text-value-in-livecycle-designer'
 date: '2009-11-13 18:11'

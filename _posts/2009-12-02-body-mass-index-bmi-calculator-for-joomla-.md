@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Body Mass Index (BMI) Calculator for Joomla!'
 slug: 'body-mass-index-bmi-calculator-for-joomla-'
 date: '2009-12-02 14:35'

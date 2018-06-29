@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex Formatter, source code formatting'
 slug: 'flex-formatter-source-code-formatting'
 date: '2009-01-12 07:01'

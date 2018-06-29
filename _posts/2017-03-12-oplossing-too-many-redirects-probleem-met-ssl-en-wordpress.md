@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Oplossing “Too Many Redirects” probleem met SSL en Wordpress'
 slug: 'oplossing-too-many-redirects-probleem-met-ssl-en-wordpress'
 date: '2017-03-12 13:06:57+00:00'
@@ -15,7 +15,7 @@ certificaat aangevraagd! Via Comodo of Letsencrypt. Je hebt alle server
 aanpassingen gedaan, en dan is het eindelijk tijd om Wordpress om te zetten.
 
 En voor je het weet… is alles kapot!
-< !--more -->
+<!--more-->
 > SSL voor een veilige site en voor Google
 
 Met de campagne HTTPS everywhere heeft Google wat maanden terug de stap gezet

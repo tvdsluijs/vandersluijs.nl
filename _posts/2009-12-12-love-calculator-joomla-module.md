@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Love Calculator Joomla! Module'
 slug: 'love-calculator-joomla-module'
 date: '2009-12-12 22:36'

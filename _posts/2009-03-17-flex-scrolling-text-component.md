@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flex Scrolling Text Component'
 slug: 'flex-scrolling-text-component'
 date: '2009-03-17 08:03'

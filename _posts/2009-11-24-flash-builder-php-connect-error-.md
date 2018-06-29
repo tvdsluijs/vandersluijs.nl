@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Flash Builder php connect error.'
 slug: 'flash-builder-php-connect-error-'
 date: '2009-11-24 12:25'

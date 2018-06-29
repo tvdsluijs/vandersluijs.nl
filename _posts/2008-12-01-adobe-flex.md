@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Adobe Flex 11 Proef Banknummer'
 slug: 'adobe-flex'
 date: '2008-12-01 11:12'

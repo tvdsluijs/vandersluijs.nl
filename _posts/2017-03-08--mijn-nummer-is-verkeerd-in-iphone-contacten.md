@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: '“Mijn Nummer” is verkeerd in iPhone contacten'
 slug: '-mijn-nummer-is-verkeerd-in-iphone-contacten'
 date: '2017-03-08 19:06:42+00:00'
@@ -13,7 +13,7 @@ tags: ['Tech', 'iPhone', 'Quickfixphone', 'Development']
 Dus je hebt een iPhone en deze heb je al geactiveerd voordat je nummer werd
 omgezet naar je nieuwe Simkaart…. en wat valt je op nadat je nummer is
 omgezet? Juist het eerste (en dus verkeerde simkaart nummer staat er!
-< !--more -->
+<!--more-->
 Door dit verkeerde nummer gaat ook facetime, iMessage enz de mist in. Apple
 weet namelijk niet goed wie je bent!
 

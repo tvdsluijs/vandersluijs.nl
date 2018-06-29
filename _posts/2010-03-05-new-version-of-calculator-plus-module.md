@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'New version of Calculator Plus Module'
 slug: 'new-version-of-calculator-plus-module'
 date: '2010-03-05 08:00'

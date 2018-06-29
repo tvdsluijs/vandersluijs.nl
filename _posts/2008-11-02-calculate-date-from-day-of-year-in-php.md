@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Calculate Date from day of year in PhP'
 slug: 'calculate-date-from-day-of-year-in-php'
 date: '2008-11-02 00:00'

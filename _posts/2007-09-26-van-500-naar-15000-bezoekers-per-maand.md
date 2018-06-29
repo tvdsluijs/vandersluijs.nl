@@ -3,7 +3,7 @@ id: 529
 title: Van 500 naar 15000 bezoekers per maand
 date: 2007-09-26T04:35:00+00:00
 author: Theo van der Sluijs
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/09/26/van-500-naar-15000-bezoekers-per-maand/
 permalink: /2007/09/van-500-naar-15000-bezoekers-per-maand.html

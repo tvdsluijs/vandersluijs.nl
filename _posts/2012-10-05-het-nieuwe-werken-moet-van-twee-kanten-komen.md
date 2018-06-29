@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Het nieuwe werken, moet van twee kanten komen'
 slug: 'het-nieuwe-werken-moet-van-twee-kanten-komen'
 date: '2012-10-05 15:34'

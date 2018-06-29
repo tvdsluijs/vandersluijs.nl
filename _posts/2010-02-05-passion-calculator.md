@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Passion Calculator'
 slug: 'passion-calculator'
 date: '2010-02-05 12:02'

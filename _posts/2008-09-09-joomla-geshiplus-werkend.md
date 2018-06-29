@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 title: 'Joomla! GeShiPlus Werkend'
 slug: 'joomla-geshiplus-werkend'
 date: '2008-09-09 05:00'

@@ -3,7 +3,7 @@ id: 3634
 title: Oplossing connectie Samsung Gear S3 iPhone
 date: 2017-01-03T11:13:35+00:00
 author: Theo van der Sluijs
-excerpt_separator: < !--more -->
+excerpt_separator: '<!--more-->'
 layout: post
 guid: http://vandersluijs.nl/?p=3634
 permalink: /2017/01/oplossing-connectie-samsung-gear-s3-iphone.html
@@ -53,7 +53,7 @@ tags:
 format: image
 ---
 Sinds de kerst heb ik een Samsung Gear S3 waar ik heel blij mee ben. Blij omdat ik eindelijk een mooie smartwatch om heb! No Offense Polar, jullie maken Slimme en Goede Sport Smart watches, maar ze zijn een killer voor mijn looks 🙂 . Dus heb ik nu een Samsung Gear S3 die prachtig om mijn pols zit! Er is alleen één probleem.. zo nu en dan is hij de weg kwijt en krijg ik geen berichten meer op mijn Smartwatch! Gelukkig voor jou heb ik je oplossing!<!--more-->Smartwatches, ze zijn niet meer weg te denken uit mijn leven. Eerst moest ik er niets van hebben maar sinds de berichten van mijn iPhone op de Polar M400 en de V800 binnenkwamen vond ik het heerlijk.
-< !--more -->
+<!--more-->
 Niet meer die telefoon uit mijn broekzak, gewoon snel kijken op dat ding rond mijn pols en ik kon eventueel toch nog verder kijken, wanneer het belangrijk was op mijn telefoon.
 
 Zo ook op zijn Samsung Gear S3 met mijn iPhone. Met de Samsung niet ondersteunde Beta App wel te verstaan! Mocht je weten hoe je die moet installeren, ga dan even naar mijn artikel:
