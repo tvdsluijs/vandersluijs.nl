@@ -2,7 +2,7 @@
 layout: post
 title: 5 redenen te stoppen met Wordpress
 author: Theo van der Sluijs
-slug: /2018/06/5-redenen-te-stoppen-met-wordpress.html
+permalink: /2018/06/5-redenen-te-stoppen-met-wordpress.html
 date: 2018-06-29
 publish_date: 2018-06-29
 image:
