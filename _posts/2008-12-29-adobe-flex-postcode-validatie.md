@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Adobe Flex Postcode Validatie'
 slug: 'adobe-flex-postcode-validatie'
 date: '2008-12-29 21:01'
 publish_date: '2008-12-29 21:01'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*47piEI9lABdlJs0-.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*47piEI9lABdlJs0-.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -26,5 +26,5 @@ zonder spatie in een paar regels code.
 Mijn code staat op [github](https://github.com/tvdsluijs/Flex-Postcode-
 Validatie).
 
-![](https://vandersluijs.resultants-e/0*47piEI9lABdlJs0-.gif)
+![](https://vandersluijs.resultants-e.nl/0*47piEI9lABdlJs0-.gif)
 

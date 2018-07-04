@@ -9,3 +9,61 @@ h1.title {
 }
 
 //Shared css in _post.scss
+
+/*Review*/
+.review-box {
+    width: 250px;
+    float: right;
+    margin: -15px 0 15px 15px;
+}
+
+h3.review-box-title {
+    text-align: justify;
+    display: inline-block;
+    letter-spacing: 0.22em;
+    font-size: 22px;
+}
+
+p.review-box-summary {
+    font-size: 16px;
+}
+
+.chart-bar-bg {
+    background-color: #ccc;
+    line-height: 1.5;
+}
+
+.chart-bar-percent {
+    background-color: #00adff;
+    line-height: 1.5;
+    font-size: 15px;
+    text-align: center!important;
+    color: #FFF;
+    padding: 0.01em 16px;
+}
+
+.chart-bar-title.header-font {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+span.fa.fa-star.checked {
+    color: orange;
+}
+
+/*IMAGES*/
+img.alignleft {
+    float: left;
+    margin: 0px 5px 0px 0px;
+}
+
+img.alignright {
+    float: right;
+    margin: 0px 0px 0px 5px;
+}
+
+img.attachment-thumbnail {
+    float: left;
+    margin: 5px 5px 0px 0px;
+}

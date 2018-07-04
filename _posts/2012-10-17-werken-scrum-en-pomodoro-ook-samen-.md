@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Werken Scrum en Pomodoro ook samen?'
 slug: 'werken-scrum-en-pomodoro-ook-samen-'
 date: '2012-10-17 18:16'

@@ -6,42 +6,36 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/?p=1291
 permalink: /2015/09/yellowbrick-registratie-klantonvriendelijk.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_type:
-  - star
-wp_review_desc:
+vw_review_summary:
   - Even snel parkeren met de Yellowbrick app kan niet de eerste keer want registratie is niet echt eenvoudig en duurt een werkdag! Niet gebruikt, dus ik kan dus geen punten geven!
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"0";}'
-wp_review_total:
+vw_review_average_score:
   - "0"
-wp_review_item:
-  - 'a:6:{i:0;a:1:{s:20:"wp_review_item_title";s:27:"Installatie en configuratie";}i:1;a:1:{s:20:"wp_review_item_title";s:25:"Functies en ondersteuning";}i:2;a:1:{s:20:"wp_review_item_title";s:9:"Interface";}i:3;a:1:{s:20:"wp_review_item_title";s:9:"Prestatie";}i:4;a:1:{s:20:"wp_review_item_title";s:11:"Registratie";}i:5;a:1:{s:20:"wp_review_item_title";s:5:"Prijs";}}'
+vw_review_score_0_label:
+ - Installatie en configuratie
+vw_review_score_0_score:
+ - 0
+vw_review_score_1_label:
+ - Functies en ondersteuning
+vw_review_score_1_score:
+ - 0
+vw_review_score_2_label:
+ - Interface
+vw_review_score_2_score:
+ - 0
+vw_review_score_3_label:
+ - Prestatie
+vw_review_score_3_score:
+ - 0
+vw_review_score_4_label:
+ - Registratie
+vw_review_score_4_score:
+ - 0
+vw_review_score_5_label:
+ - Prijs
+vw_review_score_5_score:
+ - 0
 video_post_url:
   - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "0"
-pmc_featured_post:
-  - "0"
-hits:
-  - "1020"
 dsq_thread_id:
   - "5766973391"
 feature-img: https://vandersluijs.resultants-e.nl/2015/09/Yellowbrick.jpg

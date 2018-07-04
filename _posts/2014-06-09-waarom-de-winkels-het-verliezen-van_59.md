@@ -27,7 +27,7 @@ dsq_thread_id:
 categories:
   - Grumpy
 ---
-![Mediamarkt knettergek](https://vandersluijs.resultants-e/2014/Jun/mediamarkt.jpg)
+![Mediamarkt knettergek](https://vandersluijs.resultants-e.nl/2014/Jun/mediamarkt.jpg)
 
 # en waarom ze het zelf verknallen. {#enwaaromzehetzelfverknallen}
 
@@ -39,7 +39,7 @@ Maar ondertussen ben ik er wel achter dat dit het allemaal niet is. Veel winkeli
 
 ## Intertoys Goes helpt je echt niet. {#intertoysgoeshelptjeechtniet}
 
-![Intertoys Goes](https://vandersluijs.resultants-e/2014/Jun/intertoys_goes.jpg)  
+![Intertoys Goes](https://vandersluijs.resultants-e.nl/2014/Jun/intertoys_goes.jpg)  
 Laatst was ik in Goes bij Intertoys. Ik moest wat cadeau-tjes hebben voor wat kinderen en mijn eigen kroos mocht ook wat uitzoeken.
 
 Ik wist dat er een soort van skylander swapforce deal was. Twee giants kopen en 1 gratis pakket met 3 kleintjes krijgen.
@@ -68,7 +68,7 @@ Ik rekende af (te veel dus, want die actie had ik niet goed gepakt) en dacht&#82
 
 # Mediamarkt Middelburg maakt het te gek. {#mediamarktmiddelburgmaakthettegek}
 
-![Mediamarkt middelburg](https://vandersluijs.resultants-e/2014/Jun/mediamarkt_middelburg.jpg)  
+![Mediamarkt middelburg](https://vandersluijs.resultants-e.nl/2014/Jun/mediamarkt_middelburg.jpg)  
 En dat bedoel ik niet echt positief.
 
 Vandaag ging ik naar de Mediamarkt te Middelburg om een [MELITTA Caffeo Bistro ERP Zwart](http://www.mediamarkt.nl/mcs/product/MELITTA-Caffeo-Bistro-ERP-Zwart,10259,483033,247247.html?langId=-11) aan te gaan schaffen.

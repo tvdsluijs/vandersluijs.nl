@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Stop met Agile! Ga weer aan het werk!'
 slug: 'stop-met-agile-ga-weer-aan-het-werk-'
 date: '2017-07-09 06:25:16+00:00'
 publish_date: '2017-07-09 06:25:16+00:00'
 image:
-  feature: 'https://vandersluijs.resultants-e/1*snWq_plHQNlM-A65kUknug.png'
+  feature: 'https://vandersluijs.resultants-e.nl/1*snWq_plHQNlM-A65kUknug.png'
 category: ['Agile']
 tags: ['Agile', 'Scrum', 'Agility']
 ---
@@ -212,7 +212,7 @@ is iets anders dan alles maar te doen zoals agile “voorschrijft”. Agile zijn
 is een gevoel, een mindset, het moet zo onbewust gaan als ademhalen en zo
 simpel zijn als met mes en vork eten.
 
-![](https://vandersluijs.resultants-e/1*NG0ihnBkmH80O7StgoFzmQ.png)
+![](https://vandersluijs.resultants-e.nl/1*NG0ihnBkmH80O7StgoFzmQ.png)
 
 www.dilbert.com
 

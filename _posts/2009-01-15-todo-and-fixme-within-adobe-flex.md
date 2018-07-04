@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'TODO and FIXME within Adobe Flex'
 slug: 'todo-and-fixme-within-adobe-flex'
 date: '2009-01-15 17:35'

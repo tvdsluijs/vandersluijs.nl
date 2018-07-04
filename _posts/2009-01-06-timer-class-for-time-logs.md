@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Timer Class for time logs'
 slug: 'timer-class-for-time-logs'
 date: '2009-01-06 19:27'

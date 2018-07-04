@@ -1,17 +1,30 @@
 # SITE CONFIGURATION
 encoding: utf-8
-baseurl: "/"
+baseurl: ""
 url: "https://www.vandersluijs.nl"
 title: Type on Strap # site's title
 description: "To boldly go where no blog has gone before!" # used by search engines
 
+months:
+ - Januari
+ - Februari
+ - Maart
+ - April
+ - Mei
+ - Juni
+ - July
+ - Augustus
+ - September
+ - Oktober
+ - November
+ - December
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
   title: Theo van der Sluijs # blog's title
   avatar: https://nl.gravatar.com/userimage/4342738/55dc66ed50cf30a99a5c12767dae233a.jpg?size=400
-  favicon: assets/favicon.ico
+  favicon: /assets/favicon.ico
   gravatar: B40D3B7DA056FCC44BF7792E4ED4BDA3
 
   # Header and footer text
@@ -71,7 +84,7 @@ theme_settings:
     tags:
       icon: "tags"
       enabled: true
-  
+
   # Localization strings
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
@@ -80,12 +93,12 @@ theme_settings:
   str_email: "Email"
   str_tweet: "Tweet"
   str_pin_it: "Pin it"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
+  str_next_post: "Volgend artikel"
+  str_previous_post: "Vorig artikel"
+  str_next_page: "Volgende"
+  str_previous_page: "Vorige"
+  str_continue_reading: "Lees verder"
+  str_javascript_required_disqus: "Om commentaren te kunnen lezen is Javascript nodig."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"

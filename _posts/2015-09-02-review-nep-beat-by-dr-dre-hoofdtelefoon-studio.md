@@ -6,48 +6,28 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/?p=1227
 permalink: /2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html
-wp_review_location:
-  - bottom
-wp_review_type:
-  - star
-wp_review_heading:
-  - Best goed
-wp_review_desc_title:
-  - Samenvatting
-wp_review_desc:
+vw_review_summary:
   - Afwerking is niet zo geweldig, maar van een afstandje is het net echt. Geluid is goed, maar de kwaliteit en degelijkheid van de hoofdtelefoon an sich is ver te zoeken. Eerlijkheidshalve heb je voor 16 euro best een aardige hoofdtelefoon, maar geen echt Beats By Dr Dre natuurlijk.
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"0";}'
-wp_review_total:
+vw_review_average_score:
   - "6.5"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_item:
-  - 'a:4:{i:0;a:2:{s:20:"wp_review_item_title";s:12:"Degelijkheid";s:19:"wp_review_item_star";s:1:"3";}i:1;a:2:{s:20:"wp_review_item_title";s:6:"Design";s:19:"wp_review_item_star";s:2:"10";}i:2;a:2:{s:20:"wp_review_item_title";s:9:"Kwaliteit";s:19:"wp_review_item_star";s:1:"5";}i:3;a:2:{s:20:"wp_review_item_title";s:6:"Geluid";s:19:"wp_review_item_star";s:1:"8";}}'
+vw_review_score_0_label:
+ - Degelijkheid
+vw_review_score_0_score:
+ - 6
+vw_review_score_1_label:
+ - Design
+vw_review_score_1_score:
+ - 20
+vw_review_score_2_label:
+ - Kwaliteit
+vw_review_score_2_score:
+ - 10
+vw_review_score_3_label:
+ - Geluid
+vw_review_score_3_score:
+ - 16
 video_post_url:
   - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-factory_shortcodes_assets:
-  - 'a:0:{}'
-hits:
-  - "1466"
-itrr_another_apply:
-  - 'no'
 dsq_thread_id:
   - "5712885553"
 feature-img: https://vandersluijs.resultants-e.nl/2015/09/theo-beats-by-dr-dre.jpg
@@ -73,7 +53,7 @@ De winkelbedienden zeggen overigens niet dat ze echt zijn, maar wel net  zo goe
 
 ## Net echt zo&#8217;n nep Beats by Dr Dre
 
-[<img class="alignleft size-thumbnail wp-image-1231" src="https://www.vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_1007-150x150.jpg" alt="IMG_1007" width="150" height="150" srcset="https://vandersluijs.resultants-e.nl/2015/08/IMG_1007-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/08/IMG_1007-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />](https://www.vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_1007.jpg)In de winkel leken ze net echt. De juiste doos zat er om, Dr Dre staat er op met foto en zijn logo. Je kon ze zelfs testen bij schappen waar ze hingen. Voor mezelf dacht ik, dit moet ik testen! Dit is te goedkoop om niet te laten hangen.
+(https://www.vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_1007.jpg)In de winkel leken ze net echt. De juiste doos zat er om, Dr Dre staat er op met foto en zijn logo. Je kon ze zelfs testen bij schappen waar ze hingen. Voor mezelf dacht ik, dit moet ik testen! Dit is te goedkoop om niet te laten hangen.
 
 En zeg nou zelf, staat toch best goed zo&#8217;n Beats om je nek!
 
@@ -100,7 +80,7 @@ En er zit ook géén garantie bewijs bij. Maar goed&#8230;. op nep producten heb
 
 Als ik thuis gekomen goed ga kijken dan vallen me toch wel wat kleine kwaliteitsprobleempjes op.
 
-[<img class="alignleft size-thumbnail wp-image-1229" src="https://www.vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0872-sml-150x150.jpg" alt="IMG_0872-sml" width="150" height="150" srcset="https://vandersluijs.resultants-e.nl/2015/08/IMG_0872-sml-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2015/08/IMG_0872-sml-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />](https://www.vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0872-sml.jpg)Zo gaat het uittrekken van de oorschelpen wat moeilijk en maakt het een krakend geluid. Niet echt soepel zeg maar. Terwijl je verwacht bij een Beats by Dr Dre dat dit toch eenvoudig en soepeltjes gaat.
+(https://www.vandersluijs.nl/blog/wp-content/uploads/2015/08/IMG_0872-sml.jpg)Zo gaat het uittrekken van de oorschelpen wat moeilijk en maakt het een krakend geluid. Niet echt soepel zeg maar. Terwijl je verwacht bij een Beats by Dr Dre dat dit toch eenvoudig en soepeltjes gaat.
 
 > Niet bij een neppert dus.
 
@@ -120,7 +100,7 @@ Dat had ik niet verwacht zo&#8217;n geluid voor nog geen 17 euro! Het geluid wat
 
 Ik zelf weet niet of ik 200 euro zou uitgeven voor een echt Beats. Ik heb er geen dus qua geluid kan ik het niet vergelijken. Maar als je echt kwaliteit zoekt in een hoofdtelefoon dan kan deze nep Beats, buiten het prima geluid, je geen kwaliteit bieden.
 
-Wil je nou een echte Beats kopen maar heb je niet zo veel geld? Koop dan er dan één via [NopNop](http://www.nopnop.nl/index.php?zoeken=beats)! Dan koop je een echte [Beats by Dr. Dre hoofdtelefoon](http://www.nopnop.nl/index.php?zoeken=beats) met heel veel korting!
+Wil je nou een echte Beats kopen maar heb je niet zo veel geld? Koop dan er dan één via (http://www.nopnop.nl/index.php?zoeken=beats) met heel veel korting!
 
 <div id='gallery-6' class='gallery galleryid-1227 gallery-columns-3 gallery-size-medium'>
     
@@ -148,6 +128,5 @@ Op zoek naar de Beste Beats by Dre aanbiedingen?
 
 Hieronder zie je 5 geweldige Beats By Dre aanbiedingen!
 
-Ga voor alle aanbiedingen naar [Beats By Dre Aanbiedingen](https://www.vandersluijs.nl/beste-beats-by-dre-aanbiedingen)!
+Ga voor alle aanbiedingen naar (https://www.vandersluijs.nl/beste-beats-by-dre-aanbiedingen)!
 
-[show-bstock-product-by-brand brand=&#8217;Beats By Dre&#8217; limit=5]

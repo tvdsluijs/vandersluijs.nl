@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Adobe Flex Debuggin with Google Chrome'
 slug: 'adobe-flex-debuggin-with-google-chrome'
 date: '2009-02-26 19:50'

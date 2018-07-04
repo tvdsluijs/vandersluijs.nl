@@ -49,11 +49,11 @@ Niet handig vond ik! Tijdrovend vond ik! Maar wat blijkt, google heeft een gewel
 
 Voor controle keek ik altijd naar de groene Pijl &#8220;Aanbevolen tijden&#8221;
 
-![Tijdstip zoeken Google Calendar](https://vandersluijs.resultants-e/2014/Sep/planning_1.png)  
+![Tijdstip zoeken Google Calendar](https://vandersluijs.resultants-e.nl/2014/Sep/planning_1.png)  
 Maar je moet om te plannen dus op &#8220;Tijdstip zoeken&#8221; (rode pijl) klikken
 
 En dan krijg je pas echt goede controle over hoe je de meeting kan inplannen. 
 
-![Google Kalender plannen meeting](https://vandersluijs.resultants-e/2014/Sep/planning_2.png)
+![Google Kalender plannen meeting](https://vandersluijs.resultants-e.nl/2014/Sep/planning_2.png)
 
 Het is dus een beetje verstopt&#8230;. maar Google heeft gewoon een goede mogelijkheid tot plannen van een meeting met meerdere personen!

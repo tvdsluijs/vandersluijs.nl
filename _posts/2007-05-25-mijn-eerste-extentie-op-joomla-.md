@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Mijn eerste extentie op Joomla!'
 slug: 'mijn-eerste-extentie-op-joomla-'
 date: '2007-05-25 14:27'

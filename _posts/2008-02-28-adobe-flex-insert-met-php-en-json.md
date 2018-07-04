@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Adobe Flex Insert met PhP en Json'
 slug: 'adobe-flex-insert-met-php-en-json'
 date: '2008-02-28 18:48'

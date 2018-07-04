@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Meerdere item via drag en drop verplaatsen'
 slug: 'meerdere-item-via-drag-en-drop-verplaatsen'
 date: '2008-12-18 14:44'
 publish_date: '2008-12-18 14:44'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*BQVpRbC-pqkra7OE.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*BQVpRbC-pqkra7OE.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -32,5 +32,5 @@ Maar na wat gepuzzel lukte het toch en zie hier de multi drag and drop list
 Get the code on [Github](https://github.com/tvdsluijs/Flex-drag-drop-multiple-
 items-Listbox-part-1/tree/)
 
-![](https://vandersluijs.resultants-e/0*BQVpRbC-pqkra7OE.gif)
+![](https://vandersluijs.resultants-e.nl/0*BQVpRbC-pqkra7OE.gif)
 

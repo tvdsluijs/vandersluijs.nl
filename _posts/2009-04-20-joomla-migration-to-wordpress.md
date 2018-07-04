@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Joomla! migration to Wordpress'
 slug: 'joomla-migration-to-wordpress'
 date: '2009-04-20 12:15'

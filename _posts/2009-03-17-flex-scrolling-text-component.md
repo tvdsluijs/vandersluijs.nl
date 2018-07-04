@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Flex Scrolling Text Component'
 slug: 'flex-scrolling-text-component'
 date: '2009-03-17 08:03'
 publish_date: '2009-03-17 08:03'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*dfNs3h5rLp-Kw5BU.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*dfNs3h5rLp-Kw5BU.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -35,5 +35,5 @@ With special thanks to Peter Ent.
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*dfNs3h5rLp-Kw5BU.gif)
+![](https://vandersluijs.resultants-e.nl/0*dfNs3h5rLp-Kw5BU.gif)
 

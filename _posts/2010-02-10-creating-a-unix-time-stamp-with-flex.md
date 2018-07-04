@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Creating a Unix Time stamp with Flex'
 slug: 'creating-a-unix-time-stamp-with-flex'
 date: '2010-02-10 16:37'

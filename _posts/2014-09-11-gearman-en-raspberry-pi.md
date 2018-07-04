@@ -29,7 +29,7 @@ dsq_thread_id:
 categories:
   - Tech
 ---
-![raspberrypi](https://vandersluijs.resultants-e/2014/Sep/RaspberryPi.jpg)  
+![raspberrypi](https://vandersluijs.resultants-e.nl/2014/Sep/RaspberryPi.jpg)  
 Op mijn werk hebben we een jaar geleden gekozen om bepaalde data verwerkingen en test&#8217;s buiten het bedrijf te gaan doen. Na een half jaar de AWS service te hebben gebruikt van Amazon wilden we het anders gaan aanpakken.
 
 Helaas bleken de Amazon servers niet te voldoen voor wat we er mee wilden.
@@ -72,7 +72,7 @@ De installatie voor een niet-IT-er is super eenvoudig. UTP kabel er in, stroom e
 
 Binnen 1 minuut hing hij in mijn meterkast! 
 
-![Gearman met Raspberry](https://vandersluijs.resultants-e/2014/Sep/20140128_172416_Burgemeester_C__Koertstraat.jpg)
+![Gearman met Raspberry](https://vandersluijs.resultants-e.nl/2014/Sep/20140128_172416_Burgemeester_C__Koertstraat.jpg)
 
 Na een week hadden we zulke goede resultaten dat we hier verder mee wilden gaan.
 

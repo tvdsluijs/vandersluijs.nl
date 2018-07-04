@@ -1,16 +1,16 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'The sky is the limit! at the Adobe User Group XL'
 slug: 'the-sky-is-the-limit-at-the-adobe-user-group-xl'
 date: '2009-11-19 19:58'
 publish_date: '2009-11-19 19:58'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*aaYTt1hg0ZncG4yw.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*aaYTt1hg0ZncG4yw.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
-![Get Adobe Flash Player](https://vandersluijs.resultants-e/0*aaYTt1hg0ZncG4yw.gif)
+![Get Adobe Flash Player](https://vandersluijs.resultants-e.nl/0*aaYTt1hg0ZncG4yw.gif)
 
 On December 3, at the Adobe User Group XL you can enjoy a day of inspiring
 sessions with international and national speakers, with the theme The sky is

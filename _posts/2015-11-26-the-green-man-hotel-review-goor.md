@@ -6,62 +6,36 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1732
 permalink: /2015/11/the-green-man-hotel-review-goor.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
 video_post_url:
   - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-wp_review_type:
-  - star
-wp_review_heading:
-  - The Green Man Hotel
-wp_review_desc:
+vw_review_summary:
   - Goedkoop! Heel goedkoop! Maar daar in tegen ook ranzig! Voor één nacht bij een concert of voetbalwedstrijd bezoek in het Wembley prima! Maar niet met je familie heen gaan!
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"0";}'
-wp_review_total:
+vw_review_average_score:
   - "1.2"
-wp_review_item:
-  - 'a:6:{i:0;a:2:{s:20:"wp_review_item_title";s:7:"Locatie";s:19:"wp_review_item_star";s:1:"4";}i:1;a:1:{s:20:"wp_review_item_title";s:14:"Slaapkwaliteit";}i:2;a:1:{s:20:"wp_review_item_title";s:6:"Kamers";}i:3;a:2:{s:20:"wp_review_item_title";s:7:"Service";s:19:"wp_review_item_star";s:1:"1";}i:4;a:2:{s:20:"wp_review_item_title";s:6:"Waarde";s:19:"wp_review_item_star";s:1:"2";}i:5;a:1:{s:20:"wp_review_item_title";s:8:"Hygiëne";}}'
-hits:
-  - "578"
-wp_review_through_comment:
-  - "1"
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_sidebar_position:
-  - "0"
-asalah_custom_description:
-  - ""
+vw_review_score_0_label:
+ - Locatie
+vw_review_score_0_score:
+ - 8
+vw_review_score_1_label:
+ - Slaapkwaliteit
+vw_review_score_1_score:
+ - 0
+vw_review_score_2_label:
+ - Kamers
+vw_review_score_2_score:
+ - 0
+vw_review_score_3_label:
+ - Service
+vw_review_score_3_score:
+ - 2
+vw_review_score_4_label:
+ - Waarde
+vw_review_score_4_score:
+ - 4
+vw_review_score_5_label:
+ - Hygiëne
+vw_review_score_5_score:
+ - 0
 dsq_thread_id:
   - "5725860187"
 feature-img: https://vandersluijs.resultants-e.nl/2015/11/PB200007-e1448402892188.jpg
@@ -70,7 +44,7 @@ categories:
   - Travel
 format: image
 ---
-<a href="https://ad.zanox.com/ppc/?35941096C66482065&ulp=[[https%3A%2F%2Fwww.expedia.nl%2FWembley-Hotels-The-Green-Man.h2245344.Hotelinfo]]" target="_blank">The Green Man Hotel</a>, voor 41 euro per nacht&#8230;. tja wat kan je verwachten? Helemaal niks&#8230; en geloof me bij dit hotel kreeg je dat ook!
+<a href="https://ad.zanox.com/ppc/?35941096C66482065&ulp=" target="_blank">The Green Man Hotel</a>, voor 41 euro per nacht&#8230;. tja wat kan je verwachten? Helemaal niks&#8230; en geloof me bij dit hotel kreeg je dat ook!
 
 Helemaal niks!
 

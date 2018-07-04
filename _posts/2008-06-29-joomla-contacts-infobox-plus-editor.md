@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Joomla! Contacts Infobox plus editor'
 slug: 'joomla-contacts-infobox-plus-editor'
 date: '2008-06-29 17:13'

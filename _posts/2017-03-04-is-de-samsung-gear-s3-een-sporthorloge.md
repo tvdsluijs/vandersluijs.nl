@@ -3,7 +3,7 @@ id: 4312
 title: Is de Samsung Gear S3 een Sporthorloge
 date: 2017-03-04T16:23:31+00:00
 author: Theo van der Sluijs
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 layout: post
 guid: https://www.vandersluijs.nl/?p=4312
 permalink: /2017/03/is-de-samsung-gear-s3-een-sporthorloge.html
@@ -125,7 +125,7 @@ Samsung heeft alles op alles gezet om zo goed mogelijk te herkennen dat je aan h
 
 Zo kan het zien dat je een trap op loopt. En dat werkt inderdaad prima! De 5 trappen die ik had ingesteld die ik moest lopen herkende hij.
   
-!\[Samsung S3 Gear Frontier\](https://vandersluijs.resultants-e/2017/03/samsung-gear-s3-frontier.jpg)
+!\[Samsung S3 Gear Frontier\](https://vandersluijs.resultants-e.nl/2017/03/samsung-gear-s3-frontier.jpg)
   
 Maar hij herkende ook de volgende sporten, en moedigde mij er bij aan om vooral door te gaan.
 

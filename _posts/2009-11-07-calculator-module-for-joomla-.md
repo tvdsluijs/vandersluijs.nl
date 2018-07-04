@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Calculator Module for Joomla! 1.5'
 slug: 'calculator-module-for-joomla-'
 date: '2009-11-07 12:51'

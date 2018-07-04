@@ -6,50 +6,48 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1668
 permalink: /2015/11/nikon-1-j5-review-overtuigt-niet-echt.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
 video_post_url:
   - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-wp_review_type:
-  - star
-wp_review_heading:
-  - Nikon 1 J5
-wp_review_desc:
+vw_review_summary:
   - De Nikon 1 J5 overtuigd mij niet. Alhoewel de camera erg snel is, is het objectief enorm traag. Even inzoomen is er niet bij. De body ziet er prachtig uit en is licht, maar hij voelt bij mij in mijn hand vreemd zwaar aan. Het scherm is scherm en naar twee kanten te draaien, dat is voor mij een pluspunt!
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"1";}'
-wp_review_total:
+vw_review_average_score:
   - "3.7"
-wp_review_item:
-  - 'a:9:{i:0;a:2:{s:20:"wp_review_item_title";s:13:"Gebruiksgemak";s:19:"wp_review_item_star";s:1:"4";}i:1;a:2:{s:20:"wp_review_item_title";s:12:"Degelijkheid";s:19:"wp_review_item_star";s:1:"5";}i:2;a:2:{s:20:"wp_review_item_title";s:7:"Gewicht";s:19:"wp_review_item_star";s:1:"3";}i:3;a:2:{s:20:"wp_review_item_title";s:12:"Instellingen";s:19:"wp_review_item_star";s:1:"4";}i:4;a:2:{s:20:"wp_review_item_title";s:13:"Fotokwaliteit";s:19:"wp_review_item_star";s:1:"3";}i:5;a:2:{s:20:"wp_review_item_title";s:6:"Design";s:19:"wp_review_item_star";s:1:"5";}i:6;a:2:{s:20:"wp_review_item_title";s:8:"Snelheid";s:19:"wp_review_item_star";s:1:"2";}i:7;a:2:{s:20:"wp_review_item_title";s:15:"Bedieningsgemak";s:19:"wp_review_item_star";s:1:"3";}i:8;a:2:{s:20:"wp_review_item_title";s:5:"Prijs";s:19:"wp_review_item_star";s:1:"4";}}'
-wp_review_user_reviews:
-  - "0"
-wp_review_review_count:
-  - "0"
-hits:
-  - "916"
-itrr_another_apply:
-  - 'no'
+vw_review_score_0_label:
+ - Gebruiksgemak
+vw_review_score_0_score:
+ - 8
+vw_review_score_1_label:
+ - Degelijkheid
+vw_review_score_1_score:
+ - 10
+vw_review_score_2_label:
+ - Gewicht
+vw_review_score_2_score:
+ - 6
+vw_review_score_3_label:
+ - Instellingen
+vw_review_score_3_score:
+ - 8
+vw_review_score_4_label:
+ - Fotokwaliteit
+vw_review_score_4_score:
+ - 6
+vw_review_score_5_label:
+ - Design
+vw_review_score_5_score:
+ - 10
+vw_review_score_6_label:
+ - Snelheid
+vw_review_score_6_score:
+ - 4
+vw_review_score_7_label:
+ - Bedieningsgemak
+vw_review_score_7_score:
+ - 6
+vw_review_score_8_label:
+ - Prijs
+vw_review_score_8_score:
+ - 8
 dsq_thread_id:
   - "5715751391"
 categories:
@@ -130,9 +128,9 @@ Misschien dat de fotos met nabewerking er nog beter komen, maar voor mij schiet
 
 Afgelopen week zat ik in een Agile training dus redelijk wat foto&#8217;s geschoten in de hotel kamer (moeilijke belichting) en vandaag nog even buiten bij ons in de tuin.
 
-[FAG id=2150]
 
-[Update : 4 november]
+
+
 
 Ik heb het stipje en streepje gevonden waarmee je het objectief op de body kan zetten. Echter gaat dit nog steeds redelijk zwaar als ik eerlijk ben, maar het vinden van hoe het objectief aan de body moet is dus makkelijker geworden.
 

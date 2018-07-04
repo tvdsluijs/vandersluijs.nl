@@ -3,7 +3,7 @@ id: 539
 title: Tweaking Vista
 date: 2007-07-04T15:28:00+00:00
 author: Theo van der Sluijs
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/07/04/tweaking-vista/
 permalink: /2007/07/tweaking-vista.html

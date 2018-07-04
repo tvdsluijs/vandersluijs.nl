@@ -27,7 +27,7 @@ dsq_thread_id:
 categories:
   - Lifestyle
 ---
-![Runtastic Hartslag monitor](https://vandersluijs.resultants-e/2014/Jun/runtastic_heart_reate.jpg)  
+![Runtastic Hartslag monitor](https://vandersluijs.resultants-e.nl/2014/Jun/runtastic_heart_reate.jpg)  
 Een tijdje was ik al op zoek naar een alles in één armband of horloge. Zo één die en GPS, pedometer, slaapmonitor en hartslag in zich had.
 
 Eigenlijk loop ik te veel vooruit op de techniek. Het is er allemaal wel, maar op dit moment nog niet echt een goed combi apparaat.
@@ -91,7 +91,7 @@ Maar daar heb ik nu dus nog niets aan.
 
 Ik heb er dus voor gekozen om een zogenaamde Borstband hartslag meter te kopen en wel van Runtastic.
 
-![runtastic combi](https://vandersluijs.resultants-e/2014/Jun/runtastic_combo.jpg)
+![runtastic combi](https://vandersluijs.resultants-e.nl/2014/Jun/runtastic_combo.jpg)
 
 Veel mensen vinden het helemaal niets zo&#8217;n borstband, maar voor 50 euro een tussenoplossing op deze manier vind ik prima.
 

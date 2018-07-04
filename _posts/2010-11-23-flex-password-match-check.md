@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Flex Password match check'
 slug: 'flex-password-match-check'
 date: '2010-11-23 09:54'

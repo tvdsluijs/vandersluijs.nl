@@ -3,7 +3,7 @@ id: 4328
 title: Tommy Hilfiger 24/7 hybrid horloge review
 date: 2017-06-05T17:02:04+00:00
 author: Theo van der Sluijs
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 layout: post
 guid: https://www.vandersluijs.nl/?p=4328
 permalink: /2017/06/tommy-hilfiger-247-hybrid-horloge-review.html

@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Flex Original value check'
 slug: 'flex-original-value-check'
 date: '2009-06-15 11:00'
 publish_date: '2009-06-15 11:00'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*pvzm8qD7iWIRXhmP.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*pvzm8qD7iWIRXhmP.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -47,5 +47,5 @@ Original-value-check)
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*pvzm8qD7iWIRXhmP.gif)
+![](https://vandersluijs.resultants-e.nl/0*pvzm8qD7iWIRXhmP.gif)
 

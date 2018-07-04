@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Scrum master worden? Let dan even op!'
 slug: 'scrum-master-worden-let-dan-even-op-'
 date: '2012-10-15 22:14'

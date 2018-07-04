@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Nice SAP Adobe Flex / Air Banner'
 slug: 'nice-sap-adobe-flex-air-banner'
 date: '2009-03-20 14:36'

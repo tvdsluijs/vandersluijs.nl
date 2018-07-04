@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Passion Calculator'
 slug: 'passion-calculator'
 date: '2010-02-05 12:02'
 publish_date: '2010-02-05 12:02'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*J-EERFdGbxoXeSn-.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*J-EERFdGbxoXeSn-.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -52,5 +52,5 @@ Module)!
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*J-EERFdGbxoXeSn-.gif)
+![](https://vandersluijs.resultants-e.nl/0*J-EERFdGbxoXeSn-.gif)
 

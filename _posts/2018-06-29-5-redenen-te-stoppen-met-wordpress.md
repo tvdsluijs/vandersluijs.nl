@@ -5,8 +5,9 @@ author: Theo van der Sluijs
 permalink: /2018/06/5-redenen-te-stoppen-met-wordpress
 date: 2018-06-29
 publish_date: 2018-06-29
+thumbnail: /images/5-redenen-te-stoppen-met-wordpress_thumbnail.jpeg
 image:
-  feature: images/5-redenen-te-stoppen-met-wordpress.jpeg
+  feature: /images/5-redenen-te-stoppen-met-wordpress.jpeg
   credit: pixabay
   creditlink: https://pixabay.com/en/wordpress-blogging-writing-typing-923188/
 categories: ['Tech']
@@ -14,8 +15,7 @@ tags: Wordpress
  - Jekyll
  - Hacking
 comments: true
-excerpt_separator: '<!--more-->'
-
+excerpt_separator: <!--more-->
 ---
 Ik heb het helemaal gehad met Wordpress. Ook al onderhield ik mijn site dagelijks 
 en goed toch, en update ik dus alles, werd ik gehacked. Mijn site was offline en 
@@ -25,6 +25,7 @@ Dus besloot ik te stoppen met Wordpress.
 <!--more-->
 
 Wordpress het wordt door miljoenen gebruikers ingezet voor ook weer miljoenen sites. 
+
 Het is heel eenvoudig om een Wordpress site op te zetten. Met een paar klikken heb 
 je een site in elkaar. Template er op... plugin installeren voor extra functionaliteit 
 en gaan met die banaan.
@@ -124,14 +125,9 @@ medeoprichter van GitHub, wordt het gedistribueerd onder een open source licenti
 De basis van Jekyll is gemaakt op ruwe tekstbestandjes (Markdown files), 
 die samen een website vormen. 
 
-Groot voordeel van Jekyll is, is dat de pagina's op internet Loeisnel zijn omdat iedere
-pagina niet zoals PHP elke keer opnieuw gebouwd moet worden. Jekyll doet dit 1x en dan
-staan de html pagina's klaar. Tot je updates doet en dan bouwt hij 1x alles nieuw.
+Groot voordeel van Jekyll is, is dat de pagina's op internet Loeisnel zijn omdat iedere pagina niet zoals PHP elke keer opnieuw gebouwd moet worden. Jekyll doet dit 1x en dan staan de html pagina's klaar. Tot je updates doet en dan bouwt hij 1x alles nieuw.
 
-Daarnaast is het moeilijker om te hacken omdat er geen PHP of andere code is die een 
-hacker kan gebruiken om in je site gaten te vinden.
+Daarnaast is het moeilijker om te hacken omdat er geen PHP of andere code is die een hacker kan gebruiken om in je site gaten te vinden.
 
-Ik host nu mijn 3 sites op Github. Daar had ik sowieso al code staan, en voor 80 euro 
-per jaar, natuurlijk kan je ook zelf via [Digital Ocean](https://m.do.co/c/38909179d2dc) 
-je eigen Jekyll site hosten wat relatief eenvoudig is.
+Ik host nu mijn 3 sites op Github. Daar had ik sowieso al code staan, en dat voor slechts 80 euro per jaar. Natuurlijk kan je ook zelf via [Digital Ocean](https://m.do.co/c/38909179d2dc) je eigen Jekyll site hosten wat relatief eenvoudig is.
 

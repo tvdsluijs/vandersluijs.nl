@@ -6,38 +6,46 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2363
 permalink: /2016/02/sony-alpha-6000-is-de-winnaar.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_type:
-  - star
-wp_review_desc:
+vw_review_summary:
   - "De Sony Alpha 6000 heeft alles wat een goede systeem camera in zich moet hebben. Het is een goede snelle camera, die een paar kleine minpuntjes goed weet te maken met de snelheid van de camera en de mooie foto's die hij moeiteloos schiet. De prijs is net boven de 500 euro net te verantwoorden."
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"1";}'
-wp_review_total:
+vw_review_average_score:
   - "4.4"
-wp_review_item:
-  - 'a:9:{i:0;a:2:{s:20:"wp_review_item_title";s:13:"Gebruiksgemak";s:19:"wp_review_item_star";s:1:"5";}i:1;a:2:{s:20:"wp_review_item_title";s:12:"Degelijkheid";s:19:"wp_review_item_star";s:1:"5";}i:2;a:2:{s:20:"wp_review_item_title";s:7:"Gewicht";s:19:"wp_review_item_star";s:1:"5";}i:3;a:2:{s:20:"wp_review_item_title";s:12:"Instellingen";s:19:"wp_review_item_star";s:1:"5";}i:4;a:2:{s:20:"wp_review_item_title";s:13:"Fotokwaliteit";s:19:"wp_review_item_star";s:1:"5";}i:5;a:2:{s:20:"wp_review_item_title";s:6:"Design";s:19:"wp_review_item_star";s:1:"5";}i:6;a:2:{s:20:"wp_review_item_title";s:8:"Snelheid";s:19:"wp_review_item_star";s:1:"5";}i:7;a:2:{s:20:"wp_review_item_title";s:15:"Bedieningsgemak";s:19:"wp_review_item_star";s:1:"5";}i:8;a:2:{s:20:"wp_review_item_title";s:5:"Prijs";s:19:"wp_review_item_star";s:1:"4";}}'
-wp_review_user_reviews:
-  - "0"
-wp_review_review_count:
-  - "0"
-hits:
-  - "888"
-itrr_another_apply:
-  - 'no'
+vw_review_score_0_label:
+ - Gebruiksgemak
+vw_review_score_0_score:
+ - 10
+vw_review_score_1_label:
+ - Degelijkheid
+vw_review_score_1_score:
+ - 10
+vw_review_score_2_label:
+ - Gewicht
+vw_review_score_2_score:
+ - 10
+vw_review_score_3_label:
+ - Instellingen
+vw_review_score_3_score:
+ - 10
+vw_review_score_4_label:
+ - Fotokwaliteit
+vw_review_score_4_score:
+ - 10
+vw_review_score_5_label:
+ - Design
+vw_review_score_5_score:
+ - 10
+vw_review_score_6_label:
+ - Snelheid
+vw_review_score_6_score:
+ - 10
+vw_review_score_7_label:
+ - Bedieningsgemak
+vw_review_score_7_score:
+ - 10
+vw_review_score_8_label:
+ - Prijs
+vw_review_score_8_score:
+ - 8
 dsq_thread_id:
   - "5709775630"
 feature-img: https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952.jpg

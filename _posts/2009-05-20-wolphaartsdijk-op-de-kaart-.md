@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Wolphaartsdijk op de kaart !'
 slug: 'wolphaartsdijk-op-de-kaart-'
 date: '2009-05-20 02:11'

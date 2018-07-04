@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Functies in een development team'
 slug: 'functies-in-een-development-team'
 date: '2015-09-28 17:43:22+00:00'

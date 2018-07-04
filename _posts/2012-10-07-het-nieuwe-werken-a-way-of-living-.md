@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Het nieuwe werken, a way of living!'
 slug: 'het-nieuwe-werken-a-way-of-living-'
 date: '2012-10-07 11:53'

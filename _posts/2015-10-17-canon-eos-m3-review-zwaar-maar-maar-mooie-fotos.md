@@ -6,46 +6,48 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1510
 permalink: /2015/10/canon-eos-m3-review-zwaar-maar-maar-mooie-fotos.html
-wp_review_location:
-  - bottom
-wp_review_type:
-  - star
-wp_review_heading:
-  - Canon EOS M3 Review
-wp_review_desc_title:
-  - Samenvatting
-wp_review_desc:
+vw_review_summary:
   - "De canon eos m3 viel me qua gewicht heel erg tegen. Ik had hem lichter verwacht. De maat is prima hij past precies in mijn hand. Met een stevig prijs van meer dan 500 euro, maakt hij daarentegen wel hele mooie scherpe foto's"
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"0";}'
-wp_review_total:
+vw_review_average_score:
   - "4"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_item:
-  - 'a:9:{i:0;a:2:{s:20:"wp_review_item_title";s:13:"Gebruiksgemak";s:19:"wp_review_item_star";s:3:"3.8";}i:1;a:2:{s:20:"wp_review_item_title";s:12:"Degelijkheid";s:19:"wp_review_item_star";s:1:"5";}i:2;a:2:{s:20:"wp_review_item_title";s:7:"Gewicht";s:19:"wp_review_item_star";s:3:"2.5";}i:3;a:2:{s:20:"wp_review_item_title";s:12:"Instellingen";s:19:"wp_review_item_star";s:3:"4.5";}i:4;a:2:{s:20:"wp_review_item_title";s:13:"Fotokwaliteit";s:19:"wp_review_item_star";s:1:"5";}i:5;a:2:{s:20:"wp_review_item_title";s:6:"Design";s:19:"wp_review_item_star";s:3:"4.5";}i:6;a:2:{s:20:"wp_review_item_title";s:8:"Snelheid";s:19:"wp_review_item_star";s:3:"3.5";}i:7;a:2:{s:20:"wp_review_item_title";s:15:"Bedieningsgemak";s:19:"wp_review_item_star";s:1:"4";}i:8;a:2:{s:20:"wp_review_item_title";s:5:"Prijs";s:19:"wp_review_item_star";s:3:"3.5";}}'
+vw_review_score_0_label:
+ - Gebruiksgemak
+vw_review_score_0_score:
+ - 7
+vw_review_score_1_label:
+ - Degelijkheid
+vw_review_score_1_score:
+ - 10
+vw_review_score_2_label:
+ - Gewicht
+vw_review_score_2_score:
+ - 5
+vw_review_score_3_label:
+ - Instellingen
+vw_review_score_3_score:
+ - 9
+vw_review_score_4_label:
+ - Fotokwaliteit
+vw_review_score_4_score:
+ - 10
+vw_review_score_5_label:
+ - Design
+vw_review_score_5_score:
+ - 9
+vw_review_score_6_label:
+ - Snelheid
+vw_review_score_6_score:
+ - 7
+vw_review_score_7_label:
+ - Bedieningsgemak
+vw_review_score_7_score:
+ - 8
+vw_review_score_8_label:
+ - Prijs
+vw_review_score_8_score:
+ - 7
 video_post_url:
   - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "902"
-itrr_another_apply:
-  - 'no'
 dsq_thread_id:
   - "5734380797"
 categories:
@@ -106,4 +108,3 @@ Binnenkort nog even een video review! Ene&#8230; mocht je deze kopen, neem er da
   * Accu is wanneer je het scherm aan laat staan, redelijk snel leeg (2x 30 minuten)
   * NFC kan ik met mijn iPhone niet gebruiken 🙁
 
-[FAG id=2158]

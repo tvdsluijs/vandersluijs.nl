@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Waarom blijven grote bedrijven in het verleden hangen?'
 slug: 'waarom-blijven-grote-bedrijven-in-het-verleden-hangen-'
 date: '2014-09-11 20:22'

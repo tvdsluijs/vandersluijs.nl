@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Flex textArea Popup'
 slug: 'flex-textarea-popup'
 date: '2009-08-13 08:13'
 publish_date: '2009-08-13 08:13'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*osOpnjnAIOLmd4ek.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*osOpnjnAIOLmd4ek.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -42,5 +42,5 @@ codebase=”<http://fpdownload.macromedia.com/get/flashplayer/current/swflash.ca
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*osOpnjnAIOLmd4ek.gif)
+![](https://vandersluijs.resultants-e.nl/0*osOpnjnAIOLmd4ek.gif)
 

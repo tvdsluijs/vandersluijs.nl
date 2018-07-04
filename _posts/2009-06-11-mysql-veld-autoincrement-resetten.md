@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'MySQL veld Autoincrement resetten'
 slug: 'mysql-veld-autoincrement-resetten'
 date: '2009-06-11 12:14'

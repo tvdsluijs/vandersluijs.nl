@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: '“Mijn Nummer” is verkeerd in iPhone contacten'
 slug: '-mijn-nummer-is-verkeerd-in-iphone-contacten'
 date: '2017-03-08 19:06:42+00:00'
 publish_date: '2017-03-08 19:06:42+00:00'
 image:
-  feature: 'https://vandersluijs.resultants-e/1*YdwDXtGMBeiQr3f4gQvDVQ.jpeg'
+  feature: 'https://vandersluijs.resultants-e.nl/1*YdwDXtGMBeiQr3f4gQvDVQ.jpeg'
 category: ['Tech']
 tags: ['Tech', 'iPhone', 'Quickfixphone', 'Development']
 ---

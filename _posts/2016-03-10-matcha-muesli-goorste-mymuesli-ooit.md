@@ -6,40 +6,26 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2580
 permalink: /2016/03/matcha-muesli-goorste-mymuesli-ooit.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-wp_review_type:
-  - star
-wp_review_heading:
-  - Matcha-Muesli niet te nassen
-wp_review_desc:
+vw_review_summary:
   - Dit ben ik niet gewent van MyMuesli, maar deze Matcha-Muesli variant is echt niet te doen. Keiharde stukken en vreselijk bitter! Iedere cent die ik hier aan heb uitgegeven is het echt niet waard! De voedingswaarde is apart te noemen, want groene thee breekt vet af maar er zitten best veel suikers, vetten en koolhydraten in. Dus een nogal tegenstrijdig product.
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"0";}'
-wp_review_total:
+vw_review_average_score:
   - "1.5"
-wp_review_item:
-  - 'a:4:{i:0;a:2:{s:20:"wp_review_item_title";s:5:"Prijs";s:19:"wp_review_item_star";s:1:"1";}i:1;a:2:{s:20:"wp_review_item_title";s:5:"Smaak";s:19:"wp_review_item_star";s:1:"1";}i:2;a:2:{s:20:"wp_review_item_title";s:13:"Ingrediënten";s:19:"wp_review_item_star";s:1:"2";}i:3;a:2:{s:20:"wp_review_item_title";s:14:"Voedingswaarde";s:19:"wp_review_item_star";s:1:"2";}}'
-hits:
-  - "668"
+vw_review_score_0_label:
+ - Prijs
+vw_review_score_0_score:
+ - 2
+vw_review_score_1_label:
+ - Smaak
+vw_review_score_1_score:
+ - 2
+vw_review_score_2_label:
+ - Ingrediënten
+vw_review_score_2_score:
+ - 4
+vw_review_score_3_label:
+ - Voedingswaarde
+vw_review_score_3_score:
+ - 4
 dsq_thread_id:
   - "5725875145"
 feature-img: https://vandersluijs.resultants-e.nl/2016/03/mymuesli-e1457620813380-1200x501.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Twitter Updates for 2009–12–10'
 slug: 'twitter-updates-for'
 date: '2009-12-10 23:59'

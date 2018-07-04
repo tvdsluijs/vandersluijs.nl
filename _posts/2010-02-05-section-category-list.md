@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Section Category List'
 slug: 'section-category-list'
 date: '2010-02-05 13:55'

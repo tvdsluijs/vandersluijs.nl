@@ -6,46 +6,28 @@ author: Theo.
 layout: post
 guid: http://vandersluijs.nl/?p=1488
 permalink: /2015/10/omniplan-review.html
-wp_review_location:
-  - bottom
-wp_review_type:
-  - star
-wp_review_heading:
-  - OmniPlan Review
-wp_review_desc_title:
-  - Samenvatting
-wp_review_desc:
+vw_review_summary:
   - Omniplan is een compleet planningspakket waar je door de vele features nog wel eens de weg kan kwijt raken. De prijs is fors maar reëel voor dit pakket.
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"0";}'
-wp_review_total:
+vw_review_average_score:
   - "4.5"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_item:
-  - 'a:4:{i:0;a:2:{s:20:"wp_review_item_title";s:27:"Installatie en configuratie";s:19:"wp_review_item_star";s:1:"5";}i:1;a:2:{s:20:"wp_review_item_title";s:25:"Functies en ondersteuning";s:19:"wp_review_item_star";s:1:"5";}i:2;a:2:{s:20:"wp_review_item_title";s:9:"Interface";s:19:"wp_review_item_star";s:1:"5";}i:3;a:2:{s:20:"wp_review_item_title";s:5:"Prijs";s:19:"wp_review_item_star";s:1:"3";}}'
+vw_review_score_0_label:
+ - Installatie en configuratie
+vw_review_score_0_score:
+ - 10
+vw_review_score_1_label:
+ - Functies en ondersteuning
+vw_review_score_1_score:
+ - 10
+vw_review_score_2_label:
+ - Interface
+vw_review_score_2_score:
+ - 10
+vw_review_score_3_label:
+ - Prijs
+vw_review_score_3_score:
+ - 6
 video_post_url:
   - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "0"
-pmc_featured_post:
-  - "0"
-hits:
-  - "774"
-itrr_another_apply:
-  - 'no'
 dsq_thread_id:
   - "5730805925"
 feature-img: https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-05-at-22.51.44.png
@@ -61,7 +43,7 @@ Maar even snel een overzicht maken van een roadmap met bij behorende milestones 
 
 ## Planningstool Omniplan
 
-[OmniPlan](https://www.omnigroup.com/omniplan), van de OmniGroup is een planningstool voor de Mac. Ik had al eens kort met OmniGraffle gewerkt, een flow tool, en dat beviel wel.
+(https://www.omnigroup.com/omniplan), van de OmniGroup is een planningstool voor de Mac. Ik had al eens kort met OmniGraffle gewerkt, een flow tool, en dat beviel wel.
 
 Toen ik zag dat OmniGroup nog meer software oplossingen had, had ik hun OmniPlan tool snel gevonden.
 
@@ -91,7 +73,7 @@ Wil je groepen of taken in kleuren? Is mogelijk! Wil je projecten en of taken in
 
 ## Nadelen van Omniplan
 
-Okay, er zijn twee minpuntjes aan [OmniPlan](https://www.omnigroup.com/omniplan) te vinden. Het eerste is dat het heel compleet is dus het kan ook een overkill zijn aan features voor de planning die je wilt maken. Het tweede minpuntje is de prijs! Het pakket kost net geen 200 dollar (op 1 cent na).
+Okay, er zijn twee minpuntjes aan (https://www.omnigroup.com/omniplan) te vinden. Het eerste is dat het heel compleet is dus het kan ook een overkill zijn aan features voor de planning die je wilt maken. Het tweede minpuntje is de prijs! Het pakket kost net geen 200 dollar (op 1 cent na).
 
 Echter denk ik dat deze planningstool voor een ZZPer of een team onmisbaar is om de klant, projecten en taken goed in te delen en vat te houden op het project.
 

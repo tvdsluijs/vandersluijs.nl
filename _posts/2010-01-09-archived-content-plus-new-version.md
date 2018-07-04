@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Archived Content Plus New Version'
 slug: 'archived-content-plus-new-version'
 date: '2010-01-09 21:00'

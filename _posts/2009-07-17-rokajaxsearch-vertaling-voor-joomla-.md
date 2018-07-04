@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'RokAjaxSearch vertaling voor Joomla! 1.5x'
 slug: 'rokajaxsearch-vertaling-voor-joomla-'
 date: '2009-07-17 16:26'

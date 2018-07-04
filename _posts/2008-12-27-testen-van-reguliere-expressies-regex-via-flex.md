@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Testen van Reguliere Expressies (Regex) via Flex'
 slug: 'testen-van-reguliere-expressies-regex-via-flex'
 date: '2008-12-27 14:21'

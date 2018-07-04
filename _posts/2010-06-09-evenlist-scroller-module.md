@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'EvenList Scroller Module'
 slug: 'evenlist-scroller-module'
 date: '2010-06-09 23:02'
 publish_date: '2010-06-09 23:02'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*I3xPJz2QREom_RBZ.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*I3xPJz2QREom_RBZ.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -61,5 +61,5 @@ scroller)!
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*I3xPJz2QREom_RBZ.gif)
+![](https://vandersluijs.resultants-e.nl/0*I3xPJz2QREom_RBZ.gif)
 

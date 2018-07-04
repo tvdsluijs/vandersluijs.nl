@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Professional Scrum Master I examen gehaald!'
 slug: 'professional-scrum-master-i-examen-gehaald-'
 date: '2012-11-14 19:51'

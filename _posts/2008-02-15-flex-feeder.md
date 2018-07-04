@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Flex Feeder'
 slug: 'flex-feeder'
 date: '2008-02-15 06:00'

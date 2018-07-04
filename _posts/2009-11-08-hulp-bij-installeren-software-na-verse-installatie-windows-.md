@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Hulp bij installeren software na verse installatie windows.'
 slug: 'hulp-bij-installeren-software-na-verse-installatie-windows-'
 date: '2009-11-08 20:01'

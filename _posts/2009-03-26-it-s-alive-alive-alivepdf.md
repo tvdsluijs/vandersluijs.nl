@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Its alive, Alive, ALIVEPDF'
 slug: 'it-s-alive-alive-alivepdf'
 date: '2009-03-26 08:47'

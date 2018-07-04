@@ -10,62 +10,40 @@ wp_review_custom_location:
   - "1"
 wp_review_custom_colors:
   - "1"
-wp_review_location:
-  - top
-wp_review_type:
-  - star
-wp_review_heading:
-  - Prima All Inclusive Hotel
-wp_review_desc_title:
-  - Samenvatting
-wp_review_desc:
+vw_review_summary:
   - Het is all-inclusive en erg massaal. Maar als je je daar op instelt is het een prima hotel waar jij en je kinderen zich prima kunnen vermaken!
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"1";}'
-wp_review_total:
+vw_review_average_score:
   - "8.9"
-wp_review_color:
-  - '#101eea'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_item:
-  - 'a:7:{i:0;a:2:{s:20:"wp_review_item_title";s:7:"Ligging";s:19:"wp_review_item_star";s:1:"9";}i:1;a:2:{s:20:"wp_review_item_title";s:7:"Service";s:19:"wp_review_item_star";s:1:"9";}i:2;a:2:{s:20:"wp_review_item_title";s:4:"Eten";s:19:"wp_review_item_star";s:1:"8";}i:3;a:2:{s:20:"wp_review_item_title";s:6:"Kamers";s:19:"wp_review_item_star";s:1:"9";}i:4;a:2:{s:20:"wp_review_item_title";s:15:"Kindvriendelijk";s:19:"wp_review_item_star";s:2:"10";}i:5;a:2:{s:20:"wp_review_item_title";s:7:"Zwembad";s:19:"wp_review_item_star";s:1:"8";}i:6;a:2:{s:20:"wp_review_item_title";s:17:"Prijs / kwaliteit";s:19:"wp_review_item_star";s:1:"9";}}'
+vw_review_score_0_label:
+ - Ligging
+vw_review_score_0_score:
+ - 18
+vw_review_score_1_label:
+ - Service
+vw_review_score_1_score:
+ - 18
+vw_review_score_2_label:
+ - Eten
+vw_review_score_2_score:
+ - 16
+vw_review_score_3_label:
+ - Kamers
+vw_review_score_3_score:
+ - 18
+vw_review_score_4_label:
+ - Kindvriendelijk
+vw_review_score_4_score:
+ - 20
+vw_review_score_5_label:
+ - Zwembad
+vw_review_score_5_score:
+ - 16
+vw_review_score_6_label:
+ - Prijs / kwaliteit
+vw_review_score_6_score:
+ - 18
 video_post_url:
   - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "966"
-wp_review_through_comment:
-  - "1"
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
 dsq_thread_id:
   - "5709848224"
 feature-img: https://vandersluijs.resultants-e.nl/2015/08/belvedere-hotels-kreta1.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Wordpress about the author box'
 slug: 'wordpress-about-the-author-box'
 date: '2010-03-18 20:38'

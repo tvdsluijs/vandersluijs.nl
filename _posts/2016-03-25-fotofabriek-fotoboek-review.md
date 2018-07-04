@@ -6,38 +6,40 @@ author: Theo van der Sluijs
 layout: post
 guid: https://dezeeuwsefotograaf.nl/?p=2380
 permalink: /2016/03/fotofabriek-fotoboek-review.html
-wp_review_location:
-  - bottom
-wp_review_type:
-  - star
-wp_review_desc_title:
-  - Samenvatting
-wp_review_desc:
+vw_review_summary:
   - Fotofabriek.nl levert zeer goede kwaliteit fotoboeken. De kwaliteit is overall heel goed. Met de software hebben ze nog wel wat stappen te maken maar ik verwacht dat dit naar aanleiding van dit artikel wel verbeterd gaat worden. Ik zou zeker aanraden om de afdruk service van fotofabriek gebruiken bij fotoboeken.
-wp_review_userReview:
-  - "2"
-wp_review_total:
+vw_review_average_score:
   - "8.7"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
 wp_review_user_review_type:
   - star
-wp_review_item:
-  - 'a:7:{i:0;a:2:{s:20:"wp_review_item_title";s:8:"Software";s:19:"wp_review_item_star";s:1:"5";}i:1;a:2:{s:20:"wp_review_item_title";s:19:"Kwaliteit afdrukken";s:19:"wp_review_item_star";s:1:"9";}i:2;a:2:{s:20:"wp_review_item_title";s:14:"Kwaliteit kaft";s:19:"wp_review_item_star";s:1:"9";}i:3;a:2:{s:20:"wp_review_item_title";s:20:"Kwaliteit fotopapier";s:19:"wp_review_item_star";s:1:"9";}i:4;a:2:{s:20:"wp_review_item_title";s:7:"Service";s:19:"wp_review_item_star";s:1:"9";}i:5;a:2:{s:20:"wp_review_item_title";s:15:"Prijs/Kwaliteit";s:19:"wp_review_item_star";s:2:"10";}i:6;a:2:{s:20:"wp_review_item_title";s:17:"Snelheid levering";s:19:"wp_review_item_star";s:2:"10";}}'
-wp_review_user_reviews:
-  - "0"
-wp_review_review_count:
-  - "0"
-hits:
-  - "1497"
+vw_review_score_0_label:
+ - Software
+vw_review_score_0_score:
+ - 10
+vw_review_score_1_label:
+ - Kwaliteit afdrukken
+vw_review_score_1_score:
+ - 18
+vw_review_score_2_label:
+ - Kwaliteit kaft
+vw_review_score_2_score:
+ - 18
+vw_review_score_3_label:
+ - Kwaliteit fotopapier
+vw_review_score_3_score:
+ - 18
+vw_review_score_4_label:
+ - Service
+vw_review_score_4_score:
+ - 18
+vw_review_score_5_label:
+ - Prijs/Kwaliteit
+vw_review_score_5_score:
+ - 20
+vw_review_score_6_label:
+ - Snelheid levering
+vw_review_score_6_score:
+ - 20
 dsq_thread_id:
   - "5701840516"
 categories:

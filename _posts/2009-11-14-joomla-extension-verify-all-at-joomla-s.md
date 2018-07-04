@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Joomla Extension verify all at Joomla’s'
 slug: 'joomla-extension-verify-all-at-joomla-s'
 date: '2009-11-14 20:55'

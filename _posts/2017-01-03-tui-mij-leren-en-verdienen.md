@@ -2,7 +2,7 @@
 id: 3640
 title: TUI kan wat van mij leren en verdienen!
 date: 2017-01-03T21:46:28+00:00
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=3640

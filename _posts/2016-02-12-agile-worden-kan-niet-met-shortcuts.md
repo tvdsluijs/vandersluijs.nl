@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Agile worden kan niet met Shortcuts'
 slug: 'agile-worden-kan-niet-met-shortcuts'
 date: '2016-02-12 15:14:56+00:00'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Google Latitude for Joomla! 1.5'
 slug: 'google-latitude-for-joomla-'
 date: '2009-10-29 08:27'

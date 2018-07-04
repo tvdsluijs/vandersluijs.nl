@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Auto remove highlighted fields'
 slug: 'auto-remove-highlighted-fields'
 date: '2009-07-17 11:38'

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Verify All WP Plugin in Plugin Directory'
 slug: 'verify-all-wp-plugin-in-plugin-directory'
 date: '2009-11-13 19:28'

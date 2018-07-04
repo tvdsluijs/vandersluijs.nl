@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Adobe Flex SofiNummer validatie'
 slug: 'adobe-flex-sofinummer-validatie'
 date: '2008-12-21 14:31'

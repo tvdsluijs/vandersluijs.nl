@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Joomla Marketplace NL vertaling'
 slug: 'joomla-marketplace-nl-vertaling'
 date: '2008-09-22 11:31'

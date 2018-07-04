@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'De dag dat ik stopte als ICT Manager'
 slug: 'de-dag-dat-ik-stopte-als-ict-manager'
 date: '2016-02-21 21:29:44+00:00'

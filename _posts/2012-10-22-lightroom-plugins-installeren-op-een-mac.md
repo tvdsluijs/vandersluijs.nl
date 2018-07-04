@@ -46,7 +46,7 @@ tags:
   - Adobe
   - Lightroom
 ---
-[<img class="alignleft" src="https://vandersluijs.resultants-e.nl/2012/10/lightroom.jpg" alt="" width="200" height="200" border="0" />](https://vandersluijs.resultants-e/2012/10/lightroom.jpg)Dus je hebt een mac?
+[<img class="alignleft" src="https://vandersluijs.resultants-e.nl/2012/10/lightroom.jpg" alt="" width="200" height="200" border="0" />](https://vandersluijs.resultants-e.nl/2012/10/lightroom.jpg)Dus je hebt een mac?
   
 En je kan net zoals mij niet wennen aan Aperture of iPhoto?
 

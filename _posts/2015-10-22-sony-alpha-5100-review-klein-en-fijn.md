@@ -6,46 +6,48 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1548
 permalink: /2015/10/sony-alpha-5100-review-klein-en-fijn.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
 video_post_url:
   - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-wp_review_type:
-  - star
-wp_review_heading:
-  - Sony Alpha 5100
-wp_review_desc:
+vw_review_summary:
   - Het valt me op dat bij het uitpakken de Alpha 5100 met bijna het zelfde objectief veel lichter aanvoelt dan de Canon EOS M3. Hij ligt lekker in de hand en schiet snel plaatjes. De fotos zijn niet zo knallend als bij de Canon EOS M3 maar hij schiet wel weer hele mooie HDR fotos wat de canon weer niet kan. Wel mis ik het keuze draaiwiel boven op het toestel.
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"0";}'
-wp_review_total:
+vw_review_average_score:
   - "4.3"
-wp_review_item:
-  - 'a:9:{i:0;a:2:{s:20:"wp_review_item_title";s:13:"Gebruiksgemak";s:19:"wp_review_item_star";s:1:"5";}i:1;a:2:{s:20:"wp_review_item_title";s:12:"Degelijkheid";s:19:"wp_review_item_star";s:1:"5";}i:2;a:2:{s:20:"wp_review_item_title";s:7:"Gewicht";s:19:"wp_review_item_star";s:1:"5";}i:3;a:2:{s:20:"wp_review_item_title";s:12:"Instellingen";s:19:"wp_review_item_star";s:1:"3";}i:4;a:2:{s:20:"wp_review_item_title";s:13:"Fotokwaliteit";s:19:"wp_review_item_star";s:1:"4";}i:5;a:2:{s:20:"wp_review_item_title";s:6:"Design";s:19:"wp_review_item_star";s:1:"5";}i:6;a:2:{s:20:"wp_review_item_title";s:8:"Snelheid";s:19:"wp_review_item_star";s:1:"5";}i:7;a:2:{s:20:"wp_review_item_title";s:15:"Bedieningsgemak";s:19:"wp_review_item_star";s:1:"3";}i:8;a:2:{s:20:"wp_review_item_title";s:5:"Prijs";s:19:"wp_review_item_star";s:1:"4";}}'
-hits:
-  - "799"
-itrr_another_apply:
-  - 'no'
+vw_review_score_0_label:
+ - Gebruiksgemak
+vw_review_score_0_score:
+ - 10
+vw_review_score_1_label:
+ - Degelijkheid
+vw_review_score_1_score:
+ - 10
+vw_review_score_2_label:
+ - Gewicht
+vw_review_score_2_score:
+ - 10
+vw_review_score_3_label:
+ - Instellingen
+vw_review_score_3_score:
+ - 6
+vw_review_score_4_label:
+ - Fotokwaliteit
+vw_review_score_4_score:
+ - 8
+vw_review_score_5_label:
+ - Design
+vw_review_score_5_score:
+ - 10
+vw_review_score_6_label:
+ - Snelheid
+vw_review_score_6_score:
+ - 10
+vw_review_score_7_label:
+ - Bedieningsgemak
+vw_review_score_7_score:
+ - 6
+vw_review_score_8_label:
+ - Prijs
+vw_review_score_8_score:
+ - 8
 dsq_thread_id:
   - "5726337633"
 categories:
@@ -108,4 +110,3 @@ Heb je liever alles zelf in de hand dan kan dat natuurlijk ook. Sluitertijd, dia
   * Heeft met iets donkere en snelle acties wat meer problemen;
   * Infrarood oog zit op plek waar ik de body vasthoud;
 
-[FAG id=2155]

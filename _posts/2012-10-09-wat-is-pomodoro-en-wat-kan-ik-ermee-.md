@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Wat is pomodoro en wat kan ik ermee?'
 slug: 'wat-is-pomodoro-en-wat-kan-ik-ermee-'
 date: '2012-10-09 17:52'

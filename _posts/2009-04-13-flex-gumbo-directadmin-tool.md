@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Flex Gumbo DirectAdmin Tool'
 slug: 'flex-gumbo-directadmin-tool'
 date: '2009-04-13 19:00'

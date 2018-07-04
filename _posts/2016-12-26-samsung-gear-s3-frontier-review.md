@@ -1,7 +1,7 @@
 ---
 id: 3606
 title: Samsung Gear S3 Frontier Review
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 date: 2016-12-26T19:35:14+00:00
 author: Theo van der Sluijs
 layout: post

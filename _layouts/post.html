@@ -1,11 +1,23 @@
 ---
 layout: default
 ---
-<article {% if page.feature-img %}class="feature-image"{% endif %}>
-  <header id="main" style="background-image: url('{{ page.feature-img }}')">
+{% capture i18n_date %}
+{% assign day = page.date | date: "%-d" %}
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{% assign month = site.months[m] %}
+{% assign year = page.date | date: "%Y" %}
+{% assign datum = day | append: " " | append: month | append: " " | append: year %}
+{% endcapture %}
+<article {% if page.feature-img or page.image.feature %}class="feature-image"{% endif %}>
+  {%- if page.feature-img %}
+    <header id="main" style="background-image: url('{{ page.feature-img }}')">
+  {%- elsif page.image.feature %}
+    <header id="main" style="background-image: url('{{ page.image.feature }}')">
+  {%- endif %}
     <h1 id="{{ page.title | cgi_escape }}" class="title">{{ page.title }}</h1>
     <p class="meta">
-    {{ page.date | date: "%B %-d, %Y" }}
+    <!--{{ page.date | date: "%B %-d, %Y" }}-->
+      {{ datum }}
     {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'New version Twitter Friends Module'
 slug: 'new-version-twitter-friends-module'
 date: '2010-01-14 14:05'

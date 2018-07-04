@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Game Master van mijn eerste Agile spel'
 slug: 'game-master-van-mijn-eerste-agile-spel'
 date: '2015-12-09 20:00:23+00:00'

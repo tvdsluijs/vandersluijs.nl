@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Body Mass Index (BMI) Calculator'
 slug: 'body-mass-index-bmi-calculator'
 date: '2010-02-04 10:32'
 publish_date: '2010-02-04 10:32'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*hSn5VK7mJtQ76kQp.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*hSn5VK7mJtQ76kQp.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -34,5 +34,5 @@ You can [download](https://github.com/tvdsluijs/bmi-calc/) the source from
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*hSn5VK7mJtQ76kQp.gif)
+![](https://vandersluijs.resultants-e.nl/0*hSn5VK7mJtQ76kQp.gif)
 

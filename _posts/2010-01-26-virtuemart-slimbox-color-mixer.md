@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'VirtueMart SlimBox Color Mixer'
 slug: 'virtuemart-slimbox-color-mixer'
 date: '2010-01-26 08:53'
 publish_date: '2010-01-26 08:53'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*YVuBhyBAI7onF3bS.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*YVuBhyBAI7onF3bS.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -58,5 +58,5 @@ Virtuemart-color-slimbox)!
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*YVuBhyBAI7onF3bS.gif)
+![](https://vandersluijs.resultants-e.nl/0*YVuBhyBAI7onF3bS.gif)
 

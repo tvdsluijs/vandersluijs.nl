@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Archive Content Plus voor Joomla! 1.5'
 slug: 'archive-content-plus-voor-joomla-'
 date: '2009-01-03 21:49'

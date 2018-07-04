@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Advanced Paging and Filtering in Flex Datagrid'
 slug: 'advanced-paging-and-filtering-in-flex-datagrid'
 date: '2009-01-10 21:53'
 publish_date: '2009-01-10 21:53'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*HC-ZWyAQG79QQVtc.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*HC-ZWyAQG79QQVtc.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -36,5 +36,5 @@ There is only one big issue, on a big amount of row’s it can become slow.
 Find my source code on [github](https://github.com/tvdsluijs/Advanced-Paging-
 and-Filtering-in-Flex-Datagrid/tree/)!
 
-![](https://vandersluijs.resultants-e/0*HC-ZWyAQG79QQVtc.gif)
+![](https://vandersluijs.resultants-e.nl/0*HC-ZWyAQG79QQVtc.gif)
 

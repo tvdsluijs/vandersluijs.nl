@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Ga muiten binnen het bedrijf en vraag daarna om vergeving!'
 slug: 'ga-muiten-binnen-het-bedrijf-en-vraag-daarna-om-vergeving-'
 date: '2014-09-11 20:24'

@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Google Latitude'
 slug: 'google-latitude'
 date: '2010-02-05 11:51'
 publish_date: '2010-02-05 11:51'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*OIeSuRU09gW96i_J.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*OIeSuRU09gW96i_J.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -54,5 +54,5 @@ Module)!
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*OIeSuRU09gW96i_J.gif)
+![](https://vandersluijs.resultants-e.nl/0*OIeSuRU09gW96i_J.gif)
 

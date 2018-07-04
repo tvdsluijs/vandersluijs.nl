@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Flash Builder Connect To MySQL Data'
 slug: 'flash-builder-connect-to-mysql-data'
 date: '2009-06-11 21:08'

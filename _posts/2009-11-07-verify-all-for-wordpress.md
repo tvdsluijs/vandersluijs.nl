@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Verify All for Wordpress'
 slug: 'verify-all-for-wordpress'
 date: '2009-11-07 23:47'
 publish_date: '2009-11-07 23:47'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*bw1lQS2wlujKsIrR.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*bw1lQS2wlujKsIrR.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -35,5 +35,5 @@ verification/authentication information.
   
 You like this tool ? Please consider to donate !
 
-![](https://vandersluijs.resultants-e/0*bw1lQS2wlujKsIrR.gif)
+![](https://vandersluijs.resultants-e.nl/0*bw1lQS2wlujKsIrR.gif)
 

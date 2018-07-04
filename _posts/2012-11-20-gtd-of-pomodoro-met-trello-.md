@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'GTD of Pomodoro met Trello!'
 slug: 'gtd-of-pomodoro-met-trello-'
 date: '2012-11-20 20:07'

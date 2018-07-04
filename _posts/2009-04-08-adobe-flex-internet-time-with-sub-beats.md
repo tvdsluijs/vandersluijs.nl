@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Adobe Flex Internet Time with Sub Beats'
 slug: 'adobe-flex-internet-time-with-sub-beats'
 date: '2009-04-08 21:43'
 publish_date: '2009-04-08 21:43'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*P5EduonItyVS8i7d.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*P5EduonItyVS8i7d.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -31,5 +31,5 @@ Time-with-Sub-Beats/tree/)
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*P5EduonItyVS8i7d.gif)
+![](https://vandersluijs.resultants-e.nl/0*P5EduonItyVS8i7d.gif)
 

@@ -63,29 +63,29 @@ Maar als ik alles via de Google DNS laat lopen gaat het plots wel!
 
 Ga naar de **settings** van je TV en kies daar **network** 
 
-![TV](https://vandersluijs.resultants-e/2014/Sep/netwerk1.jpg)
+![TV](https://vandersluijs.resultants-e.nl/2014/Sep/netwerk1.jpg)
 
 Selecteer **Select Network Settings** 
 
-![Select Network Settings](https://vandersluijs.resultants-e/2014/Sep/netwerk2.jpg)
+![Select Network Settings](https://vandersluijs.resultants-e.nl/2014/Sep/netwerk2.jpg)
 
 Klik **Start** om je netwerk te testen. 
 
-![netwerk testen op smart tv samsung](https://vandersluijs.resultants-e/2014/Sep/netwerk3.jpg)
+![netwerk testen op smart tv samsung](https://vandersluijs.resultants-e.nl/2014/Sep/netwerk3.jpg)
 
 Als alle testen zijn gedaan, klik dan op **IP Settings** 
 
-![IP Settings](https://vandersluijs.resultants-e/2014/Sep/netwerk4.jpg)
+![IP Settings](https://vandersluijs.resultants-e.nl/2014/Sep/netwerk4.jpg)
 
 Verander **DNS Mode** naar **Manual** 
 
-![DNS mode samsung smart TV](https://vandersluijs.resultants-e/2014/Sep/netwerk5.jpg)
+![DNS mode samsung smart TV](https://vandersluijs.resultants-e.nl/2014/Sep/netwerk5.jpg)
 
 Zet daarna je **DNS server** ip adres op : 
 
 8.8.8.8 of 8.8.4.4 
 
-![DNS Server](https://vandersluijs.resultants-e/2014/Sep/netwerk6.jpg)  
+![DNS Server](https://vandersluijs.resultants-e.nl/2014/Sep/netwerk6.jpg)  
 Hierboven zie je wat je eventueel kan instellen als je Netflix vanuit een ander land wil ontvangen via Unotelly bijvoorbeeld.
 
 Klaar!!!

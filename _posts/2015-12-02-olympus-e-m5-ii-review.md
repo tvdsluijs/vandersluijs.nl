@@ -6,42 +6,46 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1788
 permalink: /2015/12/olympus-e-m5-ii-review.html
-wp_review_location:
-  - bottom
-wp_review_type:
-  - star
-wp_review_heading:
-  - Mooi toestel voor dikke prijs
-wp_review_desc_title:
-  - Samenvatting
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"1";}'
-wp_review_total:
+vw_review_average_score:
   - "4.6"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_item:
-  - 'a:9:{i:0;a:2:{s:20:"wp_review_item_title";s:13:"Gebruiksgemak";s:19:"wp_review_item_star";s:1:"5";}i:1;a:2:{s:20:"wp_review_item_title";s:12:"Degelijkheid";s:19:"wp_review_item_star";s:1:"5";}i:2;a:2:{s:20:"wp_review_item_title";s:7:"Gewicht";s:19:"wp_review_item_star";s:1:"4";}i:3;a:2:{s:20:"wp_review_item_title";s:12:"Instellingen";s:19:"wp_review_item_star";s:1:"5";}i:4;a:2:{s:20:"wp_review_item_title";s:13:"Fotokwaliteit";s:19:"wp_review_item_star";s:1:"5";}i:5;a:2:{s:20:"wp_review_item_title";s:6:"Design";s:19:"wp_review_item_star";s:1:"5";}i:6;a:2:{s:20:"wp_review_item_title";s:8:"Snelheid";s:19:"wp_review_item_star";s:1:"5";}i:7;a:2:{s:20:"wp_review_item_title";s:15:"Bedieningsgemak";s:19:"wp_review_item_star";s:1:"5";}i:8;a:2:{s:20:"wp_review_item_title";s:5:"Prijs";s:19:"wp_review_item_star";s:1:"2";}}'
-wp_review_desc:
+vw_review_score_0_label:
+ - Gebruiksgemak
+vw_review_score_0_score:
+ - 10
+vw_review_score_1_label:
+ - Degelijkheid
+vw_review_score_1_score:
+ - 10
+vw_review_score_2_label:
+ - Gewicht
+vw_review_score_2_score:
+ - 8
+vw_review_score_3_label:
+ - Instellingen
+vw_review_score_3_score:
+ - 10
+vw_review_score_4_label:
+ - Fotokwaliteit
+vw_review_score_4_score:
+ - 10
+vw_review_score_5_label:
+ - Design
+vw_review_score_5_score:
+ - 10
+vw_review_score_6_label:
+ - Snelheid
+vw_review_score_6_score:
+ - 10
+vw_review_score_7_label:
+ - Bedieningsgemak
+vw_review_score_7_score:
+ - 10
+vw_review_score_8_label:
+ - Prijs
+vw_review_score_8_score:
+ - 4
+vw_review_summary:
   - Een prachtige camera en wat mij betreft een prima spiegel reflex vervanger! Hij is van alle gemakken voorzien, maar met de prijs van meer dan 1000 euro vind ik hem wel pittig qua prijs
-factory_shortcodes_assets:
-  - 'a:0:{}'
-wp_review_user_reviews:
-  - "0"
-wp_review_review_count:
-  - "0"
-hits:
-  - "626"
-itrr_another_apply:
-  - 'no'
 dsq_thread_id:
   - "6100326179"
 categories:
@@ -51,7 +55,7 @@ tags:
 ---
 Bijna vergeten was ik dit merk! Olympus! Hoe kon ik het vergeten!!
 
-Gelukkig was [Foto Tuerlings](https://vandersluijs.resultants-e/2015/12/www.fototuerlings.nl) zo aardig om me niet alleen hier op te duiden, maar ook om me een Olympus E-M5II te lenen voor een review.
+Gelukkig was (https://vandersluijs.resultants-e.nl/2015/12/www.fototuerlings.nl) zo aardig om me niet alleen hier op te duiden, maar ook om me een Olympus E-M5II te lenen voor een review.
 
 En wat voor een camera!! Een prachtig apparaat! Helaas kwam hij niet in originele doos, dus geen uitpak party.<!--more-->Ik had een tweede gelukje bij deze review! Want ik kreeg de camera ook nog eens op tijd om hem te testen tijdens mijn uitstapje naar London!
 
@@ -105,6 +109,6 @@ Maar ja&#8230; die prijs hé! Meer dan 1000 euro moet je er voor neer tellen! En
 
 Meer weten over deze camera of gelijk ééntje kopen? Ga dan snel naar de site van <a href=https://vandersluijs.resultants-e.nl/2015/12/olympus-e-m5ii-1250-kit-slv-blk-e-m5-mark-ii-silver-ez.html" target="_blank">Foto Tuerlings</a>!
 
-[FAG id=2203]
+
 
 &nbsp;

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Mijn tweede flex applicatie'
 slug: 'mijn-tweede-flex-applicatie'
 date: '2008-02-13 06:00'

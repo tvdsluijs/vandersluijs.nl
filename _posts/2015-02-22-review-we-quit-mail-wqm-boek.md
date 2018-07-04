@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Review : We Quit mail #wqm boek'
 slug: 'review-we-quit-mail-wqm-boek'
 date: '2015-02-22 15:26'

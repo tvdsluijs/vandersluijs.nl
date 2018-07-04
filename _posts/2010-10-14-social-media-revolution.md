@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Social Media Revolution'
 slug: 'social-media-revolution'
 date: '2010-10-14 13:06'

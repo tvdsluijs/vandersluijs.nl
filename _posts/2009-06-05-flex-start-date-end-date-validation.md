@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Flex Start Date End Date Validation'
 slug: 'flex-start-date-end-date-validation'
 date: '2009-06-05 10:46'
 publish_date: '2009-06-05 10:46'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*ti7JN9sPc-PIyLLV.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*ti7JN9sPc-PIyLLV.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -50,5 +50,5 @@ Checker/tree/).
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*ti7JN9sPc-PIyLLV.gif)
+![](https://vandersluijs.resultants-e.nl/0*ti7JN9sPc-PIyLLV.gif)
 

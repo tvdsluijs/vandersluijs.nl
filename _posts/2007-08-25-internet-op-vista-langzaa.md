@@ -3,7 +3,7 @@ id: 532
 title: Internet op Vista langzaam
 date: 2007-08-25T05:12:00+00:00
 author: Theo van der Sluijs
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/08/25/internet-op-vista-langzaa/
 permalink: /2007/08/internet-op-vista-langzaa.html

@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Adres zoeken via Postcode'
 slug: 'adres-zoeken-via-postcode'
 date: '2008-12-23 08:19'

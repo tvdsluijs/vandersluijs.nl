@@ -6,52 +6,34 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=3380
 permalink: /2016/08/casa-martijo-review-bij-villa-arenas.html
-hits:
-  - "208"
-wp_review_location:
-  - bottom
-wp_review_type:
-  - star
-wp_review_desc_title:
-  - Samenvatting
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"0";}'
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-wp_review_heading:
-  - Mooie locatie, steile weg!
-wp_review_desc:
+vw_review_summary:
   - Buiten de zeer steile weg naar het huisje toe is ligt dit vakantiehuis in een prachtige omgeving. Het huis is van alle vakantie gemakken voorzien zoals zwembad, complete keuken en meerdere badkamers.
-wp_review_total:
+vw_review_average_score:
   - "4.3"
-wp_review_item:
-  - 'a:6:{i:0;a:2:{s:20:"wp_review_item_title";s:19:"Algemene waardering";s:19:"wp_review_item_star";s:1:"4";}i:1;a:2:{s:20:"wp_review_item_title";s:17:"De vakantiewoning";s:19:"wp_review_item_star";s:1:"5";}i:2;a:2:{s:20:"wp_review_item_title";s:7:"Comfort";s:19:"wp_review_item_star";s:1:"4";}i:3;a:2:{s:20:"wp_review_item_title";s:8:"Hygiëne";s:19:"wp_review_item_star";s:1:"4";}i:4;a:2:{s:20:"wp_review_item_title";s:13:"Voorzieningen";s:19:"wp_review_item_star";s:1:"4";}i:5;a:2:{s:20:"wp_review_item_title";s:27:"Prijs- kwaliteitsverhouding";s:19:"wp_review_item_star";s:1:"5";}}'
+vw_review_score_0_label:
+ - Algemene waardering
+vw_review_score_0_score:
+ - 8
+vw_review_score_1_label:
+ - De vakantiewoning
+vw_review_score_1_score:
+ - 10
+vw_review_score_2_label:
+ - Comfort
+vw_review_score_2_score:
+ - 8
+vw_review_score_3_label:
+ - Hygiëne
+vw_review_score_3_score:
+ - 8
+vw_review_score_4_label:
+ - Voorzieningen
+vw_review_score_4_score:
+ - 8
+vw_review_score_5_label:
+ - Prijs- kwaliteitsverhouding
+vw_review_score_5_score:
+ - 10
 dsq_thread_id:
   - "5746507884"
 feature-img: https://vandersluijs.resultants-e.nl/2016/08/dpc-11-825x510.jpg
@@ -62,7 +44,7 @@ format: image
 ---
 Vlak blij het levendige kustplaatsje Torre del Mar en de plaats Villa Arenas ligt in de bergen Casa Martijo. Deze mooie ruime gelijksvloerse villa ligt op de berg en daardoor in een zeer rustige omgeving. Daar heb ik de afgelopen week heerlijk met mijn gezin vertoeft. Hierbij een review over  deze Villa.<!--more-->
 
-Casa Martijo is ongeveer 10km landinwaards rijden voordat je onder aan de &#8220;oprit&#8221; staat. Met oprit bedoel ik een hele steile weg van zo&#8217;n 400meter. Met deze steile weg kom je aan bij diverse villa&#8217;s en dus ook bij [Casa Martijo](https://www.vandersluijs.nl/endorses/casa-martijo).
+Casa Martijo is ongeveer 10km landinwaards rijden voordat je onder aan de &#8220;oprit&#8221; staat. Met oprit bedoel ik een hele steile weg van zo&#8217;n 400meter. Met deze steile weg kom je aan bij diverse villa&#8217;s en dus ook bij (https://www.vandersluijs.nl/endorses/casa-martijo).
 
 ## Highway to hell
 
@@ -118,7 +100,7 @@ De internationale luchthaven van Málaga ligt op slechts 40km. afstand / zo&#821
 
 Verder heb ik niets gezien van de omgeving&#8230; tja met twee kinderen van 6 en 9 die alleen maar zwembad en strand willen houdt het snel op. Maar eerlijk is eerlijk het huisje geeft een heerlijke rust en het is prima vertoeven.
 
-Als je het gaat [huren](https://www.vandersluijs.nl/endorses/casa-martijo), neem er dus wel even een 4&#215;4 auto bij!
+Als je het gaat (https://www.vandersluijs.nl/endorses/casa-martijo), neem er dus wel even een 4&#215;4 auto bij!
 
 <div id='gallery-18' class='gallery galleryid-3380 gallery-columns-3 gallery-size-thumbnail'>
     

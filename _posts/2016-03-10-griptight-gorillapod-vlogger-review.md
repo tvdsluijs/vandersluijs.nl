@@ -6,42 +6,38 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2457
 permalink: /2016/03/griptight-gorillapod-vlogger-review.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-wp_review_type:
-  - star
-wp_review_heading:
-  - GripTight Gorillapod
-wp_review_desc:
+vw_review_summary:
   - De GripTight Gorillapod hoort thuis bij de uitrusting van iedere vlogger. Hij is superhandig om even met je iphone of andere smartphone vanaf een vast punt een shot te nemen. Voor de prijs hoef je het niet te laten. Ook al zijn de poten wat kort (hadden iets langer gemogen) kan je hem bijna moeiteloos overal aan bevestigen.
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"0";}'
-wp_review_total:
+vw_review_average_score:
   - "4.9"
-wp_review_item:
-  - 'a:7:{i:0;a:2:{s:20:"wp_review_item_title";s:13:"Gebruiksgemak";s:19:"wp_review_item_star";s:1:"5";}i:1;a:2:{s:20:"wp_review_item_title";s:9:"Kwaliteit";s:19:"wp_review_item_star";s:1:"5";}i:2;a:2:{s:20:"wp_review_item_title";s:12:"Degelijkheid";s:19:"wp_review_item_star";s:1:"5";}i:3;a:2:{s:20:"wp_review_item_title";s:13:"Mogelijkheden";s:19:"wp_review_item_star";s:1:"4";}i:4;a:2:{s:20:"wp_review_item_title";s:6:"Design";s:19:"wp_review_item_star";s:1:"5";}i:5;a:2:{s:20:"wp_review_item_title";s:8:"Afmeting";s:19:"wp_review_item_star";s:1:"5";}i:6;a:2:{s:20:"wp_review_item_title";s:5:"Prijs";s:19:"wp_review_item_star";s:1:"5";}}'
-hits:
-  - "633"
-itrr_another_apply:
-  - 'no'
+vw_review_score_0_label:
+ - Gebruiksgemak
+vw_review_score_0_score:
+ - 10
+vw_review_score_1_label:
+ - Kwaliteit
+vw_review_score_1_score:
+ - 10
+vw_review_score_2_label:
+ - Degelijkheid
+vw_review_score_2_score:
+ - 10
+vw_review_score_3_label:
+ - Mogelijkheden
+vw_review_score_3_score:
+ - 8
+vw_review_score_4_label:
+ - Design
+vw_review_score_4_score:
+ - 10
+vw_review_score_5_label:
+ - Afmeting
+vw_review_score_5_score:
+ - 10
+vw_review_score_6_label:
+ - Prijs
+vw_review_score_6_score:
+ - 10
 dsq_thread_id:
   - "5740303139"
 feature-img: https://vandersluijs.resultants-e.nl/2016/02/25232433286_0f602ac9f5_o-e1457639810425-825x465.jpg

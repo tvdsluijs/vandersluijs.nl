@@ -26,7 +26,7 @@ categories:
   - Tech
 ---
 Als ik wil zoeken op een pagina met IE7 dan vind ik dit altijd een drama !
-
+ 
 Waarom ? Nou omdat deze zoekfunctie traag verschijnt, en als ik op enter druk gaat hij niet naar het volgende gevonden woord.
 
 Ik gebruik ook Firefox en de Zoeken op Pagina functie daarin vind ik echt super werken.

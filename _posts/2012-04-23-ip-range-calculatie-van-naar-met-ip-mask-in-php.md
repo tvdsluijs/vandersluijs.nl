@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'IP range calculatie van naar met IP mask in PHP'
 slug: 'ip-range-calculatie-van-naar-met-ip-mask-in-php'
 date: '2012-04-23 22:00'

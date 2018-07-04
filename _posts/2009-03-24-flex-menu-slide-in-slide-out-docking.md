@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Flex Menu Slide in Slide out Docking'
 slug: 'flex-menu-slide-in-slide-out-docking'
 date: '2009-03-24 06:42'
 publish_date: '2009-03-24 06:42'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*vsUEBKKt98DsL17I.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*vsUEBKKt98DsL17I.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -21,5 +21,5 @@ got the code for you right here.
 Go to [github](https://github.com/tvdsluijs/Flex-Menu-Slide-in-Slide-out-
 Docking/tree/) for the sources!
 
-![](https://vandersluijs.resultants-e/0*vsUEBKKt98DsL17I.gif)
+![](https://vandersluijs.resultants-e.nl/0*vsUEBKKt98DsL17I.gif)
 

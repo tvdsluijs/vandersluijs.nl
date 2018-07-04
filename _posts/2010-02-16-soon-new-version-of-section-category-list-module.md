@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Soon: New version of Section Category List Module'
 slug: 'soon-new-version-of-section-category-list-module'
 date: '2010-02-16 18:32'

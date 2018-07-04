@@ -3,7 +3,7 @@ id: 530
 title: Kladblok voor digitale notities
 date: 2007-09-25T19:55:00+00:00
 author: Theo van der Sluijs
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/09/25/kladblok-voor-digitale-notities/
 permalink: /2007/09/kladblok-voor-digitale-notities.html

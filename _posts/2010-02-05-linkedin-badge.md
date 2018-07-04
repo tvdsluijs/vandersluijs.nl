@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'LinkedIn Badge'
 slug: 'linkedin-badge'
 date: '2010-02-05 11:56'
 publish_date: '2010-02-05 11:56'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*HU2W6XOpe2ow1IEl.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*HU2W6XOpe2ow1IEl.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -17,39 +17,39 @@ It’s clickable to your own LinkedIn page.
 With only 3 configurable parameters you will get a nice LinkedIn Button ( pick
 1 out of 8 )
 
-![View Profile 160x33](https://vandersluijs.resultants-e/0*HU2W6XOpe2ow1IEl.gif)
+![View Profile 160x33](https://vandersluijs.resultants-e.nl/0*HU2W6XOpe2ow1IEl.gif)
 
 : View Profile 160x33
 
-![View Profile 160x33](https://vandersluijs.resultants-e/0*vOQ29rYuo2_sYFqQ.gif)
+![View Profile 160x33](https://vandersluijs.resultants-e.nl/0*vOQ29rYuo2_sYFqQ.gif)
 
 : View Profile 160x33
 
-![View Profile 160x33](https://vandersluijs.resultants-e/0*i4tbQz1fm7T3vLRK.gif)
+![View Profile 160x33](https://vandersluijs.resultants-e.nl/0*i4tbQz1fm7T3vLRK.gif)
 
 : My Profile 160x33
 
-![View Profile 160x33](https://vandersluijs.resultants-e/0*P4mSamhlwPNVgN6q.gif)
+![View Profile 160x33](https://vandersluijs.resultants-e.nl/0*P4mSamhlwPNVgN6q.gif)
 
 : View Profile 160x25
 
-![View Profile 160x33](https://vandersluijs.resultants-e/0*q716wpVo9Wx0xC9E.gif)
+![View Profile 160x33](https://vandersluijs.resultants-e.nl/0*q716wpVo9Wx0xC9E.gif)
 
 : View Profile 120x33
 
-![View Profile 160x33](https://vandersluijs.resultants-e/0*fK08JmaT6oEZJw-j.gif)
+![View Profile 160x33](https://vandersluijs.resultants-e.nl/0*fK08JmaT6oEZJw-j.gif)
 
 : LinkedIn 120x33
 
-![View Profile 160x33](https://vandersluijs.resultants-e/0*ZRyC0yNXY-bxSbZs.gif)
+![View Profile 160x33](https://vandersluijs.resultants-e.nl/0*ZRyC0yNXY-bxSbZs.gif)
 
 : Profile Grey 80x15
 
-![View Profile 160x33](https://vandersluijs.resultants-e/0*kN45nzzcOFPEy7M3.gif)
+![View Profile 160x33](https://vandersluijs.resultants-e.nl/0*kN45nzzcOFPEy7M3.gif)
 
 : Profile Blue 80x15
 
-![View Profile 160x33](https://vandersluijs.resultants-e/0*gRC5s11PZLoXln2B.gif)
+![View Profile 160x33](https://vandersluijs.resultants-e.nl/0*gRC5s11PZLoXln2B.gif)
 
 : LinkedIn 80x15
 
@@ -65,5 +65,5 @@ Well… you can find the sources on
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*yx4brNFx9DYmS2RN.gif)
+![](https://vandersluijs.resultants-e.nl/0*yx4brNFx9DYmS2RN.gif)
 

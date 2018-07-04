@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Pomodoro, GTD met Wunderlist of Evernote'
 slug: 'pomodoro-gtd-met-wunderlist-of-evernote'
 date: '2012-11-10 11:31'

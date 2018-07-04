@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Waarom kilometerheffing onvermijdelijk is'
 slug: 'waarom-kilometerheffing-onvermijdelijk-is'
 date: '2017-06-20 17:56:05+00:00'
 publish_date: '2017-06-20 17:56:05+00:00'
 image:
-  feature: 'https://vandersluijs.resultants-e/1*RGMiFk43GguyiJHfyWrQ-g.jpeg'
+  feature: 'https://vandersluijs.resultants-e.nl/1*RGMiFk43GguyiJHfyWrQ-g.jpeg'
 category: ['Tech']
 tags: ['Future', 'AI', 'Self Driving Cars', 'Tesla']
 ---

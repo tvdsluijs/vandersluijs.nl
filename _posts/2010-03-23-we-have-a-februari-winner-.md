@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'We have a Februari winner !'
 slug: 'we-have-a-februari-winner-'
 date: '2010-03-23 08:55'

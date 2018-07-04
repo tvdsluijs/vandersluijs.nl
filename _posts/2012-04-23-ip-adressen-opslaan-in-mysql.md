@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'IP adressen opslaan in Mysql'
 slug: 'ip-adressen-opslaan-in-mysql'
 date: '2012-04-23 21:39'

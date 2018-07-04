@@ -6,46 +6,32 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=1584
 permalink: /2015/10/sma-sunny-boy-3600tl-21-review.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
 video_post_url:
   - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-wp_review_type:
-  - star
-wp_review_heading:
-  - SMA Sunny Boy 3600TL-21 review
-wp_review_desc:
+vw_review_summary:
   - 'De Sunny Boy 3600TL-21 van SMA is het neusje van de zalm op gebied van standaard zonnepaneel sets. Hij produceert geen geluid, wordt niet super warm en kalibreert zich zelf tegen de zonne-sterkte van dat moment. '
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"1";}'
-wp_review_total:
+vw_review_average_score:
   - "5"
-wp_review_item:
-  - 'a:5:{i:0;a:2:{s:20:"wp_review_item_title";s:11:"Installatie";s:19:"wp_review_item_star";s:1:"5";}i:1;a:2:{s:20:"wp_review_item_title";s:12:"Configuratie";s:19:"wp_review_item_star";s:1:"5";}i:2;a:2:{s:20:"wp_review_item_title";s:9:"Opbrengst";s:19:"wp_review_item_star";s:1:"5";}i:3;a:2:{s:20:"wp_review_item_title";s:16:"Geluidsproductie";s:19:"wp_review_item_star";s:1:"5";}i:4;a:2:{s:20:"wp_review_item_title";s:8:"Garantie";s:19:"wp_review_item_star";s:1:"5";}}'
-hits:
-  - "1175"
-itrr_another_apply:
-  - 'no'
+vw_review_score_0_label:
+ - Installatie
+vw_review_score_0_score:
+ - 10
+vw_review_score_1_label:
+ - Configuratie
+vw_review_score_1_score:
+ - 10
+vw_review_score_2_label:
+ - Opbrengst
+vw_review_score_2_score:
+ - 10
+vw_review_score_3_label:
+ - Geluidsproductie
+vw_review_score_3_score:
+ - 10
+vw_review_score_4_label:
+ - Garantie
+vw_review_score_4_score:
+ - 10
 dsq_thread_id:
   - "5700416168"
 feature-img: https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-825x249.jpg
@@ -127,11 +113,11 @@ De SMA doet prima zijn werk. Zelfs nu we dik in de herfst zitten levert hij nog 
     </td>
     
     <td class="base-grid-header-cell" style="width: 40%;" align="right">
-      Sunny Boy 3600TL-21 Wolphaartsdijk Opbrengst [kWh]
+      Sunny Boy 3600TL-21 Wolphaartsdijk Opbrengst 
     </td>
     
     <td class="base-grid-header-cell" style="width: 40%;" align="right">
-      Sunny Boy 3600TL-21 Wolphaartsdijk Prognose [kWh]
+      Sunny Boy 3600TL-21 Wolphaartsdijk Prognose 
     </td>
   </tr>
   

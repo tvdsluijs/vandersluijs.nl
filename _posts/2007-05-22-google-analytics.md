@@ -3,7 +3,7 @@ id: 548
 title: Google Analytics
 date: 2007-05-22T14:22:00+00:00
 author: Theo van der Sluijs
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/05/22/google-analytics/
 permalink: /2007/05/google-analytics.html

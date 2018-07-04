@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Joomla! to Wordpress htaccess url rewrite'
 slug: 'joomla-to-wordpress-htaccess-url-rewrite'
 date: '2009-04-23 12:00'

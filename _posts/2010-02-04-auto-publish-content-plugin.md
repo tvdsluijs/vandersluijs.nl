@@ -1,25 +1,25 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Auto Publish Content Plugin'
 slug: 'auto-publish-content-plugin'
 date: '2010-02-04 10:11'
 publish_date: '2010-02-04 10:11'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*semnMA-nsHurJu8Q.png'
+  feature: 'https://vandersluijs.resultants-e.nl/0*semnMA-nsHurJu8Q.png'
 category: ['Coding']
 tags: ['Coding']
 ---
 Finally it is here ! The one and only Auto Publish Content Plugin on frontpage
 for
 
-![Joomla! 1.5 Native](https://vandersluijs.resultants-e/0*semnMA-nsHurJu8Q.png)
+![Joomla! 1.5 Native](https://vandersluijs.resultants-e.nl/0*semnMA-nsHurJu8Q.png)
 
-![Joomla! 1.6 Native](https://vandersluijs.resultants-e/0*6-dxXIkqlyjumCLC.png)
+![Joomla! 1.6 Native](https://vandersluijs.resultants-e.nl/0*6-dxXIkqlyjumCLC.png)
 
-![Joomla! 1.7 Compatible](https://vandersluijs.resultants-e/0*Yc0adgOpR9z6d0K_.png)
+![Joomla! 1.7 Compatible](https://vandersluijs.resultants-e.nl/0*Yc0adgOpR9z6d0K_.png)
 
-![Joomla! 2.5 Series](https://vandersluijs.resultants-e/0*LHz4HXc7DouxYHop.png)
+![Joomla! 2.5 Series](https://vandersluijs.resultants-e.nl/0*LHz4HXc7DouxYHop.png)
 
 If you are like me and write a lot of articles with Microsoft Live Writer or
 w.Bloggar you don’t want to go to your Joomla! admin and set the article you
@@ -71,5 +71,5 @@ Publish-Content-Plugin/tree/)
   
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*-fnEhmH4hnxNYgDE.gif)
+![](https://vandersluijs.resultants-e.nl/0*-fnEhmH4hnxNYgDE.gif)
 

@@ -6,52 +6,34 @@ author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/?p=2577
 permalink: /2016/03/silvana-support-kussen-review.html
-wp_review_location:
-  - bottom
-wp_review_type:
-  - star
-wp_review_heading:
-  - Fluorine Silvana Support
-wp_review_desc_title:
-  - Samenvatting
-wp_review_desc:
+vw_review_summary:
   - Het is even wennen op dit kussen maar als je eenmaal goed ligt, dan lig je ook echt goed. Tja en 99 euro is geen koopje maar geloof me je wilt echt een goed kussen hebben voor een goede nachtrust. Dus dit kussen is het geld meer dan waard en met een 4,9 van de 5 punten een toppertje dus!!
-wp_review_userReview:
-  - 'a:1:{i:0;s:1:"0";}'
-wp_review_through_comment:
-  - "1"
-wp_review_total:
+vw_review_average_score:
   - "4.9"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-wp_review_item:
-  - 'a:6:{i:0;a:2:{s:20:"wp_review_item_title";s:7:"Ligging";s:19:"wp_review_item_star";s:1:"5";}i:1;a:2:{s:20:"wp_review_item_title";s:9:"Zachtheid";s:19:"wp_review_item_star";s:1:"5";}i:2;a:2:{s:20:"wp_review_item_title";s:5:"Prijs";s:19:"wp_review_item_star";s:3:"4.5";}i:3;a:2:{s:20:"wp_review_item_title";s:4:"Vorm";s:19:"wp_review_item_star";s:1:"5";}i:4;a:2:{s:20:"wp_review_item_title";s:4:"Maat";s:19:"wp_review_item_star";s:1:"5";}i:5;a:2:{s:20:"wp_review_item_title";s:13:"Ondersteuning";s:19:"wp_review_item_star";s:1:"5";}}'
-hits:
-  - "2179"
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
+vw_review_score_0_label:
+ - Ligging
+vw_review_score_0_score:
+ - 10
+vw_review_score_1_label:
+ - Zachtheid
+vw_review_score_1_score:
+ - 10
+vw_review_score_2_label:
+ - Prijs
+vw_review_score_2_score:
+ - 9
+vw_review_score_3_label:
+ - Vorm
+vw_review_score_3_score:
+ - 10
+vw_review_score_4_label:
+ - Maat
+vw_review_score_4_score:
+ - 10
+vw_review_score_5_label:
+ - Ondersteuning
+vw_review_score_5_score:
+ - 10
 dsq_thread_id:
   - "5701767410"
 feature-img: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
@@ -77,7 +59,7 @@ De verschillende varianten zijn:
 
 Het Silvana Support kussen is de beste nek ondersteunende hoofdkussen en dit al voor zo&#8217;n 30 jaar! De kussens zijn ontwikkeld in samenwerking met fysiotherapeuten, zijn gemaakt van de allerbeste materialen en tot in detail uitgedacht om het lichaam optimaal te ondersteunen.
 
-Ik zelf heb voor het net wat stevigere kussen gekozen en kreeg de Fluorine opgestuurd. Voor mij is het kussen ideaal omdat het mijn nek goed ondersteund en ik heb snel [last van mijn nek](https://www.vandersluijs.nl/blog/2016/03/silvana-support-kussen-tegen-nekklachten.html) dus het is echt handig om een kussen zoals deze te hebben.
+Ik zelf heb voor het net wat stevigere kussen gekozen en kreeg de Fluorine opgestuurd. Voor mij is het kussen ideaal omdat het mijn nek goed ondersteund en ik heb snel (https://www.vandersluijs.nl/blog/2016/03/silvana-support-kussen-tegen-nekklachten.html) dus het is echt handig om een kussen zoals deze te hebben.
 
 ## Hoe ligt het Silvana kussen?
 

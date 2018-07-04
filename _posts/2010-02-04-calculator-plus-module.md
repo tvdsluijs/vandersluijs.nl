@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Calculator Plus Module'
 slug: 'calculator-plus-module'
 date: '2010-02-04 11:44'
 publish_date: '2010-02-04 11:44'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*FsN-V48fiBF5FeR4.gif'
+  feature: 'https://vandersluijs.resultants-e.nl/0*FsN-V48fiBF5FeR4.gif'
 category: ['Coding']
 tags: ['Coding']
 ---
@@ -30,5 +30,5 @@ from [github](https://github.com/tvdsluijs/calculator-plus)!
 
 Like my code ? Don’t forget to
 
-![](https://vandersluijs.resultants-e/0*FsN-V48fiBF5FeR4.gif)
+![](https://vandersluijs.resultants-e.nl/0*FsN-V48fiBF5FeR4.gif)
 

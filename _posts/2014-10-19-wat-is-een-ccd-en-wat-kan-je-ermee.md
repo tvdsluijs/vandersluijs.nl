@@ -169,7 +169,7 @@ Een ander team heeft een Bot gemaakt in HipChat waaraan je allerlei vragen kan s
 
 En dan liet hij bijvoorbeeld het volgende zien:
 
-![animate me pugs](https://vandersluijs.resultants-e/2014/10/49750-screen-licker-pug.gif)
+![animate me pugs](https://vandersluijs.resultants-e.nl/2014/10/49750-screen-licker-pug.gif)
 
 Leuk, maar heb je niet veel aan.
 
@@ -195,10 +195,10 @@ Hou gewoon een CCD!
 
 #### Some Photos {#somephotos}
 
-![CCD](https://vandersluijs.resultants-e/2014/10/IMG_3052.JPG)
+![CCD](https://vandersluijs.resultants-e.nl/2014/10/IMG_3052.JPG)
   
-![CCD](https://vandersluijs.resultants-e/2014/10/IMG_3062.JPG)
+![CCD](https://vandersluijs.resultants-e.nl/2014/10/IMG_3062.JPG)
   
-![CCD](https://vandersluijs.resultants-e/2014/10/IMG_3063.JPG)
+![CCD](https://vandersluijs.resultants-e.nl/2014/10/IMG_3063.JPG)
   
-![CCD](https://vandersluijs.resultants-e/2014/10/IMG_3059.JPG)
+![CCD](https://vandersluijs.resultants-e.nl/2014/10/IMG_3059.JPG)

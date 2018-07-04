@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Atlassian Summit 2013 breakdown'
 slug: 'atlassian-summit'
 date: '2014-01-16 20:56'

@@ -27,7 +27,7 @@ categories:
 tags:
   - Social Media
 ---
-[<img class="alignleft  wp-image-788" alt="foursquare" src="https://vandersluijs.resultants-e.nl/2013/06/foursquare.jpg" width="180" height="180" />](https://vandersluijs.resultants-e/2013/06/foursquare.jpg)Foursquare, I&#8217;ve been on it since 2010.
+[<img class="alignleft  wp-image-788" alt="foursquare" src="https://vandersluijs.resultants-e.nl/2013/06/foursquare.jpg" width="180" height="180" />](https://vandersluijs.resultants-e.nl/2013/06/foursquare.jpg)Foursquare, I&#8217;ve been on it since 2010.
 
 I never really liked it.
 

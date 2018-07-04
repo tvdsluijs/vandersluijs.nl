@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Flex AS3 Password Creator / Generator'
 slug: 'flex-as3-password-creator-generator'
 date: '2010-02-13 10:23'

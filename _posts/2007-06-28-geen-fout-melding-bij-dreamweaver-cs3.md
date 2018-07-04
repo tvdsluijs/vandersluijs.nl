@@ -2,7 +2,7 @@
 id: 543
 title: Geen fout melding bij Dreamweaver CS3
 date: 2007-06-28T07:00:00+00:00
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 author: Theo van der Sluijs
 layout: post
 guid: http://vandersluijs.nl/blog/index.php/2007/06/28/geen-fout-melding-bij-dreamweaver-cs3/

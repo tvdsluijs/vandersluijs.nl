@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Born on this Day Joomla! Module'
 slug: 'born-on-this-day-joomla-module'
 date: '2009-12-10 21:35'

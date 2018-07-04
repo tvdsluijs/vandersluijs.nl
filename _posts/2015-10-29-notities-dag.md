@@ -1,6 +1,6 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Notities Dag 2 Masterclass — Leading Agile Transformations'
 slug: 'notities-dag'
 date: '2015-10-29 21:39:27+00:00'

@@ -1,16 +1,16 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Archived Content Plus'
 slug: 'archived-content-plus'
 date: '2010-02-04 10:23'
 publish_date: '2010-02-04 10:23'
 image:
-  feature: 'https://vandersluijs.resultants-e/0*qb8ur2HNqFc39eBO.png'
+  feature: 'https://vandersluijs.resultants-e.nl/0*qb8ur2HNqFc39eBO.png'
 category: ['Coding']
 tags: ['Coding']
 ---
-![Archived_Content_Plus](https://vandersluijs.resultants-e/0*qb8ur2HNqFc39eBO.png)
+![Archived_Content_Plus](https://vandersluijs.resultants-e.nl/0*qb8ur2HNqFc39eBO.png)
 
 This new version of the Archived Content Plus for Joomla 1.5 has a lot of
 bugfixes and a new javascript core.  
@@ -42,5 +42,5 @@ Please pick the right version for your Joomla! version !
 You can download [sourcecode](https://github.com/tvdsluijs/Joomla-Archive-
 Plus/) here on github.
 
-![](https://vandersluijs.resultants-e/0*UQqwy7xIC5gdjo6a.gif)
+![](https://vandersluijs.resultants-e.nl/0*UQqwy7xIC5gdjo6a.gif)
 

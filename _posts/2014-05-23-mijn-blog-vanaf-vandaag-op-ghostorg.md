@@ -27,7 +27,7 @@ itrr_another_apply:
 categories:
   - Tech
 ---
-![Donkere Wolken](https://vandersluijs.resultants-e/2014/May/IMG_0667.JPG)  
+![Donkere Wolken](https://vandersluijs.resultants-e.nl/2014/May/IMG_0667.JPG)  
 Okay&#8230; da&#8217;s niet helemaal waar. Eigenlijk zit ik al sinds 17 februari met een [blog](http://itheo.nl) op Ghost.org maar ik heb dus vandaag mijn complete [blogger](http://www.blogger.com) blog overgezet naar [ghost.org](http://www.ghost.org). 
 
 En dat ging niet makkelijk&#8230;.. 

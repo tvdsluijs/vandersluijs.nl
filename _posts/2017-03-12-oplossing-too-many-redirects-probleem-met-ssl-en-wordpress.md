@@ -1,12 +1,12 @@
 ---
 layout: post
-excerpt_separator: '<!--more-->'
+excerpt_separator: <!--more-->
 title: 'Oplossing “Too Many Redirects” probleem met SSL en Wordpress'
 slug: 'oplossing-too-many-redirects-probleem-met-ssl-en-wordpress'
 date: '2017-03-12 13:06:57+00:00'
 publish_date: '2017-03-12 13:06:57+00:00'
 image:
-  feature: 'https://vandersluijs.resultants-e/1*eqxgrhVHH0GE6TRVa3mPeg.jpeg'
+  feature: 'https://vandersluijs.resultants-e.nl/1*eqxgrhVHH0GE6TRVa3mPeg.jpeg'
 category: ['Tech']
 tags: ['Tech', 'WordPress', 'Https', 'Ssl Certificate', 'Coding']
 ---
