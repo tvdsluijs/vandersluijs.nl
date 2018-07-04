@@ -8,40 +8,6 @@ guid: https://www.vandersluijs.nl/?p=4346
 permalink: /2017/06/polar-v800-gerepareerd.html
 hits:
   - "327"
-dsq_thread_id:
-  - "5890640365"
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
 feature-img: https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_1-e1496907732569-825x399.jpg
 categories:
   - Tech
