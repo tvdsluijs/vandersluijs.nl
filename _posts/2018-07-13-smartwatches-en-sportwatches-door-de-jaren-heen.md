@@ -40,7 +40,7 @@ Hoe mooi ik hem ook vond waren er dus twee zaken niet goed aan de Samsung S3. Hi
 Het ding moest dus de deur uit. Gelukkig vond ik redelijk snel daarna de Tommy Hilfiger.
 
 ## Tommy Hilfiger TH 24/7
-!["Tommy]("/images/garmin-forerunner-645-tommy-hilfiger_0.jpg")
+!["Tommy](/images/garmin-forerunner-645-tommy-hilfiger_0.jpg)
 De Tommy Hilfiger TH 24/7 is een analoog horloge met daar in een klein digitaal venster waarmee je toegang had tot smart-watch-achtige functies.
 
 Je kan niet je telefoon er mee bedienen, maar je krijgt wel allerlei berichten van whats'app, twitter, facebook enz er op binnen. Daarnaast telt hij je stappen. Je kan een minimaal aantal te nemen stappen instellen zodat je iedere dag weer naar bijvoorbeeld 10.000 stappen moet lopen.
@@ -57,7 +57,7 @@ en om nu weer 800 euro neer te leggen voor de volgende iPhone (die 5 jaar achter
 Gelukkig had ik mijn mooie Tommy Hilfiger semi-smartwatch nog liggen. 
 
 ## Fitbit en Fitbit Community
-!["Fitbit Alta HR"]("/images/fitbit-alta-hr_5.jpg")
+!["Fitbit Alta HR"](/images/fitbit-alta-hr_5.jpg)
 Omdat een collega zei dat ik een Fitbit moest kopen ben ik de wereld van de Fitbit ingedoken. Een activity tracker die net wat meer kon leek me wel wat.
 
 Eigenlijk zijn de Fitbit Flex 2 en Fitbit Alta HR dure activity trackers met weinig mogelijkheden. 
@@ -67,7 +67,7 @@ Echter waar Fitbit heer en meester is, is de community. Waarschijnlijk te danken
 De kwaliteit van de Fitbit trackers en horloges laten ook nogal te wensen over. Ze gaan vaak binnen 2 jaar kapot, waardoor je door de Europese regelgeving een nieuwe krijgt en nogmaals ik vind de opties en sensoren nogal beperkt voor het bedrag wat je er voor op tafel legt.
 
 ## Garmin forerunner 645
-!["Garmin forerunner 645"]("/images/garmin-forerunner-645-1_1.jpg")
+!["Garmin forerunner 645"](/images/garmin-forerunner-645-1_1.jpg)
 Lang heb ik getwijfeld over Garmin. Het enige horloge wat ik echt mooi vondt van Garmin was de Fenix 5 serie. Het zijn robuuste mooie horloges die niet misstaan bij het sporten of bij het dragen naar je werk wanneer je zoals ik een net overhemd of pak moet dragen.
 
 De Garmin Fenix 5 serie en sinds kort de Garmin Fenix 5 Plus serie kan zich makkelijk meten met de Polar V800. Erger nog, ik denk zelfs dat de Garmin Fenix 5 plus serie de concurrentie heel ver achter zich laat.
