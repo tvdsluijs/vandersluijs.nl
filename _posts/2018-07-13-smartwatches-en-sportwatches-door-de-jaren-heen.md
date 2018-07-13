@@ -3,6 +3,7 @@ layout: post
 title: Smartwatches en Sportwatches door de jaren heen
 author: Theo van der Sluijs
 slug: /2018/07/smartwatches-en-sportwatches-door-de-jaren-heen
+permalink: /2018/07/smartwatches-en-sportwatches-door-de-jaren-heen
 date: 2018-07-13
 publish_date: 2018-07-13
 image:
