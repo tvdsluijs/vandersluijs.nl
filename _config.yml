@@ -32,7 +32,7 @@ theme_settings:
      <p>To boldly go where no blog has gone before!</p>
   header_text_feature_image: assets/img/pexels/old-phone.jpeg
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> and Written by Theo van der Sluijs
+   Gemaakt in <a href="https://jekyllrb.com/">Jekyll</a> op Github, geschreven door Theo van der Sluijs
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
