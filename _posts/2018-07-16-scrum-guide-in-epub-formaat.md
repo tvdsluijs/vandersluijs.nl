@@ -20,7 +20,7 @@ excerpt_separator: <!--more-->
 ---
 De Scrum Gids is niet te krijgen in het EPUB formaat, daar baalde ik van. Dus heb ik zelf maar een EPUB Scrum Gids gemaakt. Scrum het is al een tijdje onderdeel van mijn leven. Evenals Agile ik kan me eigenlijk niet voorstellen om mijn werk zonder een Agile mindset en zonder Scrum te doen (of Kanban). Een gecertificeerd Scrum master ben ik al een aantal jaren, maar Product Owner nog niet. En eigenlijk moet dat er ook van gaan komen.... dus was ik van plan om tijdens mijn vakantie minimaal 1x per dag even de Scrum Gids door te lezen. Probleem is alleen.... het is in PDF formaat.... en mijn Kobo vreet net even wat fijner het EPUB formaat. En dat is dus een probleem.
 <!--more-->
-Ik snap het niet, de Scrum Gids is in een enorme berg talen te krijgen. Engels, Nederlands, Duits, Frans in wel meer dan 30 verschillende talen. Behalve in het Fries en Zeeuws :-).
+Ik snap het niet, de Scrum Gids is in een enorme berg [talen](http://www.scrumguides.org/download.html) te krijgen. Engels, Nederlands, Duits, Frans in wel meer dan 30 verschillende talen. Behalve in het Fries en Zeeuws :-).
 
 Maar goed, de Scrum Gids is dus te downloaden als PDF maar niet als ePub. En ja mijn Kobo kan PDF bestanden zeker lezen maar als je het groter of kleiner wilt dan werkt dat meestal niet zo goed. Ook markeren en bladeren gaat allemaal net iets lekkerder met een ePub boek. Maar de Scrum Gids is niet te krijgen in EPUB formaat.
 
