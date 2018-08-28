@@ -5,6 +5,73 @@ url: "https://www.vandersluijs.nl"
 title: Type on Strap # site's title
 description: "To boldly go where no blog has gone before!" # used by search engines
 
+#schema.org stuff
+person:
+  email: "theo@vandersluijs.nl"
+  images:
+    - "https://en.gravatar.com/userimage/4342738/55dc66ed50cf30a99a5c12767dae233a.jpg?size=400"
+    - "https://en.gravatar.com/userimage/4342738/5d9903e44b449133729e5b2811f9574e.jpg?size=400"
+    - "https://en.gravatar.com/userimage/4342738/640515a18b4c6d9b5801c9cf827f71af.jpg?size=400"
+    - "https://en.gravatar.com/userimage/4342738/7c09097939e045cfe99eed20b1988bd7.jpg?size=400"
+    - "https://en.gravatar.com/userimage/4342738/1d6c4b599103f6e952c4a3a931556645.jpg?size=400"
+    - "https://en.gravatar.com/userimage/4342738/0b7fb2034c621726f26ac1a24e712269.jpg?size=400"
+    - "https://en.gravatar.com/userimage/4342738/438d882bfd5fcd55304c64f1ae768e29.jpg?size=400"
+    - "https://en.gravatar.com/userimage/4342738/14d55f340705b5a6eb0d36919dcc3370.jpg?size=400"
+    - "https://cdn-images-1.medium.com/fit/c/200/200/1*EBc_MElMGd4Nn6cS7PxBPA.jpeg"
+    - "https://www.theovandersluijs.nl/assets/images/theo-van-der-sluijs-400x400.png"
+    - "http://welkomwolphaartsdijk.nl/wp-content/uploads/2016/06/image001.jpg"
+    - "https://media.licdn.com/dms/image/C4D03AQEnRR9Frxj-tA/profile-displayphoto-shrink_200_200/0?e=1541030400&v=beta&t=Ip4Nrbcy47YW0029r_bbxHf7unvrBeqNlMquCe6rjD0"
+    - "https://40enfit.resultants-e.nl/2016/04/Theo-van-der-Sluijs-freeletics-bw-300x200.jpg"
+    - "https://avatars2.githubusercontent.com/u/493016?s=460&v=4"
+    - "http://lh6.googleusercontent.com/-Zu2gtRHBtx8/AAAAAAAAAAI/AAAAAAAAGU4/A8NSje1l9Ko/s512-c/photo.jpg"
+    - "http://imgcache.letslunch.com/linkedin-images/f1a67f17404d9a14b3666bd6e9e49739.jpg?1391410155"
+    - "https://en.gravatar.com/userimage/4342738/aea33b1d917d229c1b9ef9fc0d9e2da0.jpg?size=400"
+    - "http://i0.wp.com/40enfit.nl/wp-content/uploads/2015/11/122849_zocarry1_sb15__mg_1419.jpg?resize=1140%2C641"
+    - "https://www.shoppingtomorrow.nl/images/thumb/d/da/Theo_van_der_Sluijs1.jpg/270px-Theo_van_der_Sluijs1.jpg"
+    - "https://i1.wp.com/40enfit.nl/wp-content/uploads/2016/04/Theo-van-der-Sluijs-Freeletics-Hellweek-dag-2.jpg?resize=1080%2C641"
+    - "http://i1.wp.com/40enfit.nl/wp-content/uploads/2016/07/DSC00446-e1467456652173.jpg?resize=360%2C200"
+    - "https://i1.wp.com/40enfit.nl/wp-content/uploads/2015/10/t-strongviking.png?resize=239%2C300&ssl=1"
+    - "https://cdn-images-1.medium.com/fit/c/200/200/1*EBc_MElMGd4Nn6cS7PxBPA.jpeg"
+    - "https://pbs.twimg.com/profile_images/622382131671658497/ZUT0ZCg2.jpg"
+    - "http://i0.wp.com/40enfit.nl/wp-content/uploads/2016/04/B612_20160416_140224.jpg?resize=360%2C200"
+    - "https://i0.wp.com/40enfit.nl/wp-content/uploads/2015/06/FotorCreated.jpg?resize=1024%2C641&ssl=1"
+  jobTitle: "Agile Servant Leader"
+  name: "Theo van der Sluijs"
+  givenName: "Theodorus"
+  familyName: "van der Sluijs"
+  alternateName: "tvdsluijs"
+  birthPlace: "Rotterdam"
+  birthDate: "1975-05-14"
+  gender: "Male"
+  height: "170 cm"
+  nationality: "Dutch"
+  telephone: "+31(0)628135526"
+  url: "https://www.vandersluijs.nl"
+  description: "Theo van der Sluijs 'tvdsluijs' is een Nederlandse professionele Agile Servant Leader en Programmeur, die heeft gewerkt voor Bax-muziek en Glencore Agriculture. Als kind begon hij met het ontwikkelen van software op een Commodore 64."
+  owns:
+    addressLocality: "Wolphaartsdijk"
+    addressRegion: "Zeeland"
+    postalCode:  "4471BW"
+    streetAddress: "Burgemeester C. Koertstraat 7"
+    email: "info@ts-intermedia.nl"
+    name: "TS Intermedia"
+    telephone: "+31(0)628135526"
+  sameAs:
+    - https://twitter.com/tvdsluijs
+    - https://www.youtube.com/channel/UCu2sM3wQpiiURuEIMwd6Dag
+    - https://www.linkedin.com/in/tvandersluijs/
+    - https://github.com/tvdsluijs
+    - https://plus.google.com/+TheovanderSluijs
+    - https://stackoverflow.com/users/244970/tvdsluijs
+    - https://bitbucket.org/tvdsluijs/
+    - https://about.me/theovandersluijs/
+    - https://www.itheo.nl
+    - https://www.legendsince75.nl
+    - https://www.40enfit.nl
+    - https://www.vandersluijs.nl
+    - https://www.theovandersluijs.nl
+
+
 months:
  - Januari
  - Februari
