@@ -12,7 +12,7 @@ tags: ['Agile', 'Scrum', 'Agility']
 ---
 Agile! Het is geweldig! Het gaat al je problemen in je bedrijf oplossen!
 Development gaat weer sneller, beter en er komen weer dingen af. Teams werken
-gestructureerder en wedstrijden (genaamd sprinsts) zorgen dat de teams op
+gestructureerder en wedstrijden (genaamd sprints) zorgen dat de teams op
 hoger niveau komen met nog meer omzet. Fouten maken mag en daar leer je alleen
 van, en na iedere oplevering leer je weer van elkaar door uit te spreken wat
 er fout ging.
@@ -22,7 +22,7 @@ er fout ging.
 Maar niets is minder waar! Het werkt namelijk niet.
 
 Agile en Scrum, ik doe het al een aantal jaar. Ik ben gecertificeerd Scrum
-Master en Self-Made Agile Coach.
+Master, gecertificeerd Product Owner en Self-Made Agile Coach.
 
 En overal waar ik over Agile praat, over wat ik gedaan heb en hoe ver ik ben
 gekomen wordt ik als superheld binnengehaald!
@@ -36,16 +36,16 @@ goed zijn. Maar het geheel is Killing voor je Business.
 ### Duikboot model vs Sprints
 
 Verschillende onderdelen van Agile en Scrum zijn best goed. We weten allemaal
-dat de Waterfall methode (3 maanden ontwikkelen zonder te vragen of het goed
+dat de Waterfall methode (3 maanden of langer ontwikkelen zonder te vragen of het goed
 is) niet goed is. Het (zoals ze het in Agile termen genoemd hebben) zogenaamde
 duikboot model (na 3 maanden weer eens boven komen om boven de waterlinie te
 kijken) levert natuurlijk niet op wat je wilt.
 
-Daar hebben ze sprints voor uitgevonden. Of te wel, korte cycli van 2 tot 3
+Daar hebben ze sprints voor uitgevonden. Oftewel, korte cycli van 2 tot 3
 weken waarin je ontwikkelt, test, documenteert en oplevert. Ja dat werkt
 prima, maar het kan veel beter.
 
-Doordat er ver vooraf door de PO een backlog wordt gemaakt, waaruit
+Doordat er ver vooraf door de Product Owner (PO) een backlog wordt gemaakt, waaruit
 brokstukken worden verkleint tot sprint passende onderdelen en het feit dat er
 achteraf een review wordt gehouden, dwingt het de Developer om vooral niet
 meer te praten met de (wat ze noemen) stakeholder (oftewel de opdrachtgever).
