@@ -2,7 +2,7 @@
 encoding: utf-8
 baseurl: ""
 url: "https://www.vandersluijs.nl"
-title: Type on Strap # site's title
+title: van der Sluijs # site's title
 description: "To boldly go where no blog has gone before!" # used by search engines
 
 #schema.org stuff
@@ -26,15 +26,7 @@ person:
     - "http://lh6.googleusercontent.com/-Zu2gtRHBtx8/AAAAAAAAAAI/AAAAAAAAGU4/A8NSje1l9Ko/s512-c/photo.jpg"
     - "http://imgcache.letslunch.com/linkedin-images/f1a67f17404d9a14b3666bd6e9e49739.jpg?1391410155"
     - "https://en.gravatar.com/userimage/4342738/aea33b1d917d229c1b9ef9fc0d9e2da0.jpg?size=400"
-    - "http://i0.wp.com/40enfit.nl/wp-content/uploads/2015/11/122849_zocarry1_sb15__mg_1419.jpg?resize=1140%2C641"
-    - "https://www.shoppingtomorrow.nl/images/thumb/d/da/Theo_van_der_Sluijs1.jpg/270px-Theo_van_der_Sluijs1.jpg"
-    - "https://i1.wp.com/40enfit.nl/wp-content/uploads/2016/04/Theo-van-der-Sluijs-Freeletics-Hellweek-dag-2.jpg?resize=1080%2C641"
-    - "http://i1.wp.com/40enfit.nl/wp-content/uploads/2016/07/DSC00446-e1467456652173.jpg?resize=360%2C200"
-    - "https://i1.wp.com/40enfit.nl/wp-content/uploads/2015/10/t-strongviking.png?resize=239%2C300&ssl=1"
     - "https://cdn-images-1.medium.com/fit/c/200/200/1*EBc_MElMGd4Nn6cS7PxBPA.jpeg"
-    - "https://pbs.twimg.com/profile_images/622382131671658497/ZUT0ZCg2.jpg"
-    - "http://i0.wp.com/40enfit.nl/wp-content/uploads/2016/04/B612_20160416_140224.jpg?resize=360%2C200"
-    - "https://i0.wp.com/40enfit.nl/wp-content/uploads/2015/06/FotorCreated.jpg?resize=1024%2C641&ssl=1"
   jobTitle: "Agile Servant Leader"
   name: "Theo van der Sluijs"
   givenName: "Theodorus"
