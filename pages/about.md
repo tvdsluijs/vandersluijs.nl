@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Over
+title: Over Theo van der Sluijs
 permalink: /over-theo-van-der-sluijs/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]
@@ -12,30 +12,11 @@ Mijn volledige naam is Theodorus van der Sluijs, maar zeg gerust Theo. Ik ben ge
 
 Naast bloggen en bijna elke dag sporten heb ik natuurlijk ook dagelijkse verplichtingen zoals werk! Ik ben ICT manager en stuur hier dagelijks een team van developers aan.
 
-Heb ik nog meer hobby’s? Nou en of! Ik doe veel aan fotografie, één keer per week ga ik Bootcampen met een vaste groep bij Fitland. Ik kijk diverse series en loop dagelijks diverse rondes met onze hond Mowgli. Ik ga diverse keren per jaar naar verschillende developers conferenties. Elk jaar probeer ik wel een keertje op de lange latten te staan in Oostenrijk. En ik heb nog een andere Blog namelijk [http://40enfit.nl](http://40enfit.nl) waar ik artikelen schrijf over het 40 jaar zijn en hoe ik probeer fitter te worden en te blijven.
+Heb ik nog meer hobby’s? Nou en of! Ik doe veel aan [programmeren](https://www.purepython.org), ik probeer meerdere malen per week te sporten en rij 1x per week een rondje van zo'n 35km op mijn colocross fiets. Ik kijk diverse series en loop dagelijks diverse rondes met onze honden Mowgli en Bas. Ik ga diverse keren per jaar naar verschillende developers conferenties. Elk jaar probeer ik wel een keertje op de lange latten te staan in Oostenrijk.
 
 Ik blog al vanaf 1996 op [https://vandersluijs.nl/](https://vandersluijs.nl), dit heb ik gedaan op een eigen gemaakt CMS, Joomla!, WordPress, Tumbler, Blogger, terug op Wordpress en zit sinds kort op Jekyll (waardoor er heel veel artikelen verloren zijn gegaan door de jaren heen, helaas!).
 
-**Levensfeitjes over Theo van der Sluijs**
-------------------------------------------
-
-*   Ik woon in een kleine dierentuin;
-    *   3 paarden
-    *   2 honden
-    *   2 hamsters
-    *   3 cavia’s
-    *   9 konijnen
-    *   1 kat
-*   Mijn eerste zoon heet Jesse Indiana. Indiana vernoemd naar inderdaad Indiana Jones;
-*   Mijn tweede zoon heet Quinten Elajiah. Mijn vrouw vond Frodo (Lord of the rings) niks dus bedacht ik dat de naam van de speler van Frodo ook wel mooi was;
-*   Eerste computer had ik toen ik 7 jaar was en dat was in 1982 (Commodore 64);
-*   20 jaar aan Fitness gedaan, en de laatste 5 jaar daarvan vooral mijn kaakspieren;
-*   10 jaar geleden bijna 20 kilo afgevallen met het crash dieet van onze Sonja Bakker;
-*   Wintervakantie, Zomervakantie… gewoon vakantie;
-*   MacBook Pro, iPhone, Android Tab, No More Windows!;
-*   Mijn Wifi access point heet Klein Blijdorp.
-
-Technische feitjes van Theo van der Sluijs
+Technische feiten van Theo van der Sluijs
 ------------------------------------------
 
 *   1982     Eerste homecomputer / Commodore 64
