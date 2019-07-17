@@ -26,7 +26,8 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5700682111"
-feature-img: https://vandersluijs.resultants-e.nl/2015/11/luie-ict-er-automatiseert-alles-e1448811399571-825x363.jpeg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/11/luie-ict-er-automatiseert-alles-e1448811399571-825x363.jpeg
 categories:
   - Tech
 ---

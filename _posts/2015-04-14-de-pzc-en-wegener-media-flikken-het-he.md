@@ -46,7 +46,8 @@ hits:
   - "690"
 dsq_thread_id:
   - "5749912764"
-feature-img: https://vandersluijs.resultants-e.nl/2015/04/pzc-wegener.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/04/pzc-wegener.jpg
 categories:
   - Grumpy
 ---

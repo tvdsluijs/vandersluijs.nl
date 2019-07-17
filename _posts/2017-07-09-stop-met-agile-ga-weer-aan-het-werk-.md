@@ -6,7 +6,8 @@ slug: 'stop-met-agile-ga-weer-aan-het-werk-'
 date: '2017-07-09 06:25:16+00:00'
 publish_date: '2017-07-09 06:25:16+00:00'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/1*snWq_plHQNlM-A65kUknug.png'
+  path: 'https://vandersluijs.resultants-e.nl/1*snWq_plHQNlM-A65kUknug.png'
+  feature: 1*snWq_plHQNlM-A65kUknug.png'
 category: ['Agile']
 tags: ['Agile', 'Scrum', 'Agility']
 ---

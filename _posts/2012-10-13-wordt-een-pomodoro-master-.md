@@ -5,8 +5,8 @@ title: 'Wordt een Pomodoro Master!'
 slug: 'wordt-een-pomodoro-master-'
 date: '2012-10-13 10:00'
 publish_date: '2012-10-13 10:00'
-category: ['Pomodoro Technique', 'Pomodoro', 'Development']
-tags: ['Pomodoro Technique', 'Pomodoro', 'Development']
+category: ['Development']
+tags: ['Pomodoro', 'Development']
 ---
 Dus nu je Pomodoro Technique® gebruikt en ziet dat het je echt helpt bij je
 dagelijkse werkzaamheden, wil je ook meer!? Dat is mogelijk! Wordt een

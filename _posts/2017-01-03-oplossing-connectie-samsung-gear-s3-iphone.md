@@ -43,7 +43,8 @@ hits:
   - "1077"
 dsq_thread_id:
   - "5701314075"
-feature-img: https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-825x510.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-825x510.jpg
 categories:
   - Tech
 tags:

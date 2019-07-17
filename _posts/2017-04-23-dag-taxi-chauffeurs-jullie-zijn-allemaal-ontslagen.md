@@ -6,7 +6,8 @@ slug: 'dag-taxi-chauffeurs-jullie-zijn-allemaal-ontslagen'
 date: '2017-04-23 21:16:13+00:00'
 publish_date: '2017-04-23 21:16:13+00:00'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/1*epOby2wtI5_YdLFbjr5sXw.jpeg'
+  path: 'https://vandersluijs.resultants-e.nl/1*epOby2wtI5_YdLFbjr5sXw.jpeg'
+  feature: 1*epOby2wtI5_YdLFbjr5sXw.jpeg'
 category: ['Tech']
 tags: ['Future', 'Self Driving Cars', 'Tesla']
 ---

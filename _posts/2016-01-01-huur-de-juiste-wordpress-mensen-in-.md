@@ -6,7 +6,8 @@ slug: 'huur-de-juiste-wordpress-mensen-in-'
 date: '2016-01-01 22:56'
 publish_date: '2016-01-01 22:56'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/1*ElZM2hjwYLDE29GCAmYxoA.jpeg'
+  path: 'https://vandersluijs.resultants-e.nl/1*ElZM2hjwYLDE29GCAmYxoA.jpeg'
+  feature: 1*ElZM2hjwYLDE29GCAmYxoA.jpeg'
   credit: 'pixabay.com'
   creditlink:  'https://pixabay.com/en/wordpress-blogging-writing-typing-923188/'
 category: ['Coding']

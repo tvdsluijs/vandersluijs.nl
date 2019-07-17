@@ -1,0 +1,20 @@
+<figure class="header header-background ampstart-image-fullpage-hero m0 relative">
+    <figcaption class="absolute top-0 right-0 bottom-0 left-0">
+        <header class="hero-text p3">
+            <h1 class="ampstart-fullpage-hero-heading mb3">
+                <span class="ampstart-fullpage-hero-heading-text">
+                    {{page.title}}
+                </span>
+            </h1>
+            <span class="ampstart-image-credit h4">
+             {{page.sub_title}}
+            </span>
+        </header>
+        <!-- top target anchor to scroll up -->
+        <a class="target-anchor" id="top"></a>
+        <amp-position-observer on="enter:hideAnim.start; exit:showAnim.start"
+                               layout="nodisplay">
+        </amp-position-observer>
+    </figcaption>
+</figure>
+<!-- End Fullpage Hero -->

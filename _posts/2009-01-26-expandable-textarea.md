@@ -6,7 +6,8 @@ slug: 'expandable-textarea'
 date: '2009-01-26 06:52'
 publish_date: '2009-01-26 06:52'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*Cq7lyI3Umc4dgMDE.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*Cq7lyI3Umc4dgMDE.gif'
+  feature: 0*Cq7lyI3Umc4dgMDE.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

@@ -6,7 +6,8 @@ slug: 'stop-nu-met-agile-je-doet-het-fout-'
 date: '2017-05-06 14:22:27+00:00'
 publish_date: '2017-05-06 14:22:27+00:00'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/1*CM0RAFUO3RXyiurXQHucjA.jpeg'
+  path: 'https://vandersluijs.resultants-e.nl/1*CM0RAFUO3RXyiurXQHucjA.jpeg'
+  feature: 1*CM0RAFUO3RXyiurXQHucjA.jpeg'
 category: ['Agile']
 tags: ['Agile', 'Scrum', 'Scrum Master']
 ---

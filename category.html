@@ -1,0 +1,37 @@
+---
+layout: tags_cats
+title: "Categorieën"
+sub_title: "om inhoud in verschillende secties te sorteren en groeperen"
+---
+{% comment %} https://blog.webjeda.com/jekyll-categories/ {% endcomment %}
+
+{% for category in site.categories %}
+<div class="archive-group">
+    <div id="#{{ category_name | slugize }}"></div>
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <p></p>
+
+    {%- assign counter = 0 %}
+    {%- for post in site.categories[category_name] %}
+    {%- assign counter = counter | plus: 1 %}
+    {%- endfor %}
+    <h3 class="category-head">{{ category_name }} ({{counter}})</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    <ul class="article-list">
+        {%- for post in site.categories[category_name] %}
+        <li>
+            <div class="article-lists">
+                <a class="article-link-footer leader no-border" href="{{post.url}}">
+                    {{post.title}}
+                </a>
+            </div>
+            <div class="article-meta">
+                {% include date.html %} |
+                {{site.data[site.defaultLang].reading_time}}: {% include read_time_post.html %} |
+                {{site.data[site.defaultLang].nr_of_words}}: {% include nr_words_post.html %}
+            </div>
+        </li>
+        {%- endfor %}
+    </ul>
+</div>
+{% endfor %}

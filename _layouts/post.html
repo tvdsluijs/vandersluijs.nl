@@ -1,45 +1,39 @@
 ---
 layout: default
 ---
-{% capture i18n_date %}
-{% assign day = page.date | date: "%-d" %}
-{% assign m = page.date | date: "%-m" | minus: 1 %}
-{% assign month = site.months[m] %}
-{% assign year = page.date | date: "%Y" %}
-{% assign datum = day | append: " " | append: month | append: " " | append: year %}
-{% endcapture %}
-<article {% if page.feature-img or page.image.feature %}class="feature-image"{% endif %}>
-  {%- if page.feature-img %}
-    <header id="main" style="background-image: url('{{ page.feature-img }}')">
-  {%- elsif page.image.feature %}
-    <header id="main" style="background-image: url('{{ page.image.feature }}')">
-  {%- endif %}
-    <h1 id="{{ page.title | cgi_escape }}" class="title">{{ page.title }}</h1>
-    <p class="meta">
-    <!--{{ page.date | date: "%B %-d, %Y" }}-->
-      {{ datum }}
-    {% if page.author %} - {{ page.author }}{% endif %}
-    </p>
-  </header>
-  <section class="post-content">{{ content }}</section>
-  
-  <!-- Social media shares -->
-  {% include share_buttons.html %}
-   
-   <!-- Tag list -->
-  {% capture tag_list %}{{ page.tags | join: "|"}}{% endcapture %}
-  {% include tags_list.html tags=tag_list %}
-    
-</article>
+<main id="content" role="main">
+    {% capture image_alt %}
+    {{page.title}}
+    {% endcapture %}
 
-<!-- Disqus -->
-{% if site.theme_settings.disqus_shortname %}
-<div class="comments">
-  {% include disqus.html %}
-</div>
-{% endif %}
+    {%- if page.video_post_url %}
+    {%- capture youtube_id %}
+    {{page.video_post_url}}
+    {%- endcapture %}
+    {% include show_youtube.html youtube=youtube_id %}
+    {%- elsif page.vw_post_format_video_oembed %}
+    {%- capture youtube_id %}
+    {{page.vw_post_format_video_oembed}}
+    {%- endcapture %}
+    {% include show_youtube.html youtube=youtube_id %}
+    {%- elsif page.image and page.image.path %}
+    {% include post-image.html src=page.image.path alt=page.title width="720" height="378" %}
+    {%- elsif page.feature-img %}
+    {% include post-image.html src=page.feature-img alt=page.title width="720" height="378" %}
+    {%- elsif page.img %}
+    {%- capture top_image %}
+    {{page.img}}
+    {%- endcapture %}
+    {% include post-image.html src=top_image alt=page.title width="720" height="378" %}
+    {%- elsif page.feature-img %}
+    {%- capture top_image %}
+    {{page.feature-img}}
+    {%- endcapture %}
+    {% include post-image.html src=top_image alt=page.title width="720" height="378" %}
+    {%- endif %}
 
-<!-- Post navigation -->
-{% if site.theme_settings.post_navigation %}
-  {% include post_nav.html %}
-{% endif %}
+    {{ content }}
+
+    {% include sharepost.html %}
+</main>
+{% include post_footer.html %}

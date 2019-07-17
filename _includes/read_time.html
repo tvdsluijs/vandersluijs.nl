@@ -1,0 +1,10 @@
+<!--Put this file in your _includes folder and just call it as an include-->
+
+<span class="reading-time" title="Estimated read time">
+  {%- assign words = content | number_of_words %}
+  {%- if words < 360 %}
+    1 min
+  {%- else %}
+   {{ words | divided_by:180 }} mins
+  {%- endif %}
+</span>

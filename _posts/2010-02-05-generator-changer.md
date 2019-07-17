@@ -6,7 +6,8 @@ slug: 'generator-changer'
 date: '2010-02-05 11:44'
 publish_date: '2010-02-05 11:44'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*5Qg-yaWwY5B_FjGa.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*5Qg-yaWwY5B_FjGa.gif'
+  feature: 0*5Qg-yaWwY5B_FjGa.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

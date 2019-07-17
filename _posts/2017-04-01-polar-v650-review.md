@@ -11,7 +11,8 @@ hits:
   - "139"
 dsq_thread_id:
   - "5882247989"
-feature-img: https://vandersluijs.resultants-e.nl/2017/06/polar-v650-8-825x510.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2017/06/polar-v650-8-825x510.jpg
 categories:
   - Tech
 tags:

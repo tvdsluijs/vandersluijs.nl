@@ -30,7 +30,8 @@ hits:
   - "739"
 dsq_thread_id:
   - "5734525612"
-feature-img: https://vandersluijs.resultants-e.nl/2016/02/DSC00161-e1456578868797-825x510.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/02/DSC00161-e1456578868797-825x510.jpg
 categories:
   - Lifestyle
 tags:

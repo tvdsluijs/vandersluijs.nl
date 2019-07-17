@@ -43,7 +43,8 @@ asalah_custom_description:
   - ""
 asalah_sidebar_position:
   - "0"
-feature-img: https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-geen-sporthorloge-825x510.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-geen-sporthorloge-825x510.jpg
 categories:
   - Tech
 tags:

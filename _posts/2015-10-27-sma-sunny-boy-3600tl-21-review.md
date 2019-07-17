@@ -34,7 +34,8 @@ vw_review_score_4_score:
  - 10
 dsq_thread_id:
   - "5700416168"
-feature-img: https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-825x249.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-825x249.jpg
 categories:
   - Tech
 tags:

@@ -5,11 +5,11 @@ title: 'Manager tools'
 slug: 'manager-tools'
 date: '2012-10-10 18:36'
 publish_date: '2012-10-10 18:36'
-category: ['Agile', 'Tools', 'Management', 'Management And Leadership', 'Scrum']
-tags: ['Agile', 'Tools', 'Management', 'Management And Leadership', 'Scrum']
+category: ['Agile', 'Software']
+tags: ['Management', 'Scrum']
 ---
 Van de week heb ik op mijn engelse blog een stuk geschreven over [Management
-Tools](https://itheo.nl/2012/10/what-in-tool-great-managers-tools/).
+Tools](https://www.itheo.nl/2012/10/what-in-tool-great-managers-tools/).
 
 Deze software tools zijn tools die ik dagelijks gebruik en waar ik ook niet
 zonder kan.

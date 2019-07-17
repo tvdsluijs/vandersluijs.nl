@@ -5,8 +5,8 @@ title: 'Pomodoro, GTD met Wunderlist of Evernote'
 slug: 'pomodoro-gtd-met-wunderlist-of-evernote'
 date: '2012-11-10 11:31'
 publish_date: '2012-11-10 11:31'
-category: ['Pomodoro', 'Pomodoro Technique', 'Wunderlist', 'Evernote', 'Development']
-tags: ['Pomodoro', 'Pomodoro Technique', 'Wunderlist', 'Evernote', 'Development']
+category: ['Development']
+tags: ['Pomodoro', 'Wunderlist', 'Evernote', 'Development']
 ---
 Als je dagelijks, zoals ik, gebruik maak van een techniek zoals [Pomodoro
 Technique®](http://www.pomodorotechnique.com/) of

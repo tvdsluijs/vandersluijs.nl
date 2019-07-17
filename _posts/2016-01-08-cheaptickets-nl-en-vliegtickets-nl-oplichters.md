@@ -26,7 +26,8 @@ hits:
   - "1309"
 dsq_thread_id:
   - "5700416025"
-feature-img: https://vandersluijs.resultants-e.nl/2016/01/vliegtickets-nl-cheaptickets.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/01/vliegtickets-nl-cheaptickets.jpg
 categories:
   - Grumpy
 ---

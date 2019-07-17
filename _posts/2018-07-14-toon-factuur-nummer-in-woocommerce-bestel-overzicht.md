@@ -7,13 +7,13 @@ permalink: /2018/07/toon-factuur-nummer-in-woocommerce-bestel-overzicht
 date: 2018-07-14
 publish_date: 2018-07-14
 image:
-  feature: /images/toon-factuur-nummer-in-woocommerce-bestel-overzicht.jpeg
+  path: /images/toon-factuur-nummer-in-woocommerce-bestel-overzicht.jpeg
+  feature: toon-factuur-nummer-in-woocommerce-bestel-overzicht.jpeg
   credit: rawpixel.com  
   creditlink: https://www.pexels.com/@rawpixel
 thumbnail: /images/toon-factuur-nummer-in-woocommerce-bestel-overzicht_thumbnail.jpeg
 categories: ['Coding']
-tags: Woocommerce
- - Wordpress
+tags: ['Woocommerce', 'Wordpress']
 comments: true
 excerpt_separator: <!--more-->
 ---

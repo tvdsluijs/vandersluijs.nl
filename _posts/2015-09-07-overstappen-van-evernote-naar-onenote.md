@@ -36,7 +36,8 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5700920914"
-feature-img: https://vandersluijs.resultants-e.nl/2015/09/onenote-mac.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/09/onenote-mac.jpg
 categories:
   - Tech
 ---

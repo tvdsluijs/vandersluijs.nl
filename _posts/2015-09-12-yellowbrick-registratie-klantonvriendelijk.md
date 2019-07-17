@@ -38,7 +38,8 @@ video_post_url:
   - ""
 dsq_thread_id:
   - "5766973391"
-feature-img: https://vandersluijs.resultants-e.nl/2015/09/Yellowbrick.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/09/Yellowbrick.jpg
 categories:
   - Grumpy
 ---

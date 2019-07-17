@@ -1,0 +1,70 @@
+---
+# Dutch
+# Vlaams
+
+date:
+  abbr_daynames:
+    - zo
+    - ma
+    - di
+    - wo
+    - do
+    - vr
+    - za
+  abbr_monthnames:
+    - jan
+    - feb
+    - mrt
+    - apr
+    - mei
+    - jun
+    - jul
+    - aug
+    - sep
+    - okt
+    - nov
+    - dec
+  daynames:
+    - zondag
+    - maandag
+    - dinsdag
+    - woensdag
+    - donderdag
+    - vrijdag
+    - zaterdag
+  monthnames:
+    - januari
+    - februari
+    - maart
+    - april
+    - mei
+    - juni
+    - juli
+    - augustus
+    - september
+    - oktober
+    - november
+    - december
+share: "Delen"
+more_blogs: "Bekijk meer artikelen"
+more: "Lees meer...."
+published: "Gepubliceerd"
+reading_time: "Lees tijd"
+nr_of_words: "Aantal woorden"
+categories: "Categorieën"
+tags: "Labels"
+share_on: " Deel op"
+supported_by: "ONDERSTEUND DOOR"
+written_by: "GESCHREVEN DOOR"
+published_with: "Trots gepubliceerd met"
+and: "en"
+licensed_by: "In licentie gegeven door"
+under_a: "met een"
+cc_ba_sa: "CC BY-SA Internationale Licentie."
+subscribe_feed: "Abboneer je op mijn feed"
+older_posts: "Oudere artikelen"
+newer_posts: "Nieuwere artikelen"
+page: "Pagina"
+of: "van"
+my_blog: "Mijn blog"
+blog_interested: "Als je geïnteresseerd bent in wat ik aan het leren ben of waar ik de laatste tijd aan werk, kijk dan op mijn blog."

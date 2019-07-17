@@ -6,7 +6,8 @@ slug: 'born-on-this-day'
 date: '2010-02-05 11:59'
 publish_date: '2010-02-05 11:59'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*fe8TCm4tiaojXS9_.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*fe8TCm4tiaojXS9_.gif'
+  feature: 0*fe8TCm4tiaojXS9_.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

@@ -6,7 +6,8 @@ slug: 'oplossing-too-many-redirects-probleem-met-ssl-en-wordpress'
 date: '2017-03-12 13:06:57+00:00'
 publish_date: '2017-03-12 13:06:57+00:00'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/1*eqxgrhVHH0GE6TRVa3mPeg.jpeg'
+  path: 'https://vandersluijs.resultants-e.nl/1*eqxgrhVHH0GE6TRVa3mPeg.jpeg'
+  feature: 1*eqxgrhVHH0GE6TRVa3mPeg.jpeg'
 category: ['Tech']
 tags: ['Tech', 'WordPress', 'Https', 'Ssl Certificate', 'Coding']
 ---

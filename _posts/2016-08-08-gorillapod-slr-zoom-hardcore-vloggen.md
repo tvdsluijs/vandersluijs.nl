@@ -46,7 +46,8 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5776478167"
-feature-img: https://vandersluijs.resultants-e.nl/2016/08/IMG_4592-825x510.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/08/IMG_4592-825x510.jpg
 categories:
   - Fotografie
 tags:

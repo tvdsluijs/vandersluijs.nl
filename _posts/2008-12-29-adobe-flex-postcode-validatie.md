@@ -6,7 +6,8 @@ slug: 'adobe-flex-postcode-validatie'
 date: '2008-12-29 21:01'
 publish_date: '2008-12-29 21:01'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*47piEI9lABdlJs0-.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*47piEI9lABdlJs0-.gif'
+  feature: 0*47piEI9lABdlJs0-.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

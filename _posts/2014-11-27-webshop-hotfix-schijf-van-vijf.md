@@ -48,7 +48,8 @@ hits:
   - "644"
 dsq_thread_id:
   - "5761560170"
-feature-img: https://vandersluijs.resultants-e.nl/2014/11/15893676895_f2f4bb6db5_c.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2014/11/15893676895_f2f4bb6db5_c.jpg
 categories:
   - Lifestyle
   - Tech

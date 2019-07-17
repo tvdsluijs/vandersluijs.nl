@@ -5,8 +5,8 @@ title: 'Flex Feeder'
 slug: 'flex-feeder'
 date: '2008-02-15 06:00'
 publish_date: '2008-02-15 06:00'
-category: ['Coding']
-tags: ['Coding']
+category: ['Tech']
+tags: ['Code']
 ---
 Nu wordt het echt interessant.  
   

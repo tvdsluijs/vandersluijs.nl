@@ -48,7 +48,8 @@ hits:
   - "2163"
 dsq_thread_id:
   - "5701321352"
-feature-img: https://vandersluijs.resultants-e.nl/2015/04/kis-kast-pure-troep.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/04/kis-kast-pure-troep.jpg
 categories:
   - Grumpy
 ---

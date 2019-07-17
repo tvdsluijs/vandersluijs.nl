@@ -5,8 +5,8 @@ title: 'Pomodoro iets voor een Manager?'
 slug: 'pomodoro-iets-voor-een-manager-'
 date: '2012-10-11 19:15'
 publish_date: '2012-10-11 19:15'
-category: ['Agile', 'Pomodoro Technique', 'Pomodoro', 'Management']
-tags: ['Agile', 'Pomodoro Technique', 'Pomodoro', 'Management']
+category: ['Agile']
+tags: ['Pomodoro']
 ---
 In een [vorige blog](https://itheo.nl/2012/10/wat-is-pomodoro-en-wat-kan-ik-
 ermee/) heb ik uitgelegd wat de Pomodoro Technique® is en wat je er mee kan

@@ -34,7 +34,8 @@ hits:
   - "1390"
 itrr_another_apply:
   - 'no'
-feature-img: https://vandersluijs.resultants-e.nl/2015/10/omniplan-maintain-rmbp-e1444160363752.png
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/10/omniplan-maintain-rmbp-e1444160363752.png
 categories:
   - Tech
 tags:

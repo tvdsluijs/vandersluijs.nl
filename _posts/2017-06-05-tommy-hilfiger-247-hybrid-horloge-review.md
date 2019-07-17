@@ -11,7 +11,8 @@ hits:
   - "320"
 dsq_thread_id:
   - "5914232019"
-feature-img: https://vandersluijs.resultants-e.nl/2017/06/Tommy_Hilfiger_24_7_hybrid_watch_-_2-825x510.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2017/06/Tommy_Hilfiger_24_7_hybrid_watch_-_2-825x510.jpg
 categories:
   - Tech
 tags:

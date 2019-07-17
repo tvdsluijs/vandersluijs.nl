@@ -1,0 +1,17 @@
+{ "@context": "http://schema.org",
+    "@type": "Article",
+    "headline": "{{page.title}}",
+    "alternativeHeadline": "{{page.sub-title}}",
+    "image": "{{page.img}}",
+    "author": "{{site.author.name}},
+    "genre": "{{page.category}}",
+    "keywords": "{{ site.author.sameAs | join: '" "' }}",
+    "wordcount": "1120",
+    "publisher": "{{site.title}}",
+    "url": "{{page.url}}",
+    "datePublished": "{{page.datePublished}}",
+    "dateCreated": "{{page.dateCreated}}",
+    "dateModified": "{{page.dateModified}}",
+    "description": "{{page.seodescription}}",
+    "articleBody": "{{content | strip_html}}"
+}

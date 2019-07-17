@@ -1,11 +1,33 @@
 <!DOCTYPE html>
-<html>
-  {% include head.html %}
-  <body>
-     {% include navbar.html %}
-    <div class="content">
-      {{ content }}
-    </div>
-    {% include footer.html %}
-  </body>
+<html ⚡ lang="{{site.defaultLang}}">
+{% include amp-head.html %}
+<body>
+{%- if site.google_analytics %}
+<amp-analytics type="gtag" data-credentials="include">
+    <script type="application/json">
+        {
+            "vars" : {
+                "gtag_id": "{{site.google_analytics}}",
+                "config" : {
+                    "{{site.google_analytics}}": { "groups": "default", "anonymize_ip": true, "forceSSL": true}
+                }
+            }
+        }
+    </script>
+</amp-analytics>
+{%- endif %}
+
+
+<!-- Start Navbar -->
+{% include nav-bar.html %}
+
+<!-- Start Fullpage Hero -->
+{% include hero.html %}
+
+<!-- Start Content -->
+{{ content }}
+
+{% include up_arrow.html %}
+
+</body>
 </html>

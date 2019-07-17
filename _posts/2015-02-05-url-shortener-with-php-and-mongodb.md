@@ -50,7 +50,8 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5700415773"
-feature-img: https://vandersluijs.resultants-e.nl/2015/02/1423185597_basic1-029_url_web_address-512.png
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/02/1423185597_basic1-029_url_web_address-512.png
 categories:
   - Tech
 tags:

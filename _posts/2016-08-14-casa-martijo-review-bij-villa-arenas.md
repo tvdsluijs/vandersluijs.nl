@@ -36,7 +36,8 @@ vw_review_score_5_score:
  - 10
 dsq_thread_id:
   - "5746507884"
-feature-img: https://vandersluijs.resultants-e.nl/2016/08/dpc-11-825x510.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/08/dpc-11-825x510.jpg
 categories:
   - Lifestyle
   - Travel

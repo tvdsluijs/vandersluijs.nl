@@ -48,7 +48,8 @@ vw_review_score_8_score:
  - 8
 dsq_thread_id:
   - "5709775630"
-feature-img: https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952.jpg
 categories:
   - Fotografie
 tags:

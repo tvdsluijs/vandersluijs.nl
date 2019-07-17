@@ -30,7 +30,8 @@ video_post_url:
   - ""
 dsq_thread_id:
   - "5712885553"
-feature-img: https://vandersluijs.resultants-e.nl/2015/09/theo-beats-by-dr-dre.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/09/theo-beats-by-dr-dre.jpg
 categories:
   - Tech
 format: video

@@ -1,0 +1,44 @@
+email: "theo@vandersluijs.nl"
+image: "/assets/style-images/theo-van-der-sluijs-250px.gif"
+jobtitle: "CTO Agile Servant Leader"
+name: "Theo van der Sluijs"
+givenName: "Theodorus"
+familyName: "van der Sluijs"
+alternateName: "tvdsluijs"
+birthPlace: "Rotterdam"
+birthDate: "1975-05-14"
+gender: "Male"
+height: "170 cm"
+nationality: "Dutch"
+telephone: "+31(0)628135526"
+url: "https://www.itheo.nl"
+description: "Nerd Herder ☆ Agility Master ☆ Code monkey ☆ Life Hacker ☆ Sport Billy ☆ Pops ☆ Male human ☆ Zookeeper ☆ Blogger ☆ Dutch"
+bio: >
+  Theo van der Sluijs 'tvdsluijs' is een Nederlandse professionele Agile Servant Leader en Programmeur, die heeft gewerkt voor Bax-muziek en Glencore Agriculture. Als kind begon hij met het ontwikkelen van software op een Commodore 64.
+social:
+  linkedin: "tvandersluijs"
+  twitter: "tvdsluijs"
+  github: "tvdsluijs"
+  stackoverflow: "tvdsluijs"
+  email: "theo@vandersluijs.nl"
+owns:
+  addressLocality: "Wolphaartsdijk"
+  addressRegion: "Zeeland"
+  postalCode:  "4471BW"
+  streetAddress: "Burgemeester C. Koertstraat 7"
+  email: "info@ts-intermedia.nl"
+  name: "TS Intermedia"
+  telephone: "+31(0)628135526"
+sameAs:
+  - https://twitter.com/tvdsluijs
+  - https://www.youtube.com/channel/UCu2sM3wQpiiURuEIMwd6Dag
+  - https://www.linkedin.com/in/tvandersluijs/
+  - https://github.com/tvdsluijs
+  - https://stackoverflow.com/users/244970/tvdsluijs
+  - https://bitbucket.org/tvdsluijs/
+  - https://about.me/theovandersluijs/
+  - https://www.itheo.nl
+  - https://www.legendsince75.nl
+  - https://www.40enfit.nl
+  - https://www.itheo.nl
+  - https://www.theovandersluijs.nl

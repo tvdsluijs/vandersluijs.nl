@@ -6,7 +6,8 @@ slug: 'flex-scrolling-text-component'
 date: '2009-03-17 08:03'
 publish_date: '2009-03-17 08:03'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*dfNs3h5rLp-Kw5BU.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*dfNs3h5rLp-Kw5BU.gif'
+  feature: 0*dfNs3h5rLp-Kw5BU.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

@@ -6,7 +6,8 @@ slug: 'looking-at-a-sap-presentation'
 date: '2009-12-18 08:30'
 publish_date: '2009-12-18 08:30'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*s1-PBARDA-BmyxPp.jpg'
+  path: 'https://vandersluijs.resultants-e.nl/0*s1-PBARDA-BmyxPp.jpg'
+  feature: 0*s1-PBARDA-BmyxPp.jpg'
 category: ['Coding']
 tags: ['Coding']
 ---

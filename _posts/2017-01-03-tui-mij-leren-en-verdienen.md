@@ -43,7 +43,8 @@ hits:
   - "692"
 dsq_thread_id:
   - "5700425983"
-feature-img: https://vandersluijs.resultants-e.nl/2017/01/tui_Dreamliner-e1483472432278-825x510.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2017/01/tui_Dreamliner-e1483472432278-825x510.jpg
 categories:
   - Grumpy
 tags:

@@ -5,8 +5,8 @@ title: 'Ik ben Pomodoro Master (al een tijdje!)'
 slug: 'ik-ben-pomodoro-master-al-een-tijdje-'
 date: '2013-01-16 21:10'
 publish_date: '2013-01-16 21:10'
-category: ['Pomodoro', 'Pomodoro Technique', 'Certification', 'Development']
-tags: ['Pomodoro', 'Pomodoro Technique', 'Certification', 'Development']
+category: ['Agile']
+tags: ['Pomodoro', 'Certification', 'Development']
 ---
 Ik had het al een tijd geleden ingeleverd op de [Pomodoro
 Technique®](http://www.pomodorotechnique.com/) site, mijn rapport met 6

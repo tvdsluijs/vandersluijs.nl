@@ -8,7 +8,8 @@ guid: https://www.vandersluijs.nl/?p=4346
 permalink: /2017/06/polar-v800-gerepareerd.html
 hits:
   - "327"
-feature-img: https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_1-e1496907732569-825x399.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_1-e1496907732569-825x399.jpg
 categories:
   - Tech
 tags:

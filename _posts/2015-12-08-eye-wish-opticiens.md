@@ -24,7 +24,8 @@ hits:
   - "1786"
 dsq_thread_id:
   - "5700415816"
-feature-img: https://vandersluijs.resultants-e.nl/2015/12/maxresdefault-e1449500768773-825x510.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/12/maxresdefault-e1449500768773-825x510.jpg
 categories:
   - Grumpy
 ---

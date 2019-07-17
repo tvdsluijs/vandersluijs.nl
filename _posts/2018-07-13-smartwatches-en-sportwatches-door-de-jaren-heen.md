@@ -7,13 +7,13 @@ permalink: /2018/07/smartwatches-en-sportwatches-door-de-jaren-heen
 date: 2018-07-13
 publish_date: 2018-07-13
 image:
-  feature: /images/garmin-forerunner-645-tommy-hilfiger_0.jpg
+  path: 'https://www.vandersluijs.nl/images/images/garmin-forerunner-645-tommy-hilfiger_0.jpg'
+  feature: garmin-forerunner-645-tommy-hilfiger_0.jpg'
   credit: 
   creditlink: 
-thumbnail: /images/garmin-forerunner-645-tommy-hilfiger_0.jpg
-categories: ['Tech']
-tags: Smartwatch
- - Sportwatch
+thumbnail:   'https://www.vandersluijs.nl/images/images/garmin-forerunner-645-tommy-hilfiger_0.jpg'
+categories: ['Tech', 'Lifestyle']
+tags: ['Smartwatch', 'Sportwatch']
 comments: true
 excerpt_separator: <!--more-->
 ---
