@@ -1,42 +1,21 @@
 ---
-id: 2612
-title: De dag dat ik mijn iPhone weg deed
-date: 2016-03-13T11:30:48+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2612
-permalink: /2016/03/dag-iphone-weg-deed.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "580"
-dsq_thread_id:
-  - "5709544058"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/03/iphone5s-banner-825x460.png
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-03-13 11:30:48+00:00
+dsq_thread_id:
+- '5709544058'
+hits:
+- '580'
+image: https://vandersluijs.resultants-e.nl/2016/03/iphone5s-banner-825x460.png
+layout: post
+permalink: /2016/03/dag-iphone-weg-deed.html
 tags:
-  - Apple
-  - iPhone
+- Apple
+- iPhone
+title: De dag dat ik mijn iPhone weg deed
+
 ---
 2 jaar, ja 2 jaar lang had ik een iPhone. Blij was ik er mee! Ja wie zou dat niet zijn als je net 800 euro hebt uitgegeven (dan ga je niet zeggen, het is niks). Okay, de iPhone zit goed in elkaar, de software werkt goed en eigenlijk laat hij je nooit in de steek. Behalve als je hem iets te veel gebruikt, want die batterij gaat niet lang mee. En toch deed ik hem weg!
 

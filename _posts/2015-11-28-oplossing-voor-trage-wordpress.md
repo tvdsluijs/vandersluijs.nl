@@ -1,33 +1,17 @@
 ---
-id: 1774
-title: Oplossing voor trage wordpress
-date: 2015-11-28T20:48:42+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1774
-permalink: /2015/11/oplossing-voor-trage-wordpress.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "1969"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-11-28 20:48:42+00:00
+hits:
+- '1969'
+layout: post
+permalink: /2015/11/oplossing-voor-trage-wordpress.html
 tags:
-  - Wordpress
+- Wordpress
+title: Oplossing voor trage wordpress
+
 ---
 Traag, heel traag was mijn WordPress site! Tja, als je 30 dagen moet bloggen en 30 dagen zonder social media zit ga je op heel veel zaken letten en dingen controleren!
 

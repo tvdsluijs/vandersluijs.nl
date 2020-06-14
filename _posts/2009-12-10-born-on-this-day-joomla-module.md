@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-12-10 21:35
 excerpt_separator: <!--more-->
-title: 'Born on this Day Joomla! Module'
-slug: 'born-on-this-day-joomla-module'
-date: '2009-12-10 21:35'
-publish_date: '2009-12-10 21:35'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-12-10 21:35
+slug: born-on-this-day-joomla-module
+tags:
+- Coding
+title: Born on this Day Joomla! Module
+
 ---
 Like to display a Born on this day list on your Joomla! site ?  
   

@@ -1,57 +1,21 @@
 ---
-id: 1788
-title: Olympus E-M5 II review
-date: 2015-12-02T06:48:12+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1788
-permalink: /2015/12/olympus-e-m5-ii-review.html
-vw_review_average_score:
-  - "4.6"
-vw_review_score_0_label:
- - Gebruiksgemak
-vw_review_score_0_score:
- - 10
-vw_review_score_1_label:
- - Degelijkheid
-vw_review_score_1_score:
- - 10
-vw_review_score_2_label:
- - Gewicht
-vw_review_score_2_score:
- - 8
-vw_review_score_3_label:
- - Instellingen
-vw_review_score_3_score:
- - 10
-vw_review_score_4_label:
- - Fotokwaliteit
-vw_review_score_4_score:
- - 10
-vw_review_score_5_label:
- - Design
-vw_review_score_5_score:
- - 10
-vw_review_score_6_label:
- - Snelheid
-vw_review_score_6_score:
- - 10
-vw_review_score_7_label:
- - Bedieningsgemak
-vw_review_score_7_score:
- - 10
-vw_review_score_8_label:
- - Prijs
-vw_review_score_8_score:
- - 4
-vw_review_summary:
-  - Een prachtige camera en wat mij betreft een prima spiegel reflex vervanger! Hij is van alle gemakken voorzien, maar met de prijs van meer dan 1000 euro vind ik hem wel pittig qua prijs
-dsq_thread_id:
-  - "6100326179"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2015-12-02 06:48:12+00:00
+description:
+- Een prachtige camera en wat mij betreft een prima spiegel reflex vervanger! Hij
+  is van alle gemakken voorzien, maar met de prijs van meer dan 1000 euro vind ik
+  hem wel pittig qua prijs
+dsq_thread_id:
+- '6100326179'
+layout: post
+permalink: /2015/12/olympus-e-m5-ii-review.html
 tags:
-  - Camera
+- Camera
+title: Olympus E-M5 II review
+
 ---
 Bijna vergeten was ik dit merk! Olympus! Hoe kon ik het vergeten!!
 

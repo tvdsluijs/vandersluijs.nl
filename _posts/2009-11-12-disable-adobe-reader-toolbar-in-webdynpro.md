@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-12 21:20
 excerpt_separator: <!--more-->
-title: 'Disable Adobe Reader Toolbar in Webdynpro'
-slug: 'disable-adobe-reader-toolbar-in-webdynpro'
-date: '2009-11-12 21:20'
-publish_date: '2009-11-12 21:20'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-11-12 21:20
+slug: disable-adobe-reader-toolbar-in-webdynpro
+tags:
+- Coding
+title: Disable Adobe Reader Toolbar in Webdynpro
+
 ---
 Last week I was searching for a way to disable the Toolbar of the Adobe Reader
 in a Webdynpro application. I needed this when working for a [NL 4

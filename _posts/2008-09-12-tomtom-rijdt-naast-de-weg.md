@@ -1,29 +1,17 @@
 ---
-id: 494
-title: TomTom rijdt naast de weg
-date: 2008-09-12T00:17:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/09/12/tomtom-rijdt-naast-de-weg/
-permalink: /2008/09/tomtom-rijdt-naast-de-weg.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3819709528034068921"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/09/tomtom-rijdt-naast-de-weg.html
-hits:
-  - "1039"
-dsq_thread_id:
-  - "5831557216"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2008-09-12 00:17:00+00:00
+dsq_thread_id:
+- '5831557216'
+hits:
+- '1039'
+layout: post
+permalink: /2008/09/tomtom-rijdt-naast-de-weg.html
+title: TomTom rijdt naast de weg
+
 ---
 Gisteren had ik weer met een kleine bug te maken in de TomTom 930 software.
 

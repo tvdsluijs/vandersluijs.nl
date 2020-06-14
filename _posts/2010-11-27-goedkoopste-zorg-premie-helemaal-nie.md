@@ -1,29 +1,17 @@
 ---
-id: 260
-title: Goedkoopste Zorg premie helemaal niet goedkoop
-date: 2010-11-27T02:02:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/11/27/goedkoopste-zorg-premie-helemaal-nie/
-permalink: /2010/11/goedkoopste-zorg-premie-helemaal-nie.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6888951693100381358"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/11/goedkoopste-zorg-premie-helemaal-niet.html
-hits:
-  - "1197"
-dsq_thread_id:
-  - "6275940356"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2010-11-27 02:02:00+00:00
+dsq_thread_id:
+- '6275940356'
+hits:
+- '1197'
+layout: post
+permalink: /2010/11/goedkoopste-zorg-premie-helemaal-nie.html
+title: Goedkoopste Zorg premie helemaal niet goedkoop
+
 ---
 Als je zoekop via internet op diverse sites naar de goedkoopste zorgpremie van zorgverzekeraars kom je al snel op de site terrecht van AnderZorg.
 

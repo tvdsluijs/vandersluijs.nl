@@ -1,33 +1,18 @@
 ---
-id: 2006
-title: Eye Wish geeft me aandacht, Eyes and More laat op zich wachten
-date: 2015-12-16T06:34:09+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2006
-permalink: /2015/12/eye-wish-geeft-me-aandach-eyes-and-more-laat-op-zich-wachten.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "795"
-dsq_thread_id:
-  - "5704202388"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/12/IMG_2200-e1450014822574-825x333.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2015-12-16 06:34:09+00:00
+dsq_thread_id:
+- '5704202388'
+hits:
+- '795'
+image: https://vandersluijs.resultants-e.nl/2015/12/IMG_2200-e1450014822574-825x333.jpg
+layout: post
+permalink: /2015/12/eye-wish-geeft-me-aandach-eyes-and-more-laat-op-zich-wachten.html
+title: Eye Wish geeft me aandacht, Eyes and More laat op zich wachten
+
 ---
 Een kleine ander halve week geleden schreef ik twee artikelen over twee verschillende opticiens.
 

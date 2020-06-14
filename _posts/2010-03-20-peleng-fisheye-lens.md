@@ -1,47 +1,19 @@
 ---
-id: 304
-title: Peleng Fisheye lens
-date: 2010-03-20T07:07:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/03/20/peleng-fisheye-lens/
-permalink: /2010/03/peleng-fisheye-lens.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5819714692667215132"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/03/peleng-fisheye-lens.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "559"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5753491587"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2010-03-20 07:07:00+00:00
+dsq_thread_id:
+- '5753491587'
+hits:
+- '559'
+layout: post
+permalink: /2010/03/peleng-fisheye-lens.html
 tags:
-  - Camera
+- Camera
+title: Peleng Fisheye lens
+
 ---
 Pfffff …… het heeft ff geduurt… maar eindelijk is hij binnen. De Fisheye Peleng lens. Besteld in Rusland.
 

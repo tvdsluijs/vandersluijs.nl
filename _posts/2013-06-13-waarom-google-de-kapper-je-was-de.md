@@ -1,31 +1,19 @@
 ---
-id: 103
-title: |
-  Waarom Google de kapper, je was, de boodschappen en de kinderopvang
-  regelt.
-date: 2013-06-13T06:55:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/06/13/waarom-google-de-kapper-je-was-de/
-permalink: /2013/06/waarom-google-de-kapper-je-was-de.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2509011526243230736"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/06/waarom-google-de-kapper-je-was-de.html
-hits:
-  - "1065"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2013-06-13 06:55:00+00:00
+hits:
+- '1065'
+layout: post
+permalink: /2013/06/waarom-google-de-kapper-je-was-de.html
+title: 'Waarom Google de kapper, je was, de boodschappen en de kinderopvang
+
+  regelt.
+
+  '
+
 ---
 Google en menig ander groot Amerikaans IT bedrijf doet veel voor hun medewerkers. Niet alleen zorgen ze dat ze in een werkomgeving zitten waarbij ze zich helemaal op hun gemak voelen ([Breng de productiviteit omhoog met creatieve werkplekken](https://www.vandersluijs.nl/2013/06/breng-de-productiviteit-omhoog-met-creatieve-werkplekken.html "Breng de productiviteit omhoog met creatieve werkplekken")) maar ze gaan nog verder!
 

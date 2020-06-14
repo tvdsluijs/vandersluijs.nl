@@ -1,29 +1,15 @@
 ---
-id: 397
-title: Using Digsby ? Deactivate Conduct Research !
-date: 2009-08-18T07:42:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/08/18/using-digsby-deactivate-conduct-researc/
-permalink: /2009/08/using-digsby-deactivate-conduct-researc.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6564804040237084523"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/08/using-digsby-deactivate-conduct-research.html
-hits:
-  - "482"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-08-18 07:42:00+00:00
+hits:
+- '482'
+layout: post
+permalink: /2009/08/using-digsby-deactivate-conduct-researc.html
+title: Using Digsby ? Deactivate Conduct Research !
+
 ---
 Are you using digsby ? Well I am, and I think it is far better than all the other IM applications like Trillian and MIranda and Pidgin.
 

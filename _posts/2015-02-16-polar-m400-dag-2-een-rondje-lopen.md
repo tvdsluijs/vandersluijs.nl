@@ -1,61 +1,20 @@
 ---
-id: 19
-title: Polar M400 dag 2, een rondje lopen
-date: 2015-02-16T19:49:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/02/16/polar-m400-dag-2-een-rondje-lopen/
-permalink: /2015/02/polar-m400-dag-2-een-rondje-lopen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5408216511382361154"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/02/polar-m400-dag-2-een-rondje-lopen.html
-blogger_thumbnail:
-  - https://farm8.staticflickr.com/7300/16504879566_a5b032f34b.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "756"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700725994"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/02/16504879566_a5b032f34b.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-02-16 19:49:00+00:00
+dsq_thread_id:
+- '5700725994'
+hits:
+- '756'
+image: https://vandersluijs.resultants-e.nl/2015/02/16504879566_a5b032f34b.jpg
+layout: post
+permalink: /2015/02/polar-m400-dag-2-een-rondje-lopen.html
 tags:
-  - Polar
+- Polar
+title: Polar M400 dag 2, een rondje lopen
+
 ---
 <div class="separator" style="clear: both; text-align: left;">
   Mijn eerste hele dag met de <a href="http://ad.zanox.com/ppc/?30434665C74400133&ulp=[[http://www.sporthorlogecenter.nl/product/500849/category-185359/polar-m400-black.html]]" target="_blank" rel="nofollow">Polar M400</a>  zit er op!  Sinds ik hem gisteren gekocht en ingesteld hebt heb ik hem eigenlijk niet meer af gehad.

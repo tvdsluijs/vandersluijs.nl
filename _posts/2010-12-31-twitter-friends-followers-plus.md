@@ -1,31 +1,15 @@
 ---
-id: 254
-title: Twitter Friends Followers Plus
-date: 2010-12-31T17:23:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/12/31/twitter-friends-followers-plus/
-permalink: /2010/12/twitter-friends-followers-plus.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "667921015045669593"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/12/twitter-friends-followers-plus.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2010/12/compat_15_native.png
-hits:
-  - "476"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2010-12-31 17:23:00+00:00
+hits:
+- '476'
+layout: post
+permalink: /2010/12/twitter-friends-followers-plus.html
+title: Twitter Friends Followers Plus
+
 ---
 <img alt="Joomla! 1.5 Native" src="https://vandersluijs.resultants-e.nl/2010/12/compat_15_native.png" width="75" height="16" align="top" /><img alt="Joomla! 1.6 Native" src="https://vandersluijs.resultants-e.nl/2010/12/compat_16_native.png" width="75" height="16" align="top" /><img alt="Joomla! 1.7 Compatible" src="https://vandersluijs.resultants-e.nl/2010/12/compat_17.png" width="75" height="16" align="top" /><img alt="Joomla! 2.5 Series" src="https://vandersluijs.resultants-e.nl/2010/12/compat_25.png" width="75" height="16" align="top" />
 

@@ -24,7 +24,8 @@ hits:
   - "874"
 dsq_thread_id:
   - "5704204173"
-feature-img: https://vandersluijs.resultants-e.nl/2015/11/social_media-e1449262641636.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/11/social_media-e1449262641636.jpg
 categories:
   - Lifestyle
 tags:

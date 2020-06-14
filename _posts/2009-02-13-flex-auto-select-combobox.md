@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-02-13 13:00
 excerpt_separator: <!--more-->
-title: 'Flex Auto Select Combobox'
-slug: 'flex-auto-select-combobox'
-date: '2009-02-13 13:00'
-publish_date: '2009-02-13 13:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-02-13 13:00
+slug: flex-auto-select-combobox
+tags:
+- Coding
+title: Flex Auto Select Combobox
+
 ---
 Did you ever wanted to auto select an item from a Combobox within flex ?  
 Just try, it aint gonna happen. Yes yes, if you use the selectedItem or index

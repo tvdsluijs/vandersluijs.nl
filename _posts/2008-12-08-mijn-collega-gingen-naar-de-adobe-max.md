@@ -1,29 +1,15 @@
 ---
-id: 467
-title: 'Mijn collega&#39;s gingen naar de Adobe Max'
-date: 2008-12-08T00:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/12/08/mijn-collega-gingen-naar-de-adobe-max/
-permalink: /2008/12/mijn-collega-gingen-naar-de-adobe-max.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8853762552117067840"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/12/mijn-collega-gingen-naar-de-adobe-max.html
-hits:
-  - "714"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-12-08 00:00:00+00:00
+hits:
+- '714'
+layout: post
+permalink: /2008/12/mijn-collega-gingen-naar-de-adobe-max.html
+title: Mijn collega&#39;s gingen naar de Adobe Max
+
 ---
 Je kent de volgende zin vast wel.
 

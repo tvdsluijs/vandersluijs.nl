@@ -1,12 +1,21 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Jira
+- Atlassian
+- Development
+comments: 'true'
+date: 2014-01-13 18:00
 excerpt_separator: <!--more-->
-title: 'Wat deed ik eigenlijk op het Atlassian Summit'
-slug: 'wat-deed-ik-eigenlijk-op-het-atlassian-summit'
-date: '2014-01-13 18:00'
-publish_date: '2014-01-13 18:00'
-category: ['Jira', 'Atlassian', 'Development']
-tags: ['Jira', 'Atlassian', 'Development']
+layout: post
+publish_date: 2014-01-13 18:00
+slug: wat-deed-ik-eigenlijk-op-het-atlassian-summit
+tags:
+- Jira
+- Atlassian
+- Development
+title: Wat deed ik eigenlijk op het Atlassian Summit
+
 ---
 Er zijn nogal wat mensen die mijn blog lezen en weten dat ik naar San
 Francisco ben geweest eind september begin oktober.

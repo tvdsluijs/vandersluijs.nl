@@ -1,28 +1,16 @@
 ---
-id: 92
-title: Ik haat Vista !!!
-date: 2013-09-10T14:50:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/09/10/ik-haat-vista/
-permalink: /2013/09/ik-haat-vista.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1358409698908011046"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/09/ik-haat-vista.html
-hits:
-  - "1577"
+author: tvdsluijs
 categories:
-  - Grumpy
-  - Tech
+- Grumpy
+- Tech
+comments: 'true'
+date: 2013-09-10 14:50:00+00:00
+hits:
+- '1577'
+layout: post
+permalink: /2013/09/ik-haat-vista.html
+title: Ik haat Vista !!!
+
 ---
 Echt…. Vista…. Microsoft… ik wordt er niet goed van.
 

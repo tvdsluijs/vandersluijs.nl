@@ -38,7 +38,8 @@ vw_review_score_5_score:
  - 0
 dsq_thread_id:
   - "5725860187"
-feature-img: https://vandersluijs.resultants-e.nl/2015/11/PB200007-e1448402892188.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/11/PB200007-e1448402892188.jpg
 categories:
   - Grumpy
   - Travel

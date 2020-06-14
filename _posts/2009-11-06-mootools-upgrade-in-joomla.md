@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-06 22:46
 excerpt_separator: <!--more-->
-title: 'Mootools upgrade in Joomla 1.5'
-slug: 'mootools-upgrade-in-joomla'
-date: '2009-11-06 22:46'
-publish_date: '2009-11-06 22:46'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-11-06 22:46
+slug: mootools-upgrade-in-joomla
+tags:
+- Coding
+title: Mootools upgrade in Joomla 1.5
+
 ---
 Met mootools kun je simpel moeilijke stukken javascript voor je website
 gebruiken. Je hebt allerlei soorten effecten, je kunt simpel door de DOM

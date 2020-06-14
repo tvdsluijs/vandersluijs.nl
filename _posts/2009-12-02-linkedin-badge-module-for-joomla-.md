@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-12-02 21:22
 excerpt_separator: <!--more-->
-title: 'LinkedIn Badge Module for Joomla!'
-slug: 'linkedin-badge-module-for-joomla-'
-date: '2009-12-02 21:22'
-publish_date: '2009-12-02 21:22'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*Rf5iC28ozStgSNc9.gif'
-  feature: 0*Rf5iC28ozStgSNc9.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*Rf5iC28ozStgSNc9.gif
+layout: post
+publish_date: 2009-12-02 21:22
+slug: linkedin-badge-module-for-joomla-
+tags:
+- Coding
+title: LinkedIn Badge Module for Joomla!
+
 ---
 This Joomla! 1.5 module show a nice little LinkedIn Badge.  
   

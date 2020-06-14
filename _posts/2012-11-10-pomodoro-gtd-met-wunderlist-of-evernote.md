@@ -1,12 +1,20 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Development
+comments: 'true'
+date: 2012-11-10 11:31
 excerpt_separator: <!--more-->
-title: 'Pomodoro, GTD met Wunderlist of Evernote'
-slug: 'pomodoro-gtd-met-wunderlist-of-evernote'
-date: '2012-11-10 11:31'
-publish_date: '2012-11-10 11:31'
-category: ['Development']
-tags: ['Pomodoro', 'Wunderlist', 'Evernote', 'Development']
+layout: post
+publish_date: 2012-11-10 11:31
+slug: pomodoro-gtd-met-wunderlist-of-evernote
+tags:
+- Pomodoro
+- Wunderlist
+- Evernote
+- Development
+title: Pomodoro, GTD met Wunderlist of Evernote
+
 ---
 Als je dagelijks, zoals ik, gebruik maak van een techniek zoals [Pomodoro
 Technique®](http://www.pomodorotechnique.com/) of

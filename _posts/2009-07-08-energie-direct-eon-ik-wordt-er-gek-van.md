@@ -1,29 +1,17 @@
 ---
-id: 402
-title: Energie Direct, Eon ik wordt er gek van
-date: 2009-07-08T01:14:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/07/08/energie-direct-eon-ik-wordt-er-gek-van/
-permalink: /2009/07/energie-direct-eon-ik-wordt-er-gek-van.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5780046979765390845"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/07/energie-direct-eon-ik-wordt-er-gek-van.html
-hits:
-  - "571"
-dsq_thread_id:
-  - "6013951127"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2009-07-08 01:14:00+00:00
+dsq_thread_id:
+- '6013951127'
+hits:
+- '571'
+layout: post
+permalink: /2009/07/energie-direct-eon-ik-wordt-er-gek-van.html
+title: Energie Direct, Eon ik wordt er gek van
+
 ---
 Gek word ik er van. Bijna elke avond word ik wel gebeld door een energie maatschappij. Is het niet Eon, dan is het wel Nuon of essent en vanavond weer Energie Direct.
 

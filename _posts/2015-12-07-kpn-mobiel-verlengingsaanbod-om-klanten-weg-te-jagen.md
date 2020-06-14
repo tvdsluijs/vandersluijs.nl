@@ -1,35 +1,20 @@
 ---
-id: 1877
-title: KPN Mobiel verlengingsaanbod om klanten weg te jagen
-date: 2015-12-07T19:30:17+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1877
-permalink: /2015/12/kpn-mobiel-verlengingsaanbod-om-klanten-weg-te-jagen.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "2749"
-dsq_thread_id:
-  - "5700416016"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/12/kpn-hq-e1449515457743.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2015-12-07 19:30:17+00:00
+dsq_thread_id:
+- '5700416016'
+hits:
+- '2749'
+image: https://vandersluijs.resultants-e.nl/2015/12/kpn-hq-e1449515457743.jpg
+layout: post
+permalink: /2015/12/kpn-mobiel-verlengingsaanbod-om-klanten-weg-te-jagen.html
 tags:
-  - KPN
+- KPN
+title: KPN Mobiel verlengingsaanbod om klanten weg te jagen
+
 ---
 6 maanden nog! 6 maanden! Dan kan ik overstappen naar een andere provider! Ik zat bij Hi! Ja dat was een volledige dochter van KPN en daar zat ik prima!
 

@@ -1,29 +1,17 @@
 ---
-id: 129
-title: 'So you&#39;re back, from outer space.'
-date: 2013-04-11T19:13:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/04/11/so-you-back-from-outer-space/
-permalink: /2013/04/so-you-back-from-outer-space.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4322460792275728983"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/04/so-you-back-from-outer-space.html
-hits:
-  - "436"
-dsq_thread_id:
-  - "6475629318"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2013-04-11 19:13:00+00:00
+dsq_thread_id:
+- '6475629318'
+hits:
+- '436'
+layout: post
+permalink: /2013/04/so-you-back-from-outer-space.html
+title: So you&#39;re back, from outer space.
+
 ---
 Yes, the blog is back!
 

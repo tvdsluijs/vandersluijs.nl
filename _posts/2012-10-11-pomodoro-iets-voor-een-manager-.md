@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Agile
+comments: 'true'
+date: 2012-10-11 19:15
 excerpt_separator: <!--more-->
-title: 'Pomodoro iets voor een Manager?'
-slug: 'pomodoro-iets-voor-een-manager-'
-date: '2012-10-11 19:15'
-publish_date: '2012-10-11 19:15'
-category: ['Agile']
-tags: ['Pomodoro']
+layout: post
+publish_date: 2012-10-11 19:15
+slug: pomodoro-iets-voor-een-manager-
+tags:
+- Pomodoro
+title: Pomodoro iets voor een Manager?
+
 ---
 In een [vorige blog](https://itheo.nl/2012/10/wat-is-pomodoro-en-wat-kan-ik-
 ermee/) heb ik uitgelegd wat de Pomodoro Technique® is en wat je er mee kan

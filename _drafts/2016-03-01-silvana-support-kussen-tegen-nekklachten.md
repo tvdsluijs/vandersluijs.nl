@@ -32,7 +32,8 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5704087805"
-feature-img: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
 categories:
   - Tech
 ---

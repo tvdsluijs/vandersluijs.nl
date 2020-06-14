@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-12-18 08:30
 excerpt_separator: <!--more-->
-title: 'Looking at a sap presentation'
-slug: 'looking-at-a-sap-presentation'
-date: '2009-12-18 08:30'
-publish_date: '2009-12-18 08:30'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*s1-PBARDA-BmyxPp.jpg'
-  feature: 0*s1-PBARDA-BmyxPp.jpg'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*s1-PBARDA-BmyxPp.jpg
+layout: post
+publish_date: 2009-12-18 08:30
+slug: looking-at-a-sap-presentation
+tags:
+- Coding
+title: Looking at a sap presentation
+
 ---
 Use web dynpro for abap workflow and the uwl ro revolutionize decison
 processing.

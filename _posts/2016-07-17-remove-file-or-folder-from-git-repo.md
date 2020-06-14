@@ -1,22 +1,21 @@
 ---
-layout: post
-
-title: 'Remove file or folder from Git Repo'
-slug: 'remove-file-or-folder-from-git-repo'
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
 date: '2016-07-17 11:44:41+00:00'
 excerpt_separator: < !--more -->
+image: /images/1*Ut9MHyKtDDHspQat8gKqVQ.jpeg
+layout: post
 publish_date: '2016-07-17 11:44:41+00:00'
-image:
-  path: '/images/1*Ut9MHyKtDDHspQat8gKqVQ.jpeg'
-  feature: '1*Ut9MHyKtDDHspQat8gKqVQ.jpeg'
-  credit: 'https://www.pexels.com/photo/apple-code-coding-computer-574069/'
-  creditlink:  'https://www.pexels.com/photo/apple-code-coding-computer-574069/'
-category: ['Coding']
-tags: 
- - 'Folders'
- - 'Git'
- - 'Development'
- - 'GitHub'
+slug: remove-file-or-folder-from-git-repo
+tags:
+- Folders
+- Git
+- Development
+- GitHub
+title: Remove file or folder from Git Repo
+
 ---
 
 So you’ve got some file in your GIT Repo that do not belong there? Bummerrrrr

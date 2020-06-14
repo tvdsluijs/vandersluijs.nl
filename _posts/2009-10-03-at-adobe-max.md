@@ -1,27 +1,15 @@
 ---
-id: 389
-title: At the Adobe Max
-date: 2009-10-03T11:15:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/10/03/at-adobe-max/
-permalink: /2009/10/at-adobe-max.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3266649309967791724"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/10/at-adobe-max.html
-hits:
-  - "1109"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2009-10-03 11:15:00+00:00
+hits:
+- '1109'
+layout: post
+permalink: /2009/10/at-adobe-max.html
+title: At the Adobe Max
+
 ---
 So, let&#8217;s put a quick 2 days here.
 

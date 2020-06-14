@@ -1,47 +1,19 @@
 ---
-id: 94
-title: Polaroid effect met Gimp
-date: 2013-08-24T22:43:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/08/24/polaroid-effec/
-permalink: /2013/08/polaroid-effect-met-gimp.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "126871547487437831"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/08/polaroid-effect.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "560"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5728545212"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2013-08-24 22:43:00+00:00
+dsq_thread_id:
+- '5728545212'
+hits:
+- '560'
+layout: post
+permalink: /2013/08/polaroid-effect-met-gimp.html
 tags:
-  - Gimp
+- Gimp
+title: Polaroid effect met Gimp
+
 ---
 In het digitale tijdperk heeft het begrip ‘direct klaar’ een hele nieuwe lading gekrekgen Weinig tot zeg maar gerust geen mens gebruikt meer het klik klak klaar foto toestel dat binnen 1 minuut een foto klaar heeft, oftewel de polaroid effect foto. Je kan heel snel een leuke immitatie polaroid foto met Gimp maken.
 

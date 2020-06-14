@@ -1,60 +1,24 @@
 ---
-id: 1548
-title: Sony Alpha 5100 review, klein en fijn
-date: 2015-10-22T17:19:58+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1548
-permalink: /2015/10/sony-alpha-5100-review-klein-en-fijn.html
-video_post_url:
-  - ""
-vw_review_summary:
-  - Het valt me op dat bij het uitpakken de Alpha 5100 met bijna het zelfde objectief veel lichter aanvoelt dan de Canon EOS M3. Hij ligt lekker in de hand en schiet snel plaatjes. De fotos zijn niet zo knallend als bij de Canon EOS M3 maar hij schiet wel weer hele mooie HDR fotos wat de canon weer niet kan. Wel mis ik het keuze draaiwiel boven op het toestel.
-vw_review_average_score:
-  - "4.3"
-vw_review_score_0_label:
- - Gebruiksgemak
-vw_review_score_0_score:
- - 10
-vw_review_score_1_label:
- - Degelijkheid
-vw_review_score_1_score:
- - 10
-vw_review_score_2_label:
- - Gewicht
-vw_review_score_2_score:
- - 10
-vw_review_score_3_label:
- - Instellingen
-vw_review_score_3_score:
- - 6
-vw_review_score_4_label:
- - Fotokwaliteit
-vw_review_score_4_score:
- - 8
-vw_review_score_5_label:
- - Design
-vw_review_score_5_score:
- - 10
-vw_review_score_6_label:
- - Snelheid
-vw_review_score_6_score:
- - 10
-vw_review_score_7_label:
- - Bedieningsgemak
-vw_review_score_7_score:
- - 6
-vw_review_score_8_label:
- - Prijs
-vw_review_score_8_score:
- - 8
-dsq_thread_id:
-  - "5726337633"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2015-10-22 17:19:58+00:00
+description:
+- Het valt me op dat bij het uitpakken de Alpha 5100 met bijna het zelfde objectief
+  veel lichter aanvoelt dan de Canon EOS M3. Hij ligt lekker in de hand en schiet
+  snel plaatjes. De fotos zijn niet zo knallend als bij de Canon EOS M3 maar hij schiet
+  wel weer hele mooie HDR fotos wat de canon weer niet kan. Wel mis ik het keuze draaiwiel
+  boven op het toestel.
+dsq_thread_id:
+- '5726337633'
+layout: post
+permalink: /2015/10/sony-alpha-5100-review-klein-en-fijn.html
 tags:
-  - Camera
-  - Sony
+- Camera
+- Sony
+title: Sony Alpha 5100 review, klein en fijn
+
 ---
 De tweede camera die ik mag testen is van Sony en wel de Sony α5100 met 16-50mm objectief. Het is niet het meest geavanceerde &#8220;amateur/semi-prof&#8221; model&#8230;. Beetje jammer sony! Want dat is de Alpha 6000.
 

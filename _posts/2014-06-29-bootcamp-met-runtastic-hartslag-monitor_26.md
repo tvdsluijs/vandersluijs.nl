@@ -1,31 +1,17 @@
 ---
-id: 64
-title: Bootcamp met runtastic hartslag monitor
-date: 2014-06-29T12:51:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/06/29/bootcamp-met-runtastic-hartslag-monitor_26/
-permalink: /2014/06/bootcamp-met-runtastic-hartslag-monitor_26.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3919640192039656877"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/06/bootcamp-met-runtastic-hartslag-monitor_26.html
-blogger_thumbnail:
-  - /images/2014/Jun/runtastic_heart_reate.jpg
-hits:
-  - "692"
-dsq_thread_id:
-  - "5717400008"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2014-06-29 12:51:00+00:00
+dsq_thread_id:
+- '5717400008'
+hits:
+- '692'
+layout: post
+permalink: /2014/06/bootcamp-met-runtastic-hartslag-monitor_26.html
+title: Bootcamp met runtastic hartslag monitor
+
 ---
 ![Runtastic Hartslag monitor](https://vandersluijs.resultants-e.nl/2014/Jun/runtastic_heart_reate.jpg)  
 Een tijdje was ik al op zoek naar een alles in één armband of horloge. Zo één die en GPS, pedometer, slaapmonitor en hartslag in zich had.

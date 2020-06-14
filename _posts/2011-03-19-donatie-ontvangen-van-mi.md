@@ -1,27 +1,15 @@
 ---
-id: 242
-title: Donatie ontvangen van MIT
-date: 2011-03-19T00:09:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/03/19/donatie-ontvangen-van-mi/
-permalink: /2011/03/donatie-ontvangen-van-mi.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3858964304490315716"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/03/donatie-ontvangen-van-mit.html
-hits:
-  - "1099"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2011-03-19 00:09:00+00:00
+hits:
+- '1099'
+layout: post
+permalink: /2011/03/donatie-ontvangen-van-mi.html
+title: Donatie ontvangen van MIT
+
 ---
 Tja, veel mensen zal MIT niets zeggen.
 

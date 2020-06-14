@@ -1,29 +1,15 @@
 ---
-id: 470
-title: Welgeteld 7 dagen TCOS kunnen testen
-date: 2008-11-28T00:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/11/28/welgeteld-7-dagen-tcos-kunnen-testen/
-permalink: /2008/11/welgeteld-7-dagen-tcos-kunnen-testen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8156773633270138117"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/11/welgeteld-7-dagen-tcos-kunnen-testen.html
-hits:
-  - "952"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-11-28 00:00:00+00:00
+hits:
+- '952'
+layout: post
+permalink: /2008/11/welgeteld-7-dagen-tcos-kunnen-testen.html
+title: Welgeteld 7 dagen TCOS kunnen testen
+
 ---
 Ik was blij en verrukt toen ik The Chronicles of Spellborn mocht gaan testen van het test team. 
 

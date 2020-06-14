@@ -1,29 +1,15 @@
 ---
-id: 525
-title: Gimp language solution
-date: 2007-10-21T23:50:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/10/21/gimp-language-solution/
-permalink: /2007/10/gimp-language-solution.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7764307611043667710"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/10/gimp-language-solution.html
-hits:
-  - "1212"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-10-21 23:50:00+00:00
+hits:
+- '1212'
+layout: post
+permalink: /2007/10/gimp-language-solution.html
+title: Gimp language solution
+
 ---
 There are a lot of people that have a language problem,,, in GIMP
 

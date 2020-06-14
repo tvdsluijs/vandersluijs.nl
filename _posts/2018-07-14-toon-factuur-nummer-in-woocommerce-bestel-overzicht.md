@@ -1,21 +1,20 @@
 ---
-layout: post
-title: Toon factuur nummer in Woocommerce bestel overzicht
-author: Theo van der Sluijs
-slug: /2018/07/toon-factuur-nummer-in-woocommerce-bestel-overzicht
-permalink: /2018/07/toon-factuur-nummer-in-woocommerce-bestel-overzicht
+author: tvdsluijs
+categories:
+- Coding
+comments: 'true'
 date: 2018-07-14
-publish_date: 2018-07-14
-image:
-  path: /images/toon-factuur-nummer-in-woocommerce-bestel-overzicht.jpeg
-  feature: toon-factuur-nummer-in-woocommerce-bestel-overzicht.jpeg
-  credit: rawpixel.com  
-  creditlink: https://www.pexels.com/@rawpixel
-thumbnail: /images/toon-factuur-nummer-in-woocommerce-bestel-overzicht_thumbnail.jpeg
-categories: ['Coding']
-tags: ['Woocommerce', 'Wordpress']
-comments: true
 excerpt_separator: <!--more-->
+image: /images/toon-factuur-nummer-in-woocommerce-bestel-overzicht.jpeg
+layout: post
+permalink: /2018/07/toon-factuur-nummer-in-woocommerce-bestel-overzicht
+publish_date: 2018-07-14
+slug: /2018/07/toon-factuur-nummer-in-woocommerce-bestel-overzicht
+tags:
+- Woocommerce
+- Wordpress
+title: Toon factuur nummer in Woocommerce bestel overzicht
+
 ---
 Woocommerce heeft een factuur nummer systeem echter is het tonen van deze factuur nummers niet echt handig. Je kan wel wat plugins installeren om de klant eenvoudiger de factuur te laten downloaden, of dat jij hem eenvoudiger kan downloaden maar even een factuur nummer zien kan niet. Daar heb ik een script voor gemaakt 
 <!--more-->

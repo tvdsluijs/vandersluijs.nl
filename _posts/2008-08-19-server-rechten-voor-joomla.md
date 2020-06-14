@@ -1,31 +1,17 @@
 ---
-id: 498
-title: Server Rechten voor Joomla!
-date: 2008-08-19T21:35:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/08/19/server-rechten-voor-joomla/
-permalink: /2008/08/server-rechten-voor-joomla.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3942263123760233493"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/08/server-rechten-voor-joomla.html
-hits:
-  - "788"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5879882771"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-08-19 21:35:00+00:00
+dsq_thread_id:
+- '5879882771'
+hits:
+- '788'
+layout: post
+permalink: /2008/08/server-rechten-voor-joomla.html
+title: Server Rechten voor Joomla!
+
 ---
 Veel gebruikers van Joomla! hebben op hun server de rechten van bestanden en mappen verkeerd staan.
 

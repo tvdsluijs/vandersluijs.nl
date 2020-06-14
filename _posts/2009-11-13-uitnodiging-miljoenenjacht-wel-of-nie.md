@@ -1,53 +1,17 @@
 ---
-id: 361
-title: Uitnodiging Miljoenenjacht, wel of niet heen gaan ?
-date: 2009-11-13T20:53:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/11/13/uitnodiging-miljoenenjacht-wel-of-nie/
-permalink: /2009/11/uitnodiging-miljoenenjacht-wel-of-nie.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "9106306693467104618"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/11/uitnodiging-miljoenenjacht-wel-of-niet.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "785"
-dsq_thread_id:
-  - "5731825574"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2009-11-13 20:53:00+00:00
+dsq_thread_id:
+- '5731825574'
+hits:
+- '785'
+layout: post
+permalink: /2009/11/uitnodiging-miljoenenjacht-wel-of-nie.html
+title: Uitnodiging Miljoenenjacht, wel of niet heen gaan ?
+
 ---
 De uitkomst van de eerste Poll (Moet ik wel of niet gaan naar de Postcode Loterij Miljoenenjacht) was overigens dat ik wel moest gaan. Wel gaan 90% (36 votes)
 

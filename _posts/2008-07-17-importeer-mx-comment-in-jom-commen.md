@@ -1,29 +1,15 @@
 ---
-id: 501
-title: Importeer MX Comment in Jom Comment
-date: 2008-07-17T14:47:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/07/17/importeer-mx-comment-in-jom-commen/
-permalink: /2008/07/importeer-mx-comment-in-jom-commen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6043511734661085143"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/07/importeer-mx-comment-in-jom-comment.html
-hits:
-  - "1377"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-07-17 14:47:00+00:00
+hits:
+- '1377'
+layout: post
+permalink: /2008/07/importeer-mx-comment-in-jom-commen.html
+title: Importeer MX Comment in Jom Comment
+
 ---
 Sinds kort van Joomla! 1.0.x naar Joomla! 1.5 overgestapt ?
 

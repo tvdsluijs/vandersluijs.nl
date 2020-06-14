@@ -6,7 +6,8 @@ slug: 'php-ontwikkelen-op-een-chromebook'
 date: '2017-08-31 20:04:22.459000+00:00'
 publish_date: '2017-08-31 20:04:22.459000+00:00'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/1*_UI1YYXp2vby2qdgUKcsyA.jpeg'
+  path: 'https://vandersluijs.resultants-e.nl/1*_UI1YYXp2vby2qdgUKcsyA.jpeg'
+  feature: 1*_UI1YYXp2vby2qdgUKcsyA.jpeg'
 category: ['Coding']
 tags: ['Apple', 'Chromebook', 'Development', 'PHP']
 ---

@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-04-20 12:15
 excerpt_separator: <!--more-->
-title: 'Joomla! migration to Wordpress'
-slug: 'joomla-migration-to-wordpress'
-date: '2009-04-20 12:15'
-publish_date: '2009-04-20 12:15'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-04-20 12:15
+slug: joomla-migration-to-wordpress
+tags:
+- Coding
+title: Joomla! migration to Wordpress
+
 ---
 Last weekend I did a Joomla! migration to Wordpress. In this small post I will
 explain step by step what I did to get a good outcome in my Wordpress. If you

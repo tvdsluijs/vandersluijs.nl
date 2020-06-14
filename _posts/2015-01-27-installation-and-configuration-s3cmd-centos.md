@@ -1,12 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
+date: 2015-01-27 19:43
 excerpt_separator: < !--more -->
-title: 'Installation and configuration S3CMD Centos'
-slug: 'installation-and-configuration-s3cmd-centos'
-date: '2015-01-27 19:43'
-publish_date: '2015-01-27 19:43'
-category: ['Tech']
-tags: ['Centos', 'S3CMD']
+layout: post
+publish_date: 2015-01-27 19:43
+slug: installation-and-configuration-s3cmd-centos
+tags:
+- Centos
+- S3CMD
+title: Installation and configuration S3CMD Centos
+
 ---
 At work and home (for my [nopnop.nl](http://nopnop.nl/) site) I needed a way
 to backup a server (mysql / mongodb and files). I could just zip it and ftp it

@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-10-03 21:50
 excerpt_separator: <!--more-->
-title: 'Flex PHP UTF8 Problem solved'
-slug: 'flex-php-utf8-problem-solved'
-date: '2010-10-03 21:50'
-publish_date: '2010-10-03 21:50'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-10-03 21:50
+slug: flex-php-utf8-problem-solved
+tags:
+- Coding
+title: Flex PHP UTF8 Problem solved
+
 ---
 So you want to connect to your MySQL database with Flex and PHP tru AMF but
 you are getting these UTF8 errors?  

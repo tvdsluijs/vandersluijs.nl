@@ -1,27 +1,15 @@
 ---
-id: 216
-title: Het is een eitje !
-date: 2012-01-12T13:51:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/01/12/het-is-een-eitje/
-permalink: /2012/01/het-is-een-eitje.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4561871451012633822"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/01/het-is-een-eitje.html
-hits:
-  - "1134"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2012-01-12 13:51:00+00:00
+hits:
+- '1134'
+layout: post
+permalink: /2012/01/het-is-een-eitje.html
+title: Het is een eitje !
+
 ---
 Een eitje pellen…. tja hoe lang doe je daar eigenlijk over …. 
 

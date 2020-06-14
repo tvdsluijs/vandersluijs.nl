@@ -1,29 +1,15 @@
 ---
-id: 69
-title: Schuberg Philis helpt me bij mijn volle Moleskine!
-date: 2014-03-19T06:03:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/03/19/schuberg-philis-helpt-me-bij-mijn-volle/
-permalink: /2014/03/schuberg-philis-helpt-me-bij-mijn-volle.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2009316296855588856"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/03/schuberg-philis-helpt-me-bij-mijn-volle.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2014/03/moleskine.jpg
-hits:
-  - "495"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2014-03-19 06:03:00+00:00
+hits:
+- '495'
+layout: post
+permalink: /2014/03/schuberg-philis-helpt-me-bij-mijn-volle.html
+title: Schuberg Philis helpt me bij mijn volle Moleskine!
+
 ---
 <div style="clear: both; text-align: center;">
   <a href=https://vandersluijs.resultants-e.nl/2014/03/moleskine.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.resultants-e.nl/2014/03/moleskine.jpg" height="200" width="200" /></a>

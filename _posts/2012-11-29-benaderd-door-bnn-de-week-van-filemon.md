@@ -1,27 +1,15 @@
 ---
-id: 146
-title: Benaderd door BNN / De Week van Filemon
-date: 2012-11-29T20:34:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/11/29/benaderd-door-bnn-de-week-van-filemon/
-permalink: /2012/11/benaderd-door-bnn-de-week-van-filemon.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6166856829405134076"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/11/benaderd-door-bnn-de-week-van-filemon.html
-hits:
-  - "1506"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2012-11-29 20:34:00+00:00
+hits:
+- '1506'
+layout: post
+permalink: /2012/11/benaderd-door-bnn-de-week-van-filemon.html
+title: Benaderd door BNN / De Week van Filemon
+
 ---
 <div>
    

@@ -1,62 +1,18 @@
 ---
-id: 1436
-title: Sirui T-005 + C-10 Uitpak party
-date: 2015-09-24T19:35:26+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1436
-permalink: /2015/09/sirui-t-005-c-10-uitpak-party.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - https://youtu.be/1JENXDjkAe8
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "0"
-pmc_featured_post:
-  - "0"
-hits:
-  - "813"
-itrr_another_apply:
-  - 'no'
-wp_review_through_comment:
-  - "1"
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2015-09-24 19:35:26+00:00
+hits:
+- '813'
+layout: post
+permalink: /2015/09/sirui-t-005-c-10-uitpak-party.html
 tags:
-  - Camera
-  - statief
+- Camera
+- statief
+title: Sirui T-005 + C-10 Uitpak party
+
 ---
 Tja&#8230; toen ging mijn statief kapot!
 

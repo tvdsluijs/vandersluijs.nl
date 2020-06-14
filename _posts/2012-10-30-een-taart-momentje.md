@@ -1,29 +1,15 @@
 ---
-id: 155
-title: Een taart momentje!
-date: 2012-10-30T14:14:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/10/30/een-taart-momentje/
-permalink: /2012/10/een-taart-momentje.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3637079641522332534"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/10/een-taart-momentje.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2012/10/photo-300x225.jpg
-hits:
-  - "458"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2012-10-30 14:14:00+00:00
+hits:
+- '458'
+layout: post
+permalink: /2012/10/een-taart-momentje.html
+title: Een taart momentje!
+
 ---
 <div>
   Een Taart momentje van het Bax-shop.nl Development Team.

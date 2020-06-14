@@ -1,62 +1,21 @@
 ---
-id: 15
-title: Dag 5 met de Polar M400, VO2Max, H7 en meer
-date: 2015-02-18T12:53:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/02/18/dag-5-met-de-polar-m400-vo2max-h7-en/
-permalink: /2015/02/dag-5-met-de-polar-m400-vo2max-h7-en.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5867375968467878514"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/02/dag-5-met-de-polar-m400-vo2max-h7-en.html
-blogger_thumbnail:
-  - https://farm9.staticflickr.com/8629/15947185144_2b2257dc43_c.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "3653"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5701476007"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/02/15947185144_2b2257dc43_c.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-02-18 12:53:00+00:00
+dsq_thread_id:
+- '5701476007'
+hits:
+- '3653'
+image: https://vandersluijs.resultants-e.nl/2015/02/15947185144_2b2257dc43_c.jpg
+layout: post
+permalink: /2015/02/dag-5-met-de-polar-m400-vo2max-h7-en.html
 tags:
-  - Polar
-  - Sport
+- Polar
+- Sport
+title: Dag 5 met de Polar M400, VO2Max, H7 en meer
+
 ---
 <div class="separator" style="clear: both; text-align: left;">
   Helaas is het niet allemaal Koek en Ei met mijn <a href="http://ad.zanox.com/ppc/?30434665C74400133&ulp=[[http://www.sporthorlogecenter.nl/product/500849/category-185359/polar-m400-black.html]]" target="_blank" rel="nofollow">Polar M400</a>.

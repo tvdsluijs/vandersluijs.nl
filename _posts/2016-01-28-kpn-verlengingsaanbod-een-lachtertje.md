@@ -1,37 +1,20 @@
 ---
-id: 2205
-title: KPN verlengingsaanbod een lachtertje
-date: 2016-01-28T21:16:01+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2205
-permalink: /2016/01/kpn-verlengingsaanbod-een-lachtertje.html
-factory_shortcodes_assets:
-  - 'a:0:{}'
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "775"
-dsq_thread_id:
-  - "5700416027"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/12/kpn-hq-e1449515457743.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2016-01-28 21:16:01+00:00
+dsq_thread_id:
+- '5700416027'
+hits:
+- '775'
+image: https://vandersluijs.resultants-e.nl/2015/12/kpn-hq-e1449515457743.jpg
+layout: post
+permalink: /2016/01/kpn-verlengingsaanbod-een-lachtertje.html
 tags:
-  - KPN
+- KPN
+title: KPN verlengingsaanbod een lachtertje
+
 ---
 KPN, ze willen zo graag dat ik met mijn mobiele abonnement bij ze blijf dat ze me overal op internet in advertenties een KPN verlengingsaanbod doen. En dit doen ze al 6 maanden lang!
 

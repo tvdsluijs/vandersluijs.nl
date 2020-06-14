@@ -1,30 +1,16 @@
 ---
-id: 531
-title: Internet very slow with Vista, Solution !!!
-date: 2007-08-26T16:42:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/08/26/internet-very-slow-with-vista-solution/
-permalink: /2007/08/internet-very-slow-with-vista-solution.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6323902800391759775"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/08/internet-very-slow-with-vista-solution.html
-hits:
-  - "681"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-08-26 16:42:00+00:00
+excerpt_separator: <!--more-->
+hits:
+- '681'
+layout: post
+permalink: /2007/08/internet-very-slow-with-vista-solution.html
+title: Internet very slow with Vista, Solution !!!
+
 ---
 It drove me nuts !!&#8230;&#8230;&#8230;&#8230;. VISTA !!!!!!! om My Dell Dimension 9200 Problems, errors, crashes &#8230;. but most of all &#8230; very slow internet connection. (with timeouts and connection errors) The strange thing was&#8230;. it was on all my pc&#8217;s&#8230; even pc&#8217;s with Ubuntu or Windows XP installed. When I shut down the Vista PC&#8230;. internet was very fast on all other machines !   
 <a name="more"></a>    

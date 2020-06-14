@@ -1,31 +1,17 @@
 ---
-id: 176
-title: Al mijn joomla! extensions gratis
-date: 2012-10-02T19:36:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/10/02/al-mijn-joomla-extensions-gratis/
-permalink: /2012/10/al-mijn-joomla-extensions-gratis.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "9109109693563659346"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/10/al-mijn-joomla-extensions-gratis.html
-hits:
-  - "511"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5704245430"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-10-02 19:36:00+00:00
+dsq_thread_id:
+- '5704245430'
+hits:
+- '511'
+layout: post
+permalink: /2012/10/al-mijn-joomla-extensions-gratis.html
+title: Al mijn joomla! extensions gratis
+
 ---
 Een paar jaar lang heb ik diverse extensions gemaakt voor Joomla!
 

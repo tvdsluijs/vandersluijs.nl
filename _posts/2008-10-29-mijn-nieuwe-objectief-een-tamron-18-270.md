@@ -1,35 +1,19 @@
 ---
-id: 2704
-title: Mijn nieuwe objectief een Tamron 18-270
-date: 2008-10-29T20:00:53+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://dezeeuwsefotograaf.nl/?p=6
-permalink: /2008/10/mijn-nieuwe-objectief-een-tamron-18-270.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "541"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5840000048"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2008-10-29 20:00:53+00:00
+dsq_thread_id:
+- '5840000048'
+hits:
+- '541'
+layout: post
+permalink: /2008/10/mijn-nieuwe-objectief-een-tamron-18-270.html
 tags:
-  - Tamron
+- Tamron
+title: Mijn nieuwe objectief een Tamron 18-270
+
 ---
 Vandaag binnengekomen&#8230; mijn eerste echte nieuwe Objectief (ik reken die Rusische fisheye niet mee).
 

@@ -1,50 +1,18 @@
 ---
-id: 2680
-title: Ruwharige teckel vlooien en teken druppels
-date: 2016-04-16T20:09:41+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2680
-permalink: /2016/04/ruwharige-teckel-vlooien-en-teken-druppels.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "966"
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_sidebar_position:
-  - "0"
-dsq_thread_id:
-  - "5700712359"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/04/20160416_0858210-825x510.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
-format: image
+- Lifestyle
+comments: 'true'
+date: 2016-04-16 20:09:41+00:00
+dsq_thread_id:
+- '5700712359'
+hits:
+- '966'
+image: https://vandersluijs.resultants-e.nl/2016/04/20160416_0858210-825x510.jpg
+layout: post
+permalink: /2016/04/ruwharige-teckel-vlooien-en-teken-druppels.html
+title: Ruwharige teckel vlooien en teken druppels
+
 ---
 Kooos, vlooien!!! Riep Mien Dobbelsteen jaren geleden op de radio! Nou zal ik je wat zeggen? Ze heeft gelijk! Want de vlooien en teken tijd is weer aangebroken! En dat betekent dat je er snel bij moet zijn met de vlooien & teken druppels!
 

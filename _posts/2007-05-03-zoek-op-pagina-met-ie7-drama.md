@@ -1,29 +1,15 @@
 ---
-id: 549
-title: Zoek op pagina met IE7 = DRAMA !
-date: 2007-05-03T14:10:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/05/03/zoek-op-pagina-met-ie7-drama/
-permalink: /2007/05/zoek-op-pagina-met-ie7-drama.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "194380740093514325"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/05/zoek-op-pagina-met-ie7-drama.html
-hits:
-  - "661"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-05-03 14:10:00+00:00
+hits:
+- '661'
+layout: post
+permalink: /2007/05/zoek-op-pagina-met-ie7-drama.html
+title: Zoek op pagina met IE7 = DRAMA !
+
 ---
 Als ik wil zoeken op een pagina met IE7 dan vind ik dit altijd een drama !
  

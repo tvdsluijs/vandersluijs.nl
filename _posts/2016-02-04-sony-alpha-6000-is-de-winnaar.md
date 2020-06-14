@@ -1,60 +1,24 @@
 ---
-id: 2363
-title: Sony Alpha 6000 Review
-date: 2016-02-04T21:25:15+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2363
-permalink: /2016/02/sony-alpha-6000-is-de-winnaar.html
-vw_review_summary:
-  - "De Sony Alpha 6000 heeft alles wat een goede systeem camera in zich moet hebben. Het is een goede snelle camera, die een paar kleine minpuntjes goed weet te maken met de snelheid van de camera en de mooie foto's die hij moeiteloos schiet. De prijs is net boven de 500 euro net te verantwoorden."
-vw_review_average_score:
-  - "4.4"
-vw_review_score_0_label:
- - Gebruiksgemak
-vw_review_score_0_score:
- - 10
-vw_review_score_1_label:
- - Degelijkheid
-vw_review_score_1_score:
- - 10
-vw_review_score_2_label:
- - Gewicht
-vw_review_score_2_score:
- - 10
-vw_review_score_3_label:
- - Instellingen
-vw_review_score_3_score:
- - 10
-vw_review_score_4_label:
- - Fotokwaliteit
-vw_review_score_4_score:
- - 10
-vw_review_score_5_label:
- - Design
-vw_review_score_5_score:
- - 10
-vw_review_score_6_label:
- - Snelheid
-vw_review_score_6_score:
- - 10
-vw_review_score_7_label:
- - Bedieningsgemak
-vw_review_score_7_score:
- - 10
-vw_review_score_8_label:
- - Prijs
-vw_review_score_8_score:
- - 8
-dsq_thread_id:
-  - "5709775630"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952.jpg
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2016-02-04 21:25:15+00:00
+description:
+- De Sony Alpha 6000 heeft alles wat een goede systeem camera in zich moet hebben.
+  Het is een goede snelle camera, die een paar kleine minpuntjes goed weet te maken
+  met de snelheid van de camera en de mooie foto's die hij moeiteloos schiet. De prijs
+  is net boven de 500 euro net te verantwoorden.
+dsq_thread_id:
+- '5709775630'
+image: https://vandersluijs.resultants-e.nl/2016/02/sony_a6000_body_a6000_16-50mm_zilver_foto_semeins-e1454615262952.jpg
+layout: post
+permalink: /2016/02/sony-alpha-6000-is-de-winnaar.html
 tags:
-  - Camera
-  - Sony
+- Camera
+- Sony
+title: Sony Alpha 6000 Review
+
 ---
 Ik heb de afgelopen weken redelijk veel camera&#8217;s getest en mogen testen. Maar één had ik er niet getest en dat is toch mijn winnaar geworden! Of toch niet&#8230;. helemaal? Hierbij de Sony Alpha 6000 review.
 

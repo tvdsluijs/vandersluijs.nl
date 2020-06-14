@@ -1,59 +1,23 @@
 ---
-id: 2947
-title: GorillaPod SLR-Zoom voor het hardcore vloggen
-date: 2016-08-08T13:25:56+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2947
-permalink: /2016/08/gorillapod-slr-zoom-hardcore-vloggen.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "465"
-ean_codes:
-  - test,test1,test2
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5776478167"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/08/IMG_4592-825x510.jpg
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2016-08-08 13:25:56+00:00
+dsq_thread_id:
+- '5776478167'
+ean_codes:
+- test,test1,test2
+hits:
+- '465'
+image: https://vandersluijs.resultants-e.nl/2016/08/IMG_4592-825x510.jpg
+layout: post
+permalink: /2016/08/gorillapod-slr-zoom-hardcore-vloggen.html
 tags:
-  - Camera
-  - Canon
-format: image
+- Camera
+- Canon
+title: GorillaPod SLR-Zoom voor het hardcore vloggen
+
 ---
 Er is een hele goede reden dat Casey Neistat een GorillaPod gebruikt! Niet alleen is hij sterkt genoeg om bijvoorbeeld een Canon 70D met redelijk groot objectief stabiel en vast te houden, maar daarnaast is het ook een heel goed hulpstuk bij het vloggen. De Gorillapod SLR-zoom is dus een must in iedere vlogger of fotograaf tas. En ik teste deze geweldige &#8230;&#8230;. in Malaga, Spanje!<!--more-->
 

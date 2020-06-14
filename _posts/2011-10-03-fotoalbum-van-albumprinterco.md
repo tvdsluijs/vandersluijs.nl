@@ -1,64 +1,17 @@
 ---
-id: 222
-title: Fotoalbum van Albumprinter.com
-date: 2011-10-03T19:43:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/10/03/fotoalbum-van-albumprinterco/
-permalink: /2011/10/fotoalbum-van-albumprinterco.html
-blogger_bid:
-  - "7319082336334478150"
-  - "7319082336334478150"
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-  - blog.vandersluijs.nl
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8402176299894482124"
-  - "8402176299894482124"
-  - "8402176299894482124"
-blogger_author:
-  - g104814725400115166555
-  - g104814725400115166555
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-  - "0"
-  - "0"
-blogger_permalink:
-  - /2011/10/fotoalbum-van-albumprintercom.html
-  - /2011/10/fotoalbum-van-albumprintercom.html
-  - /2011/10/fotoalbum-van-albumprintercom.html
-wp_review_location:
-  - bottom
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-  - '#e7e7e7'
-hits:
-  - "523"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5937888398"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-10-03 19:43:00+00:00
+dsq_thread_id:
+- '5937888398'
+hits:
+- '523'
+layout: post
+permalink: /2011/10/fotoalbum-van-albumprinterco.html
+title: Fotoalbum van Albumprinter.com
+
 ---
 Vandaag kreeg ik eindelijk mijn foto album binnen van albumprinter.com. Ik zeg eindelijk omdat ik er al vanaf 5 september op zit te wachten. Dat zijn dus zeg maar 19 dagen oftewel 3 werkweken. Dat het zo laat hier was kwam omdat de kwaltiteit volgens albumprinter niet goed genoeg bleek bij de nacontrole. Dus hebben ze hem opnieuw geprint voor me.
 

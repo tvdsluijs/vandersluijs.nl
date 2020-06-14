@@ -1,34 +1,20 @@
 ---
-id: 540
-title: Problemen Vista en oude logitech Webcams.
-date: 2007-07-02T14:01:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/07/02/problemen-vista-en-oude-logitech-webcams/
-permalink: /2007/07/problemen-vista-en-oude-logitech-webcams.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1582629817195819673"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/07/problemen-vista-en-oude-logitech-webcams.html
-hits:
-  - "1726"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5884893373"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-07-02 14:01:00+00:00
+dsq_thread_id:
+- '5884893373'
+excerpt_separator: <!--more-->
+hits:
+- '1726'
+layout: post
+permalink: /2007/07/problemen-vista-en-oude-logitech-webcams.html
 tags:
-  - Windows
+- Windows
+title: Problemen Vista en oude logitech Webcams.
+
 ---
 Ik heb dus sinds kort Microsoft Vista. Onder XP had ik mijn Logitech Zoom perfect draaien.
 

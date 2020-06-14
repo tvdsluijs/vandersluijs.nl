@@ -1,31 +1,17 @@
 ---
-id: 184
-title: Bax-shop reclame in de bios!
-date: 2012-08-04T14:08:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/08/04/bax-shop-reclame-in-de-bios/
-permalink: /2012/08/bax-shop-reclame-in-de-bios.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2098856991389766841"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/08/bax-shop-reclame-in-de-bios.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2012/08/tumblr_m889lun1tI1rpqrb1o1_1280-300x300.jpg
-hits:
-  - "1190"
-dsq_thread_id:
-  - "6152904698"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2012-08-04 14:08:00+00:00
+dsq_thread_id:
+- '6152904698'
+hits:
+- '1190'
+layout: post
+permalink: /2012/08/bax-shop-reclame-in-de-bios.html
+title: Bax-shop reclame in de bios!
+
 ---
 <div>
   <img alt="" src="https://vandersluijs.resultants-e.nl/2012/08/tumblr_m889lun1tI1rpqrb1o1_1280-300x300.jpg" />

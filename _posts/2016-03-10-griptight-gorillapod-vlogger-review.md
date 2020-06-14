@@ -1,53 +1,25 @@
 ---
-id: 2457
-title: GripTight Gorillapod vlogger review
-date: 2016-03-10T20:06:21+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2457
-permalink: /2016/03/griptight-gorillapod-vlogger-review.html
-vw_review_summary:
-  - De GripTight Gorillapod hoort thuis bij de uitrusting van iedere vlogger. Hij is superhandig om even met je iphone of andere smartphone vanaf een vast punt een shot te nemen. Voor de prijs hoef je het niet te laten. Ook al zijn de poten wat kort (hadden iets langer gemogen) kan je hem bijna moeiteloos overal aan bevestigen.
-vw_review_average_score:
-  - "4.9"
-vw_review_score_0_label:
- - Gebruiksgemak
-vw_review_score_0_score:
- - 10
-vw_review_score_1_label:
- - Kwaliteit
-vw_review_score_1_score:
- - 10
-vw_review_score_2_label:
- - Degelijkheid
-vw_review_score_2_score:
- - 10
-vw_review_score_3_label:
- - Mogelijkheden
-vw_review_score_3_score:
- - 8
-vw_review_score_4_label:
- - Design
-vw_review_score_4_score:
- - 10
-vw_review_score_5_label:
- - Afmeting
-vw_review_score_5_score:
- - 10
-vw_review_score_6_label:
- - Prijs
-vw_review_score_6_score:
- - 10
-dsq_thread_id:
-  - "5740303139"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/25232433286_0f602ac9f5_o-e1457639810425-825x465.jpg
+author: tvdsluijs
 categories:
-  - Fotografie
-  - Tech
+- Fotografie
+- Tech
+comments: 'true'
+date: 2016-03-10 20:06:21+00:00
+description:
+- De GripTight Gorillapod hoort thuis bij de uitrusting van iedere vlogger. Hij is
+  superhandig om even met je iphone of andere smartphone vanaf een vast punt een shot
+  te nemen. Voor de prijs hoef je het niet te laten. Ook al zijn de poten wat kort
+  (hadden iets langer gemogen) kan je hem bijna moeiteloos overal aan bevestigen.
+dsq_thread_id:
+- '5740303139'
+image: https://vandersluijs.resultants-e.nl/2016/02/25232433286_0f602ac9f5_o-e1457639810425-825x465.jpg
+layout: post
+permalink: /2016/03/griptight-gorillapod-vlogger-review.html
 tags:
-  - iPhone
-  - Vloggen
+- iPhone
+- Vloggen
+title: GripTight Gorillapod vlogger review
+
 ---
 Natuurlijk was ik erg blij dat ik via degreef & partner een GripTight GorillaPod ter review kreeg. Een GripTight GorillaPod is een must voor iedere vlogger en mensen die zichzelf vaak fotograferen of filmen.
 

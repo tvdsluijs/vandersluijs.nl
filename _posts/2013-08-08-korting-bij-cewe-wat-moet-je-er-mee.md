@@ -1,45 +1,17 @@
 ---
-id: 96
-title: Korting bij CeWe, wat moet je er mee?
-date: 2013-08-08T18:04:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/08/08/korting-bij-cewe-wat-moet-je-er-mee/
-permalink: /2013/08/korting-bij-cewe-wat-moet-je-er-mee.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "9107300292677135646"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/08/korting-bij-cewe-wat-moet-je-er-mee.html
-blogger_thumbnail:
-  - http://4.bp.blogspot.com/-o3eUiFaUgDc/UgN-7gIemII/AAAAAAAAR7A/zgIz0Hku9oo/s200/cewe_logo.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "1385"
-dsq_thread_id:
-  - "5711233427"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-08-08 18:04:00+00:00
+dsq_thread_id:
+- '5711233427'
+hits:
+- '1385'
+layout: post
+permalink: /2013/08/korting-bij-cewe-wat-moet-je-er-mee.html
+title: Korting bij CeWe, wat moet je er mee?
+
 ---
 Vakantie voorbij, fotoboek maken.
   

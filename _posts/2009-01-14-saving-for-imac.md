@@ -1,29 +1,15 @@
 ---
-id: 449
-title: Saving for an iMac
-date: 2009-01-14T09:59:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/01/14/saving-for-imac/
-permalink: /2009/01/saving-for-imac.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "9025258404367832611"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/01/saving-for-imac.html
-hits:
-  - "753"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-01-14 09:59:00+00:00
+hits:
+- '753'
+layout: post
+permalink: /2009/01/saving-for-imac.html
+title: Saving for an iMac
+
 ---
 A collegue of mine has a Mac, a Macbook to be precise.
 

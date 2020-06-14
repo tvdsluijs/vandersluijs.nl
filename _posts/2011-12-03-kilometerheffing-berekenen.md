@@ -1,31 +1,17 @@
 ---
-id: 1824
-title: Kilometerheffing Berekenen
-date: 2011-12-03T09:32:57+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1824
-permalink: /2011/12/kilometerheffing-berekenen.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "1512"
-dsq_thread_id:
-  - "5760533306"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2011-12-03 09:32:57+00:00
+dsq_thread_id:
+- '5760533306'
+hits:
+- '1512'
+layout: post
+permalink: /2011/12/kilometerheffing-berekenen.html
+title: Kilometerheffing Berekenen
+
 ---
 ## Wat gaat auto rijden u eigenlijk kosten?
 

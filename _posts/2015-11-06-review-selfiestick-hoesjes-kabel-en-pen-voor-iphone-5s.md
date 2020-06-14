@@ -1,48 +1,20 @@
 ---
-id: 1683
-title: Review selfiestick, hoesjes, kabel en pen voor iPhone 5s
-date: 2015-11-06T21:19:49+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1683
-permalink: /2015/11/review-selfiestick-hoesjes-kabel-en-pen-voor-iphone-5s.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - https://youtu.be/ADTCU-XhCFE
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "1891"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5718259043"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/11/Screen-Shot-2015-11-06-at-22.17.05.png
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-11-06 21:19:49+00:00
+dsq_thread_id:
+- '5718259043'
+hits:
+- '1891'
+image: https://vandersluijs.resultants-e.nl/2015/11/Screen-Shot-2015-11-06-at-22.17.05.png
+layout: post
+permalink: /2015/11/review-selfiestick-hoesjes-kabel-en-pen-voor-iphone-5s.html
 tags:
-  - iPhone
-format: video
+- iPhone
+title: Review selfiestick, hoesjes, kabel en pen voor iPhone 5s
+
 ---
 Vorige week kreeg ik van Mobielkoopjes diverse producten toegestuurd om te reviewen. De accessoires die ik zelf mocht kiezen heb ik genomen voor mijn iphone 5s maar ze hebben natuurlijk voor verschillende merken mobieltjes diverse accessoires te koop.
 

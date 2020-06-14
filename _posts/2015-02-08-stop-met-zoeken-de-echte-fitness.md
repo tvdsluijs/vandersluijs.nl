@@ -1,59 +1,18 @@
 ---
-id: 21
-title: Stop met zoeken! De echte fitness tracker bestaat (nog) niet.
-date: 2015-02-08T20:44:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/02/08/stop-met-zoeken-de-echte-fitness/
-permalink: /2015/02/stop-met-zoeken-de-echte-fitness.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1592260990131669212"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/02/stop-met-zoeken-de-echte-fitness.html
-blogger_thumbnail:
-  - https://farm4.staticflickr.com/3885/15207845665_b37c4bfb16_b.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "660"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5710224979"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/02/15207845665_b37c4bfb16_b.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-02-08 20:44:00+00:00
+dsq_thread_id:
+- '5710224979'
+hits:
+- '660'
+image: https://vandersluijs.resultants-e.nl/2015/02/15207845665_b37c4bfb16_b.jpg
+layout: post
+permalink: /2015/02/stop-met-zoeken-de-echte-fitness.html
+title: Stop met zoeken! De echte fitness tracker bestaat (nog) niet.
+
 ---
 <div class="separator" style="clear: both; text-align: center;">
   <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="https://farm4.staticflickr.com/3885/15207845665_b37c4bfb16_b.jpg"><img src="https://farm4.staticflickr.com/3885/15207845665_b37c4bfb16_b.jpg" alt="" width="200" height="133" border="0" /></a>

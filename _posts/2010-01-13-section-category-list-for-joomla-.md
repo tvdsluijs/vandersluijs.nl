@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-01-13 21:14
 excerpt_separator: <!--more-->
-title: 'Section Category List for Joomla! 1.5'
-slug: 'section-category-list-for-joomla-'
-date: '2010-01-13 21:14'
-publish_date: '2010-01-13 21:14'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-01-13 21:14
+slug: section-category-list-for-joomla-
+tags:
+- Coding
+title: Section Category List for Joomla! 1.5
+
 ---
 The section category list is a kind of menu list where all your sections and
 categories are in.  

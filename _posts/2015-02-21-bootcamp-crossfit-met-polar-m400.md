@@ -1,61 +1,20 @@
 ---
-id: 13
-title: Bootcamp / Crossfit met Polar M400
-date: 2015-02-21T21:57:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/02/21/bootcamp-crossfit-met-polar-m400/
-permalink: /2015/02/bootcamp-crossfit-met-polar-m400.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5476225118199607004"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/02/bootcamp-crossfit-met-polar-m400.html
-blogger_thumbnail:
-  - http://3.bp.blogspot.com/-gqNXcQ3rQQE/VOjeLgZYFbI/AAAAAAABShQ/8fMYE74DqlE/s1600/BootCamp1-1.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "2112"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700415684"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/02/BootCamp1-1.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-02-21 21:57:00+00:00
+dsq_thread_id:
+- '5700415684'
+hits:
+- '2112'
+image: https://vandersluijs.resultants-e.nl/2015/02/BootCamp1-1.jpg
+layout: post
+permalink: /2015/02/bootcamp-crossfit-met-polar-m400.html
 tags:
-  - Polar
+- Polar
+title: Bootcamp / Crossfit met Polar M400
+
 ---
 <div class="separator" style="clear: both; text-align: left;">
   Daar ging ik dan, mijn eerste rondje Bootcamp met de Polar M400.

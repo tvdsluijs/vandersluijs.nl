@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Agile
+- Management
+comments: 'true'
+date: 2012-10-12 22:10
 excerpt_separator: <!--more-->
-title: 'Hoe blijft je als Manager bij, een ICT managers verhaal'
-slug: 'hoe-blijft-je-als-manager-bij-een-ict-managers-verhaal'
-date: '2012-10-12 22:10'
-publish_date: '2012-10-12 22:10'
-category: ['Agile', 'Management']
-tags: ['Agile', 'Management']
+layout: post
+publish_date: 2012-10-12 22:10
+slug: hoe-blijft-je-als-manager-bij-een-ict-managers-verhaal
+tags:
+- Agile
+- Management
+title: Hoe blijft je als Manager bij, een ICT managers verhaal
+
 ---
 Dus je bent ICT manager? En begrijp je een beetje wat de teamleden tegen je
 zeggen?

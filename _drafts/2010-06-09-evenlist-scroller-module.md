@@ -6,7 +6,8 @@ slug: 'evenlist-scroller-module'
 date: '2010-06-09 23:02'
 publish_date: '2010-06-09 23:02'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*I3xPJz2QREom_RBZ.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*I3xPJz2QREom_RBZ.gif'
+  feature: 0*I3xPJz2QREom_RBZ.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

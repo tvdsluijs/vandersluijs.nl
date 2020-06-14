@@ -1,42 +1,21 @@
 ---
-id: 2554
-title: Mobiele keuzevrijheid beperkt in Gemeente Goes
-date: 2016-02-28T09:18:37+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2554
-permalink: /2016/02/mobiele-keuzevrijheid-beperkt-in-gemeente-goes.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "523"
-dsq_thread_id:
-  - "5804947416"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-10.13.10-825x476.png
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2016-02-28 09:18:37+00:00
+dsq_thread_id:
+- '5804947416'
+hits:
+- '523'
+image: https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-10.13.10-825x476.png
+layout: post
+permalink: /2016/02/mobiele-keuzevrijheid-beperkt-in-gemeente-goes.html
 tags:
-  - KPN
-  - T-mobile
+- KPN
+- T-mobile
+title: Mobiele keuzevrijheid beperkt in Gemeente Goes
+
 ---
 Ik woon letterlijk en figuurlijk in een gat! Figuurlijk want Wolphaartsdijk, onderdeel van Gemeente Goes is nou eenmaal een klein dorp met circa 2000 inwoners.  En letterlijk want T-mobile heeft er minimaal tot geen bereik. En ik wil mobiele keuzevrijheid waarin gemeente Goes mij nu beperkt.<!--more-->
 

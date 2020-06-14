@@ -28,7 +28,8 @@ vw_review_score_3_score:
  - 4
 dsq_thread_id:
   - "5725875145"
-feature-img: https://vandersluijs.resultants-e.nl/2016/03/mymuesli-e1457620813380-1200x501.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/03/mymuesli-e1457620813380-1200x501.jpg
 categories:
   - Lifestyle
 ---

@@ -1,29 +1,15 @@
 ---
-id: 502
-title: Verwijderen MSN 4.7
-date: 2008-07-16T21:17:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/07/16/verwijderen-msn-47/
-permalink: /2008/07/verwijderen-msn-47.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4078075677163848876"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/07/verwijderen-msn-47.html
-hits:
-  - "556"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-07-16 21:17:00+00:00
+hits:
+- '556'
+layout: post
+permalink: /2008/07/verwijderen-msn-47.html
+title: Verwijderen MSN 4.7
+
 ---
 Gek werd ik er van.  
 Bij een herinstallatie van windows XP (wat overigens nog steeds mijn favoriet is boven Windows Vista), krijg je er gelijk het geweldige MSN Messenger 4.7 mee op je PC.

@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-01-26 08:53
 excerpt_separator: <!--more-->
-title: 'VirtueMart SlimBox Color Mixer'
-slug: 'virtuemart-slimbox-color-mixer'
-date: '2010-01-26 08:53'
-publish_date: '2010-01-26 08:53'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*YVuBhyBAI7onF3bS.gif'
-  feature: 0*YVuBhyBAI7onF3bS.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*YVuBhyBAI7onF3bS.gif
+layout: post
+publish_date: 2010-01-26 08:53
+slug: virtuemart-slimbox-color-mixer
+tags:
+- Coding
+title: VirtueMart SlimBox Color Mixer
+
 ---
 If you know Joomla! and you are selling stuff on the internet you know
 VirtueMart.  

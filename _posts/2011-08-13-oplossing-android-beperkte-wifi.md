@@ -1,31 +1,17 @@
 ---
-id: 228
-title: Oplossing Android beperkte Wifi Connectie / Netgear
-date: 2011-08-13T16:07:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/08/13/oplossing-android-beperkte-wifi/
-permalink: /2011/08/oplossing-android-beperkte-wifi.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4841132517209308157"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/08/oplossing-android-beperkte-wifi.html
-hits:
-  - "1750"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6002330968"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-08-13 16:07:00+00:00
+dsq_thread_id:
+- '6002330968'
+hits:
+- '1750'
+layout: post
+permalink: /2011/08/oplossing-android-beperkte-wifi.html
+title: Oplossing Android beperkte Wifi Connectie / Netgear
+
 ---
 Netgear…. ik ben er niet blij mee. Ik dacht, weet je wat laat ik eens een goede Router met Wifi mogelijkheden kopen. Dus ik koos de duurste Netgear die er te koop was bij ZeelandNet toen ik overstapte van KPN ADSL naar Kabel internet van ZeelandNet.
 

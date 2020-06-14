@@ -1,44 +1,19 @@
 ---
-id: 1715
-title: Salaris taboe alleen door bedrijf te doorbreken
-date: 2015-11-14T14:59:32+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1715
-permalink: /2015/11/salaris-taboe-alleen-door-bedrijf-te-doorbreken.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "663"
-dsq_thread_id:
-  - "5700415812"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/11/7183015604_f089b2c1ed_h-e1447363631451.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
-  - Lifestyle
+- Grumpy
+- Lifestyle
+comments: 'true'
+date: 2015-11-14 14:59:32+00:00
+dsq_thread_id:
+- '5700415812'
+hits:
+- '663'
+image: https://vandersluijs.resultants-e.nl/2015/11/7183015604_f089b2c1ed_h-e1447363631451.jpg
+layout: post
+permalink: /2015/11/salaris-taboe-alleen-door-bedrijf-te-doorbreken.html
+title: Salaris taboe alleen door bedrijf te doorbreken
+
 ---
 Jou salaris, zeg eens eerlijk. Wanneer heb je voor het laatst je salaris open en bloot besproken met vrienden, buren, collega&#8217;s of met familie?
 

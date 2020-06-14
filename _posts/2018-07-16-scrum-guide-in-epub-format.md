@@ -1,23 +1,19 @@
 ---
-layout: post
-title: Scrum Guide in EPUB format
-author: Theo van der Sluijs
-slug: /2018/07/scrum-guide-in-epub-format/
-permalink: /2018/07/scrum-guide-in-epub-format/
+author: tvdsluijs
+categories:
+- Management
+comments: 'true'
 date: 2018-07-16
-publish_date: 2018-07-16
-thumbnail: /images/scrum-guide-in-epub-format_thumbnail.jpeg
-image:
-  path: /images/scrum-guide-in-epub-format.jpeg
-  feature: scrum-guide-in-epub-format.jpeg
-  credit: özgür uzun
-  creditlink: https://www.pexels.com/@ozgur
-categories: ['Management']
-tags: 
- - Agile
- - Scrum
-comments: true
 excerpt_separator: <!--more-->
+image: /images/scrum-guide-in-epub-format.jpeg
+layout: post
+permalink: /2018/07/scrum-guide-in-epub-format/
+publish_date: 2018-07-16
+slug: /2018/07/scrum-guide-in-epub-format/
+tags:
+- Agile
+- Scrum
+title: Scrum Guide in EPUB format
 
 ---
 

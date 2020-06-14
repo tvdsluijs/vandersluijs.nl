@@ -1,56 +1,21 @@
 ---
-id: 2828
-title: Samsung S7 geruild voor iPhone SE
-date: 2016-07-08T14:12:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2828
-permalink: /2016/07/samsung-s7-geruild-voor-iphone-se.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_sidebar_position:
-  - "0"
-asalah_custom_description:
-  - ""
-hits:
-  - "333"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5718439206"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/05/IMG_3422-825x510.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-07-08 14:12:00+00:00
+dsq_thread_id:
+- '5718439206'
+hits:
+- '333'
+image: https://vandersluijs.resultants-e.nl/2016/05/IMG_3422-825x510.jpg
+layout: post
+permalink: /2016/07/samsung-s7-geruild-voor-iphone-se.html
 tags:
-  - Apple
-  - iPhone
+- Apple
+- iPhone
+title: Samsung S7 geruild voor iPhone SE
+
 ---
 Mijn abonnement kon ik verlengen met een nieuw toestel. Kan ik mooi van die iPhone 5s af dacht ik. Niet dat ik ontevreden was over mijn iPhone, maar dat werkelijk alles zo veel moest kosten vond ik echt absurd! Kom op een laadkabel voor 30 euro? Daar kan ik in China 30 usb laad kabels voor kopen! Dus kocht ik een Samsung S7 bij mijn nieuwe abonnement en kon na 2 maanden niet wachten om weer over te stappen naar een iPhone! OMG ik ben dus echt een Apple FanBoy!<!--more-->
 

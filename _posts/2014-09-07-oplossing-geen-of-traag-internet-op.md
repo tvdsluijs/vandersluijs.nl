@@ -1,33 +1,17 @@
 ---
-id: 60
-title: Oplossing geen of traag internet op Smart Samsung TV
-date: 2014-09-07T14:37:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/07/oplossing-geen-of-traag-internet-op/
-permalink: /2014/09/oplossing-geen-of-traag-internet-op.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8624500669907566950"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/oplossing-geen-of-traag-internet-op.html
-blogger_thumbnail:
-  - /images/2014/Sep/netwerk1.jpg
-hits:
-  - "25"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700541643"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-07 14:37:00+00:00
+dsq_thread_id:
+- '5700541643'
+hits:
+- '25'
+layout: post
+permalink: /2014/09/oplossing-geen-of-traag-internet-op.html
+title: Oplossing geen of traag internet op Smart Samsung TV
+
 ---
 Gek werd ik er van! Zodra ik de Smarthub opende van mijn Samsung TV kreeg ik de melding dat er geen internet was. Of gebeurde ook vaak dat internet (of in mijn geval het opstarten van Netflix) heel erg traag was.
 

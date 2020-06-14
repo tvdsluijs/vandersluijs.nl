@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-10-29 06:00
 excerpt_separator: <!--more-->
-title: 'Generator changer for Joomla! 1.5'
-slug: 'generator-changer-for-joomla-'
-date: '2009-10-29 06:00'
-publish_date: '2009-10-29 06:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-10-29 06:00
+slug: generator-changer-for-joomla-
+tags:
+- Coding
+title: Generator changer for Joomla! 1.5
+
 ---
 Don’t like the way Joomla! puts its name in your site by using the generator
 meta tag ?  

@@ -1,29 +1,15 @@
 ---
-id: 46
-title: Blogger importeren in Ghost.org
-date: 2014-09-11T20:13:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/blogger-importeren-in-ghostorg/
-permalink: /2014/09/blogger-importeren-in-ghostorg.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6411172036430972924"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/blogger-importeren-in-ghostorg.html
-hits:
-  - "1321"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 20:13:00+00:00
+hits:
+- '1321'
+layout: post
+permalink: /2014/09/blogger-importeren-in-ghostorg.html
+title: Blogger importeren in Ghost.org
+
 ---
 Het had nogal wat voeten in aarde, de overstap van blogger naar Ghost.
 

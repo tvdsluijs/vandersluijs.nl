@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-04-13 19:00
 excerpt_separator: <!--more-->
-title: 'Flex Gumbo DirectAdmin Tool'
-slug: 'flex-gumbo-directadmin-tool'
-date: '2009-04-13 19:00'
-publish_date: '2009-04-13 19:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-04-13 19:00
+slug: flex-gumbo-directadmin-tool
+tags:
+- Coding
+title: Flex Gumbo DirectAdmin Tool
+
 ---
 I just finished my first real Flex Gumbo Application. It is a tool to change
 your Email or FTP password when working with a DirectAdmin Environment.  

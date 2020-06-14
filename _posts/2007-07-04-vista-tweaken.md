@@ -1,32 +1,18 @@
 ---
-id: 538
-title: Vista Tweaken
-date: 2007-07-04T19:18:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/07/04/vista-tweaken/
-permalink: /2007/07/vista-tweaken.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1469634348481875819"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/07/vista-tweaken.html
-hits:
-  - "1212"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6002404058"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-07-04 19:18:00+00:00
+dsq_thread_id:
+- '6002404058'
+excerpt_separator: <!--more-->
+hits:
+- '1212'
+layout: post
+permalink: /2007/07/vista-tweaken.html
+title: Vista Tweaken
+
 ---
 Ik vroeg me de afgelopen dagen af waarom mijn Hardeschijf onder Vista constant… maar dan ook echt constant bezig was met iets onder Vista.
 

@@ -1,31 +1,17 @@
 ---
-id: 57
-title: Muiten binnen een organisatie wordt echt gedaan
-date: 2014-09-11T19:58:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/muiten-binnen-een-organisatie-wordt_11/
-permalink: /2014/09/muiten-binnen-een-organisatie-wordt_11.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3279451438452632065"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/muiten-binnen-een-organisatie-wordt_11.html
-hits:
-  - "759"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6506499245"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 19:58:00+00:00
+dsq_thread_id:
+- '6506499245'
+hits:
+- '759'
+layout: post
+permalink: /2014/09/muiten-binnen-een-organisatie-wordt_11.html
+title: Muiten binnen een organisatie wordt echt gedaan
+
 ---
 Toen ik het stuk schreef over Muiten binnen de organisatie zo&#8217;n 6 maanden geleden, durfde ik het eigenlijk niet op internet te zetten.
 

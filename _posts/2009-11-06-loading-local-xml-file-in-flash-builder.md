@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-06 07:00
 excerpt_separator: <!--more-->
-title: 'Loading local XML file in flash builder'
-slug: 'loading-local-xml-file-in-flash-builder'
-date: '2009-11-06 07:00'
-publish_date: '2009-11-06 07:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-11-06 07:00
+slug: loading-local-xml-file-in-flash-builder
+tags:
+- Coding
+title: Loading local XML file in flash builder
+
 ---
 There are a few ways to get a XML file as dataprovider within flash builder.
 Some people asked me how to do that in an easy way.  

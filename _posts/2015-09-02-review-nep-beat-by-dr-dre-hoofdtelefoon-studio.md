@@ -1,40 +1,21 @@
 ---
-id: 1227
-title: Review Nep Beat By Dr. Dre Hoofdtelefoon Studio
-date: 2015-09-02T06:04:48+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/?p=1227
-permalink: /2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html
-vw_review_summary:
-  - Afwerking is niet zo geweldig, maar van een afstandje is het net echt. Geluid is goed, maar de kwaliteit en degelijkheid van de hoofdtelefoon an sich is ver te zoeken. Eerlijkheidshalve heb je voor 16 euro best een aardige hoofdtelefoon, maar geen echt Beats By Dr Dre natuurlijk.
-vw_review_average_score:
-  - "6.5"
-vw_review_score_0_label:
- - Degelijkheid
-vw_review_score_0_score:
- - 6
-vw_review_score_1_label:
- - Design
-vw_review_score_1_score:
- - 20
-vw_review_score_2_label:
- - Kwaliteit
-vw_review_score_2_score:
- - 10
-vw_review_score_3_label:
- - Geluid
-vw_review_score_3_score:
- - 16
-video_post_url:
-  - ""
-dsq_thread_id:
-  - "5712885553"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/09/theo-beats-by-dr-dre.jpg
+author: tvdsluijs
 categories:
-  - Tech
-format: video
+- Tech
+comments: 'true'
+date: 2015-09-02 06:04:48+00:00
+description:
+- Afwerking is niet zo geweldig, maar van een afstandje is het net echt. Geluid is
+  goed, maar de kwaliteit en degelijkheid van de hoofdtelefoon an sich is ver te zoeken.
+  Eerlijkheidshalve heb je voor 16 euro best een aardige hoofdtelefoon, maar geen
+  echt Beats By Dr Dre natuurlijk.
+dsq_thread_id:
+- '5712885553'
+image: https://vandersluijs.resultants-e.nl/2015/09/theo-beats-by-dr-dre.jpg
+layout: post
+permalink: /2015/09/review-nep-beat-by-dr-dre-hoofdtelefoon-studio.html
+title: Review Nep Beat By Dr. Dre Hoofdtelefoon Studio
+
 ---
 In Griekenland op het eiland Kreta, om iets specifieker te zijn heb ik een Beats By Dr. Dre Hoofdtelefoon gekocht. Net echt&#8230; maar voor de prijs van slechts €. 16,99 ging ik er bij voorbaat al uit dat deze niet echt zou zijn.
 

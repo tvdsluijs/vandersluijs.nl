@@ -1,43 +1,20 @@
 ---
-id: 2637
-title: 'Joby Action Clamp &#038; Gorillapod Arm, GoPro musthaves'
-date: 2016-03-25T06:46:34+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2637
-permalink: /2016/03/joby-action-clamp-gorillapod-arm-gopro-musthaves.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "617"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5712250963"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/25238558425_27ee1c9977_o-825x510.jpg
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2016-03-25 06:46:34+00:00
+dsq_thread_id:
+- '5712250963'
+hits:
+- '617'
+image: https://vandersluijs.resultants-e.nl/2016/02/25238558425_27ee1c9977_o-825x510.jpg
+layout: post
+permalink: /2016/03/joby-action-clamp-gorillapod-arm-gopro-musthaves.html
 tags:
-  - Vloggen
+- Vloggen
+title: Joby Action Clamp &#038; Gorillapod Arm, GoPro musthaves
+
 ---
 Sinds anderhalf jaar heb ik een GoPro Hero 3+ en ik heb diverse accessoires om om hem te bevestigen. Zo heb ik een grote zuignap (Suction Cup), diverse Zelfklevende Mounts, een Headstrap, een SP POV Pole en een borststrap. Maar nu heb ik twee accessoires voor mijn GoPro waarvan ik niet wist dat die nog handiger waren dan alle andere, de Joby Action Clamp & Gorillapod Arm.<!--more-->
 

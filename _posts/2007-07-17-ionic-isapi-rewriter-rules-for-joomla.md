@@ -1,30 +1,16 @@
 ---
-id: 535
-title: Ionic Isapi Rewriter rules for Joomla!
-date: 2007-07-17T13:41:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/07/17/ionic-isapi-rewriter-rules-for-joomla/
-permalink: /2007/07/ionic-isapi-rewriter-rules-for-joomla.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3857274840903892037"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/07/ionic-isapi-rewriter-rules-for-joomla.html
-hits:
-  - "842"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-07-17 13:41:00+00:00
+excerpt_separator: <!--more-->
+hits:
+- '842'
+layout: post
+permalink: /2007/07/ionic-isapi-rewriter-rules-for-joomla.html
+title: Ionic Isapi Rewriter rules for Joomla!
+
 ---
 IIRF or Ionic Isapi is a small, cheap, easy to use, URL rewriting ISAPI filter that combines a good price (free!) with good features. It is reasonably fast, and reasonably powerful.
 

@@ -1,29 +1,15 @@
 ---
-id: 250
-title: iLife 11 upgrade voor de Mac
-date: 2011-02-08T16:07:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/02/08/ilife-11-upgrade-voor-de-mac/
-permalink: /2011/02/ilife-11-upgrade-voor-de-mac.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6386942871292126121"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/02/ilife-11-upgrade-voor-de-mac.html
-hits:
-  - "785"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-02-08 16:07:00+00:00
+hits:
+- '785'
+layout: post
+permalink: /2011/02/ilife-11-upgrade-voor-de-mac.html
+title: iLife 11 upgrade voor de Mac
+
 ---
 Tuurlijk voor de Mac !
 

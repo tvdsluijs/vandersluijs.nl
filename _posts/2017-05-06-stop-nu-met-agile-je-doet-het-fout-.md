@@ -1,15 +1,20 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: 'Stop nu met Agile, je doet het fout!'
-slug: 'stop-nu-met-agile-je-doet-het-fout-'
+author: tvdsluijs
+category:
+- Agile
+comments: 'true'
 date: '2017-05-06 14:22:27+00:00'
+excerpt_separator: <!--more-->
+image: https://vandersluijs.resultants-e.nl/1*CM0RAFUO3RXyiurXQHucjA.jpeg
+layout: post
 publish_date: '2017-05-06 14:22:27+00:00'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*CM0RAFUO3RXyiurXQHucjA.jpeg'
-  feature: 1*CM0RAFUO3RXyiurXQHucjA.jpeg'
-category: ['Agile']
-tags: ['Agile', 'Scrum', 'Scrum Master']
+slug: stop-nu-met-agile-je-doet-het-fout-
+tags:
+- Agile
+- Scrum
+- Scrum Master
+title: Stop nu met Agile, je doet het fout!
+
 ---
 Agile wordt steeds populairder. Steeds meer organisaties gaan op een Agile
 manier werken. … Agile betekent letterlijk: behendig, lenig. In de IT staat

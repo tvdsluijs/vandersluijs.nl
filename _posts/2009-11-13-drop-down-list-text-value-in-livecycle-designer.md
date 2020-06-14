@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-13 18:11
 excerpt_separator: <!--more-->
-title: 'Drop down list text value in Livecycle Designer'
-slug: 'drop-down-list-text-value-in-livecycle-designer'
-date: '2009-11-13 18:11'
-publish_date: '2009-11-13 18:11'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-11-13 18:11
+slug: drop-down-list-text-value-in-livecycle-designer
+tags:
+- Coding
+title: Drop down list text value in Livecycle Designer
+
 ---
 Last week I had to get the chosen item from a drop down list in a PDF
 Livecycle Designer Form. Easy enough you should think. But it did not work as

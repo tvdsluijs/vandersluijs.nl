@@ -1,30 +1,16 @@
 ---
-id: 97
-title: 'They used to call me &#8230; &quot;The Flash&quot;'
-date: 2013-08-08T13:25:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/08/08/they-used-to-call-me-flas/
-permalink: /2013/08/they-used-to-call-me-flas.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4970651826392833625"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/08/they-used-to-call-me-flash.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2013/08/theo_van_der_sluijs_the_flash-300x143.png
-hits:
-  - "800"
+author: tvdsluijs
 categories:
-  - Lifestyle
-  - Tech
+- Lifestyle
+- Tech
+comments: 'true'
+date: 2013-08-08 13:25:00+00:00
+hits:
+- '800'
+layout: post
+permalink: /2013/08/they-used-to-call-me-flas.html
+title: They used to call me &#8230; &quot;The Flash&quot;
+
 ---
 Sorry, image in dutch text only!
 

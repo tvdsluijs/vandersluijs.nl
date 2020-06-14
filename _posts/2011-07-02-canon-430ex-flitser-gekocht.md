@@ -1,43 +1,15 @@
 ---
-id: 231
-title: Canon 430Ex Flitser gekocht
-date: 2011-07-02T07:17:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/07/02/flitser-gekoc/
-permalink: /2011/07/canon-430ex-flitser-gekocht.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4562944832770415115"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/07/flitser-gekocht.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "493"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2011-07-02 07:17:00+00:00
+hits:
+- '493'
+layout: post
+permalink: /2011/07/canon-430ex-flitser-gekocht.html
+title: Canon 430Ex Flitser gekocht
+
 ---
 Zoals Ludwig van Hooren al in de cursus zei… volgende keer allemaal jullie camera en flitser meenemen.
 

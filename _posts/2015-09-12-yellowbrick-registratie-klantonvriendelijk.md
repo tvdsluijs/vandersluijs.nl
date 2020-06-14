@@ -1,47 +1,20 @@
 ---
-id: 1291
-title: Yellowbrick registratie klantonvriendelijk
-date: 2015-09-12T17:06:33+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/?p=1291
-permalink: /2015/09/yellowbrick-registratie-klantonvriendelijk.html
-vw_review_summary:
-  - Even snel parkeren met de Yellowbrick app kan niet de eerste keer want registratie is niet echt eenvoudig en duurt een werkdag! Niet gebruikt, dus ik kan dus geen punten geven!
-vw_review_average_score:
-  - "0"
-vw_review_score_0_label:
- - Installatie en configuratie
-vw_review_score_0_score:
- - 0
-vw_review_score_1_label:
- - Functies en ondersteuning
-vw_review_score_1_score:
- - 0
-vw_review_score_2_label:
- - Interface
-vw_review_score_2_score:
- - 0
-vw_review_score_3_label:
- - Prestatie
-vw_review_score_3_score:
- - 0
-vw_review_score_4_label:
- - Registratie
-vw_review_score_4_score:
- - 0
-vw_review_score_5_label:
- - Prijs
-vw_review_score_5_score:
- - 0
-video_post_url:
-  - ""
-dsq_thread_id:
-  - "5766973391"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/09/Yellowbrick.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2015-09-12 17:06:33+00:00
+description:
+- Even snel parkeren met de Yellowbrick app kan niet de eerste keer want registratie
+  is niet echt eenvoudig en duurt een werkdag! Niet gebruikt, dus ik kan dus geen
+  punten geven!
+dsq_thread_id:
+- '5766973391'
+image: https://vandersluijs.resultants-e.nl/2015/09/Yellowbrick.jpg
+layout: post
+permalink: /2015/09/yellowbrick-registratie-klantonvriendelijk.html
+title: Yellowbrick registratie klantonvriendelijk
+
 ---
 Snel snel snel naar de stad. Onderweg dacht ik, oh nee… geen klein geld bij en ik wilde parkeren bij een plek waar er alleen kleingeld in zo’n automaat gaat.
 

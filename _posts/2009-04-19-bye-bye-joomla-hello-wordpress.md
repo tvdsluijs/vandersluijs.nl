@@ -1,29 +1,15 @@
 ---
-id: 426
-title: Bye Bye Joomla!, Hello WordPress
-date: 2009-04-19T17:08:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/04/19/bye-bye-joomla-hello-wordpress/
-permalink: /2009/04/bye-bye-joomla-hello-wordpress.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1330644035092457559"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/04/bye-bye-joomla-hello-wordpress.html
-hits:
-  - "501"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-04-19 17:08:00+00:00
+hits:
+- '501'
+layout: post
+permalink: /2009/04/bye-bye-joomla-hello-wordpress.html
+title: Bye Bye Joomla!, Hello WordPress
+
 ---
 Well, today is a big day for me. I finally moved this site from Joomla! to WordPress.
 

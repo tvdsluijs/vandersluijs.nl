@@ -26,7 +26,8 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5700415847"
-feature-img: https://vandersluijs.resultants-e.nl/2016/01/Bluetooth-polar-connection-error.png
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/01/Bluetooth-polar-connection-error.png
 categories:
   - Tech
 tags:

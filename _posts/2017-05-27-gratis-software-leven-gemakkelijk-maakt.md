@@ -1,53 +1,19 @@
 ---
-id: 4304
-title: Gratis software die het leven gemakkelijk maakt
-date: 2017-05-27T15:13:53+00:00
-excerpt_separator: <!--more-->
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl/?p=4304
-permalink: /2017/05/gratis-software-leven-gemakkelijk-maakt.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "109"
-dsq_thread_id:
-  - "5855287438"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2017/05/vandersluijs-not-as-geeky-825x510.png
+author: tvdsluijs
 categories:
-  - Tech
-format: image
+- Tech
+comments: 'true'
+date: 2017-05-27 15:13:53+00:00
+dsq_thread_id:
+- '5855287438'
+excerpt_separator: <!--more-->
+hits:
+- '109'
+image: https://vandersluijs.resultants-e.nl/2017/05/vandersluijs-not-as-geeky-825x510.png
+layout: post
+permalink: /2017/05/gratis-software-leven-gemakkelijk-maakt.html
+title: Gratis software die het leven gemakkelijk maakt
+
 ---
 <span lang="FR">Op deze site ben je vast gewend dat alle software zelf wordt gebakken, maar vaak is het echt niet nodig om zelf het wiel uit te vinden. Er zijn diverse gratis tools, die ook legaal zijn, dus doe er je voordeel mee.<br /> Hieronder een lijstje met mijn favorieten.</span>
 

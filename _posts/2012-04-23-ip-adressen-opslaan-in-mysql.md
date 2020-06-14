@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2012-04-23 21:39
 excerpt_separator: <!--more-->
-title: 'IP adressen opslaan in Mysql'
-slug: 'ip-adressen-opslaan-in-mysql'
-date: '2012-04-23 21:39'
-publish_date: '2012-04-23 21:39'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2012-04-23 21:39
+slug: ip-adressen-opslaan-in-mysql
+tags:
+- Coding
+title: IP adressen opslaan in Mysql
+
 ---
 IP adressen opslaan in Mysql? Het kan maar dan moet je wel weten wat de beste
 manier is.  

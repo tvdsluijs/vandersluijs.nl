@@ -1,12 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
+date: 2015-03-20 20:17
 excerpt_separator: < !--more -->
-title: 'User ip validation, ip add by email script php mongodb'
-slug: 'user-ip-validation-ip-add-by-email-script-php-mongodb'
-date: '2015-03-20 20:17'
-publish_date: '2015-03-20 20:17'
-category: ['Tech']
-tags: ['PHP', 'Mongodb']
+layout: post
+publish_date: 2015-03-20 20:17
+slug: user-ip-validation-ip-add-by-email-script-php-mongodb
+tags:
+- PHP
+- Mongodb
+title: User ip validation, ip add by email script php mongodb
+
 ---
 Okay… the title of this blogpost is a bit off….
 

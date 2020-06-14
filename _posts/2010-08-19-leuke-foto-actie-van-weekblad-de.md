@@ -1,29 +1,17 @@
 ---
-id: 279
-title: Leuke foto actie van Weekblad de Bevelandse Bode, maar……
-date: 2010-08-19T19:44:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/08/19/leuke-foto-actie-van-weekblad-de/
-permalink: /2010/08/leuke-foto-actie-van-weekblad-de.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1364893155336117927"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/08/leuke-foto-actie-van-weekblad-de.html
-hits:
-  - "1046"
-dsq_thread_id:
-  - "6044030509"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2010-08-19 19:44:00+00:00
+dsq_thread_id:
+- '6044030509'
+hits:
+- '1046'
+layout: post
+permalink: /2010/08/leuke-foto-actie-van-weekblad-de.html
+title: "Leuke foto actie van Weekblad de Bevelandse Bode, maar\u2026\u2026"
+
 ---
 Vandaag viel mijn oog op een “fotografeer voor ons” actie van Weekblad de Bevelandse Bode.
 

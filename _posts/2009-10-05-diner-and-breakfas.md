@@ -1,29 +1,15 @@
 ---
-id: 385
-title: Diner and Breakfast
-date: 2009-10-05T08:04:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/10/05/diner-and-breakfas/
-permalink: /2009/10/diner-and-breakfas.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5660602689367280299"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/10/diner-and-breakfast.html
-blogger_thumbnail:
-  - http://www.dennys.com/LiveImages/enProductImage_645.jpg
-hits:
-  - "1150"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2009-10-05 08:04:00+00:00
+hits:
+- '1150'
+layout: post
+permalink: /2009/10/diner-and-breakfas.html
+title: Diner and Breakfast
+
 ---
 A colleague of mine was worrying about me and my colleagues here eating enough.
 

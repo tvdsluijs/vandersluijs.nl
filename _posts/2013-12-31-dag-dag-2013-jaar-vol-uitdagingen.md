@@ -1,31 +1,17 @@
 ---
-id: 84
-title: Dag dag 2013, jaar vol uitdagingen!
-date: 2013-12-31T05:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/12/31/dag-dag-2013-jaar-vol-uitdagingen/
-permalink: /2013/12/dag-dag-2013-jaar-vol-uitdagingen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2654193071992950249"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/12/dag-dag-2013-jaar-vol-uitdagingen.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2013/12/11611784853_148d484536_m.jpg
-hits:
-  - "1095"
-dsq_thread_id:
-  - "6489672088"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2013-12-31 05:00:00+00:00
+dsq_thread_id:
+- '6489672088'
+hits:
+- '1095'
+layout: post
+permalink: /2013/12/dag-dag-2013-jaar-vol-uitdagingen.html
+title: Dag dag 2013, jaar vol uitdagingen!
+
 ---
 <table cellpadding="0" cellspacing="0" style="float: left; margin-right: 1em; text-align: left;">
   <tr>

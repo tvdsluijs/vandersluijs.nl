@@ -1,31 +1,17 @@
 ---
-id: 190
-title: dd-wrt router port forward probleem opgelost
-date: 2012-07-15T22:55:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/07/15/dd-wrt-router-port-forward-problee/
-permalink: /2012/07/dd-wrt-router-port-forward-problee.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3128330743232086634"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/07/dd-wrt-router-port-forward-probleem.html
-hits:
-  - "1016"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5820582297"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-07-15 22:55:00+00:00
+dsq_thread_id:
+- '5820582297'
+hits:
+- '1016'
+layout: post
+permalink: /2012/07/dd-wrt-router-port-forward-problee.html
+title: dd-wrt router port forward probleem opgelost
+
 ---
 Ik kocht een buffalo router omdat ik las dat je hem van dd-wrt kan voorzien.
 

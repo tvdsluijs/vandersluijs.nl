@@ -1,17 +1,20 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
+date: 2015-03-20 18:54
 excerpt_separator: < !--more -->
-title: 'Annoying noise HP envy 7640 solution!!!'
-slug: 'annoying-noise-hp-envy'
-date: '2015-03-20 18:54'
-publish_date: '2015-03-20 18:54'
-image:
-  path: '/images/1*KZczvyLJWBAcHUISfp8Unw.jpeg'
-  feature: '1*KZczvyLJWBAcHUISfp8Unw.jpeg'
-  credit: 'Fernando Arcos'
-  creditlink:  'https://www.pexels.com/@fernando-arcos-45880'
-category: ['Tech']
-tags: ['HP', 'Printer', 'Support']
+image: /images/1*KZczvyLJWBAcHUISfp8Unw.jpeg
+layout: post
+publish_date: 2015-03-20 18:54
+slug: annoying-noise-hp-envy
+tags:
+- HP
+- Printer
+- Support
+title: Annoying noise HP envy 7640 solution!!!
+
 ---
 Beep…. Beep … Beep a constant beeping noise in my ear when I turn on the HP
 envy 7640.

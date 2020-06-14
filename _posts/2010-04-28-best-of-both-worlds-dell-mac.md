@@ -1,29 +1,15 @@
 ---
-id: 295
-title: 'Best of Both Worlds, Dell &amp; Mac'
-date: 2010-04-28T01:56:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/04/28/best-of-both-worlds-dell-mac/
-permalink: /2010/04/best-of-both-worlds-dell-mac.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4793032523035335839"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/04/best-of-both-worlds-dell-mac.html
-hits:
-  - "504"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2010-04-28 01:56:00+00:00
+hits:
+- '504'
+layout: post
+permalink: /2010/04/best-of-both-worlds-dell-mac.html
+title: Best of Both Worlds, Dell &amp; Mac
+
 ---
 Okay in mijn vorige bericht zat ik dus te denken om een Macbook Pro te kopen.
 

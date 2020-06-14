@@ -1,29 +1,15 @@
 ---
-id: 175
-title: From Selfmade to WordPress to Blogger
-date: 2012-10-02T21:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/10/02/from-selfmade-to-wordpress-to-blogger/
-permalink: /2012/10/from-selfmade-to-wordpress-to-blogger.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3410834047393938424"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/10/from-selfmade-to-wordpress-to-blogger.html
-hits:
-  - "431"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-10-02 21:00:00+00:00
+hits:
+- '431'
+layout: post
+permalink: /2012/10/from-selfmade-to-wordpress-to-blogger.html
+title: From Selfmade to WordPress to Blogger
+
 ---
 Most first time bloggers (not me at this moment) go from a service like blogger or tumblr to WordPress.
 

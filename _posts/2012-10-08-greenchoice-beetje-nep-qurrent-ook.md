@@ -1,29 +1,17 @@
 ---
-id: 170
-title: Greenchoice beetje nep, Qurrent ook trouwens
-date: 2012-10-08T19:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/10/08/greenchoice-beetje-nep-qurrent-ook/
-permalink: /2012/10/greenchoice-beetje-nep-qurrent-ook.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5502819244072073404"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/10/greenchoice-beetje-nep-qurrent-ook.html
-hits:
-  - "974"
-dsq_thread_id:
-  - "5700415797"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2012-10-08 19:00:00+00:00
+dsq_thread_id:
+- '5700415797'
+hits:
+- '974'
+layout: post
+permalink: /2012/10/greenchoice-beetje-nep-qurrent-ook.html
+title: Greenchoice beetje nep, Qurrent ook trouwens
+
 ---
 Sinds een paar jaar heb ik stroom van <a href="http://www.greenchoice.nl/" target="_blank">Greenchoice</a>.
 

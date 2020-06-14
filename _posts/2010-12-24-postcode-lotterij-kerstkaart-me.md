@@ -1,29 +1,17 @@
 ---
-id: 255
-title: Postcode lotterij kerstkaart met geluksnummer
-date: 2010-12-24T01:43:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/12/24/postcode-lotterij-kerstkaart-me/
-permalink: /2010/12/postcode-lotterij-kerstkaart-me.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3755711094719765115"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/12/postcode-lotterij-kerstkaart-met.html
-hits:
-  - "575"
-dsq_thread_id:
-  - "6388315126"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2010-12-24 01:43:00+00:00
+dsq_thread_id:
+- '6388315126'
+hits:
+- '575'
+layout: post
+permalink: /2010/12/postcode-lotterij-kerstkaart-me.html
+title: Postcode lotterij kerstkaart met geluksnummer
+
 ---
 Ja hoor, een Postcode lotterij kerstkaart met geluksnummer op de deurmat.
 

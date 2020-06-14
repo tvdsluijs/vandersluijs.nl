@@ -1,60 +1,22 @@
 ---
-id: 1510
-title: Canon EOS M3 review, zwaar maar maar mooie fotos
-date: 2015-10-17T20:58:20+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1510
-permalink: /2015/10/canon-eos-m3-review-zwaar-maar-maar-mooie-fotos.html
-vw_review_summary:
-  - "De canon eos m3 viel me qua gewicht heel erg tegen. Ik had hem lichter verwacht. De maat is prima hij past precies in mijn hand. Met een stevig prijs van meer dan 500 euro, maakt hij daarentegen wel hele mooie scherpe foto's"
-vw_review_average_score:
-  - "4"
-vw_review_score_0_label:
- - Gebruiksgemak
-vw_review_score_0_score:
- - 7
-vw_review_score_1_label:
- - Degelijkheid
-vw_review_score_1_score:
- - 10
-vw_review_score_2_label:
- - Gewicht
-vw_review_score_2_score:
- - 5
-vw_review_score_3_label:
- - Instellingen
-vw_review_score_3_score:
- - 9
-vw_review_score_4_label:
- - Fotokwaliteit
-vw_review_score_4_score:
- - 10
-vw_review_score_5_label:
- - Design
-vw_review_score_5_score:
- - 9
-vw_review_score_6_label:
- - Snelheid
-vw_review_score_6_score:
- - 7
-vw_review_score_7_label:
- - Bedieningsgemak
-vw_review_score_7_score:
- - 8
-vw_review_score_8_label:
- - Prijs
-vw_review_score_8_score:
- - 7
-video_post_url:
-  - ""
-dsq_thread_id:
-  - "5734380797"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2015-10-17 20:58:20+00:00
+description:
+- De canon eos m3 viel me qua gewicht heel erg tegen. Ik had hem lichter verwacht.
+  De maat is prima hij past precies in mijn hand. Met een stevig prijs van meer dan
+  500 euro, maakt hij daarentegen wel hele mooie scherpe foto's
+dsq_thread_id:
+- '5734380797'
+layout: post
+permalink: /2015/10/canon-eos-m3-review-zwaar-maar-maar-mooie-fotos.html
 tags:
-  - Camera
-  - Canon
+- Camera
+- Canon
+title: Canon EOS M3 review, zwaar maar maar mooie fotos
+
 ---
 In mijn eerste blogpost over mijn zoektocht naar een nieuwe camera kan je lezen dat ik mijn Canon 60D wil weg doen. Tevens heb je daar kunnen lezen dat ik 4 grote fotocamera makers van deze planeet heb aangeschreven om mij een camera te sturen om te reviewen.
 

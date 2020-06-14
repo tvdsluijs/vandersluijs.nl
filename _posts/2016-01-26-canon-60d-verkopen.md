@@ -1,36 +1,20 @@
 ---
-id: 2218
-title: Canon 60D verkopen
-date: 2016-01-26T07:37:01+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://dezeeuwsefotograaf.nl/?p=2218
-permalink: /2016/01/canon-60d-verkopen.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "644"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5785299272"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2016-01-26 07:37:01+00:00
+dsq_thread_id:
+- '5785299272'
+hits:
+- '644'
+layout: post
+permalink: /2016/01/canon-60d-verkopen.html
 tags:
-  - Canon
-  - Tamron
+- Canon
+- Tamron
+title: Canon 60D verkopen
+
 ---
 Met pijn in mijn hart heb ik mijn Canon 60D verkocht samen met mijn Tamron 18-270 Objectief en Canon 430EX Flitser. Ik vond het vreselijk maar het moest!
 

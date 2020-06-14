@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-12-20 14:23
 excerpt_separator: <!--more-->
-title: 'Meerdere item via drag en drop verplaatsen Deel 2'
-slug: 'meerdere-item-via-drag-en-drop-verplaatsen-deel'
-date: '2008-12-20 14:23'
-publish_date: '2008-12-20 14:23'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*NJvhEzk-vJxNMs92.gif'
-  feature: 0*NJvhEzk-vJxNMs92.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*NJvhEzk-vJxNMs92.gif
+layout: post
+publish_date: 2008-12-20 14:23
+slug: meerdere-item-via-drag-en-drop-verplaatsen-deel
+tags:
+- Coding
+title: Meerdere item via drag en drop verplaatsen Deel 2
+
 ---
 Gisteren kwam er een collega naar mij toe die mij vertelde dat hij mijn blog
 volgt.  

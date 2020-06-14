@@ -1,29 +1,15 @@
 ---
-id: 508
-title: Om naar Joomla! 1.5
-date: 2008-06-27T05:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/06/27/om-naar-joomla-15/
-permalink: /2008/06/om-naar-joomla-15.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6998037590350446465"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/06/om-naar-joomla-15.html
-hits:
-  - "1282"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-06-27 05:00:00+00:00
+hits:
+- '1282'
+layout: post
+permalink: /2008/06/om-naar-joomla-15.html
+title: Om naar Joomla! 1.5
+
 ---
 Sinds vandaag draait mijn site op Joomla! 1.5.3
 

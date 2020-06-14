@@ -1,12 +1,23 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Atlassian
+- Jira
+- Tech
+- Development
+comments: 'true'
+date: 2014-01-16 20:56
 excerpt_separator: <!--more-->
-title: 'Atlassian Summit 2013 breakdown'
-slug: 'atlassian-summit'
-date: '2014-01-16 20:56'
-publish_date: '2014-01-16 20:56'
-category: ['Atlassian', 'Jira', 'Tech', 'Development']
-tags: ['Atlassian', 'Jira', 'Tech', 'Development']
+layout: post
+publish_date: 2014-01-16 20:56
+slug: atlassian-summit
+tags:
+- Atlassian
+- Jira
+- Tech
+- Development
+title: Atlassian Summit 2013 breakdown
+
 ---
 Natuurlijk is het erg gaaf als je naar een conferentie gaat die op een ander
 werelddeel gehouden wordt zoals in de States. Dan zie je niet alleen een ander

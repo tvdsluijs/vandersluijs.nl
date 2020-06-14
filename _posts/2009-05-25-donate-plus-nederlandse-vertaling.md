@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-05-25 14:43
 excerpt_separator: <!--more-->
-title: 'Donate Plus Nederlandse vertaling'
-slug: 'donate-plus-nederlandse-vertaling'
-date: '2009-05-25 14:43'
-publish_date: '2009-05-25 14:43'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-05-25 14:43
+slug: donate-plus-nederlandse-vertaling
+tags:
+- Coding
+title: Donate Plus Nederlandse vertaling
+
 ---
 Op mijn oude joomla! site, was ik aan het sparen voor een iMac. Dat ben ik nog
 steeds maar op mijn Wordpress site had ik nog geen Donatie tool. Die heb ik nu

@@ -1,20 +1,19 @@
 ---
-layout: post
-title: 'Medium stopped offering custom domains'
-slug: 'medium-stopped-offering-custom-domains'
+author: tvdsluijs
+categories: Tech
+comments: 'true'
 date: '2018-03-23 16:56:35.874000+00:00'
 excerpt_separator: < !--more -->
+image: /images/1*kmdeXXsE5g3ViZqicLhwSQ.jpeg
+layout: post
 publish_date: '2018-03-23 16:56:35.874000+00:00'
-image:
-  path: '/images/1*kmdeXXsE5g3ViZqicLhwSQ.jpeg'
-  feature: '1*kmdeXXsE5g3ViZqicLhwSQ.jpeg'
-  credit: 'Nextvoyage'
-  creditlink:  'https://www.pexels.com/@nextvoyage'
-categories: 'Tech'
-tags: 
- - 'Medium'
- - 'Domain'
- - 'Blogging'
+slug: medium-stopped-offering-custom-domains
+tags:
+- Medium
+- Domain
+- Blogging
+title: Medium stopped offering custom domains
+
 ---
 No more custom domains, is this the end of Medium?
 

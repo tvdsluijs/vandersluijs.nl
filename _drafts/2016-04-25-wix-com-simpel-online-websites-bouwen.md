@@ -42,7 +42,8 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5723048789"
-feature-img: https://vandersluijs.resultants-e.nl/2016/04/Screen-Shot-2016-04-25-at-17.09.12-825x510.png
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/04/Screen-Shot-2016-04-25-at-17.09.12-825x510.png
 categories:
   - Tech
 format: video

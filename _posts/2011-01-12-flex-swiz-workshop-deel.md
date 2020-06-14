@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2011-01-12 16:50
 excerpt_separator: <!--more-->
-title: 'Flex/Swiz workshop deel 1'
-slug: 'flex-swiz-workshop-deel'
-date: '2011-01-12 16:50'
-publish_date: '2011-01-12 16:50'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2011-01-12 16:50
+slug: flex-swiz-workshop-deel
+tags:
+- Coding
+title: Flex/Swiz workshop deel 1
+
 ---
 Binnenkort organiseert de FLUGR in samenwerking met QNH op 16 februari a.s.
 een [Flex workshop](http://www.flugr.nl/events/tweede-de-flexswiz-workshop/).  

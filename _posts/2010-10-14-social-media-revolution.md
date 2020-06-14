@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-10-14 13:06
 excerpt_separator: <!--more-->
-title: 'Social Media Revolution'
-slug: 'social-media-revolution'
-date: '2010-10-14 13:06'
-publish_date: '2010-10-14 13:06'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-10-14 13:06
+slug: social-media-revolution
+tags:
+- Coding
+title: Social Media Revolution
+
 ---
 Social Media tools are here to stay !  
   

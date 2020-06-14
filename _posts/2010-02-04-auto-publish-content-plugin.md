@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-04 10:11
 excerpt_separator: <!--more-->
-title: 'Auto Publish Content Plugin'
-slug: 'auto-publish-content-plugin'
-date: '2010-02-04 10:11'
-publish_date: '2010-02-04 10:11'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*semnMA-nsHurJu8Q.png'
-  feature: 0*semnMA-nsHurJu8Q.png'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*semnMA-nsHurJu8Q.png
+layout: post
+publish_date: 2010-02-04 10:11
+slug: auto-publish-content-plugin
+tags:
+- Coding
+title: Auto Publish Content Plugin
+
 ---
 Finally it is here ! The one and only Auto Publish Content Plugin on frontpage
 for

@@ -1,29 +1,15 @@
 ---
-id: 466
-title: 'There and Back again, A Hobbit&#39;s Tale'
-date: 2008-12-14T14:37:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/12/14/there-and-back-again-hobbit-tale/
-permalink: /2008/12/there-and-back-again-hobbit-tale.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7359132638513486732"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/12/there-and-back-again-hobbit-tale.html
-hits:
-  - "892"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-12-14 14:37:00+00:00
+hits:
+- '892'
+layout: post
+permalink: /2008/12/there-and-back-again-hobbit-tale.html
+title: There and Back again, A Hobbit&#39;s Tale
+
 ---
 Tja&#8230; dit verhaal gaat over een reisje wat ik maakte op de digitale snelweg. (okay ik heb een beetje wat weg van formaatje hobbit, maar de titel slaat echt op deze digitale reis)  
 Deze blog was ik begonnen in Joomla! Ik werk al zo&#8221;n 5 jaar met Joomla! en het heeft me eigenlijk nooit in de steek gelaten. Het robuste en grote  CMS werkte altijd out of the box.

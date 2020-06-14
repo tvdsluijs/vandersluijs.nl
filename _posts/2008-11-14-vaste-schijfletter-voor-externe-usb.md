@@ -1,29 +1,15 @@
 ---
-id: 473
-title: Vaste schijfletter voor externe USB drive
-date: 2008-11-14T16:55:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/11/14/vaste-schijfletter-voor-externe-usb/
-permalink: /2008/11/vaste-schijfletter-voor-externe-usb.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4673697639575342540"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/11/vaste-schijfletter-voor-externe-usb.html
-hits:
-  - "1255"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-11-14 16:55:00+00:00
+hits:
+- '1255'
+layout: post
+permalink: /2008/11/vaste-schijfletter-voor-externe-usb.html
+title: Vaste schijfletter voor externe USB drive
+
 ---
    
 Je kent het volgende probleem vast ook wel.  

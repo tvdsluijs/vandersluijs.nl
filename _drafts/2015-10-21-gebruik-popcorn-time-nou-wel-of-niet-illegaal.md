@@ -34,7 +34,8 @@ hits:
   - "722"
 dsq_thread_id:
   - "5700416160"
-feature-img: https://vandersluijs.resultants-e.nl/2015/10/popcorn_time_wallpaper____blue_space__by_chrisfr06-d8g5x2a-e1445404373485.png
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/10/popcorn_time_wallpaper____blue_space__by_chrisfr06-d8g5x2a-e1445404373485.png
 categories:
   - Lifestyle
 ---

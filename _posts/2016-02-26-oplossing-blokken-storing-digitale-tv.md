@@ -1,53 +1,18 @@
 ---
-id: 2500
-title: Oplossing blokken storing digitale TV
-date: 2016-02-26T09:00:26+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2500
-permalink: /2016/02/oplossing-blokken-storing-digitale-tv.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "730"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5713040055"
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/4g-storing.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-02-26 09:00:26+00:00
+dsq_thread_id:
+- '5713040055'
+hits:
+- '730'
+image: https://vandersluijs.resultants-e.nl/2016/02/4g-storing.jpg
+layout: post
+permalink: /2016/02/oplossing-blokken-storing-digitale-tv.html
+title: Oplossing blokken storing digitale TV
+
 ---
 Digitale Televisie, eerst dacht ik dat ik het niet nodig had, zeker niet met die oude Philips TV, maar toen ik overstapte op de nieuwste Samsung schermen moest ik het er natuurlijk wel bij nemen om optimaal te kunnen genieten. En dat deed ik, totdat ik blokken en storing  op de digitale tv kreeg.<!--more-->
 

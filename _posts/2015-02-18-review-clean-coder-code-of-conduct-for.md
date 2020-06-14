@@ -1,58 +1,19 @@
 ---
-id: 16
-title: 'Review : The Clean Coder: A Code of Conduct for Professional Programmers'
-date: 2015-02-18T10:17:00+00:00
-author: Theo.
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/02/18/review-clean-coder-code-of-conduct-for/
-permalink: /2015/02/review-clean-coder-code-of-conduct-for.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1022792358101747184"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/02/review-clean-coder-code-of-conduct-for.html
-blogger_thumbnail:
-  - https://s.s-bol.com/imgbase0/imagebase/regular/FC/3/2/0/7/1001004011427023.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "534"
-dsq_thread_id:
-  - "5737659824"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/02/1001004011427023.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
-  - Tech
+- Lifestyle
+- Tech
+comments: 'true'
+date: 2015-02-18 10:17:00+00:00
+dsq_thread_id:
+- '5737659824'
+hits:
+- '534'
+image: https://vandersluijs.resultants-e.nl/2015/02/1001004011427023.jpg
+layout: post
+permalink: /2015/02/review-clean-coder-code-of-conduct-for.html
+title: 'Review : The Clean Coder: A Code of Conduct for Professional Programmers'
+
 ---
 <div>
   <div class="separator" style="clear: both; text-align: left;">

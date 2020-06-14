@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-10-29 08:27
 excerpt_separator: <!--more-->
-title: 'Google Latitude for Joomla! 1.5'
-slug: 'google-latitude-for-joomla-'
-date: '2009-10-29 08:27'
-publish_date: '2009-10-29 08:27'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-10-29 08:27
+slug: google-latitude-for-joomla-
+tags:
+- Coding
+title: Google Latitude for Joomla! 1.5
+
 ---
 Wanna let your friends know where you at ?  
   

@@ -1,15 +1,20 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: 'Dag taxi chauffeurs, jullie zijn allemaal ontslagen'
-slug: 'dag-taxi-chauffeurs-jullie-zijn-allemaal-ontslagen'
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
 date: '2017-04-23 21:16:13+00:00'
+excerpt_separator: <!--more-->
+image: https://vandersluijs.resultants-e.nl/1*epOby2wtI5_YdLFbjr5sXw.jpeg
+layout: post
 publish_date: '2017-04-23 21:16:13+00:00'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*epOby2wtI5_YdLFbjr5sXw.jpeg'
-  feature: 1*epOby2wtI5_YdLFbjr5sXw.jpeg'
-category: ['Tech']
-tags: ['Future', 'Self Driving Cars', 'Tesla']
+slug: dag-taxi-chauffeurs-jullie-zijn-allemaal-ontslagen
+tags:
+- Future
+- Self Driving Cars
+- Tesla
+title: Dag taxi chauffeurs, jullie zijn allemaal ontslagen
+
 ---
 Het was een mooie dag in 2015, Autofabrikant Tesla maakt zijn Model S in dat
 jaar deels zelfrijdend via een software-update. Ja je moest je handen nog aan

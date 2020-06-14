@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-08 20:01
 excerpt_separator: <!--more-->
-title: 'Hulp bij installeren software na verse installatie windows.'
-slug: 'hulp-bij-installeren-software-na-verse-installatie-windows-'
-date: '2009-11-08 20:01'
-publish_date: '2009-11-08 20:01'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-11-08 20:01
+slug: hulp-bij-installeren-software-na-verse-installatie-windows-
+tags:
+- Coding
+title: Hulp bij installeren software na verse installatie windows.
+
 ---
 Zojuist windows 7, vista of xp geinstalleerd ? Tja altijd lekker zo’n vers
 systeem. Maar ja… daarna moet je al die software weer downloaden en

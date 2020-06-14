@@ -1,12 +1,21 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: 'Notities Dag 2 Masterclass — Leading Agile Transformations'
-slug: 'notities-dag'
+author: tvdsluijs
+category:
+- Agile
+- Agile Transformation
+- Agile Methodology
+comments: 'true'
 date: '2015-10-29 21:39:27+00:00'
+excerpt_separator: <!--more-->
+layout: post
 publish_date: '2015-10-29 21:39:27+00:00'
-category: ['Agile', 'Agile Transformation', 'Agile Methodology']
-tags: ['Agile', 'Agile Transformation', 'Agile Methodology']
+slug: notities-dag
+tags:
+- Agile
+- Agile Transformation
+- Agile Methodology
+title: "Notities Dag 2 Masterclass \u2014 Leading Agile Transformations"
+
 ---
 En ook dag twee is voorbij van de [Masterclass — Leading Agile
 Transformations](http://www.scrum.nl/training/Masterclass-Leading-Agile-

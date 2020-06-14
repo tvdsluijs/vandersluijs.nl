@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-12-01 11:12
 excerpt_separator: <!--more-->
-title: 'Adobe Flex 11 Proef Banknummer'
-slug: 'adobe-flex'
-date: '2008-12-01 11:12'
-publish_date: '2008-12-01 11:12'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*priOpjR3uwhjGsPU.png'
-  feature: 0*priOpjR3uwhjGsPU.png'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*priOpjR3uwhjGsPU.png
+layout: post
+publish_date: 2008-12-01 11:12
+slug: adobe-flex
+tags:
+- Coding
+title: Adobe Flex 11 Proef Banknummer
+
 ---
 ![Adobe-Flex-CS3-48x48](https://vandersluijs.resultants-e.nl/0*priOpjR3uwhjGsPU.png)
 

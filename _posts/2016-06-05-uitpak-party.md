@@ -1,56 +1,21 @@
 ---
-id: 2844
-title: Uitpakparty ZeelandNet Cisco 3940 Modem
-date: 2016-06-05T20:33:06+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2844
-permalink: /2016/06/uitpak-party.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "852"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5703384931"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/06/6368568497_1bfbf89061_o-e1465334111675-825x510.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-06-05 20:33:06+00:00
+dsq_thread_id:
+- '5703384931'
+hits:
+- '852'
+image: https://vandersluijs.resultants-e.nl/2016/06/6368568497_1bfbf89061_o-e1465334111675-825x510.jpg
+layout: post
+permalink: /2016/06/uitpak-party.html
 tags:
-  - WiFi
-  - Zeelandnet
+- WiFi
+- Zeelandnet
+title: Uitpakparty ZeelandNet Cisco 3940 Modem
+
 ---
 Toen ik naar aanleiding van het Omroep Zeeland item over problemen met Wifi werd uitgenodigd door ZeelandNet / Delta om eens te komen praten aarzelde ik geen moment.
 

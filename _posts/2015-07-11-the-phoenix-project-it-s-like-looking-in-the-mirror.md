@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Management
+comments: 'true'
+date: 2015-07-11 20:23
 excerpt_separator: < !--more -->
-title: 'The Phoenix Project, it’s like looking in the mirror'
-slug: 'the-phoenix-project-it-s-like-looking-in-the-mirror'
-date: '2015-07-11 20:23'
-publish_date: '2015-07-11 20:23'
-category: ['Management']
-tags: ['Agile', 'Book', 'Reading']
+layout: post
+publish_date: 2015-07-11 20:23
+slug: the-phoenix-project-it-s-like-looking-in-the-mirror
+tags:
+- Agile
+- Book
+- Reading
+title: "The Phoenix Project, it\u2019s like looking in the mirror"
+
 ---
 So today I started reading “[The Phoenix
 Project](https://partnerprogramma.bol.com/click/click?p=1&t=url&s=33431&f=TXL&url=http%3A%2F%2Fwww.bol.com%2Fnl%2Fp%2Fthe-

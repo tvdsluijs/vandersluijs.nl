@@ -1,30 +1,16 @@
 ---
-id: 526
-title: XP installatie op Vista PC
-date: 2007-10-18T16:06:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/10/18/xp-installatie-op-vista-pc/
-permalink: /2007/10/xp-installatie-op-vista-pc.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "642022953891025521"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/10/xp-installatie-op-vista-pc.html
-hits:
-  - "1584"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-10-18 16:06:00+00:00
+excerpt_separator: <!--more-->
+hits:
+- '1584'
+layout: post
+permalink: /2007/10/xp-installatie-op-vista-pc.html
+title: XP installatie op Vista PC
+
 ---
 Microsoft Vista Zuigt !… nou okay niet helemaal, maar Vista is zeker geen compleet foutvrij besturingssysteem.
 

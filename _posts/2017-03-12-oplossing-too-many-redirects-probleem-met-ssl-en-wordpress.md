@@ -1,15 +1,22 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: 'Oplossing “Too Many Redirects” probleem met SSL en Wordpress'
-slug: 'oplossing-too-many-redirects-probleem-met-ssl-en-wordpress'
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
 date: '2017-03-12 13:06:57+00:00'
+excerpt_separator: <!--more-->
+image: https://vandersluijs.resultants-e.nl/1*eqxgrhVHH0GE6TRVa3mPeg.jpeg
+layout: post
 publish_date: '2017-03-12 13:06:57+00:00'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*eqxgrhVHH0GE6TRVa3mPeg.jpeg'
-  feature: 1*eqxgrhVHH0GE6TRVa3mPeg.jpeg'
-category: ['Tech']
-tags: ['Tech', 'WordPress', 'Https', 'Ssl Certificate', 'Coding']
+slug: oplossing-too-many-redirects-probleem-met-ssl-en-wordpress
+tags:
+- Tech
+- WordPress
+- Https
+- Ssl Certificate
+- Coding
+title: "Oplossing \u201CToo Many Redirects\u201D probleem met SSL en Wordpress"
+
 ---
 Dus je wilt eindelijke een veilige Wordpress omgeving! Je hebt netjes een
 certificaat aangevraagd! Via Comodo of Letsencrypt. Je hebt alle server

@@ -1,27 +1,15 @@
 ---
-id: 95
-title: 'Mag &#39;Meneer&#39; terug komen Deel 2'
-date: 2013-08-09T03:22:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/08/09/mag-terug-komen-deel-2/
-permalink: /2013/08/mag-terug-komen-deel-2.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1597479815817795532"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/08/mag-terug-komen-deel-2.html
-hits:
-  - "1218"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-08-09 03:22:00+00:00
+hits:
+- '1218'
+layout: post
+permalink: /2013/08/mag-terug-komen-deel-2.html
+title: Mag &#39;Meneer&#39; terug komen Deel 2
+
 ---
 Een paar maanden geleden heb ik een <a href="https://www.vandersluijs.nl/algemeen/mag-meneer-weer-terug-komen-alstublieft/" target="_blank">blogpost</a> geschreven over het feit dat ik me groen en geel erger aan mensen die ik niet ken, mij direct door de telefoon of per mail aanspreken met : &#8220;Hallo Theo&#8221;, &#8220;Hey Theo&#8221;, &#8220;Theo, &#8230;.&#8221; enz.
 

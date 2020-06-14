@@ -1,43 +1,20 @@
 ---
-id: 2296
-title: Apple adapter terugroep actie
-date: 2016-02-03T22:28:06+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2296
-permalink: /2016/02/apple-adapter-terugroep-actie.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_through_comment:
-  - "1"
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "676"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5726174858"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/adapters-apple-e1454533325511.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-02-03 22:28:06+00:00
+dsq_thread_id:
+- '5726174858'
+hits:
+- '676'
+image: https://vandersluijs.resultants-e.nl/2016/02/adapters-apple-e1454533325511.jpg
+layout: post
+permalink: /2016/02/apple-adapter-terugroep-actie.html
 tags:
-  - Apple
+- Apple
+title: Apple adapter terugroep actie
+
 ---
 Ja apple heeft een foutje gemaakt met de Apple Adapter voor de Macbook en de Ipad. Blijkbaar kan je er schokken van krijgen.
 

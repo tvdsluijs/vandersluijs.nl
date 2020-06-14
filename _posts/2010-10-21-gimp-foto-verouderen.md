@@ -1,47 +1,19 @@
 ---
-id: 266
-title: Gimp, Foto Verouderen
-date: 2010-10-21T15:21:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/10/21/foto-verouderen/
-permalink: /2010/10/gimp-foto-verouderen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8768279703131945283"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/10/foto-verouderen.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "742"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5701995838"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2010-10-21 15:21:00+00:00
+dsq_thread_id:
+- '5701995838'
+hits:
+- '742'
+layout: post
+permalink: /2010/10/gimp-foto-verouderen.html
 tags:
-  - Gimp
+- Gimp
+title: Gimp, Foto Verouderen
+
 ---
 Je kent ze wel, die oude foto’s die bij je oma / opa aan de muur hangen of in een boek zitten.
 

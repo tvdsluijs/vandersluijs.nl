@@ -1,12 +1,21 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
+date: 2013-05-23 23:28
 excerpt_separator: < !--more -->
-title: 'Say bye bye to Excel, say Hello To Jira!'
-slug: 'say-bye-bye-to-excel-say-hello-to-jira-'
-date: '2013-05-23 23:28'
-publish_date: '2013-05-23 23:28'
-category: ['Tech']
-tags: ['Excel', 'Agile', 'Jira', 'Atlassian', 'Development']
+layout: post
+publish_date: 2013-05-23 23:28
+slug: say-bye-bye-to-excel-say-hello-to-jira-
+tags:
+- Excel
+- Agile
+- Jira
+- Atlassian
+- Development
+title: Say bye bye to Excel, say Hello To Jira!
+
 ---
 What? You’re still using Excel as your bug tracking system? You are kidding me
 right? If your still using excel within your team as bug tracking system

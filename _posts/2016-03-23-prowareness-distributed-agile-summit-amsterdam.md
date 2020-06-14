@@ -1,12 +1,20 @@
 ---
-layout: post
-excerpt_separator: < !--more -->
-title: 'Prowareness Distributed Agile Summit Amsterdam'
-slug: 'prowareness-distributed-agile-summit-amsterdam'
+author: tvdsluijs
+category:
+- Management
+comments: 'true'
 date: '2016-03-23 13:24:15+00:00'
+excerpt_separator: < !--more -->
+layout: post
 publish_date: '2016-03-23 13:24:15+00:00'
-category: ['Management']
-tags: ['Agile', 'Scrum', 'Prowareness', 'Summit']
+slug: prowareness-distributed-agile-summit-amsterdam
+tags:
+- Agile
+- Scrum
+- Prowareness
+- Summit
+title: Prowareness Distributed Agile Summit Amsterdam
+
 ---
 Afgelopen donderdag (17 maart 2016) ben ik met een collega bij de Distributed
 Agile Summit van Prowareness in Amsterdam geweest.

@@ -5,8 +5,8 @@ title: 'GTD of Pomodoro met Trello!'
 slug: 'gtd-of-pomodoro-met-trello-'
 date: '2012-11-20 20:07'
 publish_date: '2012-11-20 20:07'
-category: ['Gtd Getting Things Done', 'Pomodoro Technique', 'Pomodoro', 'Trello', 'Development']
-tags: ['Gtd Getting Things Done', 'Pomodoro Technique', 'Pomodoro', 'Trello', 'Development']
+category: ['Gtd Getting Things Done', 'Pomodoro', 'Trello', 'Development']
+tags: ['Gtd Getting Things Done', 'Pomodoro', 'Trello', 'Development']
 ---
 Had ik het laatst nog over Wunderlist en of Evernote om te gebruiken bij GTD
 of de Pomodoro Technique. Nu is er een goede derde speler bij gekomen die met

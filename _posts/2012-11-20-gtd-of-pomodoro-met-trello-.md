@@ -1,12 +1,23 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Gtd Getting Things Done
+- Pomodoro
+- Trello
+- Development
+comments: 'true'
+date: 2012-11-20 20:07
 excerpt_separator: <!--more-->
-title: 'GTD of Pomodoro met Trello!'
-slug: 'gtd-of-pomodoro-met-trello-'
-date: '2012-11-20 20:07'
-publish_date: '2012-11-20 20:07'
-category: ['Gtd Getting Things Done', 'Pomodoro', 'Trello', 'Development']
-tags: ['Gtd Getting Things Done', 'Pomodoro', 'Trello', 'Development']
+layout: post
+publish_date: 2012-11-20 20:07
+slug: gtd-of-pomodoro-met-trello-
+tags:
+- Gtd Getting Things Done
+- Pomodoro
+- Trello
+- Development
+title: GTD of Pomodoro met Trello!
+
 ---
 Had ik het laatst nog over Wunderlist en of Evernote om te gebruiken bij GTD
 of de Pomodoro Technique. Nu is er een goede derde speler bij gekomen die met

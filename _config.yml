@@ -1,48 +1,26 @@
-title: vanderSluijs.nl
-email: theo@vandersluijs.nl
-description: >- # this means to ignore newlines until "baseurl:"
-  Theo van der Sluijs 'tvdsluijs' is een Nederlandse professionele Agile Servant Leader en Programmeur, die heeft gewerkt voor Bax-muziek en Glencore Agriculture. Als kind begon hij met het ontwikkelen van software op een Commodore 64.
-bio: >
-  Theo van der Sluijs 'tvdsluijs' is een Nederlandse professionele Agile Servant Leader en Programmeur.
-
-logo: /assets/svg/logo.svg
-logo_code: >
-  <svg xmlns="http://www.w3.org/2000/svg" class="svg_top_itheo" xmlns:xlink="http://www.w3.org/1999/xlink" style="isolation:isolate" viewBox="0 0 160 35" width="160" height="35"><defs><clipPath id="_clipPath_WSJFyO5XEY3QRhNi24LJAWLaA5wmZZyB"><rect width="320" height="70"/></clipPath></defs><g clip-path="url(#_clipPath_WSJFyO5XEY3QRhNi24LJAWLaA5wmZZyB)"><path d=" M 111.821 0.443 C 109.037 1.172 106.426 2.952 105.454 4.784 C 105.046 5.552 104.961 5.615 104.443 5.523 C 104.132 5.467 101.994 5.018 99.69 4.523 C 86.119 1.612 81.941 1.548 78.914 4.206 C 75.707 7.022 77.73 12.716 82.239 13.562 C 83.927 13.878 84.565 12.237 82.895 11.876 C 78.709 10.972 77.751 6.324 81.426 4.747 C 84.207 3.554 88.207 3.843 97.374 5.899 C 99.416 6.357 101.798 6.871 102.668 7.04 C 103.538 7.209 104.388 7.388 104.557 7.435 C 104.726 7.484 105.091 7.986 105.368 8.553 C 106.073 9.994 107.243 10.844 111.301 12.867 C 114.21 14.316 116.817 15.943 116.593 16.168 C 116.557 16.203 115.566 15.945 114.391 15.594 C 104.274 12.571 96.965 13.195 92.717 17.443 C 87.474 22.686 89.982 30.264 97.457 31.764 C 98.91 32.056 98.823 32.088 95.131 32.618 C 88.854 33.519 81.775 33.625 79.403 32.855 C 78.108 32.435 76.688 31.395 77.15 31.205 C 80.518 29.818 85.545 24.579 85.545 22.457 C 85.545 16.304 75.347 22.747 74.973 29.135 C 74.915 30.129 74.81 30.597 74.63 30.666 C 74.422 30.746 74.41 30.69 74.57 30.391 C 75.265 29.093 73.733 28.634 68.702 28.634 L 64.979 28.634 L 63.196 29.416 C 56.533 32.336 44.974 32.64 40.187 30.019 C 38.318 28.996 38.217 29.017 36.38 30.821 C 33.446 33.703 30.999 33.536 30.057 30.391 C 29.794 29.514 29.243 29.189 28.5 29.472 C 27.199 29.967 28.896 33.145 31.041 34.232 C 33.008 35.229 35.096 34.617 37.4 32.369 L 38.571 31.227 L 39.707 31.738 C 44.287 33.8 54.222 33.966 60.885 32.092 L 62.187 31.726 L 62.603 32.252 C 63.931 33.935 70.007 34.08 74.151 32.528 L 75.321 32.089 L 76.021 32.789 C 76.818 33.587 77.985 34.183 79.65 34.644 C 83.718 35.771 100.058 34.051 105.712 31.901 C 106.002 31.791 107.007 31.485 107.944 31.222 C 114.597 29.352 119.605 24.467 119.605 19.847 C 119.605 19.071 119.636 19.016 120.024 19.114 C 123.372 19.953 131.674 20.244 136.929 19.705 C 145.303 18.846 153.944 16.35 153.944 14.789 C 153.944 13.73 153.592 13.694 151.416 14.534 C 142.053 18.147 129.046 19.298 120.517 17.268 C 119.424 17.008 119.256 16.906 118.989 16.345 C 118.155 14.597 116.447 13.341 111.928 11.153 C 108.937 9.705 106.841 8.311 107.163 7.981 C 107.229 7.913 108.085 7.947 109.063 8.056 C 116.882 8.928 121.838 7.303 121.838 3.868 C 121.838 0.856 116.809 -0.864 111.821 0.443 Z  M 118.297 2.192 C 121.11 3.224 120.325 5.359 116.813 6.223 C 115.063 6.653 106.949 6.373 106.949 5.882 C 106.949 3.324 114.602 0.835 118.297 2.192 Z  M 6.357 5.943 C -0.543 7.496 -2.343 15.144 3.538 17.915 C 5.539 18.858 9.825 19.565 10.442 19.053 C 11.266 18.368 10.637 17.374 9.378 17.374 C 3.304 17.374 -0.082 13.127 3.243 9.68 C 5.305 7.544 9.135 7.039 16.216 7.972 C 20.685 8.561 23.602 9.323 34.957 12.866 C 49.053 17.264 59.893 17.604 65.17 13.814 C 66.765 12.669 67.968 10.18 67.612 8.762 C 67.364 7.775 65.818 7.944 65.816 8.959 C 65.802 15.633 52.094 16.406 34.381 10.732 C 25.053 7.745 21.868 6.909 17.147 6.211 C 13.567 5.682 8.119 5.546 6.357 5.943 Z  M 28.255 13.332 C 28.055 13.573 24.498 32.588 24.498 33.416 C 24.498 34.343 25.821 34.719 26.174 33.892 C 26.322 33.548 29.896 14.266 29.896 13.816 C 29.896 13.237 28.641 12.867 28.255 13.332 Z  M 108.717 16.039 C 110.715 16.466 117.576 18.47 117.828 18.702 C 117.94 18.804 117.927 19.319 117.794 20.101 C 115.885 31.24 91.798 34.575 91.782 23.702 C 91.774 17.695 99.693 14.112 108.717 16.039 Z  M 83.578 21.761 C 84.605 22.788 82.098 26.096 78.438 28.544 C 76.504 29.838 76.334 29.883 76.5 29.053 C 77.177 25.663 82.251 20.434 83.578 21.761 Z  M 72.884 30.511 L 74.274 30.855 L 72.914 31.281 C 70.133 32.152 66.273 32.32 64.649 31.641 C 61.764 30.436 68.727 29.48 72.884 30.511 Z " fill-rule="evenodd"/></g></svg>
-logo_width: 320
-logo_height: 70
-
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.vandersluijs.nl" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: vdsluijs
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-1497722-5
-domain_year: 1996
-defaultLang: nl
-
+# Site
+name: "van der Sluijs"
+title: "van der Sluijs"
+description: "To boldly go where no blog has gone before!"
+logo: "assets/images/logo.png"
+favicon: "assets/images/logo.png"
+baseurl: ""
+google_analytics: "UA-1497722-5"
+disqus: "vdsluijs"
+mailchimp-list: ""
+include: ["_pages"]
 permalink: /:title/
 
-menu:
-  -
-    url: /blog/
-    name: Blog
-  -
-    url: /over/
-    name: Over
-
-social:
-  linkedin: "tvandersluijs"
-  twitter: "tvdsluijs"
-  github: "tvdsluijs"
-  stackoverflow: "tvdsluijs"
-  email: "theo@vandersluijs.nl"
-  rss: ""
-
-# Build settings
-markdown: kramdown
+# Authors
+authors:
+  tvdsluijs:
+    name: Theo van der Sluijs
+    display_name: iTheo
+    gravatar: b40d3b7da056fcc44bf7792e4ed4bda3
+    email: theo@vandersluijs.nl
+    web: https://www.itheo.nl
+    twitter: https://twitter.com/tvdsluijs
+    description: "Theo van der Sluijs 'tvdsluijs' is a Dutch professional Agile Servant Leader and Programmer, who has worked for Bax music and Glencore Agriculture. As a kid, he started developing software on a Commodore 64."
 
 # Plugins
 plugins:
@@ -53,21 +31,52 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-coffeescript
+  - jekyll-redirect-from
 
-sass:
-  style: compressed
-
-include: ['_pages']
+#Timezone
 timezone: "Europe/Amsterdam"
 
-paginate: 4
-paginate_path: "blog/page:num/"
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: "/category/:name/"
 
-highlighter: rouge
+# Pagination
+paginate: 6
+paginate_path: /page:num/
 
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "" # efg. ca-pub-3412143450191416
+adsense-data-ad-slot: "" #eg. 1363087678
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+# Exclude
 exclude:
-  - CNAME
-  - Gemfile
+  - screenshot.png
+  - LICENSE.txt
+  - sample_posts
   - Gemfile.lock
-  - LICENSE
+  - Gemfile
   - README.md
+  - .Gruntfile.js
+  - .vscode
+  - node_modules
+  - scss
+  - css
+  - _drafts

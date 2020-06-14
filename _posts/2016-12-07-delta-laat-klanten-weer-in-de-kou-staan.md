@@ -1,55 +1,21 @@
 ---
-id: 3584
-title: Delta laat klanten weer in de kou staan
-date: 2016-12-07T22:02:40+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/?p=3584
-permalink: /2016/12/delta-laat-klanten-weer-in-de-kou-staan.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "391"
-dsq_thread_id:
-  - "5708280567"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/12/alle-pakketten_2-825x449.png
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2016-12-07 22:02:40+00:00
+dsq_thread_id:
+- '5708280567'
+excerpt_separator: <!--more-->
+hits:
+- '391'
+image: https://vandersluijs.resultants-e.nl/2016/12/alle-pakketten_2-825x449.png
+layout: post
+permalink: /2016/12/delta-laat-klanten-weer-in-de-kou-staan.html
 tags:
-  - Zeelandnet
-format: image
+- Zeelandnet
+title: Delta laat klanten weer in de kou staan
+
 ---
 > Dikke Delta Deal!
 

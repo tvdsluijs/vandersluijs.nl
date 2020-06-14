@@ -1,27 +1,15 @@
 ---
-id: 108
-title: Breng de productiviteit omhoog met creatieve werkplekken
-date: 2013-06-03T22:23:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/06/03/breng-de-productiviteit-omhoog-me/
-permalink: /2013/06/breng-de-productiviteit-omhoog-me.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2180163882858357571"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/06/breng-de-productiviteit-omhoog-met.html
-hits:
-  - "547"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2013-06-03 22:23:00+00:00
+hits:
+- '547'
+layout: post
+permalink: /2013/06/breng-de-productiviteit-omhoog-me.html
+title: Breng de productiviteit omhoog met creatieve werkplekken
+
 ---
 Een werkplek is een plek waar je zo&#8217;n 45 jaar, 47 weken per jaar, 5 dagen per week, 40 uur per week,  8 uur per dag doorbrengt. Dat is per leven gemiddeld zo&#8217;n 80.000 uur.
 

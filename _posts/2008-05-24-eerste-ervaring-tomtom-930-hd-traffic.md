@@ -1,29 +1,15 @@
 ---
-id: 515
-title: Eerste ervaring TomTom 930 HD Traffic
-date: 2008-05-24T00:30:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/05/24/eerste-ervaring-tomtom-930-hd-traffic/
-permalink: /2008/05/eerste-ervaring-tomtom-930-hd-traffic.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "197719245511613643"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/05/eerste-ervaring-tomtom-930-hd-traffic.html
-hits:
-  - "557"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-05-24 00:30:00+00:00
+hits:
+- '557'
+layout: post
+permalink: /2008/05/eerste-ervaring-tomtom-930-hd-traffic.html
+title: Eerste ervaring TomTom 930 HD Traffic
+
 ---
 De TomTom is binnen dus eindelijk testen.
 

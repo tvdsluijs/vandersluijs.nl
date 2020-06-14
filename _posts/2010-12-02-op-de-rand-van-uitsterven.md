@@ -1,27 +1,15 @@
 ---
-id: 258
-title: Op de rand van uitsterven.
-date: 2010-12-02T06:20:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/12/02/op-de-rand-van-uitsterven/
-permalink: /2010/12/op-de-rand-van-uitsterven.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6722693837333941528"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/12/op-de-rand-van-uitsterven.html
-hits:
-  - "1125"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2010-12-02 06:20:00+00:00
+hits:
+- '1125'
+layout: post
+permalink: /2010/12/op-de-rand-van-uitsterven.html
+title: Op de rand van uitsterven.
+
 ---
 Tja…. ik heb net naar de film “An Inconvenient Truth” zitten kijken. 
 

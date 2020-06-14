@@ -1,29 +1,17 @@
 ---
-id: 63
-title: 15 seconds of Google Fame!
-date: 2014-09-07T12:28:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/07/15-seconds-of-google-fame_7/
-permalink: /2014/09/15-seconds-of-google-fame_7.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "19023954531730601"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/15-seconds-of-google-fame_7.html
-hits:
-  - "1092"
-dsq_thread_id:
-  - "6021367159"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2014-09-07 12:28:00+00:00
+dsq_thread_id:
+- '6021367159'
+hits:
+- '1092'
+layout: post
+permalink: /2014/09/15-seconds-of-google-fame_7.html
+title: 15 seconds of Google Fame!
+
 ---
 Vorige week is de video live gegaan van Google die opgenomen is bij Bax-shop.
 

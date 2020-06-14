@@ -1,27 +1,15 @@
 ---
-id: 249
-title: Tumblr …. nou toch maar niet
-date: 2011-02-15T16:41:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/02/15/tumblr-nou-toch-maar-nie/
-permalink: /2011/02/tumblr-nou-toch-maar-nie.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "76348988226868586"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/02/tumblr-nou-toch-maar-niet.html
-hits:
-  - "940"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2011-02-15 16:41:00+00:00
+hits:
+- '940'
+layout: post
+permalink: /2011/02/tumblr-nou-toch-maar-nie.html
+title: "Tumblr \u2026. nou toch maar niet"
+
 ---
 Vorige week heb ik een Tumbrl.com account aangemaakt, met de bedoeling om daar mijn blog verder te zetten.
 

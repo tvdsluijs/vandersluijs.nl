@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-01-14 14:05
 excerpt_separator: <!--more-->
-title: 'New version Twitter Friends Module'
-slug: 'new-version-twitter-friends-module'
-date: '2010-01-14 14:05'
-publish_date: '2010-01-14 14:05'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-01-14 14:05
+slug: new-version-twitter-friends-module
+tags:
+- Coding
+title: New version Twitter Friends Module
+
 ---
 Today I release a new version of the Twitter Friends Module.  
   

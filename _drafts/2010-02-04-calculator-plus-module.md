@@ -6,7 +6,8 @@ slug: 'calculator-plus-module'
 date: '2010-02-04 11:44'
 publish_date: '2010-02-04 11:44'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*FsN-V48fiBF5FeR4.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*FsN-V48fiBF5FeR4.gif'
+  feature: 0*FsN-V48fiBF5FeR4.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

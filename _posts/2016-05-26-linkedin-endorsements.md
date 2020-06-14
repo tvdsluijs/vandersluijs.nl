@@ -1,17 +1,17 @@
 ---
-id: 2944
-title: 'Linkedin endorsements don&#8217;t mean jack! Part 3!'
-date: 2016-05-26T19:23:29+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://itheo.nl/?p=2083
-permalink: /2016/05/linkedin-endorsements.html
-hits:
-  - "129"
-dsq_thread_id:
-  - "5935828172"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2016-05-26 19:23:29+00:00
+dsq_thread_id:
+- '5935828172'
+hits:
+- '129'
+layout: post
+permalink: /2016/05/linkedin-endorsements.html
+title: Linkedin endorsements don&#8217;t mean jack! Part 3!
+
 ---
 So&#8230;I tried to write this article in Dutch, my mother tongue, but I couldn&#8217;t. I couldn&#8217;t find the words in dutch, but I could in english, so please bare with me and keep reading in english. This article is about Linkedin endorsements and what a sham they are!<!--more-->
 

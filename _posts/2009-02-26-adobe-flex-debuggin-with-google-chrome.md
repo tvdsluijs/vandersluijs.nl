@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-02-26 19:50
 excerpt_separator: <!--more-->
-title: 'Adobe Flex Debuggin with Google Chrome'
-slug: 'adobe-flex-debuggin-with-google-chrome'
-date: '2009-02-26 19:50'
-publish_date: '2009-02-26 19:50'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-02-26 19:50
+slug: adobe-flex-debuggin-with-google-chrome
+tags:
+- Coding
+title: Adobe Flex Debuggin with Google Chrome
+
 ---
 So you wanna use your Google Chrome Browser to debug Adobe Flex Web
 Applciations ?  

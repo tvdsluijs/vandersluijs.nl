@@ -1,29 +1,15 @@
 ---
-id: 237
-title: '#Eduvision heeft het begrepen!'
-date: 2011-05-28T03:26:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/05/28/eduvision-heeft-het-begrepen/
-permalink: /2011/05/eduvision-heeft-het-begrepen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2096900661039099541"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/05/eduvision-heeft-het-begrepen.html
-hits:
-  - "1528"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-05-28 03:26:00+00:00
+hits:
+- '1528'
+layout: post
+permalink: /2011/05/eduvision-heeft-het-begrepen.html
+title: '#Eduvision heeft het begrepen!'
+
 ---
 Voor de mensen die het nog niet weten… even met de deur in huis vallen maar……. per 1 juli begin ik bij mijn nieuwe werkgever (bij de bax-shop.nl) als Software Development Manager.
 

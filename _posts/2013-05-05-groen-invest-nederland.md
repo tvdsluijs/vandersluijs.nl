@@ -1,27 +1,15 @@
 ---
-id: 126
-title: Groen Invest Nederland
-date: 2013-05-05T12:23:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/05/05/groen-invest-nederland/
-permalink: /2013/05/groen-invest-nederland.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1502075616256890614"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/05/groen-invest-nederland.html
-hits:
-  - "1228"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-05-05 12:23:00+00:00
+hits:
+- '1228'
+layout: post
+permalink: /2013/05/groen-invest-nederland.html
+title: Groen Invest Nederland
+
 ---
 Bomen ….. Ja bomen.
 

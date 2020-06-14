@@ -1,29 +1,17 @@
 ---
-id: 293
-title: 'You&#39;ve got a bloody cheek !'
-date: 2010-05-04T19:12:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/05/04/you-got-bloody-cheek/
-permalink: /2010/05/you-got-bloody-cheek.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6759386295577637332"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/05/you-got-bloody-cheek.html
-hits:
-  - "739"
-dsq_thread_id:
-  - "5817447169"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2010-05-04 19:12:00+00:00
+dsq_thread_id:
+- '5817447169'
+hits:
+- '739'
+layout: post
+permalink: /2010/05/you-got-bloody-cheek.html
+title: You&#39;ve got a bloody cheek !
+
 ---
 Zat ik laatst naar de nieuwste James Bond te kijken. (Casino Royal, net gekocht op DvD)
 

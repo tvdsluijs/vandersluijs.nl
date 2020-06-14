@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-01-19 08:19
 excerpt_separator: <!--more-->
-title: 'RIAForge, Open Source projects built on Adobe technology.'
-slug: 'riaforge-open-source-projects-built-on-adobe-technology-'
-date: '2009-01-19 08:19'
-publish_date: '2009-01-19 08:19'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-01-19 08:19
+slug: riaforge-open-source-projects-built-on-adobe-technology-
+tags:
+- Coding
+title: RIAForge, Open Source projects built on Adobe technology.
+
 ---
 Yesterday I found a great site for Open Source projects built on Adobe
 technologys like AIR, Flex, ColdFusion eg.  

@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-04 10:32
 excerpt_separator: <!--more-->
-title: 'Body Mass Index (BMI) Calculator'
-slug: 'body-mass-index-bmi-calculator'
-date: '2010-02-04 10:32'
-publish_date: '2010-02-04 10:32'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*hSn5VK7mJtQ76kQp.gif'
-  feature: 0*hSn5VK7mJtQ76kQp.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*hSn5VK7mJtQ76kQp.gif
+layout: post
+publish_date: 2010-02-04 10:32
+slug: body-mass-index-bmi-calculator
+tags:
+- Coding
+title: Body Mass Index (BMI) Calculator
+
 ---
 This is a nice Body Mass Index (BMI) Calculator Module you can use on your
 Joomla! 1.5 site.

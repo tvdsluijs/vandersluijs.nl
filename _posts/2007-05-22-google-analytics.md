@@ -1,30 +1,16 @@
 ---
-id: 548
-title: Google Analytics
-date: 2007-05-22T14:22:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/05/22/google-analytics/
-permalink: /2007/05/google-analytics.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1543468985868521318"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/05/google-analytics.html
-hits:
-  - "911"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-05-22 14:22:00+00:00
+excerpt_separator: <!--more-->
+hits:
+- '911'
+layout: post
+permalink: /2007/05/google-analytics.html
+title: Google Analytics
+
 ---
 Waarom zou je je eigen statistieken bijhouden op je website als een ander dat beter kan.
 

@@ -1,58 +1,19 @@
 ---
-id: 30
-title: Webshop hotfix schijf van vijf
-date: 2014-11-27T20:58:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/11/27/webshop-hotfix-schijf-van-vijf/
-permalink: /2014/11/webshop-hotfix-schijf-van-vijf.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "643637469944320661"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/11/webshop-hotfix-schijf-van-vijf.html
-blogger_thumbnail:
-  - https://farm8.staticflickr.com/7564/15893676895_f2f4bb6db5_c.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "644"
-dsq_thread_id:
-  - "5761560170"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2014/11/15893676895_f2f4bb6db5_c.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
-  - Tech
+- Lifestyle
+- Tech
+comments: 'true'
+date: 2014-11-27 20:58:00+00:00
+dsq_thread_id:
+- '5761560170'
+hits:
+- '644'
+image: https://vandersluijs.resultants-e.nl/2014/11/15893676895_f2f4bb6db5_c.jpg
+layout: post
+permalink: /2014/11/webshop-hotfix-schijf-van-vijf.html
+title: Webshop hotfix schijf van vijf
+
 ---
 Hotfixes! Soms is het dagelijkse kost, soms komt het een tijdje niet voor. Maar hotfixes zullen altijd de dagelijkse ontwikkel flow verstoren. In veel organisaties is het niet duidelijk wat een hotfix nu precies is, of beter gezegd wat zou nu wel en wat zou nu niet een hotfix zijn.
 

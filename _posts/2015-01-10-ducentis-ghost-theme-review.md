@@ -1,55 +1,17 @@
 ---
-id: 28
-title: Ducentis Ghost theme review
-date: 2015-01-10T08:05:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/01/10/ducentis-ghost-theme-review/
-permalink: /2015/01/ducentis-ghost-theme-review.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "9111329479724925219"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/01/ducentis-ghost-theme-review.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "1544"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6046728376"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-01-10 08:05:00+00:00
+dsq_thread_id:
+- '6046728376'
+hits:
+- '1544'
+layout: post
+permalink: /2015/01/ducentis-ghost-theme-review.html
+title: Ducentis Ghost theme review
+
 ---
 Al een tijdje ben ik op zoek naar een beter thema voor mijn Ghost.org blog.
 

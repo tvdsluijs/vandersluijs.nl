@@ -1,30 +1,16 @@
 ---
-id: 542
-title: Vista cannot connect to XP printer share
-date: 2007-06-29T11:33:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/06/29/vista-cannot-connect-to-xp-printer-share/
-permalink: /2007/06/vista-cannot-connect-to-xp-printer-share.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4018925463263873699"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/06/vista-cannot-connect-to-xp-printer-share.html
-hits:
-  - "796"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-06-29 11:33:00+00:00
+excerpt_separator: <!--more-->
+hits:
+- '796'
+layout: post
+permalink: /2007/06/vista-cannot-connect-to-xp-printer-share.html
+title: Vista cannot connect to XP printer share
+
 ---
 Well&#8230;. Vista&#8230; I have it on my new Dell pc.   
 It looks great, but Windows ME also looked great. 

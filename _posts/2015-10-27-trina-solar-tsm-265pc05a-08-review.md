@@ -1,48 +1,21 @@
 ---
-id: 1598
-title: Trina Solar TSM-265PC05A.08 review
-date: 2015-10-27T15:17:52+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1598
-permalink: /2015/10/trina-solar-tsm-265pc05a-08-review.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "1429"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700415805"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-825x249.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-10-27 15:17:52+00:00
+dsq_thread_id:
+- '5700415805'
+hits:
+- '1429'
+image: https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-825x249.jpg
+layout: post
+permalink: /2015/10/trina-solar-tsm-265pc05a-08-review.html
 tags:
-  - Zonne-energie
-  - Zonnepanelen
+- Zonne-energie
+- Zonnepanelen
+title: Trina Solar TSM-265PC05A.08 review
+
 ---
 Geld over? Investeer dan niet in een spaarrekening maar in goede zonnepanelen! Zoals je in mijn andere artikel hebt kunnen lezen over de SMA omvormer is het op dit moment het beste om geld in je huis of zonnepanelen te steken.
 

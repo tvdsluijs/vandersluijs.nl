@@ -1,29 +1,15 @@
 ---
-id: 114
-title: 'Van mij mag het iets minder &quot;Socialer&quot;'
-date: 2013-05-29T22:21:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/05/29/van-mij-mag-het-iets-minder/
-permalink: /2013/05/van-mij-mag-het-iets-minder.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6090367604164371882"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/05/van-mij-mag-het-iets-minder.html
-blogger_thumbnail:
-  - http://blog.vandersluijs.nl/wp-includes/js/tinymce/plugins/wordpress/img/trans.gif
-hits:
-  - "437"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-05-29 22:21:00+00:00
+hits:
+- '437'
+layout: post
+permalink: /2013/05/van-mij-mag-het-iets-minder.html
+title: Van mij mag het iets minder &quot;Socialer&quot;
+
 ---
 De wereld wordt steeds socialer. Je kan eigenlijk niets meer doen zonder de hele wereld er over te vertellen. Oftewel je bent sociaal naar al je familie en vrienden, en vaak ook naar collega&#8217;s. Maar dit sociale aspect heeft in mijn ogen ook een keerzijde.
 

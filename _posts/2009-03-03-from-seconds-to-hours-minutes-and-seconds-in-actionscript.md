@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-03-03 19:50
 excerpt_separator: <!--more-->
-title: 'From Seconds to Hours, Minutes and Seconds in Actionscript'
-slug: 'from-seconds-to-hours-minutes-and-seconds-in-actionscript'
-date: '2009-03-03 19:50'
-publish_date: '2009-03-03 19:50'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-03-03 19:50
+slug: from-seconds-to-hours-minutes-and-seconds-in-actionscript
+tags:
+- Coding
+title: From Seconds to Hours, Minutes and Seconds in Actionscript
+
 ---
 Ever wanted to calculate seconds back to Hours:Minutes:Seconds so that 5854
 seconds becomes 01:37:34 ? You can do it with the following AS3 script

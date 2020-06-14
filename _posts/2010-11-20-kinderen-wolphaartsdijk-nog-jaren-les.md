@@ -1,27 +1,15 @@
 ---
-id: 262
-title: Kinderen Wolphaartsdijk nog jaren les in noodgebouwen.
-date: 2010-11-20T00:01:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/11/20/kinderen-wolphaartsdijk-nog-jaren-les/
-permalink: /2010/11/kinderen-wolphaartsdijk-nog-jaren-les.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2643582162839421095"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/11/kinderen-wolphaartsdijk-nog-jaren-les.html
-hits:
-  - "1756"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2010-11-20 00:01:00+00:00
+hits:
+- '1756'
+layout: post
+permalink: /2010/11/kinderen-wolphaartsdijk-nog-jaren-les.html
+title: Kinderen Wolphaartsdijk nog jaren les in noodgebouwen.
+
 ---
 Belachelijk is het.
 

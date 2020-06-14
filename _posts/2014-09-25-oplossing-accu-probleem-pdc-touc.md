@@ -1,47 +1,19 @@
 ---
-id: 36
-title: Oplossing accu probleem PDC Touch
-date: 2014-09-25T09:02:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/25/oplossing-accu-probleem-pdc-touc/
-permalink: /2014/09/oplossing-accu-probleem-pdc-touc.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5871689675931672702"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/oplossing-accu-probleem-pdc-touch.html
-blogger_thumbnail:
-  - /images/2014/Sep/PDC_Touch.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "1288"
-dsq_thread_id:
-  - "5700415760"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2014-09-25 09:02:00+00:00
+dsq_thread_id:
+- '5700415760'
+hits:
+- '1288'
+layout: post
+permalink: /2014/09/oplossing-accu-probleem-pdc-touc.html
 tags:
-  - Console
+- Console
+title: Oplossing accu probleem PDC Touch
+
 ---
 Ik had net mijn kinderen een Conny PDC Touch gegeven toen ik las over de problemen die het ding had.
 

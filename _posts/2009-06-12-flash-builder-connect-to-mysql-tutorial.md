@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-06-12 06:34
 excerpt_separator: <!--more-->
-title: 'Flash Builder Connect to MySQL Tutorial'
-slug: 'flash-builder-connect-to-mysql-tutorial'
-date: '2009-06-12 06:34'
-publish_date: '2009-06-12 06:34'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-06-12 06:34
+slug: flash-builder-connect-to-mysql-tutorial
+tags:
+- Coding
+title: Flash Builder Connect to MySQL Tutorial
+
 ---
 In my last post I talked about the connection problems I had with Adobe Flash
 Builder and MySQL. Some feed readers of mine asked me if there was a nice

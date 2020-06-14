@@ -1,31 +1,17 @@
 ---
-id: 35
-title: MongoDB met PHP voorbeeld
-date: 2014-10-12T15:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/10/12/mongodb-met-php-voorbeeld/
-permalink: /2014/10/mongodb-met-php-voorbeeld.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2322832008233921570"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/10/mongodb-met-php-voorbeeld.html
-hits:
-  - "635"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5863598487"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-10-12 15:00:00+00:00
+dsq_thread_id:
+- '5863598487'
+hits:
+- '635'
+layout: post
+permalink: /2014/10/mongodb-met-php-voorbeeld.html
+title: MongoDB met PHP voorbeeld
+
 ---
 Toen ik een jaar of 4 geleden op het PF Congres over MongoDB hoorde was ik nogal sceptisch.
 

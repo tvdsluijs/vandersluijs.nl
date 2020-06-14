@@ -1,21 +1,21 @@
 ---
-layout: post
-title: Smartwatches en Sportwatches door de jaren heen
-author: Theo van der Sluijs
-slug: /2018/07/smartwatches-en-sportwatches-door-de-jaren-heen
-permalink: /2018/07/smartwatches-en-sportwatches-door-de-jaren-heen
+author: tvdsluijs
+categories:
+- Tech
+- Lifestyle
+comments: 'true'
 date: 2018-07-13
-publish_date: 2018-07-13
-image:
-  path: 'https://www.vandersluijs.nl/images/images/garmin-forerunner-645-tommy-hilfiger_0.jpg'
-  feature: garmin-forerunner-645-tommy-hilfiger_0.jpg'
-  credit: 
-  creditlink: 
-thumbnail:   'https://www.vandersluijs.nl/images/images/garmin-forerunner-645-tommy-hilfiger_0.jpg'
-categories: ['Tech', 'Lifestyle']
-tags: ['Smartwatch', 'Sportwatch']
-comments: true
 excerpt_separator: <!--more-->
+image: https://www.vandersluijs.nl/images/images/garmin-forerunner-645-tommy-hilfiger_0.jpg
+layout: post
+permalink: /2018/07/smartwatches-en-sportwatches-door-de-jaren-heen
+publish_date: 2018-07-13
+slug: /2018/07/smartwatches-en-sportwatches-door-de-jaren-heen
+tags:
+- Smartwatch
+- Sportwatch
+title: Smartwatches en Sportwatches door de jaren heen
+
 ---
 <img style="float: left;height:150px" src="/images/casio.jpg">Smartwatches of Sport-smart-watchers, ik heb er al redelijk wat gehad. Ooit begon ik met een Casio Databank CD-40, maar dan heb ik het wel over 1986 / 1987 meer dan 30 jaar geleden. Maar ik had hem en tijdens mijn toetsen, waarbij het in-programmeren er van net zoveel tijd koste als het leren van de stof, heeft het me wel een paar keer geholpen.
 <!--more-->

@@ -6,7 +6,8 @@ slug: 'flex-textarea-popup'
 date: '2009-08-13 08:13'
 publish_date: '2009-08-13 08:13'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*osOpnjnAIOLmd4ek.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*osOpnjnAIOLmd4ek.gif'
+  feature: 0*osOpnjnAIOLmd4ek.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

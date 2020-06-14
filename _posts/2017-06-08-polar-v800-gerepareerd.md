@@ -1,21 +1,19 @@
 ---
-id: 4346
-title: Polar V800 gerepareerd
-date: 2017-06-08T07:00:36+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl/?p=4346
-permalink: /2017/06/polar-v800-gerepareerd.html
-hits:
-  - "327"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_1-e1496907732569-825x399.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2017-06-08 07:00:36+00:00
+hits:
+- '327'
+image: https://vandersluijs.resultants-e.nl/2017/06/polar-v800_-_1-e1496907732569-825x399.jpg
+layout: post
+permalink: /2017/06/polar-v800-gerepareerd.html
 tags:
-  - Polar
-  - v800
-format: image
+- Polar
+- v800
+title: Polar V800 gerepareerd
+
 ---
 Plots was hij kapot! Mijn Polar V800 had een witte waas op het scherm&#8230; vocht! En je weet wat vocht doet met de electronica! Dus mail de ik de Polar helpdesk en die verwezen me door naar het service center. Ik stuurde na een kort formulier mijn polar V800 op en wat denk je&#8230; na 2 weken kreeg ik mijn Polar V800 gerepareerd terug&#8230; althans&#8230; dat dacht ik!
 <!--more-->

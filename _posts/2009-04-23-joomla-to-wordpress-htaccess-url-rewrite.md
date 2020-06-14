@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-04-23 12:00
 excerpt_separator: <!--more-->
-title: 'Joomla! to Wordpress htaccess url rewrite'
-slug: 'joomla-to-wordpress-htaccess-url-rewrite'
-date: '2009-04-23 12:00'
-publish_date: '2009-04-23 12:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-04-23 12:00
+slug: joomla-to-wordpress-htaccess-url-rewrite
+tags:
+- Coding
+title: Joomla! to Wordpress htaccess url rewrite
+
 ---
 Well, one of the main problems for me to go from joomla! to wordpress were my
 SEF Urls.  

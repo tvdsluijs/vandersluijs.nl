@@ -1,20 +1,21 @@
 ---
-layout: post
-
-title: 'New job! New Challenge!'
-slug: 'new-job-new-challenge-'
-excerpt_separator: < !--more -->
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
 date: '2017-08-28 09:16:43.168000+00:00'
+excerpt_separator: < !--more -->
+image: /images/1*2L9guCqnZBpwm4GvDEPdng.jpeg
+layout: post
 publish_date: '2017-08-28 09:16:43.168000+00:00'
-image:
-  path: '/images/1*2L9guCqnZBpwm4GvDEPdng.jpeg'
-  feature: '1*2L9guCqnZBpwm4GvDEPdng.jpeg'
-category: ['Tech']
-tags: 
- - 'MacBook'
- - 'Chromebook'
- - 'Tech'
- - 'Development'
+slug: new-job-new-challenge-
+tags:
+- MacBook
+- Chromebook
+- Tech
+- Development
+title: New job! New Challenge!
+
 ---
 From Macbook to Chromebook
 

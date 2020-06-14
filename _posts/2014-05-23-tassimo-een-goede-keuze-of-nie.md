@@ -1,31 +1,17 @@
 ---
-id: 66
-title: Tassimo een goede keuze, of niet?
-date: 2014-05-23T21:25:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/05/23/tassimo-een-goede-keuze-of-nie/
-permalink: /2014/05/tassimo-een-goede-keuze-of-nie.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "600509183958736162"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/05/tassimo-een-goede-keuze-of-niet.html
-blogger_thumbnail:
-  - /images/2014/May/IMG_0673.JPG
-hits:
-  - "1519"
-dsq_thread_id:
-  - "5734440936"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2014-05-23 21:25:00+00:00
+dsq_thread_id:
+- '5734440936'
+hits:
+- '1519'
+layout: post
+permalink: /2014/05/tassimo-een-goede-keuze-of-nie.html
+title: Tassimo een goede keuze, of niet?
+
 ---
 ![Tassimo](https://vandersluijs.resultants-e.nl/2014/May/IMG_0673.JPG)
 

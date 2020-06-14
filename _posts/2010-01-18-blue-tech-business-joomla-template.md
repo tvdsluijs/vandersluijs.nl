@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-01-18 20:35
 excerpt_separator: <!--more-->
-title: 'Blue Tech Business Joomla! Template'
-slug: 'blue-tech-business-joomla-template'
-date: '2010-01-18 20:35'
-publish_date: '2010-01-18 20:35'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-01-18 20:35
+slug: blue-tech-business-joomla-template
+tags:
+- Coding
+title: Blue Tech Business Joomla! Template
+
 ---
 Blue Tech Business Joomla! Template.  
   

@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-12-25 11:29
 excerpt_separator: <!--more-->
-title: 'Flex vervang / replacer'
-slug: 'flex-vervang-replacer'
-date: '2008-12-25 11:29'
-publish_date: '2008-12-25 11:29'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-12-25 11:29
+slug: flex-vervang-replacer
+tags:
+- Coding
+title: Flex vervang / replacer
+
 ---
 Heb je dat ook wel eens ? Dat je in een string iets wilt wijzigen in Adobe
 Flex en Actionscript maar … hoe ?  

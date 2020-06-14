@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-06-15 11:00
 excerpt_separator: <!--more-->
-title: 'Flex Original value check'
-slug: 'flex-original-value-check'
-date: '2009-06-15 11:00'
-publish_date: '2009-06-15 11:00'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*pvzm8qD7iWIRXhmP.gif'
-  feature: 0*pvzm8qD7iWIRXhmP.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*pvzm8qD7iWIRXhmP.gif
+layout: post
+publish_date: 2009-06-15 11:00
+slug: flex-original-value-check
+tags:
+- Coding
+title: Flex Original value check
+
 ---
 For a small project for [NL4B](http://www.nl4b.com/ "NL for Business") I
 needed to have a org valau checker for Datefield, TextArea and Inputfield.  

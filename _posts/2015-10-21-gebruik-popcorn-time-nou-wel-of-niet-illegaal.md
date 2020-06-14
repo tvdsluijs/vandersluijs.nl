@@ -1,43 +1,18 @@
 ---
-id: 1552
-title: Gebruik popcorn time nou wel of niet illegaal
-date: 2015-10-21T11:13:52+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1552
-permalink: /2015/10/gebruik-popcorn-time-nou-wel-of-niet-illegaal.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "722"
-dsq_thread_id:
-  - "5700416160"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/10/popcorn_time_wallpaper____blue_space__by_chrisfr06-d8g5x2a-e1445404373485.png
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2015-10-21 11:13:52+00:00
+dsq_thread_id:
+- '5700416160'
+hits:
+- '722'
+image: https://vandersluijs.resultants-e.nl/2015/10/popcorn_time_wallpaper____blue_space__by_chrisfr06-d8g5x2a-e1445404373485.png
+layout: post
+permalink: /2015/10/gebruik-popcorn-time-nou-wel-of-niet-illegaal.html
+title: Gebruik popcorn time nou wel of niet illegaal
+
 ---
 Van de week had ik een discussie op internet met iemand of het gebruik (en dan met name het verspreiden van films) van popcorn time illegaal was.
 

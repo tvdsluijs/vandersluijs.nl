@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-03-26 08:47
 excerpt_separator: <!--more-->
-title: 'Its alive, Alive, ALIVEPDF'
-slug: 'it-s-alive-alive-alivepdf'
-date: '2009-03-26 08:47'
-publish_date: '2009-03-26 08:47'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-03-26 08:47
+slug: it-s-alive-alive-alivepdf
+tags:
+- Coding
+title: Its alive, Alive, ALIVEPDF
+
 ---
 Well, if you want to create pdf from adobe flex or adobe air, you could buy a
 Adobe LiveCycle Data Services copy but you could also try the same thing with

@@ -1,43 +1,18 @@
 ---
-id: 1471
-title: Facebook, de ondergang van internet!
-date: 2015-09-27T10:07:52+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1471
-permalink: /2015/09/facebook-de-ondergang-van-internet.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "720"
-dsq_thread_id:
-  - "5700415758"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/09/internet_not_found-e1443348362881.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2015-09-27 10:07:52+00:00
+dsq_thread_id:
+- '5700415758'
+hits:
+- '720'
+image: https://vandersluijs.resultants-e.nl/2015/09/internet_not_found-e1443348362881.jpg
+layout: post
+permalink: /2015/09/facebook-de-ondergang-van-internet.html
+title: Facebook, de ondergang van internet!
+
 ---
 Het was er op wachten natuurlijk maar facebook probeert de bezoeker nu echt op facebook te laten blijven. Facebook heeft gisteren namelijk zijn Notes functionaliteit afgestoft en er een blog functionaliteit.
 

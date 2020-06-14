@@ -1,59 +1,18 @@
 ---
-id: 2709
-title: 'Plaats je Blog foto&#8217;s buiten je site via Amazon S3, Cloudfront of Flickr'
-date: 2015-02-18T20:58:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/02/18/plaats-je-blog-fotos-buiten-je-site-via/
-permalink: /2015/02/plaats-je-blog-fotos-buiten-je-site-via.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4584807528244316414"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/02/plaats-je-blog-fotos-buiten-je-site-via.html
-blogger_thumbnail:
-  - http://2.bp.blogspot.com/-8o8GUg2j-sU/VOT1-6f6rhI/AAAAAAABScU/rIJXoTrGIbE/s1600/1424312906_blog_compose.png
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "627"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5853232214"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/02/1424312906_blog_compose.png
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2015-02-18 20:58:00+00:00
+dsq_thread_id:
+- '5853232214'
+hits:
+- '627'
+image: https://vandersluijs.resultants-e.nl/2015/02/1424312906_blog_compose.png
+layout: post
+permalink: /2015/02/plaats-je-blog-fotos-buiten-je-site-via.html
+title: Plaats je Blog foto&#8217;s buiten je site via Amazon S3, Cloudfront of Flickr
+
 ---
 <div class="separator" style="clear: both; text-align: left;">
   WordPress, Blogger, Ghost.org, Tumblr, SquareSpace, het zijn stuk voor stuk prima sites waar je je blog kan plaatsen. Je kan met sommige op je eigen server een blog beginnen maar ze bieden ook allemaal de optie om het bij hun in de cloud te doen.<br /> Hoe dan ook, services genoeg om je site / blog te starten! Maar pas op met plaatjes en foto&#8217;s!!<!--more--></p> 

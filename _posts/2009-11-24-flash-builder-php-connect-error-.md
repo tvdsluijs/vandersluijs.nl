@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-24 12:25
 excerpt_separator: <!--more-->
-title: 'Flash Builder php connect error.'
-slug: 'flash-builder-php-connect-error-'
-date: '2009-11-24 12:25'
-publish_date: '2009-11-24 12:25'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-11-24 12:25
+slug: flash-builder-php-connect-error-
+tags:
+- Coding
+title: Flash Builder php connect error.
+
 ---
 Do you get a connection error in Flash Builder when connecting to a MySQL
 database with PhP and Zend ?  

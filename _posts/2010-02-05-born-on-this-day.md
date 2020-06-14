@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-05 11:59
 excerpt_separator: <!--more-->
-title: 'Born on this Day'
-slug: 'born-on-this-day'
-date: '2010-02-05 11:59'
-publish_date: '2010-02-05 11:59'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*fe8TCm4tiaojXS9_.gif'
-  feature: 0*fe8TCm4tiaojXS9_.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*fe8TCm4tiaojXS9_.gif
+layout: post
+publish_date: 2010-02-05 11:59
+slug: born-on-this-day
+tags:
+- Coding
+title: Born on this Day
+
 ---
 Like to display a Born on this day list on your Joomla! site ?  
   

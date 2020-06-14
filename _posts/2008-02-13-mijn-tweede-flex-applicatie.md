@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-02-13 06:00
 excerpt_separator: <!--more-->
-title: 'Mijn tweede flex applicatie'
-slug: 'mijn-tweede-flex-applicatie'
-date: '2008-02-13 06:00'
-publish_date: '2008-02-13 06:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-02-13 06:00
+slug: mijn-tweede-flex-applicatie
+tags:
+- Coding
+title: Mijn tweede flex applicatie
+
 ---
 Nou, ik heb zojuist een tweede Adobe Flex applicatie gemaakt.  
   

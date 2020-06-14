@@ -1,29 +1,15 @@
 ---
-id: 83
-title: 2014, een nieuw jaar vol nieuwe uitdagingen!
-date: 2014-01-01T09:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/01/01/2014-een-nieuw-jaar-vol-nieuwe/
-permalink: /2014/01/2014-een-nieuw-jaar-vol-nieuwe.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4416681339788917393"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/01/2014-een-nieuw-jaar-vol-nieuwe.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2014/01/11178388835_b7d56ea6c9_m.jpg
-hits:
-  - "952"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2014-01-01 09:00:00+00:00
+hits:
+- '952'
+layout: post
+permalink: /2014/01/2014-een-nieuw-jaar-vol-nieuwe.html
+title: 2014, een nieuw jaar vol nieuwe uitdagingen!
+
 ---
 <table cellpadding="0" cellspacing="0" style="float: left; margin-right: 1em;">
   <tr>

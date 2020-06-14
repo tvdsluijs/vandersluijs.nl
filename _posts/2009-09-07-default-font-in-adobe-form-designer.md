@@ -1,31 +1,17 @@
 ---
-id: 391
-title: Default Font in Adobe Form Designer
-date: 2009-09-07T07:39:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/09/07/default-font-in-adobe-form-designer/
-permalink: /2009/09/default-font-in-adobe-form-designer.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3918594577602463708"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/09/default-font-in-adobe-form-designer.html
-hits:
-  - "522"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5818728350"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-09-07 07:39:00+00:00
+dsq_thread_id:
+- '5818728350'
+hits:
+- '522'
+layout: post
+permalink: /2009/09/default-font-in-adobe-form-designer.html
+title: Default Font in Adobe Form Designer
+
 ---
 I see a lot of questions on the web about setting a default font in Adobe’s Form Designer. Like this one: 
 

@@ -1,27 +1,15 @@
 ---
-id: 132
-title: Basis Zorgverzekering
-date: 2013-03-01T20:01:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/03/01/basis-zorgverzekering/
-permalink: /2013/03/basis-zorgverzekering.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6529063855153719625"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/03/basis-zorgverzekering.html
-hits:
-  - "1198"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2013-03-01 20:01:00+00:00
+hits:
+- '1198'
+layout: post
+permalink: /2013/03/basis-zorgverzekering.html
+title: Basis Zorgverzekering
+
 ---
 Tja…..
 

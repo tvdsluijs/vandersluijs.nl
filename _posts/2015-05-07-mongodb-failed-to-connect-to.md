@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
+date: 2015-05-07 20:14
 excerpt_separator: < !--more -->
-title: 'Mongodb: Failed to connect to 127.0.0.1:27017, reason: errno:111 Connection refused'
-slug: 'mongodb-failed-to-connect-to'
-date: '2015-05-07 20:14'
-publish_date: '2015-05-07 20:14'
-category: ['Tech']
-tags: ['Support', 'Mongodb']
+layout: post
+publish_date: 2015-05-07 20:14
+slug: mongodb-failed-to-connect-to
+tags:
+- Support
+- Mongodb
+title: 'Mongodb: Failed to connect to 127.0.0.1:27017, reason: errno:111 Connection
+  refused'
+
 ---
 # Mongodb: Failed to connect to 127.0.0.1:27017, reason: errno:111 Connection
 refused

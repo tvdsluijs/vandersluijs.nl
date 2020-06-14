@@ -1,29 +1,15 @@
 ---
-id: 471
-title: The Chronicles of Spellborn Beta Tester
-date: 2008-11-19T12:24:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/11/19/the-chronicles-of-spellborn-beta-tester/
-permalink: /2008/11/the-chronicles-of-spellborn-beta-tester.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7947289983043394117"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/11/the-chronicles-of-spellborn-beta-tester.html
-hits:
-  - "482"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-11-19 12:24:00+00:00
+hits:
+- '482'
+layout: post
+permalink: /2008/11/the-chronicles-of-spellborn-beta-tester.html
+title: The Chronicles of Spellborn Beta Tester
+
 ---
 Yesterday I got a mail from <a href="http://www.tcos.com/" target="_blank">The Chronicles of Spellborn</a> Development Team.
 

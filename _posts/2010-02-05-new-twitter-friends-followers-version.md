@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-05 05:52
 excerpt_separator: <!--more-->
-title: 'New Twitter Friends Followers version'
-slug: 'new-twitter-friends-followers-version'
-date: '2010-02-05 05:52'
-publish_date: '2010-02-05 05:52'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-02-05 05:52
+slug: new-twitter-friends-followers-version
+tags:
+- Coding
+title: New Twitter Friends Followers version
+
 ---
 Today I have released version 2.0 for my Twitter Friends and Twitter Followers
 Joomla! 1.5 Modules. I have removed some minor bugs and most of all I speeded

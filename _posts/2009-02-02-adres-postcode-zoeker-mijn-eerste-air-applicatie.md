@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-02-02 15:47
 excerpt_separator: <!--more-->
-title: 'Adres/Postcode Zoeker, mijn eerste Air applicatie'
-slug: 'adres-postcode-zoeker-mijn-eerste-air-applicatie'
-date: '2009-02-02 15:47'
-publish_date: '2009-02-02 15:47'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-02-02 15:47
+slug: adres-postcode-zoeker-mijn-eerste-air-applicatie
+tags:
+- Coding
+title: Adres/Postcode Zoeker, mijn eerste Air applicatie
+
 ---
 Ik programmeer al een tijdje in Adobe Flex voor mijn werk maar ook als hobby.  
   

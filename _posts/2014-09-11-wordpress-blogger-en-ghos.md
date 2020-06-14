@@ -1,29 +1,15 @@
 ---
-id: 55
-title: WordPress, blogger en Ghost
-date: 2014-09-11T20:01:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/wordpress-blogger-en-ghos/
-permalink: /2014/09/wordpress-blogger-en-ghos.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8071812170283730257"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/wordpress-blogger-en-ghost.html
-hits:
-  - "752"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 20:01:00+00:00
+hits:
+- '752'
+layout: post
+permalink: /2014/09/wordpress-blogger-en-ghos.html
+title: WordPress, blogger en Ghost
+
 ---
 Ik heb al veel blogs geschreven in diverse Content Management Systemen (CMS), ik heb het lang lang lang lang lang geleden in html gedaan via diverse zelf gemaakte systemen in ASP Classic en PHP.
 

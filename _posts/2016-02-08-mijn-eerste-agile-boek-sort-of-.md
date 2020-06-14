@@ -1,17 +1,18 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: 'Mijn eerste Agile boek, sort of.'
-slug: 'mijn-eerste-agile-boek-sort-of-'
+author: tvdsluijs
+category:
+- Agile
+comments: 'true'
 date: '2016-02-08 07:55:15+00:00'
+excerpt_separator: <!--more-->
+image: https://vandersluijs.resultants-e.nl/1*mHiSqk4anKoKxr__nML5lA.jpeg
+layout: post
 publish_date: '2016-02-08 07:55:15+00:00'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*mHiSqk4anKoKxr__nML5lA.jpeg'
-  feature: 1*mHiSqk4anKoKxr__nML5lA.jpeg'
-  credit: 'Pixabay'
-  creditlink:  'https://www.pexels.com/u/pixabay/'
-category: ['Agile']
-tags: ['Agile']
+slug: mijn-eerste-agile-boek-sort-of-
+tags:
+- Agile
+title: Mijn eerste Agile boek, sort of.
+
 ---
 Vandaag kreeg ik een uitnodiging van [Yves Hanoulle](http://www.hanoulle.be/),
 bekend van de boeken “[Who is Agile](https://leanpub.com/WhoIsAgile)” en “[The

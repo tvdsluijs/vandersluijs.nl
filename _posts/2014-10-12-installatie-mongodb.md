@@ -1,33 +1,17 @@
 ---
-id: 34
-title: Installatie MongoDB
-date: 2014-10-12T15:48:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/10/12/installatie-mongodb/
-permalink: /2014/10/installatie-mongodb.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6334141436027431585"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/10/installatie-mongodb.html
-blogger_thumbnail:
-  - /images/2014/10/mongoDB-logo.png
-hits:
-  - "575"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5842790051"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-10-12 15:48:00+00:00
+dsq_thread_id:
+- '5842790051'
+hits:
+- '575'
+layout: post
+permalink: /2014/10/installatie-mongodb.html
+title: Installatie MongoDB
+
 ---
 ![MongoDB installatie](https://vandersluijs.resultants-e.nl/2014/10/mongoDB-logo.png)
 

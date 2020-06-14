@@ -1,29 +1,15 @@
 ---
-id: 299
-title: Naar Rusland voor PhP Flex Sessie?
-date: 2010-04-09T17:03:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/04/09/naar-rusland-voor-php-flex-sessie/
-permalink: /2010/04/naar-rusland-voor-php-flex-sessie.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6229756723779586626"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/04/naar-rusland-voor-php-flex-sessie.html
-hits:
-  - "1175"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2010-04-09 17:03:00+00:00
+hits:
+- '1175'
+layout: post
+permalink: /2010/04/naar-rusland-voor-php-flex-sessie.html
+title: Naar Rusland voor PhP Flex Sessie?
+
 ---
 Deze week ben ik door de Flex Usergroup Rusland uitgenodigd om bij een de Adobe Flex tour op 12 mei en (Adobe) Flash Gamm Conferentie op 13 mei in Moskou een Sessie voor te dragen over Flex en PhP. 
 

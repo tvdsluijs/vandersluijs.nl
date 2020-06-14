@@ -1,31 +1,17 @@
 ---
-id: 201
-title: Waarom ik wordpress inruilde voor tumblr
-date: 2012-04-15T15:54:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/04/15/waarom-ik-wordpress-inruilde-voor-tumblr/
-permalink: /2012/04/waarom-ik-wordpress-inruilde-voor-tumblr.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1229896168423456487"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/04/waarom-ik-wordpress-inruilde-voor-tumblr.html
-hits:
-  - "1163"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5775662169"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-04-15 15:54:00+00:00
+dsq_thread_id:
+- '5775662169'
+hits:
+- '1163'
+layout: post
+permalink: /2012/04/waarom-ik-wordpress-inruilde-voor-tumblr.html
+title: Waarom ik wordpress inruilde voor tumblr
+
 ---
 Tja… het heeft aardig wat voeten in aarde gehad.
 

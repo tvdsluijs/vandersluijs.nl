@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-04-20 06:11
 excerpt_separator: <!--more-->
-title: 'Joomla! to Wordpress'
-slug: 'joomla-to-wordpress'
-date: '2009-04-20 06:11'
-publish_date: '2009-04-20 06:11'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-04-20 06:11
+slug: joomla-to-wordpress
+tags:
+- Coding
+title: Joomla! to Wordpress
+
 ---
 Before you go from joomla! to Wordpress you have to reconsider really doing
 this. It took me about 2 days (2x 8 hours) and a big headache. I only had

@@ -1,12 +1,25 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: 'De dag dat ik stopte als ICT Manager'
-slug: 'de-dag-dat-ik-stopte-als-ict-manager'
+author: tvdsluijs
+category:
+- Agile
+- Scrum
+- Project Management
+- Manager
+- Management
+comments: 'true'
 date: '2016-02-21 21:29:44+00:00'
+excerpt_separator: <!--more-->
+layout: post
 publish_date: '2016-02-21 21:29:44+00:00'
-category: ['Agile', 'Scrum', 'Project Management', 'Manager', 'Management']
-tags: ['Agile', 'Scrum', 'Project Management', 'Manager', 'Management']
+slug: de-dag-dat-ik-stopte-als-ict-manager
+tags:
+- Agile
+- Scrum
+- Project Management
+- Manager
+- Management
+title: De dag dat ik stopte als ICT Manager
+
 ---
 Veel mensen die de kop van dit artikel lezen krabben zich nu achter hun oren.
 Links staan de personen die denken… hé? Was Theo een ICT Manager? En rechts

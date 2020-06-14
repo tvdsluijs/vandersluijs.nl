@@ -1,12 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
+date: 2014-11-08 20:22
 excerpt_separator: < !--more -->
-title: 'A Nerd’s guide to a Vagrant Galaxy'
-slug: 'a-nerd-s-guide-to-a-vagrant-galaxy'
-date: '2014-11-08 20:22'
-publish_date: '2014-11-08 20:22'
-category: ['Tech']
-tags: ['Vagrant', 'Virtual']
+layout: post
+publish_date: 2014-11-08 20:22
+slug: a-nerd-s-guide-to-a-vagrant-galaxy
+tags:
+- Vagrant
+- Virtual
+title: "A Nerd\u2019s guide to a Vagrant Galaxy"
+
 ---
 Captain James T. Kirk used to Say:
 

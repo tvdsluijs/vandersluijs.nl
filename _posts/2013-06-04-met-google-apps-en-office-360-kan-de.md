@@ -1,31 +1,17 @@
 ---
-id: 107
-title: Met Google Apps en Office 360 kan de Systeembeheerder de deur uit!
-date: 2013-06-04T06:01:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/06/04/met-google-apps-en-office-360-kan-de/
-permalink: /2013/06/met-google-apps-en-office-360-kan-de.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7732724727164040791"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/06/met-google-apps-en-office-360-kan-de.html
-hits:
-  - "1720"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5970233192"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2013-06-04 06:01:00+00:00
+dsq_thread_id:
+- '5970233192'
+hits:
+- '1720'
+layout: post
+permalink: /2013/06/met-google-apps-en-office-360-kan-de.html
+title: Met Google Apps en Office 360 kan de Systeembeheerder de deur uit!
+
 ---
 Nee natuurlijk moet je niet je systeembeheerder de deur uit doen. Want zonder systeembeheerder geen servers, netwerk en client werkstations.
 

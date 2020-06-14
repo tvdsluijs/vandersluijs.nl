@@ -1,30 +1,16 @@
 ---
-id: 534
-title: Ionic Isapi Rewriter regels voor Joomla!
-date: 2007-07-17T17:38:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/07/17/ionic-isapi-rewriter-regels-voor-joomla/
-permalink: /2007/07/ionic-isapi-rewriter-regels-voor-joomla.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4692748932603526042"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/07/ionic-isapi-rewriter-regels-voor-joomla.html
-hits:
-  - "500"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-07-17 17:38:00+00:00
+excerpt_separator: <!--more-->
+hits:
+- '500'
+layout: post
+permalink: /2007/07/ionic-isapi-rewriter-regels-voor-joomla.html
+title: Ionic Isapi Rewriter regels voor Joomla!
+
 ---
 Gebruikt jou webhost provider ook de Ionic Isapi voor IIS ?    
 En je gebruikt joomla! en je zou graag SEF willen aanzetten ?    

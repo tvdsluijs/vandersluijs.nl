@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-12-21 14:31
 excerpt_separator: <!--more-->
-title: 'Adobe Flex SofiNummer validatie'
-slug: 'adobe-flex-sofinummer-validatie'
-date: '2008-12-21 14:31'
-publish_date: '2008-12-21 14:31'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-12-21 14:31
+slug: adobe-flex-sofinummer-validatie
+tags:
+- Coding
+title: Adobe Flex SofiNummer validatie
+
 ---
 Had ik een paar weken geleden nog de Banknummer validator geschreven nu kom ik
 het de Burgerservicenummer of wel sofinummer validator.  

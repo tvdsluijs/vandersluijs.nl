@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-12-29 21:01
 excerpt_separator: <!--more-->
-title: 'Adobe Flex Postcode Validatie'
-slug: 'adobe-flex-postcode-validatie'
-date: '2008-12-29 21:01'
-publish_date: '2008-12-29 21:01'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*47piEI9lABdlJs0-.gif'
-  feature: 0*47piEI9lABdlJs0-.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*47piEI9lABdlJs0-.gif
+layout: post
+publish_date: 2008-12-29 21:01
+slug: adobe-flex-postcode-validatie
+tags:
+- Coding
+title: Adobe Flex Postcode Validatie
+
 ---
 Ik heb hier al diverse validatie scripts neergezet, maar het volgende script
 is er één die ook al vaak door mij is gebruikt.  

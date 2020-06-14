@@ -6,7 +6,8 @@ slug: 'adobe-flex-internet-time-with-sub-beats'
 date: '2009-04-08 21:43'
 publish_date: '2009-04-08 21:43'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*P5EduonItyVS8i7d.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*P5EduonItyVS8i7d.gif'
+  feature: 0*P5EduonItyVS8i7d.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

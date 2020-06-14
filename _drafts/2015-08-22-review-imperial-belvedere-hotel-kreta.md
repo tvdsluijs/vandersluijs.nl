@@ -46,7 +46,8 @@ video_post_url:
   - ""
 dsq_thread_id:
   - "5709848224"
-feature-img: https://vandersluijs.resultants-e.nl/2015/08/belvedere-hotels-kreta1.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/08/belvedere-hotels-kreta1.jpg
 categories:
   - Lifestyle
   - Travel

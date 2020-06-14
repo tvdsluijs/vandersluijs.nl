@@ -1,29 +1,17 @@
 ---
-id: 238
-title: Bij Pixmania kan je NIET met paypal betalen, of toch?
-date: 2011-05-26T00:29:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/05/26/bij-pixmania-kan-je-niet-met-paypa/
-permalink: /2011/05/bij-pixmania-kan-je-niet-met-paypa.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5006012914581154578"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/05/bij-pixmania-kan-je-niet-met-paypal.html
-hits:
-  - "1320"
-dsq_thread_id:
-  - "5792830026"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2011-05-26 00:29:00+00:00
+dsq_thread_id:
+- '5792830026'
+hits:
+- '1320'
+layout: post
+permalink: /2011/05/bij-pixmania-kan-je-niet-met-paypa.html
+title: Bij Pixmania kan je NIET met paypal betalen, of toch?
+
 ---
 Vandaag was ik op zoek naar een externe hdd.
 

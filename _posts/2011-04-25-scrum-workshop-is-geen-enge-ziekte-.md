@@ -1,12 +1,21 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Agile
+- Scrum
+- Agile Methodology
+comments: 'true'
+date: 2011-04-25 20:33
 excerpt_separator: <!--more-->
-title: 'SCRUM workshop, is geen enge ziekte !'
-slug: 'scrum-workshop-is-geen-enge-ziekte-'
-date: '2011-04-25 20:33'
-publish_date: '2011-04-25 20:33'
-category: ['Agile', 'Scrum', 'Agile Methodology']
-tags: ['Agile', 'Scrum', 'Agile Methodology']
+layout: post
+publish_date: 2011-04-25 20:33
+slug: scrum-workshop-is-geen-enge-ziekte-
+tags:
+- Agile
+- Scrum
+- Agile Methodology
+title: SCRUM workshop, is geen enge ziekte !
+
 ---
 Tja ik zet het er maar alvast bij in de titel, want veel mensen kijken vies
 als ze het woord SCRUM horen. Ja.. okay het klinkt een beetje als een erg

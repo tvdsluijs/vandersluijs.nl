@@ -1,27 +1,21 @@
 ---
-id: 163
-title: 10 tips voor beter Zeeuws Wifi
-date: 2016-05-24T07:00:39+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl/?p=163
-permalink: /2016/05/10-tips-beter-zeeuws-wifi.html
-hefo_before:
-  - "0"
-hefo_after:
-  - "0"
-hits:
-  - "163"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700416048"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-05-24 07:00:39+00:00
+dsq_thread_id:
+- '5700416048'
+hits:
+- '163'
+layout: post
+permalink: /2016/05/10-tips-beter-zeeuws-wifi.html
 tags:
-  - Modem
-  - WiFi
-  - Zeelandnet
+- Modem
+- WiFi
+- Zeelandnet
+title: 10 tips voor beter Zeeuws Wifi
+
 ---
 Wifi, bij de één werkt het goed bij de anders blijft het een probleem. Er kunnen bij Wifi veel verstorende facturen zijn waardoor het niet goed werkt.
 

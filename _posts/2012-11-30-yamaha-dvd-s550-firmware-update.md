@@ -1,31 +1,17 @@
 ---
-id: 145
-title: Yamaha DVD-S550 Firmware update
-date: 2012-11-30T19:41:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/11/30/yamaha-dvd-s550-firmware-update/
-permalink: /2012/11/yamaha-dvd-s550-firmware-update.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3746080153489400503"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/11/yamaha-dvd-s550-firmware-update.html
-hits:
-  - "982"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5737127124"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-11-30 19:41:00+00:00
+dsq_thread_id:
+- '5737127124'
+hits:
+- '982'
+layout: post
+permalink: /2012/11/yamaha-dvd-s550-firmware-update.html
+title: Yamaha DVD-S550 Firmware update
+
 ---
 Tja… ik heb sinds…. ff denken hoor…… 4 jaar een Yamaha dobly set met Yamaha DvD-S550 DivX speler.
 

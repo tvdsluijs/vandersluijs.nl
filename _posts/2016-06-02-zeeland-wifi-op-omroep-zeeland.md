@@ -1,26 +1,20 @@
 ---
-id: 2880
-title: Zeeland Wifi op Omroep Zeeland
-date: 2016-06-02T06:26:42+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl/?p=216
-permalink: /2016/06/zeeland-wifi-op-omroep-zeeland.html
-hefo_before:
-  - "0"
-hefo_after:
-  - "0"
-hits:
-  - "169"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5845794455"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-06-02 06:26:42+00:00
+dsq_thread_id:
+- '5845794455'
+hits:
+- '169'
+layout: post
+permalink: /2016/06/zeeland-wifi-op-omroep-zeeland.html
 tags:
-  - WiFi
-  - Zeelandnet
+- WiFi
+- Zeelandnet
+title: Zeeland Wifi op Omroep Zeeland
+
 ---
 Gisteren (1 juni) was Zeeland Wifi op TV. Dat wil zeggen ik (Theo van der Sluijs) was op TV met een item over de diverse Wifi problemen die er zijn in Zeeland.<!--more-->
 

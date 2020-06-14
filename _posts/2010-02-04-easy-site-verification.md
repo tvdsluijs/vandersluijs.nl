@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-04 12:52
 excerpt_separator: <!--more-->
-title: 'Easy Site Verification'
-slug: 'easy-site-verification'
-date: '2010-02-04 12:52'
-publish_date: '2010-02-04 12:52'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*9bLdrVhEkGwVdkIE.gif'
-  feature: 0*9bLdrVhEkGwVdkIE.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*9bLdrVhEkGwVdkIE.gif
+layout: post
+publish_date: 2010-02-04 12:52
+slug: easy-site-verification
+tags:
+- Coding
+title: Easy Site Verification
+
 ---
 This plugin will allow you to easily verify your Joomla! website with Google
 Webmaster Tools, Bing Webmaster Tools and Yahoo! SiteExplorer.  

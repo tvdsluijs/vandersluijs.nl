@@ -1,63 +1,17 @@
 ---
-id: 144
-title: Delta Digitale TV en te oude kabels
-date: 2012-12-03T22:24:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/12/03/delta-digitale-tv-en-te-oude-kabels/
-permalink: /2012/12/delta-digitale-tv-en-te-oude-kabels.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "746713197315791232"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/12/delta-digitale-tv-en-te-oude-kabels.html
-hits:
-  - "1035"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5754983478"
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-12-03 22:24:00+00:00
+dsq_thread_id:
+- '5754983478'
+hits:
+- '1035'
+layout: post
+permalink: /2012/12/delta-digitale-tv-en-te-oude-kabels.html
+title: Delta Digitale TV en te oude kabels
+
 ---
 Dus ik heb eindelijk een platte TV! En met pijn in mijn hart heeft die dus mijn Philips conventionele 50KG wegende Matchline breedbeeld tv vervangen.
 

@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-03-05 08:53
 excerpt_separator: <!--more-->
-title: 'We have a Review Writer Winner'
-slug: 'we-have-a-review-writer-winner'
-date: '2010-03-05 08:53'
-publish_date: '2010-03-05 08:53'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-03-05 08:53
+slug: we-have-a-review-writer-winner
+tags:
+- Coding
+title: We have a Review Writer Winner
+
 ---
 Well as promised we give away 1 year of free (bought item) downloads to one
 person per month who writes a review in the Joomla! extention system. As we

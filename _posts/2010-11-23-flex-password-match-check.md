@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-11-23 09:54
 excerpt_separator: <!--more-->
-title: 'Flex Password match check'
-slug: 'flex-password-match-check'
-date: '2010-11-23 09:54'
-publish_date: '2010-11-23 09:54'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-11-23 09:54
+slug: flex-password-match-check
+tags:
+- Coding
+title: Flex Password match check
+
 ---
 Ever wanted to do a flex form with a password retype check in it ?  
   

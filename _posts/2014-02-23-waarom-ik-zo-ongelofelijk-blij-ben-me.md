@@ -1,31 +1,17 @@
 ---
-id: 71
-title: Waarom ik zo ongelofelijk blij ben met mijn iPhone5s
-date: 2014-02-23T10:33:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/02/23/waarom-ik-zo-ongelofelijk-blij-ben-me/
-permalink: /2014/02/waarom-ik-zo-ongelofelijk-blij-ben-me.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2889454938321010409"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/02/waarom-ik-zo-ongelofelijk-blij-ben-met.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2014/02/ptt_tango.jpg
-hits:
-  - "1528"
-dsq_thread_id:
-  - "5736682182"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2014-02-23 10:33:00+00:00
+dsq_thread_id:
+- '5736682182'
+hits:
+- '1528'
+layout: post
+permalink: /2014/02/waarom-ik-zo-ongelofelijk-blij-ben-me.html
+title: Waarom ik zo ongelofelijk blij ben met mijn iPhone5s
+
 ---
 <div style="clear: both; text-align: center;">
   <a href=https://vandersluijs.resultants-e.nl/2014/02/ptt_tango.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.resultants-e.nl/2014/02/ptt_tango.jpg" height="200" width="143" /></a>

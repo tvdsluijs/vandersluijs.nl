@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-01-15 17:35
 excerpt_separator: <!--more-->
-title: 'TODO and FIXME within Adobe Flex'
-slug: 'todo-and-fixme-within-adobe-flex'
-date: '2009-01-15 17:35'
-publish_date: '2009-01-15 17:35'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-01-15 17:35
+slug: todo-and-fixme-within-adobe-flex
+tags:
+- Coding
+title: TODO and FIXME within Adobe Flex
+
 ---
 Today I was thinking, why doesnt the flex builder has the ability to show
 tasks like TODO and FIXME. As I was browsing thru my code of the big project I

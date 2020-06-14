@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-10-27 18:14
 excerpt_separator: <!--more-->
-title: 'Juiste datum in PhP'
-slug: 'juiste-datum-in-php'
-date: '2008-10-27 18:14'
-publish_date: '2008-10-27 18:14'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-10-27 18:14
+slug: juiste-datum-in-php
+tags:
+- Coding
+title: Juiste datum in PhP
+
 ---
 Well everybody knows this problem.  
   

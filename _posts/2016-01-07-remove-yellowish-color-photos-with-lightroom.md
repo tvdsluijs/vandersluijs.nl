@@ -1,39 +1,20 @@
 ---
-id: 2710
-title: Remove yellowish color in photos with Lightroom
-date: 2016-01-07T06:08:57+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2101
-permalink: /2016/01/remove-yellowish-color-photos-with-lightroom.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-factory_shortcodes_assets:
-  - 'a:0:{}'
-hits:
-  - "582"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5883933711"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/01/gele_zweem_lightroom.jpg
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2016-01-07 06:08:57+00:00
+dsq_thread_id:
+- '5883933711'
+hits:
+- '582'
+image: https://vandersluijs.resultants-e.nl/2016/01/gele_zweem_lightroom.jpg
+layout: post
+permalink: /2016/01/remove-yellowish-color-photos-with-lightroom.html
 tags:
-  - Lightroom
+- Lightroom
+title: Remove yellowish color in photos with Lightroom
+
 ---
 Shooting a good picture is not easy. But when you shoot the right photo and afterwards you see a Yellowish or Blue-ish color on top of your photo&#8217;s you might ask yourself what you can do to remove this mistake.
 

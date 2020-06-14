@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-03-05 08:00
 excerpt_separator: <!--more-->
-title: 'New version of Calculator Plus Module'
-slug: 'new-version-of-calculator-plus-module'
-date: '2010-03-05 08:00'
-publish_date: '2010-03-05 08:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-03-05 08:00
+slug: new-version-of-calculator-plus-module
+tags:
+- Coding
+title: New version of Calculator Plus Module
+
 ---
 Yesterday i published a new version of my Calculator Plus Module for Joomla!
 1.5 and it has everything in it what you need.  

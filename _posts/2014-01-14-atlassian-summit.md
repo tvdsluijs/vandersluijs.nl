@@ -1,12 +1,21 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Jira
+- Atlassian
+- Development
+comments: 'true'
+date: 2014-01-14 18:00
 excerpt_separator: <!--more-->
-title: 'Atlassian Summit 2013 dag 1'
-slug: 'atlassian-summit'
-date: '2014-01-14 18:00'
-publish_date: '2014-01-14 18:00'
-category: ['Jira', 'Atlassian', 'Development']
-tags: ['Jira', 'Atlassian', 'Development']
+layout: post
+publish_date: 2014-01-14 18:00
+slug: atlassian-summit
+tags:
+- Jira
+- Atlassian
+- Development
+title: Atlassian Summit 2013 dag 1
+
 ---
 Dus…. voor de Developers die het nog niet wisten. Ik zit op de Atlassian
 Summit 2013 in San Francisco, natuurlijk deels omdat het gewoon heel gaaf is

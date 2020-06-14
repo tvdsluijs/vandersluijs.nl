@@ -1,57 +1,18 @@
 ---
-id: 6
-title: Kunststof Opbergkast KIS UP is pure troep
-date: 2015-04-21T20:11:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/04/21/kunststof-opbergkast-kis-up-is-pure/
-permalink: /2015/04/kunststof-opbergkast-kis-up-is-pure.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8512950827153317646"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/04/kunststof-opbergkast-kis-up-is-pure.html
-blogger_thumbnail:
-  - http://4.bp.blogspot.com/-E82AMV4paFo/VTaoATSbx0I/AAAAAAABTzU/Q0q7VpAhLXQ/s1600/kunststof-opbergkast-169852glrbk-1.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "2163"
-dsq_thread_id:
-  - "5701321352"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/04/kis-kast-pure-troep.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2015-04-21 20:11:00+00:00
+dsq_thread_id:
+- '5701321352'
+hits:
+- '2163'
+image: https://vandersluijs.resultants-e.nl/2015/04/kis-kast-pure-troep.jpg
+layout: post
+permalink: /2015/04/kunststof-opbergkast-kis-up-is-pure.html
+title: Kunststof Opbergkast KIS UP is pure troep
+
 ---
 <div class="separator" style="clear: both; text-align: left;">
   Het is zover, ik ben door mijn vrouw de garage uitgedreven en ik heb nu het tuinhuis opgeëist. Tja&#8230; soms moet je elkaar wat ruimte geven voor de hobby&#8217;s van de ander. En de hobby van mijn vrouw werd groter dan dat van mij (want klussen is mijn hobby niet en <a href="http://www.konijnparadijs.nl/" target="_blank">konijnen</a> die wel van mijn vrouw).

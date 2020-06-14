@@ -1,29 +1,17 @@
 ---
-id: 396
-title: Gek op Nespresso, ook in de Auto
-date: 2009-08-21T13:45:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/08/21/gek-op-nespresso-ook-in-de-auto/
-permalink: /2009/08/gek-op-nespresso-ook-in-de-auto.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1633204574120750321"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/08/gek-op-nespresso-ook-in-de-auto.html
-hits:
-  - "1069"
-dsq_thread_id:
-  - "5700568543"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2009-08-21 13:45:00+00:00
+dsq_thread_id:
+- '5700568543'
+hits:
+- '1069'
+layout: post
+permalink: /2009/08/gek-op-nespresso-ook-in-de-auto.html
+title: Gek op Nespresso, ook in de Auto
+
 ---
 Ik hou nogal van een nespresso-tje op zijn tijd. Als ik thuis werk dan tik ik aardig wat Nespresso’s weg.
 

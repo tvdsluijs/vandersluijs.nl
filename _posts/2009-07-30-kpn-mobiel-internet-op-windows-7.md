@@ -1,31 +1,17 @@
 ---
-id: 399
-title: KPN Mobiel internet op Windows 7
-date: 2009-07-30T13:12:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/07/30/kpn-mobiel-internet-op-windows-7/
-permalink: /2009/07/kpn-mobiel-internet-op-windows-7.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6397977604099337071"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/07/kpn-mobiel-internet-op-windows-7.html
-hits:
-  - "695"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5863477022"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-07-30 13:12:00+00:00
+dsq_thread_id:
+- '5863477022'
+hits:
+- '695'
+layout: post
+permalink: /2009/07/kpn-mobiel-internet-op-windows-7.html
+title: KPN Mobiel internet op Windows 7
+
 ---
 Vorige week liep helaas mijn NL for Business laptop vast. Windows was met geen mogelijkheid meer opgestart te krijgen. Dus een herinstallatie was nodig.
 

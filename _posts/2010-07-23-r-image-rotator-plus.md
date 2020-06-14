@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-07-23 22:43
 excerpt_separator: <!--more-->
-title: 'R Image Rotator Plus'
-slug: 'r-image-rotator-plus'
-date: '2010-07-23 22:43'
-publish_date: '2010-07-23 22:43'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*2VhG0Gqq2WzSSI4B.gif'
-  feature: 0*2VhG0Gqq2WzSSI4B.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*2VhG0Gqq2WzSSI4B.gif
+layout: post
+publish_date: 2010-07-23 22:43
+slug: r-image-rotator-plus
+tags:
+- Coding
+title: R Image Rotator Plus
+
 ---
 Not just another image rotator. It’s the R Image Rotator….. PLUS! Module !  
   

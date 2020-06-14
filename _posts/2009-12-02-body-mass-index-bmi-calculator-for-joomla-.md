@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-12-02 14:35
 excerpt_separator: <!--more-->
-title: 'Body Mass Index (BMI) Calculator for Joomla!'
-slug: 'body-mass-index-bmi-calculator-for-joomla-'
-date: '2009-12-02 14:35'
-publish_date: '2009-12-02 14:35'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-12-02 14:35
+slug: body-mass-index-bmi-calculator-for-joomla-
+tags:
+- Coding
+title: Body Mass Index (BMI) Calculator for Joomla!
+
 ---
 This is a nice Body Mass Index (BMI) Calculator Module you can use on your
 Joomla! 1.5 site.

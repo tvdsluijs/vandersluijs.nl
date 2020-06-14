@@ -1,37 +1,20 @@
 ---
-id: 2056
-title: Solution Polar V800 Bluetooth Connection problem
-date: 2016-01-02T18:34:25+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2056
-permalink: /2016/01/solution-polar-v800-bluetooth-connection-problem.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "11049"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700415847"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/01/Bluetooth-polar-connection-error.png
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-01-02 18:34:25+00:00
+dsq_thread_id:
+- '5700415847'
+hits:
+- '11049'
+image: https://vandersluijs.resultants-e.nl/2016/01/Bluetooth-polar-connection-error.png
+layout: post
+permalink: /2016/01/solution-polar-v800-bluetooth-connection-problem.html
 tags:
-  - Polar
+- Polar
+title: Solution Polar V800 Bluetooth Connection problem
+
 ---
 So you&#8217;ve got a Polar V800! It&#8217;s great isn&#8217;t it! I think it&#8217;s one of the best Sport-Smart-Watches out there!
 

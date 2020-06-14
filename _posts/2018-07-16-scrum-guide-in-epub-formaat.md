@@ -1,21 +1,19 @@
 ---
-layout: post
-title: Scrum Guide in Epub formaat
-author: Theo van der Sluijs
-slug: /2018/07/scrum-guide-in-epub-formaat
-permalink: /2018/07/scrum-guide-in-epub-formaat
+author: tvdsluijs
+categories:
+- Agile
+comments: 'true'
 date: 2018-07-16
-publish_date: 2018-07-16
-image:
-  path: https://www.vandersluijs.nl/images/scrum-guide-in-epub-formaat.jpeg
-  feature: scrum-guide-in-epub-formaat.jpeg
-  credit: "özgür uzun"
-  creditlink: "https://www.pexels.com/@ozgur"
-thumbnail: /images/scrum-guide-in-epub-formaat_thumbnail.jpeg
-categories: ['Agile']
-tags: ['Scrum']
-comments: true
 excerpt_separator: <!--more-->
+image: https://www.vandersluijs.nl/images/scrum-guide-in-epub-formaat.jpeg
+layout: post
+permalink: /2018/07/scrum-guide-in-epub-formaat
+publish_date: 2018-07-16
+slug: /2018/07/scrum-guide-in-epub-formaat
+tags:
+- Scrum
+title: Scrum Guide in Epub formaat
+
 ---
 De Scrum Gids is niet te krijgen in het EPUB formaat, daar baalde ik van. Dus heb ik zelf maar een EPUB Scrum Gids gemaakt. Scrum het is al een tijdje onderdeel van mijn leven. Evenals Agile ik kan me eigenlijk niet voorstellen om mijn werk zonder een Agile mindset en zonder Scrum te doen (of Kanban). Een gecertificeerd Scrum master ben ik al een aantal jaren, maar Product Owner nog niet. En eigenlijk moet dat er ook van gaan komen.... dus was ik van plan om tijdens mijn vakantie minimaal 1x per dag even de Scrum Gids door te lezen. Probleem is alleen.... het is in PDF formaat.... en mijn Kobo vreet net even wat fijner het EPUB formaat. En dat is dus een probleem.
 <!--more-->

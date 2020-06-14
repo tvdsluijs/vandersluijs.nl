@@ -26,7 +26,8 @@ hits:
   - "775"
 dsq_thread_id:
   - "5700416027"
-feature-img: https://vandersluijs.resultants-e.nl/2015/12/kpn-hq-e1449515457743.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/12/kpn-hq-e1449515457743.jpg
 categories:
   - Grumpy
 tags:

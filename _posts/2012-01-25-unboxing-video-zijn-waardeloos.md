@@ -1,27 +1,15 @@
 ---
-id: 213
-title: 'Unboxing video&#39;s zijn waardeloos'
-date: 2012-01-25T02:37:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/01/25/unboxing-video-zijn-waardeloos/
-permalink: /2012/01/unboxing-video-zijn-waardeloos.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "910667232765675317"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/01/unboxing-video-zijn-waardeloos.html
-hits:
-  - "468"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2012-01-25 02:37:00+00:00
+hits:
+- '468'
+layout: post
+permalink: /2012/01/unboxing-video-zijn-waardeloos.html
+title: Unboxing video&#39;s zijn waardeloos
+
 ---
 Tuurlijk, als ik een nieuwe gadget binnen krijg die ik via internet besteld heb is het spannend om uit te pakken. Het is altijd weer spannend om te zien wat er allemaal in zit. Maar moet ik dat filmen en aan de hele wereld laten zien?
 

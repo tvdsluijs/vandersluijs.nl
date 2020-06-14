@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-05 11:44
 excerpt_separator: <!--more-->
-title: 'Generator Changer'
-slug: 'generator-changer'
-date: '2010-02-05 11:44'
-publish_date: '2010-02-05 11:44'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*5Qg-yaWwY5B_FjGa.gif'
-  feature: 0*5Qg-yaWwY5B_FjGa.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*5Qg-yaWwY5B_FjGa.gif
+layout: post
+publish_date: 2010-02-05 11:44
+slug: generator-changer
+tags:
+- Coding
+title: Generator Changer
+
 ---
 Don’t like the way Joomla! puts its name in your site by using the generator
 meta tag ?  

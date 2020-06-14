@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-16 18:32
 excerpt_separator: <!--more-->
+layout: post
+publish_date: 2010-02-16 18:32
+slug: soon-new-version-of-section-category-list-module
+tags:
+- Coding
 title: 'Soon: New version of Section Category List Module'
-slug: 'soon-new-version-of-section-category-list-module'
-date: '2010-02-16 18:32'
-publish_date: '2010-02-16 18:32'
-category: ['Coding']
-tags: ['Coding']
+
 ---
 This week I will release a new version of my section category list module for
 Joomla! 1.5 It will have a lot of repaired bugs and some extra features in it.

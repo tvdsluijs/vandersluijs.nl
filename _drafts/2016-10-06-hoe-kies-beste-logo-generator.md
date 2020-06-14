@@ -42,7 +42,8 @@ hits:
   - "180"
 dsq_thread_id:
   - "5707760928"
-feature-img: https://vandersluijs.resultants-e.nl/2016/10/Picture1-825x494.png
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/10/Picture1-825x494.png
 categories:
   - Lifestyle
 format: image

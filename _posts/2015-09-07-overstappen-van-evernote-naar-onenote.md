@@ -1,45 +1,18 @@
 ---
-id: 1247
-title: Overstappen van Evernote naar OneNote
-date: 2015-09-07T19:39:22+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/?p=1247
-permalink: /2015/09/overstappen-van-evernote-naar-onenote.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "0"
-pmc_featured_post:
-  - "0"
-hits:
-  - "1141"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700920914"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/09/onenote-mac.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-09-07 19:39:22+00:00
+dsq_thread_id:
+- '5700920914'
+hits:
+- '1141'
+image: https://vandersluijs.resultants-e.nl/2015/09/onenote-mac.jpg
+layout: post
+permalink: /2015/09/overstappen-van-evernote-naar-onenote.html
+title: Overstappen van Evernote naar OneNote
+
 ---
 Microsoft, ik heb er een soort haat liefde verhouding mee. Aan de ene kant vind ik al jaren hun Windows slechter dan slecht, aan de andere kant maken ze best goede software.
 

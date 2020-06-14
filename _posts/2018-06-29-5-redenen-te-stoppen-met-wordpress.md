@@ -1,22 +1,17 @@
 ---
-layout: post
-title: 5 redenen te stoppen met Wordpress
-author: Theo van der Sluijs
-permalink: /2018/06/5-redenen-te-stoppen-met-wordpress
+author: tvdsluijs
+categories:
+- Tech
+comments: 'true'
 date: 2018-06-29
-publish_date: 2018-06-29
-thumbnail: /images/5-redenen-te-stoppen-met-wordpress_thumbnail.jpeg
-image:
-  path: 'https://www.vandersluijs.nl/images/5-redenen-te-stoppen-met-wordpress.jpeg'
-  feature: 5-redenen-te-stoppen-met-wordpress.jpeg'
-  credit: pixabay
-  creditlink: https://pixabay.com/en/wordpress-blogging-writing-typing-923188/
-categories: ['Tech']
-tags: Wordpress
- - Jekyll
- - Hacking
-comments: true
 excerpt_separator: <!--more-->
+image: https://www.vandersluijs.nl/images/5-redenen-te-stoppen-met-wordpress.jpeg
+layout: post
+permalink: /2018/06/5-redenen-te-stoppen-met-wordpress
+publish_date: 2018-06-29
+tags: Wordpress - Jekyll - Hacking
+title: 5 redenen te stoppen met Wordpress
+
 ---
 Ik heb het helemaal gehad met Wordpress. Ook al onderhield ik mijn site dagelijks 
 en goed toch, en update ik dus alles, werd ik gehacked. Mijn site was offline en 

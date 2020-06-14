@@ -1,29 +1,17 @@
 ---
-id: 246
-title: Berekening van Rente op Rente
-date: 2011-03-07T12:58:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/03/07/berekening-van-rente-op-rente/
-permalink: /2011/03/berekening-van-rente-op-rente.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7055729559226520705"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/03/berekening-van-rente-op-rente.html
-hits:
-  - "598"
-dsq_thread_id:
-  - "5799721146"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2011-03-07 12:58:00+00:00
+dsq_thread_id:
+- '5799721146'
+hits:
+- '598'
+layout: post
+permalink: /2011/03/berekening-van-rente-op-rente.html
+title: Berekening van Rente op Rente
+
 ---
 Zoals verschillende van jullie wellicht weten heb ik nogal wat sites onder mijn hoede. Zo ook de site www.gebruikmaar.nl.
 

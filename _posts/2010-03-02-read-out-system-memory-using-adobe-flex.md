@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-03-02 19:15
 excerpt_separator: <!--more-->
-title: 'Read out system memory using Adobe Flex'
-slug: 'read-out-system-memory-using-adobe-flex'
-date: '2010-03-02 19:15'
-publish_date: '2010-03-02 19:15'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-03-02 19:15
+slug: read-out-system-memory-using-adobe-flex
+tags:
+- Coding
+title: Read out system memory using Adobe Flex
+
 ---
 So you have a application, and you want to know how much it takes of your (or
 the users) system memory ?  

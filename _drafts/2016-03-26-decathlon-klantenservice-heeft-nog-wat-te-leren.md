@@ -30,7 +30,8 @@ hits:
   - "864"
 dsq_thread_id:
   - "5700416031"
-feature-img: https://vandersluijs.resultants-e.nl/2016/03/decathlon-825x363.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/03/decathlon-825x363.jpg
 categories:
   - Grumpy
 ---

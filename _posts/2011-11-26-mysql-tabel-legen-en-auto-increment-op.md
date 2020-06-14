@@ -1,31 +1,17 @@
 ---
-id: 218
-title: Mysql Tabel legen en Auto-increment op 0 zetten
-date: 2011-11-26T03:39:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/11/26/mysql-tabel-legen-en-auto-increment-op/
-permalink: /2011/11/mysql-tabel-legen-en-auto-increment-op.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5174774721055636148"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/11/mysql-tabel-legen-en-auto-increment-op.html
-hits:
-  - "1094"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5847067262"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-11-26 03:39:00+00:00
+dsq_thread_id:
+- '5847067262'
+hits:
+- '1094'
+layout: post
+permalink: /2011/11/mysql-tabel-legen-en-auto-increment-op.html
+title: Mysql Tabel legen en Auto-increment op 0 zetten
+
 ---
 Vaak wil je een MySQL tabel even snel legen en de auto increment terug naar 0 zetten.
 

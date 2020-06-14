@@ -1,45 +1,18 @@
 ---
-id: 1493
-title: 'Omniplan 2 zelfstudie video&#8217;s'
-date: 2015-10-07T04:52:14+00:00
-author: Theo.
-layout: post
-guid: http://vandersluijs.nl/?p=1493
-permalink: /2015/10/omniplan-2-zelfstudie-videos.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "1390"
-itrr_another_apply:
-  - 'no'
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/10/omniplan-maintain-rmbp-e1444160363752.png
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-10-07 04:52:14+00:00
+hits:
+- '1390'
+image: https://vandersluijs.resultants-e.nl/2015/10/omniplan-maintain-rmbp-e1444160363752.png
+layout: post
+permalink: /2015/10/omniplan-2-zelfstudie-videos.html
 tags:
-  - Agile
+- Agile
+title: Omniplan 2 zelfstudie video&#8217;s
+
 ---
 Ik was van plan om na mijn OmniPlan 2 test wat zelfstudie video&#8217;s te maken, maar wat blijkt OmniGroup heeft van Omniplan 2 zelf enorm goede zelfstudie video&#8217;s.
 

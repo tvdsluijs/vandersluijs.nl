@@ -1,57 +1,17 @@
 ---
-id: 33
-title: Wat is een CCD en wat kan je ermee?
-date: 2014-10-19T10:14:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/10/19/wat-is-een-ccd-en-wat-kan-je-ermee/
-permalink: /2014/10/wat-is-een-ccd-en-wat-kan-je-ermee.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6902602856624304373"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/10/wat-is-een-ccd-en-wat-kan-je-ermee.html
-blogger_thumbnail:
-  - /images/2014/10/49750-screen-licker-pug.gif
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "572"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6014170490"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-10-19 10:14:00+00:00
+dsq_thread_id:
+- '6014170490'
+hits:
+- '572'
+layout: post
+permalink: /2014/10/wat-is-een-ccd-en-wat-kan-je-ermee.html
+title: Wat is een CCD en wat kan je ermee?
+
 ---
 Heb je ook wel eens het idee dat je tijd te kort komt om iets uit te zoeken op het werk? Dat je iets wilt opruimen maar dat je niet weet wanneer je dit zou moeten doen?
 

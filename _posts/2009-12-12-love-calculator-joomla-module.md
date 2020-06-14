@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-12-12 22:36
 excerpt_separator: <!--more-->
-title: 'Love Calculator Joomla! Module'
-slug: 'love-calculator-joomla-module'
-date: '2009-12-12 22:36'
-publish_date: '2009-12-12 22:36'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-12-12 22:36
+slug: love-calculator-joomla-module
+tags:
+- Coding
+title: Love Calculator Joomla! Module
+
 ---
 This little love calculator evaluates the compatibility of two people based on
 names.

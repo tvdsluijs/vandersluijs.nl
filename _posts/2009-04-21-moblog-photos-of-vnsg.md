@@ -1,29 +1,15 @@
 ---
-id: 421
-title: Moblog Photos of the VNSG
-date: 2009-04-21T10:48:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/04/21/moblog-photos-of-vnsg/
-permalink: /2009/04/moblog-photos-of-vnsg.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5250531519457934500"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/04/moblog-photos-of-vnsg.html
-hits:
-  - "711"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-04-21 10:48:00+00:00
+hits:
+- '711'
+layout: post
+permalink: /2009/04/moblog-photos-of-vnsg.html
+title: Moblog Photos of the VNSG
+
 ---
 <a name="more"></a>
 

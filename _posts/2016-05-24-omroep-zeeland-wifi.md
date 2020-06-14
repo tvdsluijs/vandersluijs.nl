@@ -1,26 +1,20 @@
 ---
-id: 2875
-title: Omroep Zeeland item wifi in Zeeland
-date: 2016-05-24T15:24:36+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl/?p=179
-permalink: /2016/05/omroep-zeeland-wifi.html
-hefo_before:
-  - "0"
-hefo_after:
-  - "0"
-hits:
-  - "102"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5921273839"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-05-24 15:24:36+00:00
+dsq_thread_id:
+- '5921273839'
+hits:
+- '102'
+layout: post
+permalink: /2016/05/omroep-zeeland-wifi.html
 tags:
-  - WiFi
-  - Zeelandnet
+- WiFi
+- Zeelandnet
+title: Omroep Zeeland item wifi in Zeeland
+
 ---
 Vandaag is Omroep Zeeland bij me langs geweest om een item te maken over Wifi in Zeeland. Vele Zeeuwen hebben heel veel klachten en problemen over en met hun Wifi.
 

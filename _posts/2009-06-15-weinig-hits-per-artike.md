@@ -1,29 +1,15 @@
 ---
-id: 404
-title: Weinig hits per artikel ?
-date: 2009-06-15T12:02:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/06/15/weinig-hits-per-artike/
-permalink: /2009/06/weinig-hits-per-artike.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6912315884748352589"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/06/weinig-hits-per-artikel.html
-hits:
-  - "818"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-06-15 12:02:00+00:00
+hits:
+- '818'
+layout: post
+permalink: /2009/06/weinig-hits-per-artike.html
+title: Weinig hits per artikel ?
+
 ---
 Als je denkt… hmmmm wat weinig hits heeft deze site per artikel.
 

@@ -1,56 +1,22 @@
 ---
-id: 4312
-title: Is de Samsung Gear S3 een Sporthorloge
-date: 2017-03-04T16:23:31+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: https://www.vandersluijs.nl/?p=4312
-permalink: /2017/03/is-de-samsung-gear-s3-een-sporthorloge.html
-hits:
-  - "21"
-dsq_thread_id:
-  - "5882215962"
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-geen-sporthorloge-825x510.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2017-03-04 16:23:31+00:00
+dsq_thread_id:
+- '5882215962'
+excerpt_separator: <!--more-->
+hits:
+- '21'
+image: https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-geen-sporthorloge-825x510.jpg
+layout: post
+permalink: /2017/03/is-de-samsung-gear-s3-een-sporthorloge.html
 tags:
-  - samsung
-  - smartwatch
-format: image
+- samsung
+- smartwatch
+title: Is de Samsung Gear S3 een Sporthorloge
+
 ---
 Ik wilde eens een mooie smartwatch. Mijn Polar V800 was een beest in de mogelijkheden met sporten, maar mooi&#8230; tja dat was de V800 niet. Maar daar was toen de Samsung Gear S3 Frontier! Een vreselijk vette smartwatch met sportmogelijkheden!
 <!--more-->

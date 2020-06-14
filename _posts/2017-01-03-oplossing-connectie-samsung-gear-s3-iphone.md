@@ -1,57 +1,23 @@
 ---
-id: 3634
-title: Oplossing connectie Samsung Gear S3 iPhone
-date: 2017-01-03T11:13:35+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/?p=3634
-permalink: /2017/01/oplossing-connectie-samsung-gear-s3-iphone.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "1077"
-dsq_thread_id:
-  - "5701314075"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-825x510.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2017-01-03 11:13:35+00:00
+dsq_thread_id:
+- '5701314075'
+excerpt_separator: <!--more-->
+hits:
+- '1077'
+image: https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-10-825x510.jpg
+layout: post
+permalink: /2017/01/oplossing-connectie-samsung-gear-s3-iphone.html
 tags:
-  - Polar
-  - samsung
-  - smartwatch
-format: image
+- Polar
+- samsung
+- smartwatch
+title: Oplossing connectie Samsung Gear S3 iPhone
+
 ---
 Sinds de kerst heb ik een Samsung Gear S3 waar ik heel blij mee ben. Blij omdat ik eindelijk een mooie smartwatch om heb! No Offense Polar, jullie maken Slimme en Goede Sport Smart watches, maar ze zijn een killer voor mijn looks 🙂 . Dus heb ik nu een Samsung Gear S3 die prachtig om mijn pols zit! Er is alleen één probleem.. zo nu en dan is hij de weg kwijt en krijg ik geen berichten meer op mijn Smartwatch! Gelukkig voor jou heb ik je oplossing!<!--more-->Smartwatches, ze zijn niet meer weg te denken uit mijn leven. Eerst moest ik er niets van hebben maar sinds de berichten van mijn iPhone op de Polar M400 en de V800 binnenkwamen vond ik het heerlijk.
 <!--more-->

@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Agile
+- Software
+comments: 'true'
+date: 2012-10-10 18:36
 excerpt_separator: <!--more-->
-title: 'Manager tools'
-slug: 'manager-tools'
-date: '2012-10-10 18:36'
-publish_date: '2012-10-10 18:36'
-category: ['Agile', 'Software']
-tags: ['Management', 'Scrum']
+layout: post
+publish_date: 2012-10-10 18:36
+slug: manager-tools
+tags:
+- Management
+- Scrum
+title: Manager tools
+
 ---
 Van de week heb ik op mijn engelse blog een stuk geschreven over [Management
 Tools](https://www.itheo.nl/2012/10/what-in-tool-great-managers-tools/).

@@ -1,29 +1,15 @@
 ---
-id: 188
-title: Is it a Hype ? No it is Skype !!!
-date: 2012-07-24T22:46:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/07/24/is-it-hype-no-it-is-skype/
-permalink: /2012/07/is-it-hype-no-it-is-skype.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1100224435966778406"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/07/is-it-hype-no-it-is-skype.html
-hits:
-  - "1121"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-07-24 22:46:00+00:00
+hits:
+- '1121'
+layout: post
+permalink: /2012/07/is-it-hype-no-it-is-skype.html
+title: Is it a Hype ? No it is Skype !!!
+
 ---
 Voice over IP ??? Telefoneren via internet ?
 

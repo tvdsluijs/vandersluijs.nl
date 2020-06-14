@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-14 20:55
 excerpt_separator: <!--more-->
-title: 'Joomla Extension verify all at Joomla’s'
-slug: 'joomla-extension-verify-all-at-joomla-s'
-date: '2009-11-14 20:55'
-publish_date: '2009-11-14 20:55'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-11-14 20:55
+slug: joomla-extension-verify-all-at-joomla-s
+tags:
+- Coding
+title: "Joomla Extension verify all at Joomla\u2019s"
+
 ---
 Yeahhhhhh, [my first Joomla!
 extension](http://extensions.joomla.org/extensions/site-management/seo-a-

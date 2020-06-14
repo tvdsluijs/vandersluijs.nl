@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-05 11:56
 excerpt_separator: <!--more-->
-title: 'LinkedIn Badge'
-slug: 'linkedin-badge'
-date: '2010-02-05 11:56'
-publish_date: '2010-02-05 11:56'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*HU2W6XOpe2ow1IEl.gif'
-  feature: 0*HU2W6XOpe2ow1IEl.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*HU2W6XOpe2ow1IEl.gif
+layout: post
+publish_date: 2010-02-05 11:56
+slug: linkedin-badge
+tags:
+- Coding
+title: LinkedIn Badge
+
 ---
 This Joomla! module show a nice little LinkedIn Badge.
 

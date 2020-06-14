@@ -1,12 +1,23 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: 'Game Master van mijn eerste Agile spel'
-slug: 'game-master-van-mijn-eerste-agile-spel'
+author: tvdsluijs
+category:
+- Agile
+- Scrum
+- Scrum Games
+- Agility
+comments: 'true'
 date: '2015-12-09 20:00:23+00:00'
+excerpt_separator: <!--more-->
+layout: post
 publish_date: '2015-12-09 20:00:23+00:00'
-category: ['Agile', 'Scrum', 'Scrum Games', 'Agility']
-tags: ['Agile', 'Scrum', 'Scrum Games', 'Agility']
+slug: game-master-van-mijn-eerste-agile-spel
+tags:
+- Agile
+- Scrum
+- Scrum Games
+- Agility
+title: Game Master van mijn eerste Agile spel
+
 ---
 Sinds een kleine 2 maanden is de mindset binnen het bedrijf waar ik werk
 steeds meer en meer Agile aan het worden. Ik zit hier bij in het Agile

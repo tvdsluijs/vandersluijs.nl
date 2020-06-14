@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-12-27 14:21
 excerpt_separator: <!--more-->
-title: 'Testen van Reguliere Expressies (Regex) via Flex'
-slug: 'testen-van-reguliere-expressies-regex-via-flex'
-date: '2008-12-27 14:21'
-publish_date: '2008-12-27 14:21'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-12-27 14:21
+slug: testen-van-reguliere-expressies-regex-via-flex
+tags:
+- Coding
+title: Testen van Reguliere Expressies (Regex) via Flex
+
 ---
 Soms zou je gewoon wel eens wat reguliere expressies willen testen.  
 Dat had ik ook met het in elkaar zetten van een goede postcode check.  

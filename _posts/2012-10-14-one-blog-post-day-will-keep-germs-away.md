@@ -1,29 +1,17 @@
 ---
-id: 164
-title: One Blog post a day, will keep the germs away!
-date: 2012-10-14T10:12:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/10/14/one-blog-post-day-will-keep-germs-away/
-permalink: /2012/10/one-blog-post-day-will-keep-germs-away.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3772851787028271112"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/10/one-blog-post-day-will-keep-germs-away.html
-hits:
-  - "1570"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2012-10-14 10:12:00+00:00
+hits:
+- '1570'
+layout: post
+permalink: /2012/10/one-blog-post-day-will-keep-germs-away.html
 tags:
-  - Wordpress
+- Wordpress
+title: One Blog post a day, will keep the germs away!
+
 ---
 <div>
    

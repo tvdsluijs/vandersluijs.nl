@@ -43,7 +43,8 @@ hits:
   - "391"
 dsq_thread_id:
   - "5708280567"
-feature-img: https://vandersluijs.resultants-e.nl/2016/12/alle-pakketten_2-825x449.png
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/12/alle-pakketten_2-825x449.png
 categories:
   - Grumpy
 tags:

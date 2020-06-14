@@ -1,43 +1,18 @@
 ---
-id: 1479
-title: Blogger, Medium, Facebook Notes, Linkedin posts
-date: 2015-09-29T17:50:49+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1479
-permalink: /2015/09/blogger-medium-facebook-notes-linkedin-posts.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "1178"
-dsq_thread_id:
-  - "6027297437"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/09/blogging-428954_1280-e1443549018362.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2015-09-29 17:50:49+00:00
+dsq_thread_id:
+- '6027297437'
+hits:
+- '1178'
+image: https://vandersluijs.resultants-e.nl/2015/09/blogging-428954_1280-e1443549018362.jpg
+layout: post
+permalink: /2015/09/blogger-medium-facebook-notes-linkedin-posts.html
+title: Blogger, Medium, Facebook Notes, Linkedin posts
+
 ---
 Er komen meer en meer gratis blog-tools voor de blogger. Google Blogger, Medium (van twitter), Facebook Notes, Linkedin posts, Yahoo Tumbler en zo zijn er nog veel meer.
 

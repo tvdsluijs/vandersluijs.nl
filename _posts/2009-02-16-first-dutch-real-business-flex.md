@@ -1,29 +1,15 @@
 ---
-id: 439
-title: First Dutch Real Business Flex Application live
-date: 2009-02-16T16:55:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/02/16/first-dutch-real-business-flex/
-permalink: /2009/02/first-dutch-real-business-flex.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5915396975528052715"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/02/first-dutch-real-business-flex.html
-hits:
-  - "1211"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-02-16 16:55:00+00:00
+hits:
+- '1211'
+layout: post
+permalink: /2009/02/first-dutch-real-business-flex.html
+title: First Dutch Real Business Flex Application live
+
 ---
 Today, well actually this weekend ,the first Dutch real Business Flex application went live. Working for NL4B at the big Dutch insurance / bank  company I created a flex application to get information about insurance agents in The Netherlands from a SAP/CRM system.
 

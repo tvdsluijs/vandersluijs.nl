@@ -1,29 +1,15 @@
 ---
-id: 485
-title: Did you ever note, Evernote ?
-date: 2008-10-22T16:25:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/10/22/did-you-ever-note-evernote/
-permalink: /2008/10/did-you-ever-note-evernote.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4958585535073177648"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/10/did-you-ever-note-evernote.html
-hits:
-  - "865"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-10-22 16:25:00+00:00
+hits:
+- '865'
+layout: post
+permalink: /2008/10/did-you-ever-note-evernote.html
+title: Did you ever note, Evernote ?
+
 ---
 An ex collegue of mine told me a few months ago to start using <a href="http://www.evernote.com/" target="_blank">Evernote</a>. He said it was the best piece of software he had ever seen in the last couple of years.
 

@@ -1,33 +1,17 @@
 ---
-id: 45
-title: Beveiligen van MySQL verbindingen via een SSH tunnel
-date: 2014-09-11T20:16:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/beveiligen-van-mysql-verbindingen-via/
-permalink: /2014/09/beveiligen-van-mysql-verbindingen-via.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5981428176826327276"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/beveiligen-van-mysql-verbindingen-via.html
-blogger_thumbnail:
-  - /images/2014/Sep/1.png
-hits:
-  - "562"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5755089131"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 20:16:00+00:00
+dsq_thread_id:
+- '5755089131'
+hits:
+- '562'
+layout: post
+permalink: /2014/09/beveiligen-van-mysql-verbindingen-via.html
+title: Beveiligen van MySQL verbindingen via een SSH tunnel
+
 ---
 Dus je hebt een mysql database met klant gegevens er in? Dan zorg je natuurlijk als eerste dat alleen de website er bij kan door het toelaten van alleen het ip adres van de webserver!
 

@@ -1,47 +1,19 @@
 ---
-id: 200
-title: Rode ogen verwijderen in Gimp
-date: 2012-04-16T21:29:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/04/16/rode-ogen-verwijderen/
-permalink: /2012/04/rode-ogen-verwijderen-in-gimp.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2718602779893024989"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/04/rode-ogen-verwijderen.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "629"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5752808375"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2012-04-16 21:29:00+00:00
+dsq_thread_id:
+- '5752808375'
+hits:
+- '629'
+layout: post
+permalink: /2012/04/rode-ogen-verwijderen-in-gimp.html
 tags:
-  - Gimp
+- Gimp
+title: Rode ogen verwijderen in Gimp
+
 ---
 Lelijk hé …. rode ogen op een foto.
 

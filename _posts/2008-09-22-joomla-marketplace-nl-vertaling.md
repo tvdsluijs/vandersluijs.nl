@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-09-22 11:31
 excerpt_separator: <!--more-->
-title: 'Joomla Marketplace NL vertaling'
-slug: 'joomla-marketplace-nl-vertaling'
-date: '2008-09-22 11:31'
-publish_date: '2008-09-22 11:31'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-09-22 11:31
+slug: joomla-marketplace-nl-vertaling
+tags:
+- Coding
+title: Joomla Marketplace NL vertaling
+
 ---
 Vorige week heb ik op een andere site waar ik webmaster van ben
 (<http://wolphaartsdijk.goesweb.net>) het component MarketPlace geinstalleerd.

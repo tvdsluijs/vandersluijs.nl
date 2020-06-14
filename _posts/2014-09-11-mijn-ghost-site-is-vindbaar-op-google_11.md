@@ -1,33 +1,17 @@
 ---
-id: 56
-title: Mijn Ghost site is vindbaar op Google
-date: 2014-09-11T20:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/mijn-ghost-site-is-vindbaar-op-google_11/
-permalink: /2014/09/mijn-ghost-site-is-vindbaar-op-google_11.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1032105858852507891"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/mijn-ghost-site-is-vindbaar-op-google_11.html
-blogger_thumbnail:
-  - /images/2014/Jan/i_theo_van_der_sluijs_op_google.png
-hits:
-  - "836"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5951951075"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 20:00:00+00:00
+dsq_thread_id:
+- '5951951075'
+hits:
+- '836'
+layout: post
+permalink: /2014/09/mijn-ghost-site-is-vindbaar-op-google_11.html
+title: Mijn Ghost site is vindbaar op Google
+
 ---
 Na een kleine week is mijn Ghost site ook eindelijk vindbaar op Google.
 

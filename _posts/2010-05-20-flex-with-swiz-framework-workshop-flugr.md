@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-05-20 11:50
 excerpt_separator: <!--more-->
-title: 'Flex with Swiz framework Workshop @Flugr'
-slug: 'flex-with-swiz-framework-workshop-flugr'
-date: '2010-05-20 11:50'
-publish_date: '2010-05-20 11:50'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-05-20 11:50
+slug: flex-with-swiz-framework-workshop-flugr
+tags:
+- Coding
+title: Flex with Swiz framework Workshop @Flugr
+
 ---
 At Wednesday the 2nd of June, the [Dutch Flex User
 Group](http://swizframework.org/) will be giving a Flex/Swiz workshop. During

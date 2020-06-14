@@ -1,29 +1,17 @@
 ---
-id: 259
-title: Magix Video montage cursus is waardeloos
-date: 2010-11-29T02:52:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/11/29/magix-video-montage-cursus-is-waardeloos/
-permalink: /2010/11/magix-video-montage-cursus-is-waardeloos.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5271298424603888916"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/11/magix-video-montage-cursus-is-waardeloos.html
-hits:
-  - "1085"
-dsq_thread_id:
-  - "6007069581"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2010-11-29 02:52:00+00:00
+dsq_thread_id:
+- '6007069581'
+hits:
+- '1085'
+layout: post
+permalink: /2010/11/magix-video-montage-cursus-is-waardeloos.html
+title: Magix Video montage cursus is waardeloos
+
 ---
 Via Magix kan je een zogenaamde Video Montage Cursus volgen. Kost slechts 90 euro, en hiervoor krijg je een opleiding van 4 uur.
 

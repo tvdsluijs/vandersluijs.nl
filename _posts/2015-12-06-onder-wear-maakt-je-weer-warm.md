@@ -1,33 +1,16 @@
 ---
-id: 1866
-title: Onder-wear maakt je weer warm
-date: 2015-12-06T14:46:48+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1866
-permalink: /2015/12/onder-wear-maakt-je-weer-warm.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "507"
-itrr_another_apply:
-  - 'no'
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/12/IMG_1878-e1449412367401.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-12-06 14:46:48+00:00
+hits:
+- '507'
+image: https://vandersluijs.resultants-e.nl/2015/12/IMG_1878-e1449412367401.jpg
+layout: post
+permalink: /2015/12/onder-wear-maakt-je-weer-warm.html
+title: Onder-wear maakt je weer warm
+
 ---
 Brrrr&#8230;. eindelijk lijk het kouder te worden! En dat is maar goed ook, want anders hebben we straks echt geen winter meer en alleen maar zomer en natte periodes in Nederland.
 

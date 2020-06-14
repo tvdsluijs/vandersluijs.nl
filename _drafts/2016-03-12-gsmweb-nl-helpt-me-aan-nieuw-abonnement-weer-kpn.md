@@ -30,7 +30,8 @@ hits:
   - "642"
 dsq_thread_id:
   - "5845894303"
-feature-img: https://vandersluijs.resultants-e.nl/2016/03/s7-actie_banner-825x288.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/03/s7-actie_banner-825x288.jpg
 categories:
   - Lifestyle
 tags:

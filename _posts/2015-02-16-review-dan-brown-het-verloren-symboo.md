@@ -1,57 +1,18 @@
 ---
-id: 18
-title: 'Review, Dan Brown: Het verloren symbool'
-date: 2015-02-16T20:55:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/02/16/review-dan-brown-het-verloren-symboo/
-permalink: /2015/02/review-dan-brown-het-verloren-symboo.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6184676331640375467"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/02/review-dan-brown-het-verloren-symbool.html
-blogger_thumbnail:
-  - http://www.danbrown.nl/i/large/33.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "1440"
-dsq_thread_id:
-  - "5831164522"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/02/33.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2015-02-16 20:55:00+00:00
+dsq_thread_id:
+- '5831164522'
+hits:
+- '1440'
+image: https://vandersluijs.resultants-e.nl/2015/02/33.jpg
+layout: post
+permalink: /2015/02/review-dan-brown-het-verloren-symboo.html
+title: 'Review, Dan Brown: Het verloren symbool'
+
 ---
 <div class="separator" style="clear: both; text-align: left;">
   Dan Brown, een schrijver van goede boeken&#8230; of niet? Ieder zal er wel zo zijn of haar mening over hebben. Dat is ook niet erg.

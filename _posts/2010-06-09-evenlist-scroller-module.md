@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-06-09 23:02
 excerpt_separator: <!--more-->
-title: 'EvenList Scroller Module'
-slug: 'evenlist-scroller-module'
-date: '2010-06-09 23:02'
-publish_date: '2010-06-09 23:02'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*I3xPJz2QREom_RBZ.gif'
-  feature: 0*I3xPJz2QREom_RBZ.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*I3xPJz2QREom_RBZ.gif
+layout: post
+publish_date: 2010-06-09 23:02
+slug: evenlist-scroller-module
+tags:
+- Coding
+title: EvenList Scroller Module
+
 ---
 Do you like the EventList Component by schlu.net ?  
   

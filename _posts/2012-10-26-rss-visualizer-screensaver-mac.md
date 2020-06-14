@@ -1,47 +1,15 @@
 ---
-id: 158
-title: RSS Visualizer screensaver Mac
-date: 2012-10-26T05:09:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/10/26/rss-visualizer-screensaver-mac/
-permalink: /2012/10/rss-visualizer-screensaver-mac.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5012141160978136304"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/10/rss-visualizer-screensaver-mac.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2012/10/RSS-Visualizer-300x214.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-factory_shortcodes_assets:
-  - 'a:1:{s:12:"sociallocker";a:1:{i:0;s:0:"";}}'
-hits:
-  - "497"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-10-26 05:09:00+00:00
+hits:
+- '497'
+layout: post
+permalink: /2012/10/rss-visualizer-screensaver-mac.html
+title: RSS Visualizer screensaver Mac
+
 ---
 <div>
   <a href=https://vandersluijs.resultants-e.nl/2012/10/RSS-Visualizer.jpg"><img src="https://vandersluijs.resultants-e.nl/2012/10/RSS-Visualizer-300x214.jpg" alt="" width="200" height="143" border="0" /></a>

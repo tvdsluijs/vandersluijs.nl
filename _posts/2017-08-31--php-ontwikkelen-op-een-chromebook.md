@@ -1,15 +1,21 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: php ontwikkelen op een Chromebook
-slug: 'php-ontwikkelen-op-een-chromebook'
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
 date: '2017-08-31 20:04:22.459000+00:00'
+excerpt_separator: <!--more-->
+image: https://vandersluijs.resultants-e.nl/1*_UI1YYXp2vby2qdgUKcsyA.jpeg
+layout: post
 publish_date: '2017-08-31 20:04:22.459000+00:00'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*_UI1YYXp2vby2qdgUKcsyA.jpeg'
-  feature: 1*_UI1YYXp2vby2qdgUKcsyA.jpeg'
-category: ['Coding']
-tags: ['Apple', 'Chromebook', 'Development', 'PHP']
+slug: php-ontwikkelen-op-een-chromebook
+tags:
+- Apple
+- Chromebook
+- Development
+- PHP
+title: php ontwikkelen op een Chromebook
+
 ---
 Zoals je wellicht hebt kunnen lezen heb ik mijn baan opgezegd en moest ik
 daarbij mijn Macbook inleveren. Tja daar ging mijn ontwikkel omgeving.

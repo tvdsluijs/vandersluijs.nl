@@ -1,33 +1,17 @@
 ---
-id: 76
-title: Van MD5 schijnveiligheid naar veilige wachtwoord versleuteling.
-date: 2014-01-17T09:02:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/01/17/van-md5-schijnveiligheid-naar-veilige/
-permalink: /2014/01/van-md5-schijnveiligheid-naar-veilige.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6353065324016736330"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/01/van-md5-schijnveiligheid-naar-veilige.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2014/01/6101434856_e7eafdfdf2_m.jpg
-hits:
-  - "669"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5813401538"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-01-17 09:02:00+00:00
+dsq_thread_id:
+- '5813401538'
+hits:
+- '669'
+layout: post
+permalink: /2014/01/van-md5-schijnveiligheid-naar-veilige.html
+title: Van MD5 schijnveiligheid naar veilige wachtwoord versleuteling.
+
 ---
 <table cellpadding="0" cellspacing="0" style="float: left; margin-right: 1em; text-align: left;">
   <tr>

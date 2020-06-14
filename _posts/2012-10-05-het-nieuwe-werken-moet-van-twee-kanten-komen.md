@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Agile
+- Scrum
+comments: 'true'
+date: 2012-10-05 15:34
 excerpt_separator: <!--more-->
-title: 'Het nieuwe werken, moet van twee kanten komen'
-slug: 'het-nieuwe-werken-moet-van-twee-kanten-komen'
-date: '2012-10-05 15:34'
-publish_date: '2012-10-05 15:34'
-category: ['Agile', 'Scrum']
-tags: ['Agile', 'Scrum']
+layout: post
+publish_date: 2012-10-05 15:34
+slug: het-nieuwe-werken-moet-van-twee-kanten-komen
+tags:
+- Agile
+- Scrum
+title: Het nieuwe werken, moet van twee kanten komen
+
 ---
 Het nieuwe werken. Iets wat al ik al lang doe. Al voor dat ik überhaupt wist
 wat het nieuwe werken was deed ik het al.  

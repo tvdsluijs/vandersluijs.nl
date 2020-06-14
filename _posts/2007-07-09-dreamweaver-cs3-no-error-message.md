@@ -1,30 +1,16 @@
 ---
-id: 536
-title: Dreamweaver CS3 No Error Message
-date: 2007-07-09T00:11:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/07/09/dreamweaver-cs3-no-error-message/
-permalink: /2007/07/dreamweaver-cs3-no-error-message.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4913595947862769083"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/07/dreamweaver-cs3-no-error-message.html
-hits:
-  - "880"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-07-09 00:11:00+00:00
+excerpt_separator: <!--more-->
+hits:
+- '880'
+layout: post
+permalink: /2007/07/dreamweaver-cs3-no-error-message.html
+title: Dreamweaver CS3 No Error Message
+
 ---
 No Error Message &#8230; Or&#8230; Message of no error.
 

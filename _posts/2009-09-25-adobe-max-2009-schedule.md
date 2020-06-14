@@ -1,27 +1,15 @@
 ---
-id: 390
-title: Adobe Max 2009 Schedule
-date: 2009-09-25T10:52:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/09/25/adobe-max-2009-schedule/
-permalink: /2009/09/adobe-max-2009-schedule.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2689448295297997035"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/09/adobe-max-2009-schedule.html
-hits:
-  - "567"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2009-09-25 10:52:00+00:00
+hits:
+- '567'
+layout: post
+permalink: /2009/09/adobe-max-2009-schedule.html
+title: Adobe Max 2009 Schedule
+
 ---
 The **Adobe MAX** is a large annual event held by [Adobe Systems](http://en.wikipedia.org/wiki/Adobe_Systems) in [North America](http://en.wikipedia.org/wiki/North_America), [Europe](http://en.wikipedia.org/wiki/Europe) and [Japan](http://en.wikipedia.org/wiki/Japan). The purpose of the event is to provide unique opportunities for those in the [computer design](http://en.wikipedia.org/wiki/Computer_design) and development industries to connect and learn the latest cutting-edge technologies that Adobe releases. The event also announces the winners of Adobe&#8217;s highest honor, the [Adobe MAX Award](http://en.wikipedia.org/w/index.php?title=Adobe_MAX_Award&action=edit&redlink=1). There are 6 MAX Award winners from 6 different categories: 
 

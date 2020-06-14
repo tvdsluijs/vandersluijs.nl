@@ -50,7 +50,8 @@ itrr_another_apply:
   - 'no'
 dsq_thread_id:
   - "5700725994"
-feature-img: https://vandersluijs.resultants-e.nl/2015/02/16504879566_a5b032f34b.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/02/16504879566_a5b032f34b.jpg
 categories:
   - Tech
 tags:

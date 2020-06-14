@@ -1,35 +1,19 @@
 ---
-id: 2706
-title: Verkeerd Perspectief oplossen met Gimp
-date: 2010-04-09T11:42:01+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://dezeeuwsefotograaf.nl/?p=19
-permalink: /2010/04/verkeerd-perspectief-oplossen-met-gimp.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "620"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5746139302"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2010-04-09 11:42:01+00:00
+dsq_thread_id:
+- '5746139302'
+hits:
+- '620'
+layout: post
+permalink: /2010/04/verkeerd-perspectief-oplossen-met-gimp.html
 tags:
-  - Gimp
+- Gimp
+title: Verkeerd Perspectief oplossen met Gimp
+
 ---
 Hoge voorwerpen en gebouwen lijken vaak gevaarlijk over te hellen of door te buigen op foto’s.
 

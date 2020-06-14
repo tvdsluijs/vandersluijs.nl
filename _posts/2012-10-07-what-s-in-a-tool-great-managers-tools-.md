@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Management
+comments: 'true'
+date: 2012-10-07 09:00
 excerpt_separator: < !--more -->
-title: 'What’s in a Tool? Great Managers tools!'
-slug: 'what-s-in-a-tool-great-managers-tools-'
-date: '2012-10-07 09:00'
-publish_date: '2012-10-07 09:00'
-category: ['Management']
-tags: ['Agile', 'Scrum', 'Tools']
+layout: post
+publish_date: 2012-10-07 09:00
+slug: what-s-in-a-tool-great-managers-tools-
+tags:
+- Agile
+- Scrum
+- Tools
+title: "What\u2019s in a Tool? Great Managers tools!"
+
 ---
 So many people ask me how can you keep up in your work?
 

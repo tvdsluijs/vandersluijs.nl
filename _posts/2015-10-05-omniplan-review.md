@@ -1,42 +1,22 @@
 ---
-id: 1488
-title: OmniPlan review
-date: 2015-10-05T20:54:29+00:00
-author: Theo.
-layout: post
-guid: http://vandersluijs.nl/?p=1488
-permalink: /2015/10/omniplan-review.html
-vw_review_summary:
-  - Omniplan is een compleet planningspakket waar je door de vele features nog wel eens de weg kan kwijt raken. De prijs is fors maar reëel voor dit pakket.
-vw_review_average_score:
-  - "4.5"
-vw_review_score_0_label:
- - Installatie en configuratie
-vw_review_score_0_score:
- - 10
-vw_review_score_1_label:
- - Functies en ondersteuning
-vw_review_score_1_score:
- - 10
-vw_review_score_2_label:
- - Interface
-vw_review_score_2_score:
- - 10
-vw_review_score_3_label:
- - Prijs
-vw_review_score_3_score:
- - 6
-video_post_url:
-  - ""
-dsq_thread_id:
-  - "5730805925"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-05-at-22.51.44.png
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-10-05 20:54:29+00:00
+description:
+- "Omniplan is een compleet planningspakket waar je door de vele features nog wel\
+  \ eens de weg kan kwijt raken. De prijs is fors maar re\xEBel voor dit pakket."
+dsq_thread_id:
+- '5730805925'
+image: https://vandersluijs.resultants-e.nl/2015/10/Screen-Shot-2015-10-05-at-22.51.44.png
+layout: post
+permalink: /2015/10/omniplan-review.html
 tags:
-  - Jira
-  - Scrum
+- Jira
+- Scrum
+title: OmniPlan review
+
 ---
 Jira van Atlassian, ik kan er mee lezen en schrijven. Geen project begin ik zonder dat ik in jira de tickets heb aangemaakt inclusief bijbehorende flow en ticket statussen. Ik zou echt niet meer zonder Jira kunnen.
 

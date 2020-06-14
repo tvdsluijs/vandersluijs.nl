@@ -1,28 +1,16 @@
 ---
-id: 48
-title: Ja ik was op het PFCongres 2013
-date: 2014-09-11T20:10:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/ja-ik-was-op-het-pfcongres-2013/
-permalink: /2014/09/ja-ik-was-op-het-pfcongres-2013.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3120625992816065002"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/ja-ik-was-op-het-pfcongres-2013.html
-hits:
-  - "854"
+author: tvdsluijs
 categories:
-  - Lifestyle
-  - Tech
+- Lifestyle
+- Tech
+comments: 'true'
+date: 2014-09-11 20:10:00+00:00
+hits:
+- '854'
+layout: post
+permalink: /2014/09/ja-ik-was-op-het-pfcongres-2013.html
+title: Ja ik was op het PFCongres 2013
+
 ---
 PFCongres is hét webdevelopment congres van het jaar. Op 14 september 2013 verwelkomt organisator PFZ.nl voor de achtste maal een grote groep webontwikkelaars voor een jaarlijkse kennisupdate. Ook dit jaar kun je weer rekenen op een gehele congresdag met twee gelijktijdige tracks.
 

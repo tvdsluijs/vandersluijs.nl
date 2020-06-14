@@ -1,39 +1,16 @@
 ---
-id: 2659
-title: Review 2 producten van telefoonhoesjestore.nl
-date: 2016-04-10T12:03:16+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2659
-permalink: /2016/04/review-2-producten-van-telefoonhoesjestore-nl.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "644"
-itrr_another_apply:
-  - 'no'
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/04/20160324_183542-e1460287711465-825x501.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-04-10 12:03:16+00:00
+hits:
+- '644'
+image: https://vandersluijs.resultants-e.nl/2016/04/20160324_183542-e1460287711465-825x501.jpg
+layout: post
+permalink: /2016/04/review-2-producten-van-telefoonhoesjestore-nl.html
+title: Review 2 producten van telefoonhoesjestore.nl
+
 ---
 Toen ik benaderd werd door weer een telefoon hoesjes winkel, online wel te verstaan, wist ik niet zeker of ik wel weer een artikel wilde schrijven over <a href="http://www.telefoonhoesjestore.nl/" target="_blank">telefoonhoesjes</a>, handschoenen, stylus/pennen, selfysticks, powerbanks en laad/data kabels. Toch wist telefoonhoesjestore.nl me te verassen met wat <a href="http://www.telefoonhoesjestore.nl/accessoires/" target="_blank">telefoonaccessoires</a> die ik nog niet getest had.
 

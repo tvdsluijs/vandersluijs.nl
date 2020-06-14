@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-01-26 06:52
 excerpt_separator: <!--more-->
-title: 'Expandable Textarea'
-slug: 'expandable-textarea'
-date: '2009-01-26 06:52'
-publish_date: '2009-01-26 06:52'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*Cq7lyI3Umc4dgMDE.gif'
-  feature: 0*Cq7lyI3Umc4dgMDE.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*Cq7lyI3Umc4dgMDE.gif
+layout: post
+publish_date: 2009-01-26 06:52
+slug: expandable-textarea
+tags:
+- Coding
+title: Expandable Textarea
+
 ---
 Would it not be nice to have a small Textarea which would get bigger when you
 go in to it.  

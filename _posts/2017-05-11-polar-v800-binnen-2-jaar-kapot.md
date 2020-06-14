@@ -1,23 +1,22 @@
 ---
-id: 4320
-title: Polar V800 binnen 2 jaar kapot
-date: 2017-05-11T16:28:49+00:00
-excerpt_separator: <!--more-->
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl/?p=4320
-permalink: /2017/05/polar-v800-binnen-2-jaar-kapot.html
-hits:
-  - "204"
-dsq_thread_id:
-  - "5886317978"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2017/06/vocht-polar-v800-1-825x510.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2017-05-11 16:28:49+00:00
+dsq_thread_id:
+- '5886317978'
+excerpt_separator: <!--more-->
+hits:
+- '204'
+image: https://vandersluijs.resultants-e.nl/2017/06/vocht-polar-v800-1-825x510.jpg
+layout: post
+permalink: /2017/05/polar-v800-binnen-2-jaar-kapot.html
 tags:
-  - Polar
-  - v800
+- Polar
+- v800
+title: Polar V800 binnen 2 jaar kapot
+
 ---
 <section class="gh-view"> <section id="ember2103" class="ember-view view-container view-editor"> <section class="entry-preview js-entry-preview "> <section class="entry-preview-content js-entry-preview-content"> 
 

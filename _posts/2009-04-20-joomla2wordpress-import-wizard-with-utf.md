@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-04-20 06:01
 excerpt_separator: <!--more-->
-title: 'Joomla2Wordpress import wizard with UTF-8 support'
-slug: 'joomla2wordpress-import-wizard-with-utf'
-date: '2009-04-20 06:01'
-publish_date: '2009-04-20 06:01'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-04-20 06:01
+slug: joomla2wordpress-import-wizard-with-utf
+tags:
+- Coding
+title: Joomla2Wordpress import wizard with UTF-8 support
+
 ---
 I recently switched from Joomla! over to Wordpress. One major step which was
 preventing me from making the move for so long was the export process.  

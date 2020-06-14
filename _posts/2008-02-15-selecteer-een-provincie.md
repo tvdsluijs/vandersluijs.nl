@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+- Action Script
+comments: 'true'
+date: 2008-02-15 00:15
 excerpt_separator: <!--more-->
-title: 'Selecteer een Provincie'
-slug: 'selecteer-een-provincie'
-date: '2008-02-15 00:15'
-publish_date: '2008-02-15 00:15'
-category: ['Coding', 'Action Script']
-tags: ['Coding', 'Action Script']
+layout: post
+publish_date: 2008-02-15 00:15
+slug: selecteer-een-provincie
+tags:
+- Coding
+- Action Script
+title: Selecteer een Provincie
+
 ---
 Nou het gaat met stappen vooruit in Adobe Flex.
 

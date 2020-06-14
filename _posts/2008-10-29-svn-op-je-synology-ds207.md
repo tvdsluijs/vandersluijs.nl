@@ -1,31 +1,17 @@
 ---
-id: 480
-title: SVN op je Synology DS207
-date: 2008-10-29T20:32:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/10/29/svn-op-je-synology-ds207/
-permalink: /2008/10/svn-op-je-synology-ds207.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "494623317519013519"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/10/svn-op-je-synology-ds207.html
-hits:
-  - "1516"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5710493099"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-10-29 20:32:00+00:00
+dsq_thread_id:
+- '5710493099'
+hits:
+- '1516'
+layout: post
+permalink: /2008/10/svn-op-je-synology-ds207.html
+title: SVN op je Synology DS207
+
 ---
 Ik heb dus een mooie Synology DS 207 gekocht met 2x 1 TB schijfjes er in. Dat leek me wel handig. Ik had een mooie Ubuntu server staan, maar die trok me toch wat te veel stroom. En hoe los je dat op&#8230;. door iets energie zuinigs te kopen&#8230; en neer te zetten. Via internet kwam ik er al snel achter dat de synology nas systemen redelijk zuinig zijn&#8230; zeker met wat groen gelabelde schijven er in. Alles wat mijn Ubuntu server kon&#8230; kan ook op de synology&#8230; out of the box&#8230;.. behalve dan 1 ding&#8230;. namelijk SVN / Subversion. In deze korte handleiding leg ik uit hoe je dit toch op je Synology kan krijgen.   
 <a name="more"></a>   

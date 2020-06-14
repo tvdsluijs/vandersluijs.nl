@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-04-07 09:32
 excerpt_separator: <!--more-->
-title: 'Email Validation on Adobe PDF, LiveCycle Designer'
-slug: 'email-validation-on-adobe-pdf-livecycle-designer'
-date: '2009-04-07 09:32'
-publish_date: '2009-04-07 09:32'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-04-07 09:32
+slug: email-validation-on-adobe-pdf-livecycle-designer
+tags:
+- Coding
+title: Email Validation on Adobe PDF, LiveCycle Designer
+
 ---
 You want to validate an email address on your Adobe LiveCycle Designer Form ?
 No problem, just follow the following small tutorial.  

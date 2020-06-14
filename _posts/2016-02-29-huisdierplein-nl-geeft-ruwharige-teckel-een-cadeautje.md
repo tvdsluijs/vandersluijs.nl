@@ -1,41 +1,20 @@
 ---
-id: 2517
-title: Huisdierplein.nl geeft Ruwharige Teckel een cadeautje
-date: 2016-02-29T07:00:22+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2517
-permalink: /2016/02/huisdierplein-nl-geeft-ruwharige-teckel-een-cadeautje.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "739"
-dsq_thread_id:
-  - "5734525612"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/DSC00161-e1456578868797-825x510.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-02-29 07:00:22+00:00
+dsq_thread_id:
+- '5734525612'
+hits:
+- '739'
+image: https://vandersluijs.resultants-e.nl/2016/02/DSC00161-e1456578868797-825x510.jpg
+layout: post
+permalink: /2016/02/huisdierplein-nl-geeft-ruwharige-teckel-een-cadeautje.html
 tags:
-  - Teckel
+- Teckel
+title: Huisdierplein.nl geeft Ruwharige Teckel een cadeautje
+
 ---
 Vorige week kwam er een hele  grote doos, voor een heel klein hondje binnen. Onze Ruwharige teckel Bas kreeg namelijk een doos van Huisdierplein.nl met allemaal leuke cadeautjes er in.
 

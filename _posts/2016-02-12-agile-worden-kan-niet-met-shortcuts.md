@@ -1,12 +1,23 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: 'Agile worden kan niet met Shortcuts'
-slug: 'agile-worden-kan-niet-met-shortcuts'
+author: tvdsluijs
+category:
+- Agile
+- Scrum
+- Agility
+- Agile Transformation
+comments: 'true'
 date: '2016-02-12 15:14:56+00:00'
+excerpt_separator: <!--more-->
+layout: post
 publish_date: '2016-02-12 15:14:56+00:00'
-category: ['Agile', 'Scrum', 'Agility', 'Agile Transformation']
-tags: ['Agile', 'Scrum', 'Agility', 'Agile Transformation']
+slug: agile-worden-kan-niet-met-shortcuts
+tags:
+- Agile
+- Scrum
+- Agility
+- Agile Transformation
+title: Agile worden kan niet met Shortcuts
+
 ---
 In de tijd dat ik Agile transformaties begeleid krijg ik vaak de vraag of er
 bepaalde onderdelen uit het proces niet geschrapt kunnen worden omdat het hun

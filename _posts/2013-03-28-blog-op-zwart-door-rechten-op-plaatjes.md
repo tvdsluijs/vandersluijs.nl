@@ -1,29 +1,17 @@
 ---
-id: 130
-title: Blog op zwart door rechten op plaatjes.
-date: 2013-03-28T07:11:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/03/28/blog-op-zwart-door-rechten-op-plaatjes/
-permalink: /2013/03/blog-op-zwart-door-rechten-op-plaatjes.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4746098868803423035"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/03/blog-op-zwart-door-rechten-op-plaatjes.html
-hits:
-  - "7393"
-dsq_thread_id:
-  - "5713308131"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2013-03-28 07:11:00+00:00
+dsq_thread_id:
+- '5713308131'
+hits:
+- '7393'
+layout: post
+permalink: /2013/03/blog-op-zwart-door-rechten-op-plaatjes.html
+title: Blog op zwart door rechten op plaatjes.
+
 ---
 Een paar weken geleden kreeg (dat wil zeggen mijn eigen bedrijfje) een brief op de deurmat met de vraag of ik even 600 euro wilde over maken omdat ik blijkbaar een foto had gebruikt op mijn site van een partij waarop copyrights zouden rusten.
 

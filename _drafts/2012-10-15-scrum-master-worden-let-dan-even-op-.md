@@ -5,8 +5,8 @@ title: 'Scrum master worden? Let dan even op!'
 slug: 'scrum-master-worden-let-dan-even-op-'
 date: '2012-10-15 22:14'
 publish_date: '2012-10-15 22:14'
-category: ['Agile', 'Certification', 'Scrum', 'Certified Scrum Master', 'Scrum Master']
-tags: ['Agile', 'Certification', 'Scrum', 'Certified Scrum Master', 'Scrum Master']
+category: ['Scrum']
+tags: ['Certification', 'Scrum Master']
 ---
 Dus je wilt SCRUM master worden? Waarschijnlijk gebruik je het al een tijdje
 op de zaak, heb je diverse boeken of online stukken er over gelezen en denk je

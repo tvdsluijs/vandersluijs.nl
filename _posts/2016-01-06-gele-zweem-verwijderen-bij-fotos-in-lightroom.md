@@ -1,37 +1,19 @@
 ---
-id: 2091
-title: Gele zweem verwijderen bij fotos in Lightroom
-date: 2016-01-06T20:23:57+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2091
-permalink: /2016/01/gele-zweem-verwijderen-bij-fotos-in-lightroom.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-factory_shortcodes_assets:
-  - 'a:0:{}'
-hits:
-  - "912"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5713315214"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2016-01-06 20:23:57+00:00
+dsq_thread_id:
+- '5713315214'
+hits:
+- '912'
+layout: post
+permalink: /2016/01/gele-zweem-verwijderen-bij-fotos-in-lightroom.html
 tags:
-  - Lightroom
+- Lightroom
+title: Gele zweem verwijderen bij fotos in Lightroom
+
 ---
 Misschien ken je het wel. Heb je een mooie foto gemaakt (althans dat denk je) kijk je op je scherm is hij zo geel als wat. Dit noemen ze gele zweem en deze fout komt vaak voor en komt door een verkeerde witbalans instelling. Gelukkig is er een oplossing voor!<!--more-->
 

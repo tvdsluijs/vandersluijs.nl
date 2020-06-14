@@ -1,31 +1,17 @@
 ---
-id: 68
-title: Hoe mijn nieuwe boek een hit werd, maar het niet was!
-date: 2014-03-28T20:02:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/03/28/hoe-mijn-nieuwe-boek-een-hit-werd-maar/
-permalink: /2014/03/hoe-mijn-nieuwe-boek-een-hit-werd-maar.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6218735357829136284"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/03/hoe-mijn-nieuwe-boek-een-hit-werd-maar.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2014/03/theo_van_der_sluijs_boek.jpg
-hits:
-  - "441"
-dsq_thread_id:
-  - "5704203877"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2014-03-28 20:02:00+00:00
+dsq_thread_id:
+- '5704203877'
+hits:
+- '441'
+layout: post
+permalink: /2014/03/hoe-mijn-nieuwe-boek-een-hit-werd-maar.html
+title: Hoe mijn nieuwe boek een hit werd, maar het niet was!
+
 ---
 <div style="clear: both; text-align: center;">
   <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href=https://vandersluijs.resultants-e.nl/2014/03/theo_van_der_sluijs_boek.jpg"><img src="https://vandersluijs.resultants-e.nl/2014/03/theo_van_der_sluijs_boek.jpg" alt="" width="200" height="142" border="0" /></a>

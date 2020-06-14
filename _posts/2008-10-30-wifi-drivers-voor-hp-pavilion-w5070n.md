@@ -1,31 +1,17 @@
 ---
-id: 476
-title: Wifi Drivers voor HP Pavilion W5070.nl
-date: 2008-10-30T19:54:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/10/30/wifi-drivers-voor-hp-pavilion-w5070n/
-permalink: /2008/10/wifi-drivers-voor-hp-pavilion-w5070n.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "252322067635284853"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/10/wifi-drivers-voor-hp-pavilion-w5070nl.html
-hits:
-  - "877"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5904401248"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-10-30 19:54:00+00:00
+dsq_thread_id:
+- '5904401248'
+hits:
+- '877'
+layout: post
+permalink: /2008/10/wifi-drivers-voor-hp-pavilion-w5070n.html
+title: Wifi Drivers voor HP Pavilion W5070.nl
+
 ---
 Twee dagen ben ik op zoek geweest naar de juiste WiFi drivers voor de HP PavilionW5070.nl
 

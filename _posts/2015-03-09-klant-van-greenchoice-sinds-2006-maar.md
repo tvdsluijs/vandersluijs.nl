@@ -1,57 +1,18 @@
 ---
-id: 11
-title: Klant van Greenchoice sinds 2006, maar zo voelt het niet meer.
-date: 2015-03-09T19:51:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/03/09/klant-van-greenchoice-sinds-2006-maar/
-permalink: /2015/03/klant-van-greenchoice-sinds-2006-maar.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8142491959603662951"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/03/klant-van-greenchoice-sinds-2006-maar.html
-blogger_thumbnail:
-  - http://4.bp.blogspot.com/-HJbUqMK-HW8/VP3telEwKQI/AAAAAAABSmw/JQ62S8CGHic/s1600/greenchoice.jpeg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "630"
-dsq_thread_id:
-  - "5812980760"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/03/greenchoice.jpeg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2015-03-09 19:51:00+00:00
+dsq_thread_id:
+- '5812980760'
+hits:
+- '630'
+image: https://vandersluijs.resultants-e.nl/2015/03/greenchoice.jpeg
+layout: post
+permalink: /2015/03/klant-van-greenchoice-sinds-2006-maar.html
+title: Klant van Greenchoice sinds 2006, maar zo voelt het niet meer.
+
 ---
 <div class="separator" style="clear: both; text-align: left;">
   Ik weet het nog goed. Toen ik me aan had gemeld bij PMA voor de collectieve zorg verzekering van Menzis kreeg ik ook een aanbod om lid te worden van Greenchoice! De Groene energie provider van Nederland!

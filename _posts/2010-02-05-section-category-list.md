@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-05 13:55
 excerpt_separator: <!--more-->
-title: 'Section Category List'
-slug: 'section-category-list'
-date: '2010-02-05 13:55'
-publish_date: '2010-02-05 13:55'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-02-05 13:55
+slug: section-category-list
+tags:
+- Coding
+title: Section Category List
+
 ---
 The section category list is a kind of menu list where all your sections and
 categories are in.  

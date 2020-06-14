@@ -1,31 +1,17 @@
 ---
-id: 230
-title: Gebruik van Captcha op formulier werkt niet.
-date: 2011-07-26T22:38:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/07/26/gebruik-van-captcha-op-formulier-werk/
-permalink: /2011/07/gebruik-van-captcha-op-formulier-werk.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7817596898232280660"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/07/gebruik-van-captcha-op-formulier-werkt.html
-hits:
-  - "633"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5712884756"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-07-26 22:38:00+00:00
+dsq_thread_id:
+- '5712884756'
+hits:
+- '633'
+layout: post
+permalink: /2011/07/gebruik-van-captcha-op-formulier-werk.html
+title: Gebruik van Captcha op formulier werkt niet.
+
 ---
 Eigenlijk wilde ik dit artikel eerst noemen, de zin en onzin van Captcha&#8217;s. Maar eigenlijk is het puur onzin om Captcha&#8217;s te gebruiken op je formulieren.
 

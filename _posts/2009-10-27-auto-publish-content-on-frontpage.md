@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-10-27 12:34
 excerpt_separator: <!--more-->
-title: 'Auto publish content on Frontpage'
-slug: 'auto-publish-content-on-frontpage'
-date: '2009-10-27 12:34'
-publish_date: '2009-10-27 12:34'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-10-27 12:34
+slug: auto-publish-content-on-frontpage
+tags:
+- Coding
+title: Auto publish content on Frontpage
+
 ---
 Finally it is here ! The one and only Auto Publish Content Plugin for Joomla!
 1.5

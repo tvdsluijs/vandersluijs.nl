@@ -1,29 +1,15 @@
 ---
-id: 74
-title: Overstappen op Ghost, ik denk er over na!
-date: 2014-01-21T21:10:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/01/21/overstappen-op-ghost-ik-denk-er-over-na/
-permalink: /2014/01/overstappen-op-ghost-ik-denk-er-over-na.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "379420658707780583"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/01/overstappen-op-ghost-ik-denk-er-over-na.html
-hits:
-  - "473"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-01-21 21:10:00+00:00
+hits:
+- '473'
+layout: post
+permalink: /2014/01/overstappen-op-ghost-ik-denk-er-over-na.html
+title: Overstappen op Ghost, ik denk er over na!
+
 ---
 Sinds ik op <a href="http://www.kickstarter.com/projects/johnonolan/ghost-just-a-blogging-platform" target="_blank">Kickstarter</a> het project Ghost heb ontdekt ben ik er redelijk geïntrigeerd door. Ik vroeg me lang af wat dit ging worden en of het een wordpress killer zou kunnen zijn.
 

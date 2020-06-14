@@ -1,22 +1,22 @@
 ---
-layout: post
-title: 'Install MongoDB on Mac OS X'
-slug: 'install-mongodb-on-mac-os-x'
+author: tvdsluijs
+categories:
+- Tech
+comments: 'true'
 date: '2018-02-22 07:01:00.948000+00:00'
 excerpt_separator: < !--more -->
+image: /images/1*lLD6w6_jjDQwnznRw_ysxg.jpeg
+layout: post
 publish_date: '2018-02-22 07:01:00.948000+00:00'
-image:
-  path: '/images/1*lLD6w6_jjDQwnznRw_ysxg.jpeg'
-  feature: '1*lLD6w6_jjDQwnznRw_ysxg.jpeg'
-  credit: 'negativespace.co'
-  creditlink:  'http://negativespace.co/photos/coding/'
-categories: ['Tech']
-tags: 
- - 'Mongodb'
- - 'Database'
- - 'OS X'
- - 'Development'
- - 'Coding'
+slug: install-mongodb-on-mac-os-x
+tags:
+- Mongodb
+- Database
+- OS X
+- Development
+- Coding
+title: Install MongoDB on Mac OS X
+
 ---
 I installed mongodb a lot of times on my macbook. And everytime I keep
 forgetting how. So I was thinking… Let’s create a little page on how…

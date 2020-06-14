@@ -1,33 +1,18 @@
 ---
-id: 1874
-title: Geen échte aandacht bij Eye Wish Opticiens
-date: 2015-12-08T06:59:02+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1874
-permalink: /2015/12/eye-wish-opticiens.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "1786"
-dsq_thread_id:
-  - "5700415816"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/12/maxresdefault-e1449500768773-825x510.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2015-12-08 06:59:02+00:00
+dsq_thread_id:
+- '5700415816'
+hits:
+- '1786'
+image: https://vandersluijs.resultants-e.nl/2015/12/maxresdefault-e1449500768773-825x510.jpg
+layout: post
+permalink: /2015/12/eye-wish-opticiens.html
+title: "Geen \xE9chte aandacht bij Eye Wish Opticiens"
+
 ---
 Echte aandacht bij Eye Wish Opticiens! Kent u die reclame? Eye Wish opticiens, meer oog voor jou. Nou dat heb ik helaas niet helemaal zo ervaren.
 

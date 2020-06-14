@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-12-14 20:35
 excerpt_separator: <!--more-->
-title: 'Twitter Followers module for Joomla!'
-slug: 'twitter-followers-module-for-joomla-'
-date: '2009-12-14 20:35'
-publish_date: '2009-12-14 20:35'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-12-14 20:35
+slug: twitter-followers-module-for-joomla-
+tags:
+- Coding
+title: Twitter Followers module for Joomla!
+
 ---
 With this little module you can show pictures (avatars) of People that are
 following you on Twitter.  

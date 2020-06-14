@@ -1,24 +1,22 @@
 ---
-id: 4325
-title: Polar V650 review
-date: 2017-04-01T16:32:26+00:00
-excerpt_separator: <!--more-->
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl/?p=4325
-permalink: /2017/04/polar-v650-review.html
-hits:
-  - "139"
-dsq_thread_id:
-  - "5882247989"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2017/06/polar-v650-8-825x510.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2017-04-01 16:32:26+00:00
+dsq_thread_id:
+- '5882247989'
+excerpt_separator: <!--more-->
+hits:
+- '139'
+image: https://vandersluijs.resultants-e.nl/2017/06/polar-v650-8-825x510.jpg
+layout: post
+permalink: /2017/04/polar-v650-review.html
 tags:
-  - Polar
-  - v650
-format: image
+- Polar
+- v650
+title: Polar V650 review
+
 ---
 Fietsen, sinds mijn knie door een niet zo&#8217;n goede fysiotherapeut als zogenaamd kapot is verklaard doe ik het. Ik fietste met mijn Polar V800 in zo&#8217;n speciale houder, maar echt handig was dat niet. Ik wilde meer kunnen zien, routes kunnen volgen en een apparaat dat speciaal voor het fietsen was. Dus kocht ik een Polar V650.
 <!--more-->

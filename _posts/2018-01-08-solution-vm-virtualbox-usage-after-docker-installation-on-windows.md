@@ -1,20 +1,21 @@
 ---
-layout: post
-title: 'Solution VM VirtualBox usage after docker installation on Windows'
-slug: 'solution-vm-virtualbox-usage-after-docker-installation-on-windows'
+author: tvdsluijs
+categories:
+- Tech
+comments: 'true'
 date: '2018-01-08 06:54:38.783000+00:00'
 excerpt_separator: < !--more -->
+image: /images/1*u2MX2pZCg6GGZoBkEgjmdQ.png
+layout: post
 publish_date: '2018-01-08 06:54:38.783000+00:00'
-image:
-  path: '/images/1*u2MX2pZCg6GGZoBkEgjmdQ.png'
-  feature: '1*u2MX2pZCg6GGZoBkEgjmdQ.png'
-  credit: 'Microsoft Windows :‘-)'
-categories: ['Tech']
-tags: 
- - 'Docker'
- - 'Virtualbox'
- - 'Windows 10'
- - 'Hyper V'
+slug: solution-vm-virtualbox-usage-after-docker-installation-on-windows
+tags:
+- Docker
+- Virtualbox
+- Windows 10
+- Hyper V
+title: Solution VM VirtualBox usage after docker installation on Windows
+
 ---
 So you installed docker to check it out. After using M Virtualbox machine for
 a couple of years you heard so much about this docker you…

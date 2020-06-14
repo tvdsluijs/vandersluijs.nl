@@ -1,29 +1,15 @@
 ---
-id: 512
-title: 'TomTom 930: telefoonboek problemen'
-date: 2008-06-03T13:56:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/06/03/tomtom-930-telefoonboek-problemen/
-permalink: /2008/06/tomtom-930-telefoonboek-problemen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4327495177917538589"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/06/tomtom-930-telefoonboek-problemen.html
-hits:
-  - "452"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-06-03 13:56:00+00:00
+hits:
+- '452'
+layout: post
+permalink: /2008/06/tomtom-930-telefoonboek-problemen.html
+title: 'TomTom 930: telefoonboek problemen'
+
 ---
 De TomTom 930 kan je heel mooi gebruiken in samenwerking met je mobiele telefoon, mits er blauwtand op zit.
 

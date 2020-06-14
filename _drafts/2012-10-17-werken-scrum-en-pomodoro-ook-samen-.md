@@ -5,8 +5,8 @@ title: 'Werken Scrum en Pomodoro ook samen?'
 slug: 'werken-scrum-en-pomodoro-ook-samen-'
 date: '2012-10-17 18:16'
 publish_date: '2012-10-17 18:16'
-category: ['Agile', 'Pomodoro Technique', 'Scrum']
-tags: ['Agile', 'Pomodoro Technique', 'Scrum']
+category: ['Agile', 'Pomodoro', 'Scrum']
+tags: ['Agile', 'Pomodoro', 'Scrum']
 ---
 Als je je afvraag of je de [Pomodoro
 Technique®](http://www.pomodorotechnique.com/) ook kan gebruiken in een Scrum

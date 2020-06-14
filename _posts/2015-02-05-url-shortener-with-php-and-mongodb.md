@@ -1,61 +1,20 @@
 ---
-id: 22
-title: Url shortener with PHP and MongoDB script
-date: 2015-02-05T19:42:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/02/05/url-shortener-with-php-and-mongodb/
-permalink: /2015/02/url-shortener-with-php-and-mongodb.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4009359999460601796"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/02/url-shortener-with-php-and-mongodb.html
-blogger_thumbnail:
-  - http://3.bp.blogspot.com/-Db4N4kTCljc/VNPCcW4bCbI/AAAAAAABRzY/9ws3flksoAs/s1600/1423185597_basic1-029_url_web_address-512.png
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "2200"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700415773"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/02/1423185597_basic1-029_url_web_address-512.png
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-02-05 19:42:00+00:00
+dsq_thread_id:
+- '5700415773'
+hits:
+- '2200'
+image: https://vandersluijs.resultants-e.nl/2015/02/1423185597_basic1-029_url_web_address-512.png
+layout: post
+permalink: /2015/02/url-shortener-with-php-and-mongodb.html
 tags:
-  - MongoDB
+- MongoDB
+title: Url shortener with PHP and MongoDB script
+
 ---
 <div class="separator" style="clear: both; text-align: left;">
   Last week at work some marketing guys asked me if I could build a URL Shortener script.

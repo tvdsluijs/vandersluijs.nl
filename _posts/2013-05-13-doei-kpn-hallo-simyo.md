@@ -1,31 +1,17 @@
 ---
-id: 123
-title: Doei KPN, hallo Simyo!
-date: 2013-05-13T06:59:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/05/13/doei-kpn-hallo-simyo/
-permalink: /2013/05/doei-kpn-hallo-simyo.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2756741008747053235"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/05/doei-kpn-hallo-simyo.html
-hits:
-  - "518"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6275212221"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2013-05-13 06:59:00+00:00
+dsq_thread_id:
+- '6275212221'
+hits:
+- '518'
+layout: post
+permalink: /2013/05/doei-kpn-hallo-simyo.html
+title: Doei KPN, hallo Simyo!
+
 ---
 Sinds een jaar of 2 heb ik een KPN abonnement. Ik had dat genomen omdat ik daarbij zo&#8217;n mooie Sony Arc kreeg.<!--more-->
 

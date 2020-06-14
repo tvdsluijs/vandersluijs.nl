@@ -1,23 +1,19 @@
 ---
-layout: post
-title: Better Jekyll Github pagination without Plugin
-author: Theo van der Sluijs
-slug: /2018/07/better-jekyll-github-pagination-without-plugin/
+author: tvdsluijs
+categories:
+- Coding
+comments: 'true'
 date: 2018-07-11
-publish_date: 2018-07-11
-thumbnail: /images/better-jekyll-github-pagination-without-plugin_thumbnail.jpeg
-image:
-  path: /images/better-jekyll-github-pagination-without-plugin.jpeg
-  feature: better-jekyll-github-pagination-without-plugin.jpeg
-  credit: Pixabay
-  creditlink: https://pixabay.com
-categories: ['Coding']
-tags: 
- - Jekyll
- - Github
- - Liquid
-comments: true
 excerpt_separator: <!--more-->
+image: /images/better-jekyll-github-pagination-without-plugin.jpeg
+layout: post
+publish_date: 2018-07-11
+slug: /2018/07/better-jekyll-github-pagination-without-plugin/
+tags:
+- Jekyll
+- Github
+- Liquid
+title: Better Jekyll Github pagination without Plugin
 
 ---
 I love the way Github let's you publish your own site with Jekyll. There is however one

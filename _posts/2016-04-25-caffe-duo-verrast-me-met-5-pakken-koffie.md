@@ -1,52 +1,20 @@
 ---
-id: 2721
-title: Caffè Duo verrast me met 5 pakken koffie
-date: 2016-04-25T05:47:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2721
-permalink: /2016/04/caffe-duo-verrast-me-met-5-pakken-koffie.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "773"
-dsq_thread_id:
-  - "5737861928"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-11-1-825x510.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-04-25 05:47:00+00:00
+dsq_thread_id:
+- '5737861928'
+hits:
+- '773'
+image: https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-11-1-825x510.jpg
+layout: post
+permalink: /2016/04/caffe-duo-verrast-me-met-5-pakken-koffie.html
 tags:
-  - Koffie
-format: image
+- Koffie
+title: "Caff\xE8 Duo verrast me met 5 pakken koffie"
+
 ---
 <img class="alignleft wp-image-2732" title="Theo van der Sluijs met Caffe Duo " src="https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10-1024x683.jpg" alt="Theo van der Sluijs met Caffe Duo " width="254" height="169" srcset="https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10-1024x683.jpg 1024w, https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10-300x200.jpg 300w, https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10-768x512.jpg 768w, https://vandersluijs.resultants-e.nl/2016/04/CafeDuo-10.jpg 1600w" sizes="(max-width: 254px) 100vw, 254px" />Vandaag werd ik verrast door een pakket aan de deur. Ik verwachte niet echt wat&#8230; toch? Het bleek een doos te zijn van [Caffè Duo](http://www.koffiebonen-bestellen.nl/boon/?tt=20920_12_97738_&r=%2F).
 

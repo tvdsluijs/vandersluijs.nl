@@ -1,33 +1,18 @@
 ---
-id: 1785
-title: Eyes en More is helemaal niks
-date: 2015-12-04T20:18:25+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1785
-permalink: /2015/12/eyes-en-more-is-helemaal-niks.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "2297"
-dsq_thread_id:
-  - "5700416013"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/11/Eyes-and-More-is-less-825x361.png
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2015-12-04 20:18:25+00:00
+dsq_thread_id:
+- '5700416013'
+hits:
+- '2297'
+image: https://vandersluijs.resultants-e.nl/2015/11/Eyes-and-More-is-less-825x361.png
+layout: post
+permalink: /2015/12/eyes-en-more-is-helemaal-niks.html
+title: Eyes en More is helemaal niks
+
 ---
 Dus het nieuwe glas was klaar volgens de mail die we ontvingen! Mooi want een bril met krassen dat is helemaal niks.
 

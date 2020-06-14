@@ -1,27 +1,15 @@
 ---
-id: 99
-title: Why I’m back on Foursquare, and why I’m happier about it.
-date: 2013-07-08T22:30:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/07/08/why-im-back-on-foursquare-and-why-i/
-permalink: /2013/07/why-im-back-on-foursquare-and-why-i.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3074487567892398890"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/07/why-im-back-on-foursquare-and-why-im.html
-hits:
-  - "511"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2013-07-08 22:30:00+00:00
+hits:
+- '511'
+layout: post
+permalink: /2013/07/why-im-back-on-foursquare-and-why-i.html
+title: "Why I\u2019m back on Foursquare, and why I\u2019m happier about it."
+
 ---
 Okay, I&#8217;ll be honest! I missed Foursquare! I deleted my account a couple of weeks ago. I really did! (read : [Why I’m leaving Foursquare, and why I’m happy about it.](https://www.vandersluijs.nl/2013/06/why-im-leaving-foursquare-and-why-im-happy-about-it.html "Why I’m leaving Foursquare, and why I’m happy about it."))
 

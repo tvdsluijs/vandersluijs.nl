@@ -1,33 +1,19 @@
 ---
-id: 362
-title: Sluimerstand / Hibernate aanzetten in Windows 7
-date: 2009-11-13T20:29:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/11/13/sluimerstand-hibernate-aanzetten-in/
-permalink: /2009/11/sluimerstand-hibernate-aanzetten-in.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5740558704953994810"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/11/sluimerstand-hibernate-aanzetten-in.html
-hits:
-  - "3063"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5701360670"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-11-13 20:29:00+00:00
+dsq_thread_id:
+- '5701360670'
+hits:
+- '3063'
+layout: post
+permalink: /2009/11/sluimerstand-hibernate-aanzetten-in.html
 tags:
-  - Windows
+- Windows
+title: Sluimerstand / Hibernate aanzetten in Windows 7
+
 ---
 In XP of in Vista was je al bekend met het zogenaamde Hibernaten of in Sluimerstand zetten van je pc.
 

@@ -1,31 +1,17 @@
 ---
-id: 24
-title: Backup mysql en files op Amazon AWS Bucket
-date: 2015-01-28T05:40:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/01/28/backup-mysql-en-files-op-amazon-aws/
-permalink: /2015/01/backup-mysql-en-files-op-amazon-aws.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5791815612846101634"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/01/backup-mysql-en-files-op-amazon-aws.html
-hits:
-  - "545"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6154797068"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-01-28 05:40:00+00:00
+dsq_thread_id:
+- '6154797068'
+hits:
+- '545'
+layout: post
+permalink: /2015/01/backup-mysql-en-files-op-amazon-aws.html
+title: Backup mysql en files op Amazon AWS Bucket
+
 ---
 Je kent het wel&#8230; je hebt een site en nu die lekker draait en eigenlijk moet je wel eens de backups goed regelen.
 

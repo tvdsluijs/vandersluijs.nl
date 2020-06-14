@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
+date: 2008-02-15 06:00
 excerpt_separator: <!--more-->
-title: 'Flex Feeder'
-slug: 'flex-feeder'
-date: '2008-02-15 06:00'
-publish_date: '2008-02-15 06:00'
-category: ['Tech']
-tags: ['Code']
+layout: post
+publish_date: 2008-02-15 06:00
+slug: flex-feeder
+tags:
+- Code
+title: Flex Feeder
+
 ---
 Nu wordt het echt interessant.  
   

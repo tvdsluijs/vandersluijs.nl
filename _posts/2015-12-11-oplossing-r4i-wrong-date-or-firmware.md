@@ -1,35 +1,19 @@
 ---
-id: 1989
-title: Oplossing r4i wrong date or firmware
-date: 2015-12-11T19:26:50+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1989
-permalink: /2015/12/oplossing-r4i-wrong-date-or-firmware.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "1074"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5701365261"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-12-11 19:26:50+00:00
+dsq_thread_id:
+- '5701365261'
+hits:
+- '1074'
+layout: post
+permalink: /2015/12/oplossing-r4i-wrong-date-or-firmware.html
 tags:
-  - Console
+- Console
+title: Oplossing r4i wrong date or firmware
+
 ---
 Veel mensen gebruiken een zogenaamde R4 of R4i kaart om nintendo games te spelen. Het is een makkelijke oplossing maar zo nu en dan weigert de kaart!
 

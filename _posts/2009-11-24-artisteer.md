@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-24 17:45
 excerpt_separator: <!--more-->
-title: 'Artisteer 2.x Template Wordpress NL / Dutch vertaling'
-slug: 'artisteer'
-date: '2009-11-24 17:45'
-publish_date: '2009-11-24 17:45'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-11-24 17:45
+slug: artisteer
+tags:
+- Coding
+title: Artisteer 2.x Template Wordpress NL / Dutch vertaling
+
 ---
 Werk je met Artisteer 2.x ? En maak je er ook zulke mooie Wordpress, Joomla!,
 DotNetNuke, Drupal of Blogger Templates mee ?  

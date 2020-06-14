@@ -1,12 +1,25 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Email
+- Work
+- Work Life Balance
+- Tech
+- Development
+comments: 'true'
+date: 2015-02-22 15:26
 excerpt_separator: <!--more-->
+layout: post
+publish_date: 2015-02-22 15:26
+slug: review-we-quit-mail-wqm-boek
+tags:
+- Email
+- Work
+- Work Life Balance
+- Tech
+- Development
 title: 'Review : We Quit mail #wqm boek'
-slug: 'review-we-quit-mail-wqm-boek'
-date: '2015-02-22 15:26'
-publish_date: '2015-02-22 15:26'
-category: ['Email', 'Work', 'Work Life Balance', 'Tech', 'Development']
-tags: ['Email', 'Work', 'Work Life Balance', 'Tech', 'Development']
+
 ---
 Mail… bergen mail…. ik heb bij een bedrijf gewerkt waar ik zo’n 100 tot soms
 wel 300 mail op een dag ontving.

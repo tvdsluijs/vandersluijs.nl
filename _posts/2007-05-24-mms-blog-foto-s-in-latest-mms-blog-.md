@@ -1,17 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2007-05-24 16:24
 excerpt_separator: <!--more-->
-title: 'MMS_BLOG foto’s in “latest mms blog”'
-slug: 'mms-blog-foto-s-in-latest-mms-blog-'
-date: '2007-05-24 16:24'
-publish_date: '2007-05-24 16:24'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*r1YSvA0F-0OXoums-7TWAg.jpeg'
-  feature: 1*r1YSvA0F-0OXoums-7TWAg.jpeg'
-  credit: 'stock.tookapic.com'
-  creditlink: 'https://stock.tookapic.com/photos/25889'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/1*r1YSvA0F-0OXoums-7TWAg.jpeg
+layout: post
+publish_date: 2007-05-24 16:24
+slug: mms-blog-foto-s-in-latest-mms-blog-
+tags:
+- Coding
+title: "MMS_BLOG foto\u2019s in \u201Clatest mms blog\u201D"
+
 ---
 ![](https://vandersluijs.resultants-e.nl/1*r1YSvA0F-0OXoums-7TWAg.jpeg)
 

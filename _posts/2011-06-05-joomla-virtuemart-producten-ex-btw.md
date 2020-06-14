@@ -1,33 +1,17 @@
 ---
-id: 235
-title: Joomla Virtuemart Producten ex BTW, Factuur Incl. BTW
-date: 2011-06-05T14:01:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/06/05/joomla-virtuemart-producten-ex-btw/
-permalink: /2011/06/joomla-virtuemart-producten-ex-btw.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1290096606771132439"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/06/joomla-virtuemart-producten-ex-btw.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2011/06/600px-Virtuemart_logo-300x239.png
-hits:
-  - "711"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5831561629"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-06-05 14:01:00+00:00
+dsq_thread_id:
+- '5831561629'
+hits:
+- '711'
+layout: post
+permalink: /2011/06/joomla-virtuemart-producten-ex-btw.html
+title: Joomla Virtuemart Producten ex BTW, Factuur Incl. BTW
+
 ---
 <img title="Joomla! Virtuemart ex BTW op kassa incl BTW" alt="Joomla! Virtuemart ex BTW incl BTW" src="https://vandersluijs.resultants-e.nl/2011/06/600px-Virtuemart_logo-300x239.png" width="145" height="116" align="left" />Veel klanten vragen mij om de volgende optie binnen Joomla! Virtuemart. Ze willen namelijk heel graag de product prijzen ex BTW tonen maar op bij de kassa en op de factuur dient wel de BTW te staan.
 

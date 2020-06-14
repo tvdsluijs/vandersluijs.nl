@@ -1,12 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Development
+comments: 'true'
+date: 2012-10-09 17:52
 excerpt_separator: <!--more-->
-title: 'Wat is pomodoro en wat kan ik ermee?'
-slug: 'wat-is-pomodoro-en-wat-kan-ik-ermee-'
-date: '2012-10-09 17:52'
-publish_date: '2012-10-09 17:52'
-category: ['Development']
-tags: ['Pomodoro', 'Development']
+layout: post
+publish_date: 2012-10-09 17:52
+slug: wat-is-pomodoro-en-wat-kan-ik-ermee-
+tags:
+- Pomodoro
+- Development
+title: Wat is pomodoro en wat kan ik ermee?
+
 ---
 Ik ben sinds kort bezig met de Pomodoro Technique®. Als je zoals mij van
 technieken zoals Scrum / GTD / Time Management enzo houdt dan is de Pomodoro

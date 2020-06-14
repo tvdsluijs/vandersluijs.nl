@@ -1,29 +1,15 @@
 ---
-id: 154
-title: Why I dislike Windows because of one annoying feature!
-date: 2012-11-02T16:03:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/11/02/why-i-dislike-windows-because-of-one/
-permalink: /2012/11/why-i-dislike-windows-because-of-one.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3033276349481054993"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/11/why-i-dislike-windows-because-of-one.html
-hits:
-  - "1743"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-11-02 16:03:00+00:00
+hits:
+- '1743'
+layout: post
+permalink: /2012/11/why-i-dislike-windows-because-of-one.html
+title: Why I dislike Windows because of one annoying feature!
+
 ---
 <div>
    

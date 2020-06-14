@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-07-17 11:38
 excerpt_separator: <!--more-->
-title: 'Auto remove highlighted fields'
-slug: 'auto-remove-highlighted-fields'
-date: '2009-07-17 11:38'
-publish_date: '2009-07-17 11:38'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-07-17 11:38
+slug: auto-remove-highlighted-fields
+tags:
+- Coding
+title: Auto remove highlighted fields
+
 ---
 This week when working at [NL for Business](http://www.nl4b.com/ "NL For
 Business") I was creating some PDF documents with Adobe Form Designer for a

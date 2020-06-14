@@ -1,26 +1,20 @@
 ---
-id: 2876
-title: Hoe krijg je Wifi in heel het huis
-date: 2016-06-02T19:58:37+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl/?p=203
-permalink: /2016/06/hoe-krijg-je-wifi-in-heel-het-huis.html
-hefo_before:
-  - "0"
-hefo_after:
-  - "0"
-hits:
-  - "296"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5731521492"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-06-02 19:58:37+00:00
+dsq_thread_id:
+- '5731521492'
+hits:
+- '296'
+layout: post
+permalink: /2016/06/hoe-krijg-je-wifi-in-heel-het-huis.html
 tags:
-  - WiFi
-  - Zeelandnet
+- WiFi
+- Zeelandnet
+title: Hoe krijg je Wifi in heel het huis
+
 ---
 <img class="alignleft size-thumbnail wp-image-209" src="https://vandersluijs.resultants-e.nl/2016/05/1464572709_Untitled-5-150x150.png" alt="Wifi in heel je huis" width="150" height="150" />Wifi in heel je huis ja dat is echt mogelijk! Het kost was geld en moeite maar als je bereid bent om dat er in te steken is het mogelijk om overal in huis goede Wifi te hebben.
 

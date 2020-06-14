@@ -1,42 +1,21 @@
 ---
-id: 2563
-title: De klant trekt ten strijde en T-Mobile trekt zich terug
-date: 2016-02-28T13:39:32+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2563
-permalink: /2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "558"
-dsq_thread_id:
-  - "5923084025"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-10.13.10-825x476.png
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2016-02-28 13:39:32+00:00
+dsq_thread_id:
+- '5923084025'
+hits:
+- '558'
+image: https://vandersluijs.resultants-e.nl/2016/02/Screen-Shot-2016-02-28-at-10.13.10-825x476.png
+layout: post
+permalink: /2016/02/de-klant-trekt-ten-strijde-en-t-mobile-trekt-zich-terug.html
 tags:
-  - KPN
-  - T-mobile
+- KPN
+- T-mobile
+title: De klant trekt ten strijde en T-Mobile trekt zich terug
+
 ---
 Jarenlang probeer ik een mast van T-mobile in Wolphaartsdijk te krijgen. Jarenlang houdt T-mobile me voor dat ze geen vergunning meer krijgen. Eindelijk heb ik een voet tussen de deur bij de Gemeente Goes, en wat doet T-mobile&#8230;. die trekt zicht plots terug als een laffe Hond!<!--more-->
 

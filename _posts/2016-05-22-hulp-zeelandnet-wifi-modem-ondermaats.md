@@ -1,22 +1,22 @@
 ---
-id: 2869
-title: Hulp bij Zeelandnet Wifi modem ondermaats!
-date: 2016-05-22T14:07:31+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl/?p=103
-permalink: /2016/05/hulp-zeelandnet-wifi-modem-ondermaats.html
-hits:
-  - "150"
-dsq_thread_id:
-  - "5700416034"
+author: tvdsluijs
 categories:
-  - Grumpy
-  - Tech
+- Grumpy
+- Tech
+comments: 'true'
+date: 2016-05-22 14:07:31+00:00
+dsq_thread_id:
+- '5700416034'
+hits:
+- '150'
+layout: post
+permalink: /2016/05/hulp-zeelandnet-wifi-modem-ondermaats.html
 tags:
-  - Modem
-  - WiFi
-  - Zeelandnet
+- Modem
+- WiFi
+- Zeelandnet
+title: Hulp bij Zeelandnet Wifi modem ondermaats!
+
 ---
 <div>
   Zeelandnet biedt hulp bij het verbeteren van uw Wifi bereik! U helemaal blij…. nou… U hoeft niet blij te zijn want ze doen niet veel meer dan het aanbieden van een document waar u zelf handelingen dient uit te voeren om het bereik te verbeteren.

@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-12-18 14:44
 excerpt_separator: <!--more-->
-title: 'Meerdere item via drag en drop verplaatsen'
-slug: 'meerdere-item-via-drag-en-drop-verplaatsen'
-date: '2008-12-18 14:44'
-publish_date: '2008-12-18 14:44'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*BQVpRbC-pqkra7OE.gif'
-  feature: 0*BQVpRbC-pqkra7OE.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*BQVpRbC-pqkra7OE.gif
+layout: post
+publish_date: 2008-12-18 14:44
+slug: meerdere-item-via-drag-en-drop-verplaatsen
+tags:
+- Coding
+title: Meerdere item via drag en drop verplaatsen
+
 ---
 Tijdens het programmeren aan een grote Flex / SAP applicatie bij een grote
 financiële instelling via [NL for Business](http://www.nl4b.com/ "NL4B") liep

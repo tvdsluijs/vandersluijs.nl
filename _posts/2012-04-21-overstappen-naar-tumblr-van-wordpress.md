@@ -1,29 +1,15 @@
 ---
-id: 197
-title: Overstappen naar Tumblr van wordpress, hoe gaat dat.
-date: 2012-04-21T11:02:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/04/21/overstappen-naar-tumblr-van-wordpress/
-permalink: /2012/04/overstappen-naar-tumblr-van-wordpress.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6667643006175225240"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/04/overstappen-naar-tumblr-van-wordpress.html
-hits:
-  - "589"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-04-21 11:02:00+00:00
+hits:
+- '589'
+layout: post
+permalink: /2012/04/overstappen-naar-tumblr-van-wordpress.html
+title: Overstappen naar Tumblr van wordpress, hoe gaat dat.
+
 ---
 Okay, je wilt dus overstappen van WordPress naar Tumblr?
 

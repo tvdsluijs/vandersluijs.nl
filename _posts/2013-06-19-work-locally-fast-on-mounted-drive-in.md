@@ -1,31 +1,17 @@
 ---
-id: 100
-title: Work locally fast on a mounted drive in Netbeans / Eclipse / PHPStorm
-date: 2013-06-19T21:40:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/06/19/work-locally-fast-on-mounted-drive-in/
-permalink: /2013/06/work-locally-fast-on-mounted-drive-in.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "831114153933347164"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/06/work-locally-fast-on-mounted-drive-in.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2013/06/network_mounted_directory_may_be_slow_phpstorm-300x37-300x37.png
-hits:
-  - "2131"
-dsq_thread_id:
-  - "5701004594"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2013-06-19 21:40:00+00:00
+dsq_thread_id:
+- '5701004594'
+hits:
+- '2131'
+layout: post
+permalink: /2013/06/work-locally-fast-on-mounted-drive-in.html
+title: Work locally fast on a mounted drive in Netbeans / Eclipse / PHPStorm
+
 ---
 So you&#8217;ve got a big project you&#8217;re working on and got a good development environment and your IDE handles stuff through a mounted drive!
 

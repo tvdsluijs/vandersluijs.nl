@@ -1,29 +1,15 @@
 ---
-id: 486
-title: Domainname stolen
-date: 2008-10-20T18:35:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/10/20/domainname-stolen/
-permalink: /2008/10/domainname-stolen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1088283504202025522"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/10/domainname-stolen.html
-hits:
-  - "933"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-10-20 18:35:00+00:00
+hits:
+- '933'
+layout: post
+permalink: /2008/10/domainname-stolen.html
+title: Domainname stolen
+
 ---
 Well&#8230; let me tell you a story about the stolen domain name.
 

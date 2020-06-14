@@ -1,41 +1,15 @@
 ---
-id: 377
-title: 'Small impression Max 2009 &amp; LA'
-date: 2009-10-21T10:43:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/10/21/small-impression-max-2009-la/
-permalink: /2009/10/small-impression-max-2009-la.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3902429938347216663"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/10/small-impression-max-2009-la.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "1451"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2009-10-21 10:43:00+00:00
+hits:
+- '1451'
+layout: post
+permalink: /2009/10/small-impression-max-2009-la.html
+title: Small impression Max 2009 &amp; LA
+
 ---
 Here&#8217;s a small impression of my (and my collegue friends) trip to Adobe Max 2009 & LA.
 

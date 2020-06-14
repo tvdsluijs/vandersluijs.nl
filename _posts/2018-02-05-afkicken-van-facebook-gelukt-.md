@@ -1,16 +1,18 @@
 ---
-layout: post
-title: Afkicken van Facebook! Gelukt!
-slug: afkicken-van-facebook-gelukt
+author: tvdsluijs
+category:
+- Lifestyle
+comments: 'true'
 date: 2018-02-05 18:56:20.851000+00:00
+image: https://vandersluijs.resultants-e.nl/1*SYe8Q9PajhrCDeL7UR5uGw.jpeg
+layout: post
 publish_date: '2018-02-05 18:56:20.851000+00:00'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*SYe8Q9PajhrCDeL7UR5uGw.jpeg'
-  feature: 1*SYe8Q9PajhrCDeL7UR5uGw.jpeg'
-  credit: 'pixabay.com'
-  creditlink:  'https://pixabay.com/en/twitter-facebook-together-292989/'
-category: ['Lifestyle']
-tags: ['Facebook', 'Social Media']
+slug: afkicken-van-facebook-gelukt
+tags:
+- Facebook
+- Social Media
+title: Afkicken van Facebook! Gelukt!
+
 ---
 Misschien wist je het nog niet maar facebook nog meer verslavend als de meeste
 drugs. Erger nog… er zijn meer verslaafde personen aan facebook als aan drugs.

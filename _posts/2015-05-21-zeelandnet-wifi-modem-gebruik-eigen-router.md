@@ -1,19 +1,17 @@
 ---
-id: 4
-title: ZeelandNet wifi-modem in voor gebruik met een eigen router?
-date: 2015-05-21T20:55:15+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl
-permalink: /2015/05/zeelandnet-wifi-modem-gebruik-eigen-router.html
-hits:
-  - "128"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5811393575"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-05-21 20:55:15+00:00
+dsq_thread_id:
+- '5811393575'
+hits:
+- '128'
+layout: post
+permalink: /2015/05/zeelandnet-wifi-modem-gebruik-eigen-router.html
+title: ZeelandNet wifi-modem in voor gebruik met een eigen router?
+
 ---
 <div>
   Zolang ZeelandNet Bridge Mode nog niet mogelijk gemaakt heeft in het Wifi Modem, is IP Pass Through voor de eigen router in het Wifi Modem (EPC3925) een redelijk alternatief.

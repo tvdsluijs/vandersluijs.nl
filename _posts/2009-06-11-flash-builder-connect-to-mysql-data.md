@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-06-11 21:08
 excerpt_separator: <!--more-->
-title: 'Flash Builder Connect To MySQL Data'
-slug: 'flash-builder-connect-to-mysql-data'
-date: '2009-06-11 21:08'
-publish_date: '2009-06-11 21:08'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-06-11 21:08
+slug: flash-builder-connect-to-mysql-data
+tags:
+- Coding
+title: Flash Builder Connect To MySQL Data
+
 ---
 Today I wanted to try and connect to a Mysql server with PhP (on my Xampp
 installation) as shown in the Adobe Labs Tutorials. I thought everything would

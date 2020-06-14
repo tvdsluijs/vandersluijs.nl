@@ -1,31 +1,17 @@
 ---
-id: 141
-title: Ubuntu versie opvragen via terminal
-date: 2012-12-27T16:08:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/12/27/ubuntu-versie-opvragen-via-termina/
-permalink: /2012/12/ubuntu-versie-opvragen-via-termina.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1504929778423250436"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/12/ubuntu-versie-opvragen-via-terminal.html
-hits:
-  - "647"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5731689632"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-12-27 16:08:00+00:00
+dsq_thread_id:
+- '5731689632'
+hits:
+- '647'
+layout: post
+permalink: /2012/12/ubuntu-versie-opvragen-via-termina.html
+title: Ubuntu versie opvragen via terminal
+
 ---
 <div>
    

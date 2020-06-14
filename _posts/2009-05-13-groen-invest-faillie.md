@@ -1,29 +1,17 @@
 ---
-id: 417
-title: Groen invest failliet
-date: 2009-05-13T12:11:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/05/13/groen-invest-faillie/
-permalink: /2009/05/groen-invest-faillie.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2029403096248279679"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/05/groen-invest-failliet.html
-hits:
-  - "765"
-dsq_thread_id:
-  - "6020481993"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2009-05-13 12:11:00+00:00
+dsq_thread_id:
+- '6020481993'
+hits:
+- '765'
+layout: post
+permalink: /2009/05/groen-invest-faillie.html
+title: Groen invest failliet
+
 ---
 Ooit was ik redelijk positief over dit bedrijf, helaas…….
 

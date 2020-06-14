@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-01-14 08:26
 excerpt_separator: <!--more-->
-title: 'Adobe Flex Coding Guidelines'
-slug: 'adobe-flex-coding-guidelines'
-date: '2009-01-14 08:26'
-publish_date: '2009-01-14 08:26'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-01-14 08:26
+slug: adobe-flex-coding-guidelines
+tags:
+- Coding
+title: Adobe Flex Coding Guidelines
+
 ---
 Fabio Terracini of [Dclick](http://blog.dclick.com.br/ "Fabio Terracini -
 Ddick") has released a document about Flex (MXML and ActionScript) coding

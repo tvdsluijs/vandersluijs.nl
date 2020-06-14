@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-01-03 21:49
 excerpt_separator: <!--more-->
-title: 'Archive Content Plus voor Joomla! 1.5'
-slug: 'archive-content-plus-voor-joomla-'
-date: '2009-01-03 21:49'
-publish_date: '2009-01-03 21:49'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-01-03 21:49
+slug: archive-content-plus-voor-joomla-
+tags:
+- Coding
+title: Archive Content Plus voor Joomla! 1.5
+
 ---
 Mooi natuurlijk die module van Joomla! waarmee je je archiven per maand kan
 neerzetten zodat je er op kan klikken. Maar ik zelf vond het niet ver genoeg

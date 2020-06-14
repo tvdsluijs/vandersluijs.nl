@@ -1,29 +1,17 @@
 ---
-id: 247
-title: Winkansen bij loterij spelen
-date: 2011-02-16T02:53:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/02/16/winkansen-bij-loterij-spelen/
-permalink: /2011/02/winkansen-bij-loterij-spelen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3535929776098164634"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/02/winkansen-bij-loterij-spelen.html
-hits:
-  - "1108"
-dsq_thread_id:
-  - "6408904880"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2011-02-16 02:53:00+00:00
+dsq_thread_id:
+- '6408904880'
+hits:
+- '1108'
+layout: post
+permalink: /2011/02/winkansen-bij-loterij-spelen.html
+title: Winkansen bij loterij spelen
+
 ---
 Enig idee wat uw winkansen (hoofdprijs / jackpot) zijn bij de diverse Nederlandse loterijen ?
 

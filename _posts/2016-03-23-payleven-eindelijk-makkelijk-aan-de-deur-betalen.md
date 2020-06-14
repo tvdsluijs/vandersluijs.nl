@@ -1,39 +1,18 @@
 ---
-id: 2634
-title: payleven, eindelijk makkelijk aan de deur betalen
-date: 2016-03-23T21:01:47+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2634
-permalink: /2016/03/payleven-eindelijk-makkelijk-aan-de-deur-betalen.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "566"
-dsq_thread_id:
-  - "5900134444"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/03/payleven-pagamento-web-825x300.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-03-23 21:01:47+00:00
+dsq_thread_id:
+- '5900134444'
+hits:
+- '566'
+image: https://vandersluijs.resultants-e.nl/2016/03/payleven-pagamento-web-825x300.jpg
+layout: post
+permalink: /2016/03/payleven-eindelijk-makkelijk-aan-de-deur-betalen.html
+title: payleven, eindelijk makkelijk aan de deur betalen
+
 ---
 Laatst stond er een PostNL medewerker voor de deur. &#8220;Ik heb hier pakket voor u meneer, echter moet u nog 18 euro douane kosten betalen. Contant aub&#8221;. Okay&#8230; dat was een uitdaging, want ik wilde dat pakketje hebben, maar ik had voor nog geen 10 cent los in huis.
 

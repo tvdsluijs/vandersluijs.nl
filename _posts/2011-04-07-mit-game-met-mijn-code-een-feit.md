@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+- Code
+comments: 'true'
+date: 2011-04-07 01:45
 excerpt_separator: <!--more-->
-title: 'MIT game met mijn code een feit'
-slug: 'mit-game-met-mijn-code-een-feit'
-date: '2011-04-07 01:45'
-publish_date: '2011-04-07 01:45'
-category: ['Coding', 'Code']
-tags: ['Coding', 'Code']
+layout: post
+publish_date: 2011-04-07 01:45
+slug: mit-game-met-mijn-code-een-feit
+tags:
+- Coding
+- Code
+title: MIT game met mijn code een feit
+
 ---
 Ja hoor ik word echt genoemt in het spel op <http://vanished.mit.edu/>  
   

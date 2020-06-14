@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-12-08 02:43
 excerpt_separator: <!--more-->
-title: 'Kortere URL’s met snurl.eu'
-slug: 'kortere-url-s-met-snurl-eu'
-date: '2009-12-08 02:43'
-publish_date: '2009-12-08 02:43'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-12-08 02:43
+slug: kortere-url-s-met-snurl-eu
+tags:
+- Coding
+title: "Kortere URL\u2019s met snurl.eu"
+
 ---
 Handig nu ook een semi Nederlandse variant van TinyUrl.  
   

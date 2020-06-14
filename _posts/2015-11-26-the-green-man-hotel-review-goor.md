@@ -1,49 +1,21 @@
 ---
-id: 1732
-title: The Green Man Hotel Review, goor!
-date: 2015-11-26T06:10:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1732
-permalink: /2015/11/the-green-man-hotel-review-goor.html
-video_post_url:
-  - ""
-vw_review_summary:
-  - Goedkoop! Heel goedkoop! Maar daar in tegen ook ranzig! Voor één nacht bij een concert of voetbalwedstrijd bezoek in het Wembley prima! Maar niet met je familie heen gaan!
-vw_review_average_score:
-  - "1.2"
-vw_review_score_0_label:
- - Locatie
-vw_review_score_0_score:
- - 8
-vw_review_score_1_label:
- - Slaapkwaliteit
-vw_review_score_1_score:
- - 0
-vw_review_score_2_label:
- - Kamers
-vw_review_score_2_score:
- - 0
-vw_review_score_3_label:
- - Service
-vw_review_score_3_score:
- - 2
-vw_review_score_4_label:
- - Waarde
-vw_review_score_4_score:
- - 4
-vw_review_score_5_label:
- - Hygiëne
-vw_review_score_5_score:
- - 0
-dsq_thread_id:
-  - "5725860187"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/11/PB200007-e1448402892188.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
-  - Travel
-format: image
+- Grumpy
+- Travel
+comments: 'true'
+date: 2015-11-26 06:10:00+00:00
+description:
+- "Goedkoop! Heel goedkoop! Maar daar in tegen ook ranzig! Voor \xE9\xE9n nacht bij\
+  \ een concert of voetbalwedstrijd bezoek in het Wembley prima! Maar niet met je\
+  \ familie heen gaan!"
+dsq_thread_id:
+- '5725860187'
+image: https://vandersluijs.resultants-e.nl/2015/11/PB200007-e1448402892188.jpg
+layout: post
+permalink: /2015/11/the-green-man-hotel-review-goor.html
+title: The Green Man Hotel Review, goor!
+
 ---
 <a href="https://ad.zanox.com/ppc/?35941096C66482065&ulp=" target="_blank">The Green Man Hotel</a>, voor 41 euro per nacht&#8230;. tja wat kan je verwachten? Helemaal niks&#8230; en geloof me bij dit hotel kreeg je dat ook!
 

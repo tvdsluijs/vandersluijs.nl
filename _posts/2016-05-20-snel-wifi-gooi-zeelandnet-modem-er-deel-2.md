@@ -1,27 +1,21 @@
 ---
-id: 2874
-title: Snel Wifi? Gooi je Zeelandnet modem er uit! deel 2
-date: 2016-05-20T20:02:29+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl/?p=145
-permalink: /2016/05/snel-wifi-gooi-zeelandnet-modem-er-deel-2.html
-hefo_before:
-  - "0"
-hefo_after:
-  - "0"
-hits:
-  - "601"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5704586824"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-05-20 20:02:29+00:00
+dsq_thread_id:
+- '5704586824'
+hits:
+- '601'
+layout: post
+permalink: /2016/05/snel-wifi-gooi-zeelandnet-modem-er-deel-2.html
 tags:
-  - Modem
-  - WiFi
-  - Zeelandnet
+- Modem
+- WiFi
+- Zeelandnet
+title: Snel Wifi? Gooi je Zeelandnet modem er uit! deel 2
+
 ---
 Zo&#8217;n 1,5 jaar geleden heb ik op mijn andere blog vandersluijs.nl een artikel geschreven over het modem van ZeelandNet. Ik vond het nieuwe modem zo slecht dat ik er een gefrustreerd stuk over heb geschreven. Je zou denken dat een bedrijf wat aan de wieg van internet heeft gestaan toch een wel iets beter modem zou uitgeven dan het <!--more-->
 

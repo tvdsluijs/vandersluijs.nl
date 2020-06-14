@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Management
+comments: 'true'
+date: 2013-06-15 00:01
 excerpt_separator: < !--more -->
-title: 'Why DevOpsDays are great, and why there should be DevMansDays'
-slug: 'why-devopsdays-are-great-and-why-there-should-be-devmansdays'
-date: '2013-06-15 00:01'
-publish_date: '2013-06-15 00:01'
-category: ['Management']
-tags: ['Agile', 'DevOps', 'Scrum']
+layout: post
+publish_date: 2013-06-15 00:01
+slug: why-devopsdays-are-great-and-why-there-should-be-devmansdays
+tags:
+- Agile
+- DevOps
+- Scrum
+title: Why DevOpsDays are great, and why there should be DevMansDays
+
 ---
 So today I’ve had my first DevOpsday. Which is short for Great! Because is was
 great and I learned a lot.

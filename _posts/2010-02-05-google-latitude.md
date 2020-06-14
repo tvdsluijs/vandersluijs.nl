@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-05 11:51
 excerpt_separator: <!--more-->
-title: 'Google Latitude'
-slug: 'google-latitude'
-date: '2010-02-05 11:51'
-publish_date: '2010-02-05 11:51'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*OIeSuRU09gW96i_J.gif'
-  feature: 0*OIeSuRU09gW96i_J.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*OIeSuRU09gW96i_J.gif
+layout: post
+publish_date: 2010-02-05 11:51
+slug: google-latitude
+tags:
+- Coding
+title: Google Latitude
+
 ---
 Wanna let your friends know where you at ?  
   

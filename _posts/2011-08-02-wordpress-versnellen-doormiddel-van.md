@@ -1,31 +1,17 @@
 ---
-id: 229
-title: WordPress versnellen doormiddel van .htaccess aanpassing
-date: 2011-08-02T00:22:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/08/02/wordpress-versnellen-doormiddel-van/
-permalink: /2011/08/wordpress-versnellen-doormiddel-van.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5929665788382689416"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/08/wordpress-versnellen-doormiddel-van.html
-hits:
-  - "1568"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5943605360"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-08-02 00:22:00+00:00
+dsq_thread_id:
+- '5943605360'
+hits:
+- '1568'
+layout: post
+permalink: /2011/08/wordpress-versnellen-doormiddel-van.html
+title: WordPress versnellen doormiddel van .htaccess aanpassing
+
 ---
 Nu wordpress 3.x uit is (nu 3.2.1, maar als je dit leest is er waarschijnlijk al weer een nieuwere versie uit) wordt het tijd om WordPress eens supersnel te maken.
 

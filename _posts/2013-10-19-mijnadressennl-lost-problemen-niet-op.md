@@ -1,29 +1,17 @@
 ---
-id: 89
-title: Mijnadressen.nl lost problemen niet op ,geld terug actie.
-date: 2013-10-19T03:19:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/10/19/mijnadressennl-lost-problemen-niet-op/
-permalink: /2013/10/mijnadressennl-lost-problemen-niet-op.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5634892527713833450"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/10/mijnadressennl-lost-problemen-niet-op.html
-hits:
-  - "555"
-dsq_thread_id:
-  - "5733641296"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-10-19 03:19:00+00:00
+dsq_thread_id:
+- '5733641296'
+hits:
+- '555'
+layout: post
+permalink: /2013/10/mijnadressennl-lost-problemen-niet-op.html
+title: Mijnadressen.nl lost problemen niet op ,geld terug actie.
+
 ---
 Een half jaar geleden ben ik begonnen met het gebruik van het programa mijn adressen van de site mijnadressen.nl
 

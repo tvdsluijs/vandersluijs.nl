@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-03-14 13:56
 excerpt_separator: <!--more-->
-title: 'reCaptcha User Registration'
-slug: 'recaptcha-user-registration'
-date: '2010-03-14 13:56'
-publish_date: '2010-03-14 13:56'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*N-C5AXoGcJi8B75X.gif'
-  feature: 0*N-C5AXoGcJi8B75X.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*N-C5AXoGcJi8B75X.gif
+layout: post
+publish_date: 2010-03-14 13:56
+slug: recaptcha-user-registration
+tags:
+- Coding
+title: reCaptcha User Registration
+
 ---
 Do you also hate to have all those spammers registering to your Joomla! site ?
 

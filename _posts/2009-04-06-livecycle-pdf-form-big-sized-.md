@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-04-06 13:35
 excerpt_separator: <!--more-->
-title: 'LiveCycle PDF Form big sized.'
-slug: 'livecycle-pdf-form-big-sized-'
-date: '2009-04-06 13:35'
-publish_date: '2009-04-06 13:35'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-04-06 13:35
+slug: livecycle-pdf-form-big-sized-
+tags:
+- Coding
+title: LiveCycle PDF Form big sized.
+
 ---
 If you created a PDF form with SAP Interactive Form by Adobe or with Adobe
 LiveCycle Designer you sometimes get a large form which in essention is just a

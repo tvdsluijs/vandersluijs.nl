@@ -1,29 +1,15 @@
 ---
-id: 115
-title: Endorsements on Linkedin are a sham!
-date: 2013-05-26T19:41:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/05/26/endorsements-on-linkedin-are-sha/
-permalink: /2013/05/endorsements-on-linkedin-are-sha.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4066485947424295973"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/05/endorsements-on-linkedin-are-sham.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2013/05/linkedin_endorsements-300x225-300x225.jpg
-hits:
-  - "472"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-05-26 19:41:00+00:00
+hits:
+- '472'
+layout: post
+permalink: /2013/05/endorsements-on-linkedin-are-sha.html
+title: Endorsements on Linkedin are a sham!
+
 ---
 [<img class="alignleft size-medium wp-image-768" alt="linkedin_endorsements" src="https://vandersluijs.resultants-e.nl/2013/05/linkedin_endorsements-300x225-300x225.jpg" width="300" height="225" />](https://vandersluijs.resultants-e.nl/2013/05/linkedin_endorsements-300x225.jpg)So you&#8217;ve got Linkedin like [me](http://nl.linkedin.com/in/tvdsluijs "my linkedin page")? Great! Let&#8217;s connect! No really! Let&#8217;s connect! And please endorse me! yes tell people how good I am at certain skills!
 

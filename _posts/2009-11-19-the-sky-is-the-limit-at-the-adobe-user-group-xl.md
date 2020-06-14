@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-19 19:58
 excerpt_separator: <!--more-->
-title: 'The sky is the limit! at the Adobe User Group XL'
-slug: 'the-sky-is-the-limit-at-the-adobe-user-group-xl'
-date: '2009-11-19 19:58'
-publish_date: '2009-11-19 19:58'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*aaYTt1hg0ZncG4yw.gif'
-  feature: 0*aaYTt1hg0ZncG4yw.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*aaYTt1hg0ZncG4yw.gif
+layout: post
+publish_date: 2009-11-19 19:58
+slug: the-sky-is-the-limit-at-the-adobe-user-group-xl
+tags:
+- Coding
+title: The sky is the limit! at the Adobe User Group XL
+
 ---
 ![Get Adobe Flash Player](https://vandersluijs.resultants-e.nl/0*aaYTt1hg0ZncG4yw.gif)
 

@@ -1,16 +1,19 @@
 ---
-layout: post
-title: 'Ontwikkel software op een Chromebook'
-slug: 'ontwikkel-software-op-een-chromebook'
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
 date: '2017-10-09 05:56:00.717000+00:00'
+image: https://vandersluijs.resultants-e.nl/1*nyoIG-yq4D5ci0dnXsIqIA.jpeg
+layout: post
 publish_date: '2017-10-09 05:56:00.717000+00:00'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*nyoIG-yq4D5ci0dnXsIqIA.jpeg'
-  feature: 1*nyoIG-yq4D5ci0dnXsIqIA.jpeg'
-  credit: 'Kaboompics // Karolina'
-  creditlink:  'https://www.pexels.com/u/kaboompics/'
-category: ['Tech']
-tags: ['Chromebook', 'MacBook', 'Programmeren']
+slug: ontwikkel-software-op-een-chromebook
+tags:
+- Chromebook
+- MacBook
+- Programmeren
+title: Ontwikkel software op een Chromebook
+
 ---
 Dus je wilt ontwikkelen maar hebt geen geld voor een Macbook…. zo iets als ik…
 ik heb het geld er wel voor… maar om nu even bijna 1 bitcoin op tafel te

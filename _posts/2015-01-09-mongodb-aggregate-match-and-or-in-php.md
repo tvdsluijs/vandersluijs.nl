@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
+date: 2015-01-09 17:58
 excerpt_separator: < !--more -->
-title: 'Mongodb aggregate $match, $and, $or in PHP'
-slug: 'mongodb-aggregate-match-and-or-in-php'
-date: '2015-01-09 17:58'
-publish_date: '2015-01-09 17:58'
-category: ['Tech']
-tags: ['Mongodb', 'database', 'PHP']
+layout: post
+publish_date: 2015-01-09 17:58
+slug: mongodb-aggregate-match-and-or-in-php
+tags:
+- Mongodb
+- database
+- PHP
+title: Mongodb aggregate $match, $and, $or in PHP
+
 ---
 MongoDB! Sinds ik er mee begonnen ben, ben ik er niet meer mee te stoppen.
 

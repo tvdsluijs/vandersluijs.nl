@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-05-20 02:11
 excerpt_separator: <!--more-->
-title: 'Wolphaartsdijk op de kaart !'
-slug: 'wolphaartsdijk-op-de-kaart-'
-date: '2009-05-20 02:11'
-publish_date: '2009-05-20 02:11'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-05-20 02:11
+slug: wolphaartsdijk-op-de-kaart-
+tags:
+- Coding
+title: Wolphaartsdijk op de kaart !
+
 ---
 Eindelijk is Wolphaartsdijk nu echt op de kaart van Nederland gezet.  
   

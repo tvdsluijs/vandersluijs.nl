@@ -1,33 +1,17 @@
 ---
-id: 1995
-title: Oplossing verhuizen WordPress nieuw domein
-date: 2015-12-12T06:00:32+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1995
-permalink: /2015/12/oplossing-verhuizen-wordpress-nieuw-domein.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "611"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-12-12 06:00:32+00:00
+hits:
+- '611'
+layout: post
+permalink: /2015/12/oplossing-verhuizen-wordpress-nieuw-domein.html
 tags:
-  - Wordpress
+- Wordpress
+title: Oplossing verhuizen WordPress nieuw domein
+
 ---
 Het verhuizen van een WordPress domein kan voor nogal wat kopzorgen zorgen.
 

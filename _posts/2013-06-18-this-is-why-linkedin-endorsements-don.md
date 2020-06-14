@@ -1,29 +1,17 @@
 ---
-id: 101
-title: 'This is why Linkedin endorsements don&#39;t mean jack anymore! Part 2'
-date: 2013-06-18T21:41:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/06/18/this-is-why-linkedin-endorsements-don/
-permalink: /2013/06/this-is-why-linkedin-endorsements-don.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4185315130946857292"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/06/this-is-why-linkedin-endorsements-don.html
-hits:
-  - "520"
-dsq_thread_id:
-  - "5982521678"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-06-18 21:41:00+00:00
+dsq_thread_id:
+- '5982521678'
+hits:
+- '520'
+layout: post
+permalink: /2013/06/this-is-why-linkedin-endorsements-don.html
+title: This is why Linkedin endorsements don&#39;t mean jack anymore! Part 2
+
 ---
 So a couple of weeks ago I wrote about the <a title="Endorsements on Linkedin are a sham!" href="https://www.vandersluijs.nl/2013/05/endorsements-on-linkedin-are-a-sham.html" target="_blank">Linkedin endorsements</a> and how they became a <a title="Endorsements on Linkedin are a sham!" href="https://www.vandersluijs.nl/2013/05/endorsements-on-linkedin-are-a-sham.html" target="_blank">Sham</a>!
 

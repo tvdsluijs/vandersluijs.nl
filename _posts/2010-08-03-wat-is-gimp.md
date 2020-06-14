@@ -1,35 +1,19 @@
 ---
-id: 2707
-title: Gimp wat is dat?
-date: 2010-08-03T06:29:47+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://dezeeuwsefotograaf.nl/?p=23
-permalink: /2010/08/wat-is-gimp.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "530"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5765269534"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2010-08-03 06:29:47+00:00
+dsq_thread_id:
+- '5765269534'
+hits:
+- '530'
+layout: post
+permalink: /2010/08/wat-is-gimp.html
 tags:
-  - Gimp
+- Gimp
+title: Gimp wat is dat?
+
 ---
 GIMP staat voor GNU Image Manipulation Program. Het is een programma om afbeeldingen te bewerken. Gimp wordt gekenmerkt door hoge kwaliteit voor weinig geld …. eigenlijk dus helemaal voor niks.
 

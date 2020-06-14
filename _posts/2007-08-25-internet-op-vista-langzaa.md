@@ -1,32 +1,18 @@
 ---
-id: 532
-title: Internet op Vista langzaam
-date: 2007-08-25T05:12:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/08/25/internet-op-vista-langzaa/
-permalink: /2007/08/internet-op-vista-langzaa.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1467855282942826557"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/08/internet-op-vista-langzaam.html
-hits:
-  - "666"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6253237511"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-08-25 05:12:00+00:00
+dsq_thread_id:
+- '6253237511'
+excerpt_separator: <!--more-->
+hits:
+- '666'
+layout: post
+permalink: /2007/08/internet-op-vista-langzaa.html
+title: Internet op Vista langzaam
+
 ---
 Gek werd ik ervan…… VISTA !!!!!!!
 

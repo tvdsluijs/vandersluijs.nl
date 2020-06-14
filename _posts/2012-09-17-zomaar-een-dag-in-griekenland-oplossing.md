@@ -1,27 +1,15 @@
 ---
-id: 177
-title: Zomaar een dag in Griekenland, oplossing Crisis
-date: 2012-09-17T15:20:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/09/17/zomaar-een-dag-in-griekenland-oplossing/
-permalink: /2012/09/zomaar-een-dag-in-griekenland-oplossing.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1441424190669851071"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/09/zomaar-een-dag-in-griekenland-oplossing.html
-hits:
-  - "1327"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2012-09-17 15:20:00+00:00
+hits:
+- '1327'
+layout: post
+permalink: /2012/09/zomaar-een-dag-in-griekenland-oplossing.html
+title: Zomaar een dag in Griekenland, oplossing Crisis
+
 ---
 Het is een mooie onbewolkte dag in een klein Grieks dorpje. De straten zijn leeg, de enige   
 beweging komt van overscherende zwaluwen en de zon die de lucht boven het gescheurde   

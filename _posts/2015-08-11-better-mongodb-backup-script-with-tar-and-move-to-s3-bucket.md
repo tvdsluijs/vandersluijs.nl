@@ -1,12 +1,19 @@
 ---
-layout: post
-excerpt_separator: < !--more -->
-title: 'Better MongoDB backup script with Tar and move to S3 Bucket'
-slug: 'better-mongodb-backup-script-with-tar-and-move-to-s3-bucket'
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
 date: '2015-08-11 11:52:12+00:00'
+excerpt_separator: < !--more -->
+layout: post
 publish_date: '2015-08-11 11:52:12+00:00'
-category: ['Coding']
-tags: ['S3-Bucket', 'AWS', 'Mongodb']
+slug: better-mongodb-backup-script-with-tar-and-move-to-s3-bucket
+tags:
+- S3-Bucket
+- AWS
+- Mongodb
+title: Better MongoDB backup script with Tar and move to S3 Bucket
+
 ---
 A few months ago I wrote a article about a MongoDB backup script.
 

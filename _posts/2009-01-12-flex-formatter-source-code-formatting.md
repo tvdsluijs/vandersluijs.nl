@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-01-12 07:01
 excerpt_separator: <!--more-->
-title: 'Flex Formatter, source code formatting'
-slug: 'flex-formatter-source-code-formatting'
-date: '2009-01-12 07:01'
-publish_date: '2009-01-12 07:01'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-01-12 07:01
+slug: flex-formatter-source-code-formatting
+tags:
+- Coding
+title: Flex Formatter, source code formatting
+
 ---
 Well Adobe did not provide the Flex Builder or Eclipse SDK plugin with a
 source code formatter (also known as Pretty Printer). To bad, because I really

@@ -1,45 +1,20 @@
 ---
-id: 1692
-title: Wie wil er nog zaken doen met Headhunters?
-date: 2015-11-11T14:36:41+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1692
-permalink: /2015/11/wie-wil-er-nog-zaken-doen-met-headhunters.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "754"
-dsq_thread_id:
-  - "5700416189"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/11/resume-e1447222106721.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2015-11-11 14:36:41+00:00
+dsq_thread_id:
+- '5700416189'
+hits:
+- '754'
+image: https://vandersluijs.resultants-e.nl/2015/11/resume-e1447222106721.jpg
+layout: post
+permalink: /2015/11/wie-wil-er-nog-zaken-doen-met-headhunters.html
 tags:
-  - php
+- php
+title: Wie wil er nog zaken doen met Headhunters?
+
 ---
 Er komt nog eens een dag dat niemand meer zaken doet met headhunters. Doordat spoeling van goede programmeurs steeds dunner en dunner wordt onder de tien- zo niet honderdtallen aan headhunt-bedrijven, gaan ze steeds grover en rigoureuzer te werk.
 

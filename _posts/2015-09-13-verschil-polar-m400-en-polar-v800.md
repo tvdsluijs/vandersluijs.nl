@@ -1,47 +1,20 @@
 ---
-id: 1284
-title: Verschil Polar m400 en Polar v800
-date: 2015-09-13T09:27:11+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/?p=1284
-permalink: /2015/09/verschil-polar-m400-en-polar-v800.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "4604"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700416064"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/09/polar_v800_m400_verschillen.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-09-13 09:27:11+00:00
+dsq_thread_id:
+- '5700416064'
+hits:
+- '4604'
+image: https://vandersluijs.resultants-e.nl/2015/09/polar_v800_m400_verschillen.jpg
+layout: post
+permalink: /2015/09/verschil-polar-m400-en-polar-v800.html
 tags:
-  - Polar
+- Polar
+title: Verschil Polar m400 en Polar v800
+
 ---
 &#8220;Chosen by Champions&#8221; staat er op de doos en de folders van de Polar v800. Blijkbaar ben ik dan een Champion. Wat overigens wel een beetje klopt als je mijn verhaal over de &#8220;<a href="http://40enfit.nl/polar-v800-en-obstacle-run/" target="_blank">Polar V800 en Obstacle Run</a>&#8221; op mijn 40 en fit site leest.
 

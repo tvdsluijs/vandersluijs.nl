@@ -1,29 +1,15 @@
 ---
-id: 490
-title: Last day SAP Teched 2008
-date: 2008-10-16T15:30:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/10/16/last-day-sap-teched-2008/
-permalink: /2008/10/last-day-sap-teched-2008.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6915842529259871898"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/10/last-day-sap-teched-2008.html
-hits:
-  - "578"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-10-16 15:30:00+00:00
+hits:
+- '578'
+layout: post
+permalink: /2008/10/last-day-sap-teched-2008.html
+title: Last day SAP Teched 2008
+
 ---
 Well today is the last day on the SAP Teched 2008. Next week I will try to fill in the gaps between Monday and today on this site.
 

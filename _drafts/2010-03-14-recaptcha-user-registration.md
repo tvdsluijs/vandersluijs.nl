@@ -6,7 +6,8 @@ slug: 'recaptcha-user-registration'
 date: '2010-03-14 13:56'
 publish_date: '2010-03-14 13:56'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*N-C5AXoGcJi8B75X.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*N-C5AXoGcJi8B75X.gif'
+  feature: 0*N-C5AXoGcJi8B75X.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

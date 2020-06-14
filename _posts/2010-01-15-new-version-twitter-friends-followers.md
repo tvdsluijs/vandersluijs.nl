@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-01-15 20:56
 excerpt_separator: <!--more-->
-title: 'New Version Twitter Friends & Followers'
-slug: 'new-version-twitter-friends-followers'
-date: '2010-01-15 20:56'
-publish_date: '2010-01-15 20:56'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-01-15 20:56
+slug: new-version-twitter-friends-followers
+tags:
+- Coding
+title: New Version Twitter Friends & Followers
+
 ---
 Thanxs to the testing of Paul Cornelissen of [Screenbizz design
 studio](http://www.screenbizz.nl/) I could remove quite an annoying bug in the

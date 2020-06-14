@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-01-16 17:45
 excerpt_separator: <!--more-->
-title: 'Adobe Flex, Problems with Eclipse installing Plug-ins ?'
-slug: 'adobe-flex-problems-with-eclipse-installing-plug-in-s-'
-date: '2009-01-16 17:45'
-publish_date: '2009-01-16 17:45'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-01-16 17:45
+slug: adobe-flex-problems-with-eclipse-installing-plug-in-s-
+tags:
+- Coding
+title: Adobe Flex, Problems with Eclipse installing Plug-ins ?
+
 ---
 Well the last couple of days I have been telling you about two great eclipse
 plug-ins for Adobe Flex. Like the TODO/FIXME plug-in and the Flex Formatter

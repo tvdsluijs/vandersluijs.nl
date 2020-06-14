@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-01-06 19:27
 excerpt_separator: <!--more-->
-title: 'Timer Class for time logs'
-slug: 'timer-class-for-time-logs'
-date: '2009-01-06 19:27'
-publish_date: '2009-01-06 19:27'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-01-06 19:27
+slug: timer-class-for-time-logs
+tags:
+- Coding
+title: Timer Class for time logs
+
 ---
 Do you want to know how long your functions take to do there job?  
   

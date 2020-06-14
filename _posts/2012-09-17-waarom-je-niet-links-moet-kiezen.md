@@ -1,27 +1,15 @@
 ---
-id: 178
-title: Waarom je niet Links moet kiezen!
-date: 2012-09-17T15:16:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/09/17/waarom-je-niet-links-moet-kiezen/
-permalink: /2012/09/waarom-je-niet-links-moet-kiezen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "579300811823813717"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/09/waarom-je-niet-links-moet-kiezen.html
-hits:
-  - "654"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2012-09-17 15:16:00+00:00
+hits:
+- '654'
+layout: post
+permalink: /2012/09/waarom-je-niet-links-moet-kiezen.html
+title: Waarom je niet Links moet kiezen!
+
 ---
 De 10 vrienden en hun stamkroeg &#8220;Nederland&#8221;
 

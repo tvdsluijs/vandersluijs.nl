@@ -1,31 +1,15 @@
 ---
-id: 43
-title: Chromebook voor iedere student, buurman en ouder
-date: 2014-09-11T20:19:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/chromebook-voor-iedere-student-buurman/
-permalink: /2014/09/chromebook-voor-iedere-student-buurman.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "9091690531628605953"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/chromebook-voor-iedere-student-buurman.html
-blogger_thumbnail:
-  - /images/2014/Sep/no_I_will_not_fix_computer.jpg
-hits:
-  - "1341"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 20:19:00+00:00
+hits:
+- '1341'
+layout: post
+permalink: /2014/09/chromebook-voor-iedere-student-buurman.html
+title: Chromebook voor iedere student, buurman en ouder
+
 ---
 ![No I will not Fix your computer](https://vandersluijs.resultants-e.nl/2014/Sep/no_I_will_not_fix_computer.jpg)  
 Er gaat geen maand voorbij of ik heb wel een Windows computer onder mijn bureau staan (of op mijn bureau bij laptop) van een goede buur, vriend of van mijn moeder.

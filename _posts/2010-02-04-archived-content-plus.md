@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-04 10:23
 excerpt_separator: <!--more-->
-title: 'Archived Content Plus'
-slug: 'archived-content-plus'
-date: '2010-02-04 10:23'
-publish_date: '2010-02-04 10:23'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*qb8ur2HNqFc39eBO.png'
-  feature: 0*qb8ur2HNqFc39eBO.png'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*qb8ur2HNqFc39eBO.png
+layout: post
+publish_date: 2010-02-04 10:23
+slug: archived-content-plus
+tags:
+- Coding
+title: Archived Content Plus
+
 ---
 ![Archived_Content_Plus](https://vandersluijs.resultants-e.nl/0*qb8ur2HNqFc39eBO.png)
 

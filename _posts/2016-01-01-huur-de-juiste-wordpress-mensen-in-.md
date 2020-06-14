@@ -1,17 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2016-01-01 22:56
 excerpt_separator: <!--more-->
-title: 'Huur de juiste Wordpress mensen in!'
-slug: 'huur-de-juiste-wordpress-mensen-in-'
-date: '2016-01-01 22:56'
-publish_date: '2016-01-01 22:56'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*ElZM2hjwYLDE29GCAmYxoA.jpeg'
-  feature: 1*ElZM2hjwYLDE29GCAmYxoA.jpeg'
-  credit: 'pixabay.com'
-  creditlink:  'https://pixabay.com/en/wordpress-blogging-writing-typing-923188/'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/1*ElZM2hjwYLDE29GCAmYxoA.jpeg
+layout: post
+publish_date: 2016-01-01 22:56
+slug: huur-de-juiste-wordpress-mensen-in-
+tags:
+- Coding
+title: Huur de juiste Wordpress mensen in!
+
 ---
 Ik zie het maar al te vaak. Personen die leuke sites kunnen maken met
 Wordpress maar eigenlijk geen idee hebben wat ze aan het doen zijn.

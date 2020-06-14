@@ -1,27 +1,15 @@
 ---
-id: 479
-title: OMG what have I done
-date: 2008-10-29T20:43:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/10/29/omg-what-have-i-done/
-permalink: /2008/10/omg-what-have-i-done.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8124729510294401805"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/10/omg-what-have-i-done.html
-hits:
-  - "1051"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2008-10-29 20:43:00+00:00
+hits:
+- '1051'
+layout: post
+permalink: /2008/10/omg-what-have-i-done.html
+title: OMG what have I done
+
 ---
 Don&#8217;t worry&#8230;. it is nothing serious.  
 This morning I told you I was going dutch right &#8230; (no no not getting cheap here).  

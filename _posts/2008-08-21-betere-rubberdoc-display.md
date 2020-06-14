@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-08-21 13:58
 excerpt_separator: <!--more-->
-title: 'Betere Rubberdoc display'
-slug: 'betere-rubberdoc-display'
-date: '2008-08-21 13:58'
-publish_date: '2008-08-21 13:58'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-08-21 13:58
+slug: betere-rubberdoc-display
+tags:
+- Coding
+title: Betere Rubberdoc display
+
 ---
 Op dit moment gebruik ik RubberDoc als mijn download tool voor bezoekers
 binnen mijn Joomla! site.  

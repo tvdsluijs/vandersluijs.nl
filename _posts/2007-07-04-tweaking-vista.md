@@ -1,30 +1,16 @@
 ---
-id: 539
-title: Tweaking Vista
-date: 2007-07-04T15:28:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/07/04/tweaking-vista/
-permalink: /2007/07/tweaking-vista.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5749851899771249952"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/07/tweaking-vista.html
-hits:
-  - "601"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-07-04 15:28:00+00:00
+excerpt_separator: <!--more-->
+hits:
+- '601'
+layout: post
+permalink: /2007/07/tweaking-vista.html
+title: Tweaking Vista
+
 ---
 The last view days I was wondering why my harddisks kept doing something when using Windows Vista. When I visited some sites I found out that Windows Vista does a lot of things to keep itself fast.  Like auto defrag my harddisk, indexing al files to speed up searching and prefetching. (a way to extend the virtual memory) 
 

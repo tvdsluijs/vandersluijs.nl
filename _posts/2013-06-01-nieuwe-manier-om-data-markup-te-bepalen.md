@@ -1,29 +1,15 @@
 ---
-id: 111
-title: 'Nieuwe manier om &quot;Structured Data Markup&quot; te bepalen'
-date: 2013-06-01T15:24:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/06/01/nieuwe-manier-om-data-markup-te-bepalen/
-permalink: /2013/06/nieuwe-manier-om-data-markup-te-bepalen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8630036384468345241"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/06/nieuwe-manier-om-data-markup-te-bepalen.html
-hits:
-  - "1057"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2013-06-01 15:24:00+00:00
+hits:
+- '1057'
+layout: post
+permalink: /2013/06/nieuwe-manier-om-data-markup-te-bepalen.html
+title: Nieuwe manier om &quot;Structured Data Markup&quot; te bepalen
+
 ---
 Zat ik dik een jaar geleden nog veldje voor veldje uit te zoeken voor schema.org om de bax-shop.nl site helemaal juist te krijgen om google nog eenvoudiger te laten indexeren, nu is dat echt piece of cake geworden met de nieuwe Structured Data Markup helper!
 

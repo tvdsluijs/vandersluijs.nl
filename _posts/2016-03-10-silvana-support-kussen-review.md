@@ -1,45 +1,21 @@
 ---
-id: 2577
-title: Silvana kussen Review, Silvana Support Fluorine
-date: 2016-03-10T08:00:15+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2577
-permalink: /2016/03/silvana-support-kussen-review.html
-vw_review_summary:
-  - Het is even wennen op dit kussen maar als je eenmaal goed ligt, dan lig je ook echt goed. Tja en 99 euro is geen koopje maar geloof me je wilt echt een goed kussen hebben voor een goede nachtrust. Dus dit kussen is het geld meer dan waard en met een 4,9 van de 5 punten een toppertje dus!!
-vw_review_average_score:
-  - "4.9"
-vw_review_score_0_label:
- - Ligging
-vw_review_score_0_score:
- - 10
-vw_review_score_1_label:
- - Zachtheid
-vw_review_score_1_score:
- - 10
-vw_review_score_2_label:
- - Prijs
-vw_review_score_2_score:
- - 9
-vw_review_score_3_label:
- - Vorm
-vw_review_score_3_score:
- - 10
-vw_review_score_4_label:
- - Maat
-vw_review_score_4_score:
- - 10
-vw_review_score_5_label:
- - Ondersteuning
-vw_review_score_5_score:
- - 10
-dsq_thread_id:
-  - "5701767410"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-03-10 08:00:15+00:00
+description:
+- Het is even wennen op dit kussen maar als je eenmaal goed ligt, dan lig je ook echt
+  goed. Tja en 99 euro is geen koopje maar geloof me je wilt echt een goed kussen
+  hebben voor een goede nachtrust. Dus dit kussen is het geld meer dan waard en met
+  een 4,9 van de 5 punten een toppertje dus!!
+dsq_thread_id:
+- '5701767410'
+image: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
+layout: post
+permalink: /2016/03/silvana-support-kussen-review.html
+title: Silvana kussen Review, Silvana Support Fluorine
+
 ---
 <img class="alignleft size-thumbnail wp-image-2545" src="https://vandersluijs.resultants-e.nl/2016/02/IMG_3274-150x150.jpg" alt="silvana support kussen ergonomisch" width="150" height="150" srcset="https://vandersluijs.resultants-e.nl/2016/02/IMG_3274-150x150.jpg 150w, https://vandersluijs.resultants-e.nl/2016/02/IMG_3274-65x65.jpg 65w" sizes="(max-width: 150px) 100vw, 150px" />Mijn Ergonomisch Kussen van Tempur was na zo&#8217;n 3 jaar echt aan vervanging toe! Die had ik overigens al na 1 of 2 jaar moeten vervangen maar ik was dus aan een nieuw kussen toe. Gelukkig was Silvana zo aardig om me een Silvana  kussen toe te sturen, het Silvana Support Fluorine kussen wel te verstaan.
 

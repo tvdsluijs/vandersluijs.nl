@@ -1,19 +1,15 @@
 ---
-id: 2873
-title: Delta zet ZeelandNet en consumentenafdeling te koop
-date: 2016-04-20T17:59:22+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://www.vandersluijs.nl/?p=132
-permalink: /2016/04/delta-zet-zeelandnet-en-consumentenafdeling-koop.html
-hefo_before:
-  - "0"
-hefo_after:
-  - "0"
-hits:
-  - "67"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2016-04-20 17:59:22+00:00
+hits:
+- '67'
+layout: post
+permalink: /2016/04/delta-zet-zeelandnet-en-consumentenafdeling-koop.html
+title: Delta zet ZeelandNet en consumentenafdeling te koop
+
 ---
 De eigenaar van ZeelandNet, energiebedrijf Delta, zoekt een koper voor de internetprovider. Dit komt onder andere doordat het energiebedrijf te weinig omzet draait door de lage energieprijzen. Ook moet het bedrijf voor 1 juli 2017 splitsen in een publiek en commercieel onderdeel.<!--more-->
 

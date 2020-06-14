@@ -1,29 +1,15 @@
 ---
-id: 203
-title: Tumblr slecht met SEO, of toch niet?
-date: 2012-04-14T23:09:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/04/14/tumblr-slecht-met-seo-of-toch-nie/
-permalink: /2012/04/tumblr-slecht-met-seo-of-toch-nie.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2066456066542540572"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/04/tumblr-slecht-met-seo-of-toch-niet.html
-hits:
-  - "1211"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-04-14 23:09:00+00:00
+hits:
+- '1211'
+layout: post
+permalink: /2012/04/tumblr-slecht-met-seo-of-toch-nie.html
+title: Tumblr slecht met SEO, of toch niet?
+
 ---
 Tumblr beweert te zijn geoptimaliseerd voor google en tevens ook voor andere zoekmachines zoekmachine vriendelijk te zijn. Maar dat is niet helemaal waar. Tumblr is zoekmachine vriendelijk, maar het is niet zo goed geoptimaliseerd als ze beweren. Het is eigenlijk wel prima zoals tumblr het doet maar als je een blog op tumblr hebt en je wilt echt het onderste uit de kan hebben dan zal je zelf nog wat aanpassingen moeten doen aan uw thema zodat het nog beter vindbaar is voor google en andere zoekmachines. Tumblr is geweldig, maar als je het goed voor elkaar wilt hebben lees dan onderstaande tips even door.<a name="more"></a>
 

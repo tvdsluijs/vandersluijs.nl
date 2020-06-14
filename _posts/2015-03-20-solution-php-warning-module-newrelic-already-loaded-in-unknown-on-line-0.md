@@ -1,21 +1,20 @@
 ---
-id: 2937
-title: 'Solution : PHP Warning: Module ‘newrelic’ already loaded in Unknown on line 0'
-date: 2015-03-20T17:56:36+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://itheo.nl/?p=2033
-permalink: /2015/03/solution-php-warning-module-newrelic-already-loaded-in-unknown-on-line-0.html
-hits:
-  - "507"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5704063426"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-03-20 17:56:36+00:00
+dsq_thread_id:
+- '5704063426'
+hits:
+- '507'
+layout: post
+permalink: /2015/03/solution-php-warning-module-newrelic-already-loaded-in-unknown-on-line-0.html
 tags:
-  - php
+- php
+title: "Solution : PHP Warning: Module \u2018newrelic\u2019 already loaded in Unknown\
+  \ on line 0"
+
 ---
 <div class="separator" style="clear: both; text-align: left;">
   So you are using NewRelic!

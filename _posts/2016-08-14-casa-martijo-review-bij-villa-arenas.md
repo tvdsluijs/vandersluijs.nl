@@ -1,47 +1,21 @@
 ---
-id: 3380
-title: Casa Martijo review bij Villa Arenas
-date: 2016-08-14T14:18:03+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=3380
-permalink: /2016/08/casa-martijo-review-bij-villa-arenas.html
-vw_review_summary:
-  - Buiten de zeer steile weg naar het huisje toe is ligt dit vakantiehuis in een prachtige omgeving. Het huis is van alle vakantie gemakken voorzien zoals zwembad, complete keuken en meerdere badkamers.
-vw_review_average_score:
-  - "4.3"
-vw_review_score_0_label:
- - Algemene waardering
-vw_review_score_0_score:
- - 8
-vw_review_score_1_label:
- - De vakantiewoning
-vw_review_score_1_score:
- - 10
-vw_review_score_2_label:
- - Comfort
-vw_review_score_2_score:
- - 8
-vw_review_score_3_label:
- - Hygiëne
-vw_review_score_3_score:
- - 8
-vw_review_score_4_label:
- - Voorzieningen
-vw_review_score_4_score:
- - 8
-vw_review_score_5_label:
- - Prijs- kwaliteitsverhouding
-vw_review_score_5_score:
- - 10
-dsq_thread_id:
-  - "5746507884"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/08/dpc-11-825x510.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
-  - Travel
-format: image
+- Lifestyle
+- Travel
+comments: 'true'
+date: 2016-08-14 14:18:03+00:00
+description:
+- Buiten de zeer steile weg naar het huisje toe is ligt dit vakantiehuis in een prachtige
+  omgeving. Het huis is van alle vakantie gemakken voorzien zoals zwembad, complete
+  keuken en meerdere badkamers.
+dsq_thread_id:
+- '5746507884'
+image: https://vandersluijs.resultants-e.nl/2016/08/dpc-11-825x510.jpg
+layout: post
+permalink: /2016/08/casa-martijo-review-bij-villa-arenas.html
+title: Casa Martijo review bij Villa Arenas
+
 ---
 Vlak blij het levendige kustplaatsje Torre del Mar en de plaats Villa Arenas ligt in de bergen Casa Martijo. Deze mooie ruime gelijksvloerse villa ligt op de berg en daardoor in een zeer rustige omgeving. Daar heb ik de afgelopen week heerlijk met mijn gezin vertoeft. Hierbij een review over  deze Villa.<!--more-->
 

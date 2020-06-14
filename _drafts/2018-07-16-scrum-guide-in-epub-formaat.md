@@ -7,15 +7,13 @@ permalink: /2018/07/scrum-guide-in-epub-formaat
 date: 2018-07-16
 publish_date: 2018-07-16
 image:
-    path: https://www.vandersluijs.nl/images/scrum-guide-in-epub-formaat.jpeg
-    feature: scrum-guide-in-epub-formaat.jpeg
-    credit: "özgür uzun"
-    creditlink: "https://www.pexels.com/@ozgur"
+  path: https://www.vandersluijs.nl/images/scrum-guide-in-epub-formaat.jpeg
+  feature: scrum-guide-in-epub-formaat.jpeg
+  credit: "özgür uzun"
+  creditlink: "https://www.pexels.com/@ozgur"
 thumbnail: /images/scrum-guide-in-epub-formaat_thumbnail.jpeg
 categories: ['Agile']
-tags: Scrum Gids
- - Guide
- - Agile
+tags: ['Scrum']
 comments: true
 excerpt_separator: <!--more-->
 ---

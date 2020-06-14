@@ -1,31 +1,15 @@
 ---
-id: 67
-title: Mijn blog vanaf vandaag op Ghost.org
-date: 2014-05-23T19:47:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/05/23/mijn-blog-vanaf-vandaag-op-ghostorg/
-permalink: /2014/05/mijn-blog-vanaf-vandaag-op-ghostorg.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3008442088638541915"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/05/mijn-blog-vanaf-vandaag-op-ghostorg.html
-blogger_thumbnail:
-  - /images/2014/May/IMG_0667.JPG
-hits:
-  - "1452"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-05-23 19:47:00+00:00
+hits:
+- '1452'
+layout: post
+permalink: /2014/05/mijn-blog-vanaf-vandaag-op-ghostorg.html
+title: Mijn blog vanaf vandaag op Ghost.org
+
 ---
 ![Donkere Wolken](https://vandersluijs.resultants-e.nl/2014/May/IMG_0667.JPG)  
 Okay&#8230; da&#8217;s niet helemaal waar. Eigenlijk zit ik al sinds 17 februari met een [blog](http://itheo.nl) op Ghost.org maar ik heb dus vandaag mijn complete [blogger](http://www.blogger.com) blog overgezet naar [ghost.org](http://www.ghost.org). 

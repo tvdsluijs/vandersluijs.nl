@@ -1,27 +1,15 @@
 ---
-id: 296
-title: Trouble with the webshop (update)
-date: 2010-04-15T21:54:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/04/15/trouble-with-webshop-update/
-permalink: /2010/04/trouble-with-webshop-update.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1639143995506033906"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/04/trouble-with-webshop-update.html
-hits:
-  - "757"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2010-04-15 21:54:00+00:00
+hits:
+- '757'
+layout: post
+permalink: /2010/04/trouble-with-webshop-update.html
+title: Trouble with the webshop (update)
+
 ---
 Today we had an upgrade of our Webshop System (supported by WordPress and eShop). This upgrade should have fixed some bugs and should have added some extra features.  
 But… it brought a new big bug that stopped sending email with login information. It sended mails alright… but without login information.  

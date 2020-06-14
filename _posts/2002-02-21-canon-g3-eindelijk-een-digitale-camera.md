@@ -1,50 +1,21 @@
 ---
-id: 208
-title: Canon G3, eindelijk een Digitale Camera
-date: 2002-02-21T15:54:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/02/21/eindelijk-een-digitale-camera/
-permalink: /2002/02/canon-g3-eindelijk-een-digitale-camera.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7915286543371603903"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/02/eindelijk-een-digitale-camera.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "525"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5821496035"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/01/IMG_2467.jpg
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2002-02-21 15:54:00+00:00
+dsq_thread_id:
+- '5821496035'
+hits:
+- '525'
+image: https://vandersluijs.resultants-e.nl/2016/01/IMG_2467.jpg
+layout: post
+permalink: /2002/02/canon-g3-eindelijk-een-digitale-camera.html
 tags:
-  - Camera
-  - Canon
+- Camera
+- Canon
+title: Canon G3, eindelijk een Digitale Camera
+
 ---
 Nou, het is er eindelijk van gekomen. Vandaag heb ik een digitale camera gekocht. Een Canon PowerShot G3.<!--more-->
 

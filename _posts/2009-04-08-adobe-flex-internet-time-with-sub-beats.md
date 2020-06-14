@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-04-08 21:43
 excerpt_separator: <!--more-->
-title: 'Adobe Flex Internet Time with Sub Beats'
-slug: 'adobe-flex-internet-time-with-sub-beats'
-date: '2009-04-08 21:43'
-publish_date: '2009-04-08 21:43'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*P5EduonItyVS8i7d.gif'
-  feature: 0*P5EduonItyVS8i7d.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*P5EduonItyVS8i7d.gif
+layout: post
+publish_date: 2009-04-08 21:43
+slug: adobe-flex-internet-time-with-sub-beats
+tags:
+- Coding
+title: Adobe Flex Internet Time with Sub Beats
+
 ---
 Swatch Internet Time was a decimal time concept introduced in 1998 and
 marketed by the Swatch corporation as an alternative, decimal measure of time.

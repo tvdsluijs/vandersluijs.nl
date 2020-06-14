@@ -1,29 +1,15 @@
 ---
-id: 110
-title: 'Responsive design is ook : &quot;Snelheid optimalisatie en testen!&quot;'
-date: 2013-06-02T17:02:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/06/02/responsive-design-is-ook-optimalisatie/
-permalink: /2013/06/responsive-design-is-ook-optimalisatie.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8036582409819846534"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/06/responsive-design-is-ook-optimalisatie.html
-hits:
-  - "1022"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2013-06-02 17:02:00+00:00
+hits:
+- '1022'
+layout: post
+permalink: /2013/06/responsive-design-is-ook-optimalisatie.html
+title: 'Responsive design is ook : &quot;Snelheid optimalisatie en testen!&quot;'
+
 ---
 Iedereen weet hoe belangrijk het is om je site goed te tonen op iedere device. Of het nu op een mobiel, tablet of desktop is.
 

@@ -1,31 +1,17 @@
 ---
-id: 422
-title: NL4B at the VNSG Congress 2009
-date: 2009-04-20T18:45:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/04/20/nl4b-at-vnsg-congress-2009/
-permalink: /2009/04/nl4b-at-vnsg-congress-2009.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "374757813133237041"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/04/nl4b-at-vnsg-congress-2009.html
-hits:
-  - "745"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5710969477"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-04-20 18:45:00+00:00
+dsq_thread_id:
+- '5710969477'
+hits:
+- '745'
+layout: post
+permalink: /2009/04/nl4b-at-vnsg-congress-2009.html
+title: NL4B at the VNSG Congress 2009
+
 ---
 This year I also visited the [VNSG](http://www.vnsg.nl/ "Vereniging Nederlandstalige SAP Gebruikers") (Vereniging Nederlandstalige Sap Gebruikers) Congress at the MECC in Maastricht.
 

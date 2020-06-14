@@ -1,33 +1,17 @@
 ---
-id: 150
-title: Canon mp970, geen inkt en toch scannen?
-date: 2012-11-10T13:29:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/11/10/canon-mp970-geen-inkt-en-toch-scannen/
-permalink: /2012/11/canon-mp970-geen-inkt-en-toch-scannen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7292609785165691626"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/11/canon-mp970-geen-inkt-en-toch-scannen.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2012/11/canon_mp970-300x225.jpg
-hits:
-  - "2387"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700415762"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-11-10 13:29:00+00:00
+dsq_thread_id:
+- '5700415762'
+hits:
+- '2387'
+layout: post
+permalink: /2012/11/canon-mp970-geen-inkt-en-toch-scannen.html
+title: Canon mp970, geen inkt en toch scannen?
+
 ---
 <div>
   <a href=https://vandersluijs.resultants-e.nl/2012/11/canon_mp970.jpg"><img border="0" src="https://vandersluijs.resultants-e.nl/2012/11/canon_mp970-300x225.jpg" height="150" width="200" /></a>

@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-12-26 13:34
 excerpt_separator: <!--more-->
-title: 'Flex Openen Webpagina / URL'
-slug: 'flex-openen-webpagina-url'
-date: '2008-12-26 13:34'
-publish_date: '2008-12-26 13:34'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-12-26 13:34
+slug: flex-openen-webpagina-url
+tags:
+- Coding
+title: Flex Openen Webpagina / URL
+
 ---
 Een web pagina openen vanuit flex, of een mailto sturen vanuit flex is
 eenvoudiger dan je denkt.  

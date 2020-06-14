@@ -1,56 +1,17 @@
 ---
-id: 2311
-title: Weekblad de Bevelandse Bode ontneemt je rechten
-date: 2010-08-19T19:44:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/08/19/leuke-foto-actie-van-weekblad-de/
-permalink: /2010/08/weekblad-de-bevelandse-bode-ontneemt-je-rechten.html
-blogger_bid:
-  - "7319082336334478150"
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1364893155336117927"
-  - "1364893155336117927"
-blogger_author:
-  - g104814725400115166555
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-  - "0"
-blogger_permalink:
-  - /2010/08/leuke-foto-actie-van-weekblad-de.html
-  - /2010/08/leuke-foto-actie-van-weekblad-de.html
-wp_review_location:
-  - bottom
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-  - '#e7e7e7'
-hits:
-  - "508"
-dsq_thread_id:
-  - "5820715386"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2010-08-19 19:44:00+00:00
+dsq_thread_id:
+- '5820715386'
+hits:
+- '508'
+layout: post
+permalink: /2010/08/weekblad-de-bevelandse-bode-ontneemt-je-rechten.html
+title: Weekblad de Bevelandse Bode ontneemt je rechten
+
 ---
 Vandaag viel mijn oog op een “fotografeer voor ons” actie van Weekblad de Bevelandse Bode.
 

@@ -1,27 +1,15 @@
 ---
-id: 243
-title: Donation from MIT
-date: 2011-03-18T20:20:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/03/18/donation-from-mi/
-permalink: /2011/03/donation-from-mi.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "125517184723515703"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/03/donation-from-mit.html
-hits:
-  - "1438"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2011-03-18 20:20:00+00:00
+hits:
+- '1438'
+layout: post
+permalink: /2011/03/donation-from-mi.html
+title: Donation from MIT
+
 ---
 Well, I think many people will not know MIT.   
 Even worse! Some of my colleagues did not know what MIT was until we told them what MIT was. The Massachusetts Institute of Technology (MIT) is one of the most prestigioustechnical universities in the  world. The Institute is located in Cambridge(Massachusetts) and has about 10,000 students.<a name="more"></a>What has been invented at MIT. 

@@ -1,29 +1,17 @@
 ---
-id: 257
-title: Presentatie op Resultants-e Reünie
-date: 2010-12-03T12:34:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/12/03/presentatie-op-resultants-e-reunie/
-permalink: /2010/12/presentatie-op-resultants-e-reunie.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "339654249650507773"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/12/presentatie-op-resultants-e-reunie.html
-hits:
-  - "493"
-dsq_thread_id:
-  - "6030722425"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2010-12-03 12:34:00+00:00
+dsq_thread_id:
+- '6030722425'
+hits:
+- '493'
+layout: post
+permalink: /2010/12/presentatie-op-resultants-e-reunie.html
+title: "Presentatie op Resultants-e Re\xFCnie"
+
 ---
 Gisteren ben ik naar rotterdam gereden om een gezellig dagje met ex-collega’s van Resultants-e te beleven.
 

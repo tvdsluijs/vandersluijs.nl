@@ -1,29 +1,15 @@
 ---
-id: 378
-title: Website Templates Online
-date: 2009-10-16T12:52:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/10/16/website-templates-online/
-permalink: /2009/10/website-templates-online.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8691665009743926739"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/10/website-templates-online.html
-hits:
-  - "841"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-10-16 12:52:00+00:00
+hits:
+- '841'
+layout: post
+permalink: /2009/10/website-templates-online.html
+title: Website Templates Online
+
 ---
 Vandaag, nou dat is niet helemaal waar. Twee weken geleden heb ik een nieuwe site gelanceerd waarop ik probeer minimaal 1x per week een nieuwe gratis te gebruiken website template zal publiceren.
 

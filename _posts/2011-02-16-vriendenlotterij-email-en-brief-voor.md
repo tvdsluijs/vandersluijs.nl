@@ -1,27 +1,15 @@
 ---
-id: 248
-title: Vriendenlotterij email en brief voor studioplaatsen
-date: 2011-02-16T01:40:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/02/16/vriendenlotterij-email-en-brief-voor/
-permalink: /2011/02/vriendenlotterij-email-en-brief-voor.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "892378048874621548"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/02/vriendenlotterij-email-en-brief-voor.html
-hits:
-  - "1111"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2011-02-16 01:40:00+00:00
+hits:
+- '1111'
+layout: post
+permalink: /2011/02/vriendenlotterij-email-en-brief-voor.html
+title: Vriendenlotterij email en brief voor studioplaatsen
+
 ---
 Heeft u ook dit mailtje ontvangen van de Vriendenlotterij ?
 

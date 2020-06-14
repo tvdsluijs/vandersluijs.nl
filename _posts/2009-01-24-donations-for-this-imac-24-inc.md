@@ -1,33 +1,18 @@
 ---
-id: 444
-title: Donations for this iMac 24-inch
-date: 2009-01-24T14:28:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/01/24/donations-for-this-imac-24-inc/
-permalink: /2009/01/donations-for-this-imac-24-inc.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "194589261992937923"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/01/donations-for-this-imac-24-inch.html
-blogger_thumbnail:
-  - https://www.paypal.com/nl_NL/i/scr/pixel.gif
-hits:
-  - "1144"
-dsq_thread_id:
-  - "6021395841"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2009/01/pixel1.gif
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2009-01-24 14:28:00+00:00
+dsq_thread_id:
+- '6021395841'
+hits:
+- '1144'
+image: https://vandersluijs.resultants-e.nl/2009/01/pixel1.gif
+layout: post
+permalink: /2009/01/donations-for-this-imac-24-inc.html
+title: Donations for this iMac 24-inch
+
 ---
 So what do I really want ? As you know I am trying to get enough money to get a iMac.
 

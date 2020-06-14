@@ -1,46 +1,23 @@
 ---
-id: 1584
-title: SMA Sunny Boy 3600TL-21 review
-date: 2015-10-27T10:16:32+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1584
-permalink: /2015/10/sma-sunny-boy-3600tl-21-review.html
-video_post_url:
-  - ""
-vw_review_summary:
-  - 'De Sunny Boy 3600TL-21 van SMA is het neusje van de zalm op gebied van standaard zonnepaneel sets. Hij produceert geen geluid, wordt niet super warm en kalibreert zich zelf tegen de zonne-sterkte van dat moment. '
-vw_review_average_score:
-  - "5"
-vw_review_score_0_label:
- - Installatie
-vw_review_score_0_score:
- - 10
-vw_review_score_1_label:
- - Configuratie
-vw_review_score_1_score:
- - 10
-vw_review_score_2_label:
- - Opbrengst
-vw_review_score_2_score:
- - 10
-vw_review_score_3_label:
- - Geluidsproductie
-vw_review_score_3_score:
- - 10
-vw_review_score_4_label:
- - Garantie
-vw_review_score_4_score:
- - 10
-dsq_thread_id:
-  - "5700416168"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-825x249.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-10-27 10:16:32+00:00
+description:
+- 'De Sunny Boy 3600TL-21 van SMA is het neusje van de zalm op gebied van standaard
+  zonnepaneel sets. Hij produceert geen geluid, wordt niet super warm en kalibreert
+  zich zelf tegen de zonne-sterkte van dat moment. '
+dsq_thread_id:
+- '5700416168'
+image: https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-825x249.jpg
+layout: post
+permalink: /2015/10/sma-sunny-boy-3600tl-21-review.html
 tags:
-  - Zonne-energie
-  - Zonnepanelen
+- Zonne-energie
+- Zonnepanelen
+title: SMA Sunny Boy 3600TL-21 review
+
 ---
 Begin juni vond ik het wel eens tijd worden voor Zonnepanelen op mijn dak. Geld op de bank levert niks meer op! Erger nog, als je meer dan 40.000 euro hebt moet je meer belasting betalen dan dat het opbrengt.
 

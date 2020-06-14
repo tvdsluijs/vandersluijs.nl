@@ -1,31 +1,17 @@
 ---
-id: 206
-title: Tumblr vs posterous, welke is de beste?
-date: 2012-04-12T08:03:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/04/12/tumblr-vs-posterous-welke-is-de-beste/
-permalink: /2012/04/tumblr-vs-posterous-welke-is-de-beste.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5272383423668017977"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/04/tumblr-vs-posterous-welke-is-de-beste.html
-hits:
-  - "503"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5792850711"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-04-12 08:03:00+00:00
+dsq_thread_id:
+- '5792850711'
+hits:
+- '503'
+layout: post
+permalink: /2012/04/tumblr-vs-posterous-welke-is-de-beste.html
+title: Tumblr vs posterous, welke is de beste?
+
 ---
 Diverse malen al heb ik rond gekeken in de wereld van blog services. Ik gebruik al jaren wordpress maar iets in mij zegt me dat ik over moest stappen. Daar over straks meer.
 

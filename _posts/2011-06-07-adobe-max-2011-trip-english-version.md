@@ -1,29 +1,15 @@
 ---
-id: 234
-title: '#Adobe Max 2011 Trip? (english version)'
-date: 2011-06-07T09:29:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/06/07/adobe-max-2011-trip-english-version/
-permalink: /2011/06/adobe-max-2011-trip-english-version.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8106445689224784179"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/06/adobe-max-2011-trip-english-version.html
-hits:
-  - "1167"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-06-07 09:29:00+00:00
+hits:
+- '1167'
+layout: post
+permalink: /2011/06/adobe-max-2011-trip-english-version.html
+title: '#Adobe Max 2011 Trip? (english version)'
+
 ---
 Yesterday @adobesystemsnl twittered this post:
 

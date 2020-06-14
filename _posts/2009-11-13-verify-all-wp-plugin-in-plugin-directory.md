@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-13 19:28
 excerpt_separator: <!--more-->
-title: 'Verify All WP Plugin in Plugin Directory'
-slug: 'verify-all-wp-plugin-in-plugin-directory'
-date: '2009-11-13 19:28'
-publish_date: '2009-11-13 19:28'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-11-13 19:28
+slug: verify-all-wp-plugin-in-plugin-directory
+tags:
+- Coding
+title: Verify All WP Plugin in Plugin Directory
+
 ---
 Yeahhhhhh, my first Wordpress Plugin “[Verify
 All](http://www.iamboredsoiblog.eu/2009/11/07/verify-all-for-wordpress/)” can

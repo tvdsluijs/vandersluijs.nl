@@ -1,56 +1,17 @@
 ---
-id: 2708
-title: 'Geen foto&#8217;s meer bestellen bij foto.com'
-date: 2008-09-16T16:43:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/02/04/geen-foto-meer-bestellen-bij-fotoco/
-permalink: /2008/09/geen-foto-bestellen-bij-fotocom.html
-blogger_bid:
-  - "7319082336334478150"
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3853201980543987606"
-  - "3853201980543987606"
-blogger_author:
-  - g104814725400115166555
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-  - "0"
-blogger_permalink:
-  - /2013/02/geen-foto-meer-bestellen-bij-fotocom.html
-  - /2013/02/geen-foto-meer-bestellen-bij-fotocom.html
-wp_review_location:
-  - bottom
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-  - '#e7e7e7'
-hits:
-  - "568"
-dsq_thread_id:
-  - "6347420835"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2008-09-16 16:43:00+00:00
+dsq_thread_id:
+- '6347420835'
+hits:
+- '568'
+layout: post
+permalink: /2008/09/geen-foto-bestellen-bij-fotocom.html
+title: Geen foto&#8217;s meer bestellen bij foto.com
+
 ---
 Ik dacht, laat ik eens op internet uitzoeken waar ik een beetje goedkoop mijn digitale vakantie foto’s kan laten afdrukken.
 

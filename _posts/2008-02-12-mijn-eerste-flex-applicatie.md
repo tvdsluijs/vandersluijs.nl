@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-02-12 06:00
 excerpt_separator: <!--more-->
-title: 'Mijn eerste Flex Applicatie'
-slug: 'mijn-eerste-flex-applicatie'
-date: '2008-02-12 06:00'
-publish_date: '2008-02-12 06:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-02-12 06:00
+slug: mijn-eerste-flex-applicatie
+tags:
+- Coding
+title: Mijn eerste Flex Applicatie
+
 ---
 Tja…. over een week of 3 is het zover, dan begin ik met mijn opleiding bij
 NL4B .  

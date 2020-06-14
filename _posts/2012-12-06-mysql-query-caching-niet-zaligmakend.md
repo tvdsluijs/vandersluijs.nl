@@ -1,33 +1,17 @@
 ---
-id: 143
-title: MySQL Query caching, niet zaligmakend
-date: 2012-12-06T22:28:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/12/06/mysql-query-caching-niet-zaligmakend/
-permalink: /2012/12/mysql-query-caching-niet-zaligmakend.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5686734232149990942"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/12/mysql-query-caching-niet-zaligmakend.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2012/12/mysql_query_cache.jpg
-hits:
-  - "517"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5786948985"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-12-06 22:28:00+00:00
+dsq_thread_id:
+- '5786948985'
+hits:
+- '517'
+layout: post
+permalink: /2012/12/mysql-query-caching-niet-zaligmakend.html
+title: MySQL Query caching, niet zaligmakend
+
 ---
 <div>
   <a href=https://vandersluijs.resultants-e.nl/2012/12/mysql_query_cache.jpg"><img border="0" height="166" src="https://vandersluijs.resultants-e.nl/2012/12/mysql_query_cache.jpg" width="200" /></a>

@@ -1,31 +1,15 @@
 ---
-id: 72
-title: Vanaf versie Ghost 0.5 zeg ik blogger vaarwel.
-date: 2014-02-13T17:31:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/02/13/vanaf-versie-ghost-05-zeg-ik-blogger/
-permalink: /2014/02/vanaf-versie-ghost-05-zeg-ik-blogger.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5600880711784672812"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/02/vanaf-versie-ghost-05-zeg-ik-blogger.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2014/02/import_tool_PNG.png
-hits:
-  - "1542"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-02-13 17:31:00+00:00
+hits:
+- '1542'
+layout: post
+permalink: /2014/02/vanaf-versie-ghost-05-zeg-ik-blogger.html
+title: Vanaf versie Ghost 0.5 zeg ik blogger vaarwel.
+
 ---
 <div style="clear: both;">
   <a href=https://vandersluijs.resultants-e.nl/2014/02/import_tool_PNG.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.resultants-e.nl/2014/02/import_tool_PNG.png" height="107" width="320" /></a>

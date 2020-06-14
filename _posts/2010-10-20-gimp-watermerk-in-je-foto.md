@@ -1,47 +1,19 @@
 ---
-id: 267
-title: Gimp watermerk in je foto
-date: 2010-10-20T22:51:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/10/20/watermerk-in-je-foto/
-permalink: /2010/10/gimp-watermerk-in-je-foto.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8665209419182148223"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/10/watermerk-in-je-foto.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "614"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5795620669"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2010-10-20 22:51:00+00:00
+dsq_thread_id:
+- '5795620669'
+hits:
+- '614'
+layout: post
+permalink: /2010/10/gimp-watermerk-in-je-foto.html
 tags:
-  - Gimp
+- Gimp
+title: Gimp watermerk in je foto
+
 ---
 Iedereen maakt wel eens een foto waarvan hij zegt… WoW ! En die wil je natuurlijk direct delen met al je vrienden het liefste online.  Maar hoe zorg je dat anderen niet met je foto aan de haal gaan? Dit kan je oplossen met Gimp watermerk.
 

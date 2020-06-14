@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-11-02 00:00
 excerpt_separator: <!--more-->
-title: 'Calculate Date from day of year in PhP'
-slug: 'calculate-date-from-day-of-year-in-php'
-date: '2008-11-02 00:00'
-publish_date: '2008-11-02 00:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-11-02 00:00
+slug: calculate-date-from-day-of-year-in-php
+tags:
+- Coding
+title: Calculate Date from day of year in PhP
+
 ---
 So why would you want to calculate a day of year to a date ?  
 Well I needed it for my Sudoku script. (<http://sudoku.gebruikmaar.nl>)  

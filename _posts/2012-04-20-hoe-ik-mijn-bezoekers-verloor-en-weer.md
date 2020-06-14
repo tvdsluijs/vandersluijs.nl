@@ -1,31 +1,17 @@
 ---
-id: 198
-title: Hoe ik mijn bezoekers verloor, en weer terug kreeg.
-date: 2012-04-20T22:14:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/04/20/hoe-ik-mijn-bezoekers-verloor-en-weer/
-permalink: /2012/04/hoe-ik-mijn-bezoekers-verloor-en-weer.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7016897456680100806"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/04/hoe-ik-mijn-bezoekers-verloor-en-weer.html
-hits:
-  - "483"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6027395345"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-04-20 22:14:00+00:00
+dsq_thread_id:
+- '6027395345'
+hits:
+- '483'
+layout: post
+permalink: /2012/04/hoe-ik-mijn-bezoekers-verloor-en-weer.html
+title: Hoe ik mijn bezoekers verloor, en weer terug kreeg.
+
 ---
 Althans…. dat hoop ik.
 

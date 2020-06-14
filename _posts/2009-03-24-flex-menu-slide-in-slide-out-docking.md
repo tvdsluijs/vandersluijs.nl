@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-03-24 06:42
 excerpt_separator: <!--more-->
-title: 'Flex Menu Slide in Slide out Docking'
-slug: 'flex-menu-slide-in-slide-out-docking'
-date: '2009-03-24 06:42'
-publish_date: '2009-03-24 06:42'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*vsUEBKKt98DsL17I.gif'
-  feature: 0*vsUEBKKt98DsL17I.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*vsUEBKKt98DsL17I.gif
+layout: post
+publish_date: 2009-03-24 06:42
+slug: flex-menu-slide-in-slide-out-docking
+tags:
+- Coding
+title: Flex Menu Slide in Slide out Docking
+
 ---
 Ever wondered how those nice Menu Screen docks work ? The docks that open when
 you get close to the edge of your screen ?  

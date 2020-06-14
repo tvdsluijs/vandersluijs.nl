@@ -7,7 +7,8 @@ date: 2018-06-29
 publish_date: 2018-06-29
 thumbnail: /images/5-redenen-te-stoppen-met-wordpress_thumbnail.jpeg
 image:
-  feature: 'https://www.vandersluijs.nl/images/5-redenen-te-stoppen-met-wordpress.jpeg'
+  path: 'https://www.vandersluijs.nl/images/5-redenen-te-stoppen-met-wordpress.jpeg'
+  feature: 5-redenen-te-stoppen-met-wordpress.jpeg'
   credit: pixabay
   creditlink: https://pixabay.com/en/wordpress-blogging-writing-typing-923188/
 categories: ['Tech']

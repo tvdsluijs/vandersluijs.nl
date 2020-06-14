@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Agile
+comments: 'true'
+date: 2014-09-11 20:22
 excerpt_separator: <!--more-->
-title: 'Waarom blijven grote bedrijven in het verleden hangen?'
-slug: 'waarom-blijven-grote-bedrijven-in-het-verleden-hangen-'
-date: '2014-09-11 20:22'
-publish_date: '2014-09-11 20:22'
-category: ['Agile']
-tags: ['Agile']
+layout: post
+publish_date: 2014-09-11 20:22
+slug: waarom-blijven-grote-bedrijven-in-het-verleden-hangen-
+tags:
+- Agile
+title: Waarom blijven grote bedrijven in het verleden hangen?
+
 ---
 Bedrijven…. ze snappen het echt niet. En dan heb ik het niet over de bakker op
 de de hoek van de straat, de fashion boetiek of de slager.  

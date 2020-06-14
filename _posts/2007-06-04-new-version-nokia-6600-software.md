@@ -1,32 +1,18 @@
 ---
-id: 544
-title: New version Nokia 6600 software
-date: 2007-06-04T17:59:00+00:00
-excerpt_separator: <!--more-->
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/06/04/new-version-nokia-6600-software/
-permalink: /2007/06/new-version-nokia-6600-software.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8989696030491352044"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/06/new-version-nokia-6600-software.html
-hits:
-  - "633"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6215309552"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-06-04 17:59:00+00:00
+dsq_thread_id:
+- '6215309552'
+excerpt_separator: <!--more-->
+hits:
+- '633'
+layout: post
+permalink: /2007/06/new-version-nokia-6600-software.html
+title: New version Nokia 6600 software
+
 ---
 <div align="justify">
   For some time now I had some problems (small problems) with my nokia.

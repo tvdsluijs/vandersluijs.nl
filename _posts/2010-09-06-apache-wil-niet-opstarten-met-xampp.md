@@ -1,31 +1,17 @@
 ---
-id: 275
-title: Apache wil niet opstarten met Xampp
-date: 2010-09-06T23:12:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/09/06/apache-wil-niet-opstarten-met-xampp/
-permalink: /2010/09/apache-wil-niet-opstarten-met-xampp.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4572736843961349101"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/09/apache-wil-niet-opstarten-met-xampp.html
-hits:
-  - "1331"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5800776685"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2010-09-06 23:12:00+00:00
+dsq_thread_id:
+- '5800776685'
+hits:
+- '1331'
+layout: post
+permalink: /2010/09/apache-wil-niet-opstarten-met-xampp.html
+title: Apache wil niet opstarten met Xampp
+
 ---
 Heb je Xampp geinstaleerd ? En wil apache met geen mogelijkheid opstarten ?
 

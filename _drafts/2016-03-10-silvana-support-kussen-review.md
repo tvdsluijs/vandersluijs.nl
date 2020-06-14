@@ -36,7 +36,8 @@ vw_review_score_5_score:
  - 10
 dsq_thread_id:
   - "5701767410"
-feature-img: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
 categories:
   - Lifestyle
 ---

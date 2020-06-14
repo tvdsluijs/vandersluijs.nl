@@ -1,60 +1,26 @@
 ---
-id: 3606
-title: Samsung Gear S3 Frontier Review
-excerpt_separator: <!--more-->
-date: 2016-12-26T19:35:14+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=3606
-permalink: /2016/12/samsung-gear-s3-frontier-review.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "2086"
-dsq_thread_id:
-  - "5700416006"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-5-825x510.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-12-26 19:35:14+00:00
+dsq_thread_id:
+- '5700416006'
+excerpt_separator: <!--more-->
+hits:
+- '2086'
+image: https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-5-825x510.jpg
+layout: post
+permalink: /2016/12/samsung-gear-s3-frontier-review.html
 tags:
-  - h7
-  - horloge
-  - m400
-  - Polar
-  - Sport
-  - v800
-format: image
+- h7
+- horloge
+- m400
+- Polar
+- Sport
+- v800
+title: Samsung Gear S3 Frontier Review
+
 ---
 Na 2 jaar gebruik te hebben gemaakt van mijn Polar M400 en V800 vond ik het tijd voor een echte smartwatch dat is de Samsung Gear S3 Frontier geworden.
 

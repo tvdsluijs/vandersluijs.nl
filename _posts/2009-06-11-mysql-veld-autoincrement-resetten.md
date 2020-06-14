@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-06-11 12:14
 excerpt_separator: <!--more-->
-title: 'MySQL veld Autoincrement resetten'
-slug: 'mysql-veld-autoincrement-resetten'
-date: '2009-06-11 12:14'
-publish_date: '2009-06-11 12:14'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-06-11 12:14
+slug: mysql-veld-autoincrement-resetten
+tags:
+- Coding
+title: MySQL veld Autoincrement resetten
+
 ---
 Heb je dat ook wel eens. Ben je een dbase in MYSQL aan het maken en aan het
 vullen, kom je er achter dat je bij het vullen iets fout hebt gedaan.  

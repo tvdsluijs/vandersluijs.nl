@@ -1,12 +1,19 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: 'Functies in een development team'
-slug: 'functies-in-een-development-team'
+author: tvdsluijs
+category:
+- Development
+- Work
+comments: 'true'
 date: '2015-09-28 17:43:22+00:00'
+excerpt_separator: <!--more-->
+layout: post
 publish_date: '2015-09-28 17:43:22+00:00'
-category: ['Development', 'Work']
-tags: ['Development', 'Work']
+slug: functies-in-een-development-team
+tags:
+- Development
+- Work
+title: Functies in een development team
+
 ---
 Vaak krijg ik de vraag waaruit ik denk dat een ontwikkel team behoort te
 bestaan. Nu kan dit natuurlijk per bedrijf anders zijn en zeker wanneer je

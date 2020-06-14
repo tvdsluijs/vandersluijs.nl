@@ -1,37 +1,22 @@
 ---
-id: 2580
-title: Matcha-muesli de Goorste MyMuesli ooit
-date: 2016-03-10T18:41:38+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2580
-permalink: /2016/03/matcha-muesli-goorste-mymuesli-ooit.html
-vw_review_summary:
-  - Dit ben ik niet gewent van MyMuesli, maar deze Matcha-Muesli variant is echt niet te doen. Keiharde stukken en vreselijk bitter! Iedere cent die ik hier aan heb uitgegeven is het echt niet waard! De voedingswaarde is apart te noemen, want groene thee breekt vet af maar er zitten best veel suikers, vetten en koolhydraten in. Dus een nogal tegenstrijdig product.
-vw_review_average_score:
-  - "1.5"
-vw_review_score_0_label:
- - Prijs
-vw_review_score_0_score:
- - 2
-vw_review_score_1_label:
- - Smaak
-vw_review_score_1_score:
- - 2
-vw_review_score_2_label:
- - Ingrediënten
-vw_review_score_2_score:
- - 4
-vw_review_score_3_label:
- - Voedingswaarde
-vw_review_score_3_score:
- - 4
-dsq_thread_id:
-  - "5725875145"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/03/mymuesli-e1457620813380-1200x501.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-03-10 18:41:38+00:00
+description:
+- Dit ben ik niet gewent van MyMuesli, maar deze Matcha-Muesli variant is echt niet
+  te doen. Keiharde stukken en vreselijk bitter! Iedere cent die ik hier aan heb uitgegeven
+  is het echt niet waard! De voedingswaarde is apart te noemen, want groene thee breekt
+  vet af maar er zitten best veel suikers, vetten en koolhydraten in. Dus een nogal
+  tegenstrijdig product.
+dsq_thread_id:
+- '5725875145'
+image: https://vandersluijs.resultants-e.nl/2016/03/mymuesli-e1457620813380-1200x501.jpg
+layout: post
+permalink: /2016/03/matcha-muesli-goorste-mymuesli-ooit.html
+title: Matcha-muesli de Goorste MyMuesli ooit
+
 ---
 MyMuesli, ik eet het ivm gezonder ontbijten al wat langer. Ik heb door de maanden heen al redelijk wat Muesli&#8217;s gegeten van MyMuesli en ik heb daarover ook al diverse reviews geschreven op deze en op mijn <a href="http://40enfit.nl" target="_blank">40enfit.nl</a> site. Die reviews waren allemaal prima want tot voor kort vond ik alle smaken lekker. Maar nu heb ik er eentje &#8230;. de Matcha-Muesli&#8230;. die is echt niet te doen!
 

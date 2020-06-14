@@ -1,42 +1,21 @@
 ---
-id: 2614
-title: gsmweb.nl helpt me aan een nieuw abonnement, weer KPN!
-date: 2016-03-12T06:58:04+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2614
-permalink: /2016/03/gsmweb-nl-helpt-me-aan-nieuw-abonnement-weer-kpn.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "642"
-dsq_thread_id:
-  - "5845894303"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/03/s7-actie_banner-825x288.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-03-12 06:58:04+00:00
+dsq_thread_id:
+- '5845894303'
+hits:
+- '642'
+image: https://vandersluijs.resultants-e.nl/2016/03/s7-actie_banner-825x288.jpg
+layout: post
+permalink: /2016/03/gsmweb-nl-helpt-me-aan-nieuw-abonnement-weer-kpn.html
 tags:
-  - KPN
-  - T-mobile
+- KPN
+- T-mobile
+title: gsmweb.nl helpt me aan een nieuw abonnement, weer KPN!
+
 ---
 Tja, na het bijna hilarische verhaal met <a href="http://www.pzc.nl/regio/bevelanden/t-mobile-houdt-wolphaartsdijk-voor-het-lapje-1.5774994" target="_blank">T-mobile</a>, waarmee ik zelfs in de krant kwam, moest ik toch echt rond me heen gaan kijken omdat mijn abonnement bijna afliep. Geen T-Mobile&#8230; van de verleng aanbiedingen van KPN wordt ik ook niet blij. Tele2 heeft ook slecht bereik in Wolphaartsdijk&#8230; dus dan maar Vodafone?
 

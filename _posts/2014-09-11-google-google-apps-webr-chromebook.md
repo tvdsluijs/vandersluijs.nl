@@ -1,33 +1,17 @@
 ---
-id: 42
-title: 'Google, Google Apps, Webr &amp; Chromebook'
-date: 2014-09-11T20:20:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/google-google-apps-webr-chromebook/
-permalink: /2014/09/google-google-apps-webr-chromebook.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6344554249842723013"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/google-google-apps-webr-chromebook.html
-blogger_thumbnail:
-  - /images/2014/Sep/google-amsterdam-offices-by-d-dock-3.jpg
-hits:
-  - "884"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6306208468"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 20:20:00+00:00
+dsq_thread_id:
+- '6306208468'
+hits:
+- '884'
+layout: post
+permalink: /2014/09/google-google-apps-webr-chromebook.html
+title: Google, Google Apps, Webr &amp; Chromebook
+
 ---
 ![Google Amsterdam](https://vandersluijs.resultants-e.nl/2014/Sep/google-amsterdam-offices-by-d-dock-3.jpg)  
 Ik had vandaag een hele interessante dag! Ik was door [Webr.nl](http://webr.nl/) uitgenodigd om bij een &#8220;KNOWLEDGE TOUR&#8221; te komen kijken en wel in het nieuwe kantoor van Google te Amsterdam.

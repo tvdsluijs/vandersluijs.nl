@@ -1,45 +1,17 @@
 ---
-id: 85
-title: Ludwig van Hooren foto Cursus voor gevorderden
-date: 2013-12-27T14:59:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/12/27/op-foto-cursus-voor-gevorderden/
-permalink: /2013/12/op-foto-cursus-voor-gevorderden.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7583419353980416834"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/12/op-foto-cursus-voor-gevorderden.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "576"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5898796951"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2013-12-27 14:59:00+00:00
+dsq_thread_id:
+- '5898796951'
+hits:
+- '576'
+layout: post
+permalink: /2013/12/op-foto-cursus-voor-gevorderden.html
+title: Ludwig van Hooren foto Cursus voor gevorderden
+
 ---
 Sinds kort zit ik op de Cursus “Fotografie voor gevorderden” bij Ludwig van Hooren .
 

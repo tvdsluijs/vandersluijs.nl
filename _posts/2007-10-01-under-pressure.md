@@ -1,28 +1,16 @@
 ---
-id: 528
-title: Under Pressure
-date: 2007-10-01T16:53:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/10/01/under-pressure/
-permalink: /2007/10/under-pressure.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "510833417556118651"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/10/under-pressure.html
-hits:
-  - "749"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2007-10-01 16:53:00+00:00
+excerpt_separator: <!--more-->
+hits:
+- '749'
+layout: post
+permalink: /2007/10/under-pressure.html
+title: Under Pressure
+
 ---
 Wow… mijn site doet het goed…. te goed eigenlijk.
 

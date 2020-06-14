@@ -1,29 +1,15 @@
 ---
-id: 236
-title: Quality Control Theme
-date: 2011-05-29T12:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/05/29/quality-control-theme/
-permalink: /2011/05/quality-control-theme.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3359255356035370685"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/05/quality-control-theme.html
-hits:
-  - "999"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-05-29 12:00:00+00:00
+hits:
+- '999'
+layout: post
+permalink: /2011/05/quality-control-theme.html
+title: Quality Control Theme
+
 ---
 The <a href="http://getqualitycontrol.com/" target="_blank">Quality Controle Theme</a> build by <a href="http://spencerfinnell.com/" target="_blank">Spencer Finnell</a> is a great WordPress Theme to turn a basic WordPress install into a simple and straight-forward ticketing system. Quality Control allows users to create tickets, assign statuses, milestones, categories, and tags. Other users can then interact with the tickets, updating their state, milestone, or any other property.
 

@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-02-02 14:29
 excerpt_separator: <!--more-->
-title: 'Address/Postal Searcher, My First Air Application'
-slug: 'address-postal-searcher-my-first-air-application'
-date: '2009-02-02 14:29'
-publish_date: '2009-02-02 14:29'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-02-02 14:29
+slug: address-postal-searcher-my-first-air-application
+tags:
+- Coding
+title: Address/Postal Searcher, My First Air Application
+
 ---
 Well, I finally did it ! I created a Air Application. The Address Postal
 Searcher.  

@@ -1,36 +1,21 @@
 ---
-id: 1859
-title: Dag 7 zonder Social media
-date: 2015-12-04T21:11:14+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1859
-permalink: /2015/12/dag-7-zonder-social-media.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "874"
-dsq_thread_id:
-  - "5704204173"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/11/social_media-e1449262641636.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2015-12-04 21:11:14+00:00
+dsq_thread_id:
+- '5704204173'
+hits:
+- '874'
+image: https://vandersluijs.resultants-e.nl/2015/11/social_media-e1449262641636.jpg
+layout: post
+permalink: /2015/12/dag-7-zonder-social-media.html
 tags:
-  - Facebook
-  - Social Media
+- Facebook
+- Social Media
+title: Dag 7 zonder Social media
+
 ---
 Okay, ik zal eerlijk met jullie zijn! Het lukt heel goed met mijn Social-Media-Loze periode. Maar ik gebruik het wel!
 

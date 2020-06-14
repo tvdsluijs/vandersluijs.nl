@@ -1,29 +1,17 @@
 ---
-id: 116
-title: Mag “Meneer” weer terug komen alstublieft
-date: 2013-05-25T23:28:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/05/25/mag-meneer-weer-terug-komen-alstublief/
-permalink: /2013/05/mag-meneer-weer-terug-komen-alstublief.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3530655472715118972"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/05/mag-meneer-weer-terug-komen-alstublieft.html
-hits:
-  - "1224"
-dsq_thread_id:
-  - "5954241419"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-05-25 23:28:00+00:00
+dsq_thread_id:
+- '5954241419'
+hits:
+- '1224'
+layout: post
+permalink: /2013/05/mag-meneer-weer-terug-komen-alstublief.html
+title: "Mag \u201CMeneer\u201D weer terug komen alstublieft"
+
 ---
 Vanuit mijn ouders heb ik mee gekregen dat ik vreemden, ouderen en meerdere (je baas bijvoorbeeld) altijd aanspreek met U, meneer, mevrouw enz.
 

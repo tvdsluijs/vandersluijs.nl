@@ -1,27 +1,15 @@
 ---
-id: 219
-title: I am bored so I blog.eu
-date: 2011-11-22T08:14:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/11/22/i-am-bored-so-i-blogeu/
-permalink: /2011/11/i-am-bored-so-i-blogeu.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2624322323959099364"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/11/i-am-bored-so-i-blogeu.html
-hits:
-  - "747"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2011-11-22 08:14:00+00:00
+hits:
+- '747'
+layout: post
+permalink: /2011/11/i-am-bored-so-i-blogeu.html
+title: I am bored so I blog.eu
+
 ---
 Op de SAP Teched afgelopen week had ik een discussie over waarom mensen bloggen.
 

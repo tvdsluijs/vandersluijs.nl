@@ -1,29 +1,15 @@
 ---
-id: 272
-title: 'FLEX &amp; PHP FLUGR FlashBuilder Camp'
-date: 2010-09-22T19:45:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/09/22/flex-php-flugr-flashbuilder-camp/
-permalink: /2010/09/flex-php-flugr-flashbuilder-camp.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5543822563112054470"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/09/flex-php-flugr-flashbuilder-camp.html
-hits:
-  - "468"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2010-09-22 19:45:00+00:00
+hits:
+- '468'
+layout: post
+permalink: /2010/09/flex-php-flugr-flashbuilder-camp.html
+title: FLEX &amp; PHP FLUGR FlashBuilder Camp
+
 ---
 Zoals belooft op het Flugr Flashbuilder Camp vandaag hierbij de links naar interessante artikelen en tutorials over Flex & PHP.
 

@@ -1,27 +1,15 @@
 ---
-id: 140
-title: Ibis hotel homovriendelijk
-date: 2013-01-03T23:48:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/01/03/ibis-hotel-homovriendelijk/
-permalink: /2013/01/ibis-hotel-homovriendelijk.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1849433062162778988"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/01/ibis-hotel-homovriendelijk.html
-hits:
-  - "1345"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-01-03 23:48:00+00:00
+hits:
+- '1345'
+layout: post
+permalink: /2013/01/ibis-hotel-homovriendelijk.html
+title: Ibis hotel homovriendelijk
+
 ---
 Eerst even iets duidelijk maken voordat ik dit stuk schrijf.
 

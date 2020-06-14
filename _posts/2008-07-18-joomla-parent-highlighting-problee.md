@@ -1,31 +1,17 @@
 ---
-id: 500
-title: Joomla! Parent highlighting probleem
-date: 2008-07-18T15:45:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/07/18/joomla-parent-highlighting-problee/
-permalink: /2008/07/joomla-parent-highlighting-problee.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7044304911959195422"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/07/joomla-parent-highlighting-probleem.html
-hits:
-  - "861"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6162005933"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-07-18 15:45:00+00:00
+dsq_thread_id:
+- '6162005933'
+hits:
+- '861'
+layout: post
+permalink: /2008/07/joomla-parent-highlighting-problee.html
+title: Joomla! Parent highlighting probleem
+
 ---
 Joomla!, de nieuwste versie 1.5 heeft zo zijn nukken. Zo werkt het parent highlighting dus niet echt goed als je menu’s hebt gesplitst in hoofd en submenu’s.
 

@@ -1,29 +1,17 @@
 ---
-id: 244
-title: Ralf Becks (Microsoft) uitspraak van het Jaar! over IE9!
-date: 2011-03-15T11:15:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/03/15/ralf-becks-microsoft-uitspraak-van-he/
-permalink: /2011/03/ralf-becks-microsoft-uitspraak-van-he.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6770873482530196954"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/03/ralf-becks-microsoft-uitspraak-van-het.html
-hits:
-  - "1139"
-dsq_thread_id:
-  - "5719314639"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2011-03-15 11:15:00+00:00
+dsq_thread_id:
+- '5719314639'
+hits:
+- '1139'
+layout: post
+permalink: /2011/03/ralf-becks-microsoft-uitspraak-van-he.html
+title: Ralf Becks (Microsoft) uitspraak van het Jaar! over IE9!
+
 ---
 Nu weet ik niet of NU.nl dit gewoon slecht heeft overgenomen. Of wellicht hebben ze de Heer Ralf Becks van Microsoft verkeerd begrepen of niet goed geluisterd.
 

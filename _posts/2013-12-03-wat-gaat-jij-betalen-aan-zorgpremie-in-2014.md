@@ -1,29 +1,15 @@
 ---
-id: 1822
-title: Wat gaat jij betalen aan zorgpremie in 2014?
-date: 2013-12-03T09:15:56+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1822
-permalink: /2013/12/wat-gaat-jij-betalen-aan-zorgpremie-in-2014.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "2493"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2013-12-03 09:15:56+00:00
+hits:
+- '2493'
+layout: post
+permalink: /2013/12/wat-gaat-jij-betalen-aan-zorgpremie-in-2014.html
+title: Wat gaat jij betalen aan zorgpremie in 2014?
+
 ---
 ## Kijk hoeveel zorgpremie jij moet betalen!
 

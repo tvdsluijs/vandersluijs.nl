@@ -6,7 +6,8 @@ slug: 'flex-menu-slide-in-slide-out-docking'
 date: '2009-03-24 06:42'
 publish_date: '2009-03-24 06:42'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*vsUEBKKt98DsL17I.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*vsUEBKKt98DsL17I.gif'
+  feature: 0*vsUEBKKt98DsL17I.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

@@ -1,39 +1,18 @@
 ---
-id: 2641
-title: Decathlon klantenservice heeft nog wat te leren.
-date: 2016-03-26T12:53:16+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2641
-permalink: /2016/03/decathlon-klantenservice-heeft-nog-wat-te-leren.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "864"
-dsq_thread_id:
-  - "5700416031"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/03/decathlon-825x363.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2016-03-26 12:53:16+00:00
+dsq_thread_id:
+- '5700416031'
+hits:
+- '864'
+image: https://vandersluijs.resultants-e.nl/2016/03/decathlon-825x363.jpg
+layout: post
+permalink: /2016/03/decathlon-klantenservice-heeft-nog-wat-te-leren.html
+title: Decathlon klantenservice heeft nog wat te leren.
+
 ---
 Giga zijn de winkels van decathlon. Ik weet niet of je ooit in een winkel van ze bent geweest, maar ik kom regelmatig in de decathlon in Antwerpen en dat is een enorme klantbeleving! Gisteren was ik er ook maar had helaas te weinig tijd om alles te proberen en te bekijken ivm de film (Metroplis zit er naast) dus ik dacht, morgen bestel ik wel op Internet. Helaas ging het bestellen niet goed en de decathlon klantenservice gaf mij een hele andere klantbeleving.<!--more-->
 

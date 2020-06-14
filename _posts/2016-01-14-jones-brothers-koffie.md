@@ -1,37 +1,20 @@
 ---
-id: 2133
-title: Jones Brothers koffie
-date: 2016-01-14T17:54:31+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2133
-permalink: /2016/01/jones-brothers-koffie.html
-factory_shortcodes_assets:
-  - 'a:0:{}'
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "1443"
-dsq_thread_id:
-  - "5700415826"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/01/IMG_2437-e1452352917376.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-01-14 17:54:31+00:00
+dsq_thread_id:
+- '5700415826'
+hits:
+- '1443'
+image: https://vandersluijs.resultants-e.nl/2016/01/IMG_2437-e1452352917376.jpg
+layout: post
+permalink: /2016/01/jones-brothers-koffie.html
 tags:
-  - Koffie
+- Koffie
+title: Jones Brothers koffie
+
 ---
 Vorige week liep ik door de Jumbo op zoek naar koffie bonen. Ik had het schap gevonden en stond te kijken waar de Douwe Egberts bonen stonden.
 

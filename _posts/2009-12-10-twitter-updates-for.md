@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-12-10 23:59
 excerpt_separator: <!--more-->
-title: 'Twitter Updates for 2009–12–10'
-slug: 'twitter-updates-for'
-date: '2009-12-10 23:59'
-publish_date: '2009-12-10 23:59'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-12-10 23:59
+slug: twitter-updates-for
+tags:
+- Coding
+title: "Twitter Updates for 2009\u201312\u201310"
+
 ---
   * This morning I created a nice Little Twitter Search with Flash Builder Manual : <http://snurl.eu/51zjb> [#](http://twitter.com/tvdsluijs/statuses/6524256825)
   * pfffff… trying to get into 123sprint but this seams harder then getting from rotterdam to amsterdam in time. [#](http://twitter.com/tvdsluijs/statuses/6524370068)

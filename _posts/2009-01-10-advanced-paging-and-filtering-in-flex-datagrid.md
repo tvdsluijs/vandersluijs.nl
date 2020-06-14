@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-01-10 21:53
 excerpt_separator: <!--more-->
-title: 'Advanced Paging and Filtering in Flex Datagrid'
-slug: 'advanced-paging-and-filtering-in-flex-datagrid'
-date: '2009-01-10 21:53'
-publish_date: '2009-01-10 21:53'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*HC-ZWyAQG79QQVtc.gif'
-  feature: 0*HC-ZWyAQG79QQVtc.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*HC-ZWyAQG79QQVtc.gif
+layout: post
+publish_date: 2009-01-10 21:53
+slug: advanced-paging-and-filtering-in-flex-datagrid
+tags:
+- Coding
+title: Advanced Paging and Filtering in Flex Datagrid
+
 ---
 Well there are some blogs and sites where you can find an example about paging
 on a datagrid or advanced datagrid.  

@@ -1,15 +1,19 @@
 ---
-layout: post
-excerpt_separator: < !--more -->
-title: 'Company Scrum van Prowareness'
-slug: 'company-scrum-van-prowareness'
+author: tvdsluijs
+category:
+- Management
+comments: 'true'
 date: '2016-05-05 18:39:37+00:00'
+excerpt_separator: < !--more -->
+layout: post
 publish_date: '2016-05-05 18:39:37+00:00'
-category: ['Management']
-tags: 
- - 'Agile'
- - 'Scrum'
- - 'Prowareness'
+slug: company-scrum-van-prowareness
+tags:
+- Agile
+- Scrum
+- Prowareness
+title: Company Scrum van Prowareness
+
 ---
 Daar stond ik dan, midden in een grote ruimte met toch wel wat knikkende
 knieën, droge lippen en snakkend naar adem. Er keken meer dan 200 hongerige

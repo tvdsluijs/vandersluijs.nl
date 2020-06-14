@@ -1,15 +1,21 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: '“Mijn Nummer” is verkeerd in iPhone contacten'
-slug: '-mijn-nummer-is-verkeerd-in-iphone-contacten'
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
 date: '2017-03-08 19:06:42+00:00'
+excerpt_separator: <!--more-->
+image: https://vandersluijs.resultants-e.nl/1*YdwDXtGMBeiQr3f4gQvDVQ.jpeg
+layout: post
 publish_date: '2017-03-08 19:06:42+00:00'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*YdwDXtGMBeiQr3f4gQvDVQ.jpeg'
-  feature: 1*YdwDXtGMBeiQr3f4gQvDVQ.jpeg'
-category: ['Tech']
-tags: ['Tech', 'iPhone', 'Quickfixphone', 'Development']
+slug: -mijn-nummer-is-verkeerd-in-iphone-contacten
+tags:
+- Tech
+- iPhone
+- Quickfixphone
+- Development
+title: "\u201CMijn Nummer\u201D is verkeerd in iPhone contacten"
+
 ---
 Dus je hebt een iPhone en deze heb je al geactiveerd voordat je nummer werd
 omgezet naar je nieuwe Simkaart…. en wat valt je op nadat je nummer is

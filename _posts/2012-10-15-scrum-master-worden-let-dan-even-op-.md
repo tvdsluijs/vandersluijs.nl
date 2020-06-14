@@ -1,12 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Scrum
+comments: 'true'
+date: 2012-10-15 22:14
 excerpt_separator: <!--more-->
-title: 'Scrum master worden? Let dan even op!'
-slug: 'scrum-master-worden-let-dan-even-op-'
-date: '2012-10-15 22:14'
-publish_date: '2012-10-15 22:14'
-category: ['Scrum']
-tags: ['Certification', 'Scrum Master']
+layout: post
+publish_date: 2012-10-15 22:14
+slug: scrum-master-worden-let-dan-even-op-
+tags:
+- Certification
+- Scrum Master
+title: Scrum master worden? Let dan even op!
+
 ---
 Dus je wilt SCRUM master worden? Waarschijnlijk gebruik je het al een tijdje
 op de zaak, heb je diverse boeken of online stukken er over gelezen en denk je

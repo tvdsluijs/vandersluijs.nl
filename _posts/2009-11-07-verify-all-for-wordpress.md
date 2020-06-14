@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-07 23:47
 excerpt_separator: <!--more-->
-title: 'Verify All for Wordpress'
-slug: 'verify-all-for-wordpress'
-date: '2009-11-07 23:47'
-publish_date: '2009-11-07 23:47'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*bw1lQS2wlujKsIrR.gif'
-  feature: 0*bw1lQS2wlujKsIrR.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*bw1lQS2wlujKsIrR.gif
+layout: post
+publish_date: 2009-11-07 23:47
+slug: verify-all-for-wordpress
+tags:
+- Coding
+title: Verify All for Wordpress
+
 ---
 Well as like voor Joomla! I have ported my Google, Bing and Yahoo! verify tool
 to Wordpress.  

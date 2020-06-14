@@ -1,31 +1,17 @@
 ---
-id: 41
-title: Adding a Flattr button to Ghost, the right way
-date: 2014-09-11T20:21:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/adding-flattr-button-to-ghost-right-way/
-permalink: /2014/09/adding-flattr-button-to-ghost-right-way.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4433573437863102432"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/adding-flattr-button-to-ghost-right-way.html
-hits:
-  - "818"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6476869394"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 20:21:00+00:00
+dsq_thread_id:
+- '6476869394'
+hits:
+- '818'
+layout: post
+permalink: /2014/09/adding-flattr-button-to-ghost-right-way.html
+title: Adding a Flattr button to Ghost, the right way
+
 ---
 So you want to add a Flattr button to Ghost?
 

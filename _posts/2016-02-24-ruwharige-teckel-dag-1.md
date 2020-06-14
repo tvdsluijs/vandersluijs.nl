@@ -1,41 +1,20 @@
 ---
-id: 2460
-title: Ruwharige teckel dag 1
-date: 2016-02-24T09:29:35+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2460
-permalink: /2016/02/ruwharige-teckel-dag-1.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "697"
-dsq_thread_id:
-  - "5720156359"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/IMG_3136-e1456304961732-825x501.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-02-24 09:29:35+00:00
+dsq_thread_id:
+- '5720156359'
+hits:
+- '697'
+image: https://vandersluijs.resultants-e.nl/2016/02/IMG_3136-e1456304961732-825x501.jpg
+layout: post
+permalink: /2016/02/ruwharige-teckel-dag-1.html
 tags:
-  - Teckel
+- Teckel
+title: Ruwharige teckel dag 1
+
 ---
 Eindelijk konden we gisteren Bas  onze Ruwharige Teckel halen. We hadden het onze kinderen niet verteld, maar hadden het net voor we vertrokken toch geraden&#8230; die waren natuurlijk door het dolle heen. Hoe naïef zijn kinderen, een puppy leer boek op tafel, ze hadden niks door, al die kleine honden speeltjes, ze hadden niks door, een extra mandje in de kamer&#8230;. niks door.
 

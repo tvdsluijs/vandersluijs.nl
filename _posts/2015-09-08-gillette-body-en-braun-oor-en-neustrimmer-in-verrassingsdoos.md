@@ -1,43 +1,18 @@
 ---
-id: 1259
-title: Gillette Body en Braun oor en neustrimmer in verrassingsdoos
-date: 2015-09-08T05:32:48+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/?p=1259
-permalink: /2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "1569"
-dsq_thread_id:
-  - "5702752560"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/09/Theo-pleinshoppen.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2015-09-08 05:32:48+00:00
+dsq_thread_id:
+- '5702752560'
+hits:
+- '1569'
+image: https://vandersluijs.resultants-e.nl/2015/09/Theo-pleinshoppen.jpg
+layout: post
+permalink: /2015/09/gillette-body-en-braun-oor-en-neustrimmer-in-verrassingsdoos.html
+title: Gillette Body en Braun oor en neustrimmer in verrassingsdoos
+
 ---
 Vandaag ontving ik van pleinshoppen een mooie doos. Ik wist natuurlijk al wat er in zat, maar het was toch spannend om open te maken.
 

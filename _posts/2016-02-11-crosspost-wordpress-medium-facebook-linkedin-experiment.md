@@ -1,44 +1,21 @@
 ---
-id: 2438
-title: Crosspost wordpress medium facebook linkedin experiment
-date: 2016-02-11T22:28:57+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2438
-permalink: /2016/02/crosspost-wordpress-medium-facebook-linkedin-experiment.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "565"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5875462973"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/macbook-e1455227900112-825x450.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-02-11 22:28:57+00:00
+dsq_thread_id:
+- '5875462973'
+hits:
+- '565'
+image: https://vandersluijs.resultants-e.nl/2016/02/macbook-e1455227900112-825x450.jpg
+layout: post
+permalink: /2016/02/crosspost-wordpress-medium-facebook-linkedin-experiment.html
 tags:
-  - Facebook
-  - Wordpress
+- Facebook
+- Wordpress
+title: Crosspost wordpress medium facebook linkedin experiment
+
 ---
 Ik hou van twee dingen als ik kijk naar mijn blogs. Dat ze gelezen worden en van experimenteren op mijn blogs. Dat laatste is niet altijd even handig. Door de jaren heen ben ik overgestapt van Joomla / Blogger / WordPress enz. waardoor ik niet alleen veel artikelen ben kwijt geraakt maar ook veel pageranking bij google. Maar toch ga ik weer een experiment doen en wel het crossposten van artikelen op wordpress, medium facebook, en linkedin!<!--more-->
 

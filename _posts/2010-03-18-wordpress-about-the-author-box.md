@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-03-18 20:38
 excerpt_separator: <!--more-->
-title: 'Wordpress about the author box'
-slug: 'wordpress-about-the-author-box'
-date: '2010-03-18 20:38'
-publish_date: '2010-03-18 20:38'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-03-18 20:38
+slug: wordpress-about-the-author-box
+tags:
+- Coding
+title: Wordpress about the author box
+
 ---
 Well today my colleque asked me why I have a link to “yourherbalcare.com” on
 my site.  

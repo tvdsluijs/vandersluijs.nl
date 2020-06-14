@@ -1,35 +1,18 @@
 ---
-id: 1781
-title: Luie ict-er automatiseert alles
-date: 2015-11-30T06:35:31+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1781
-permalink: /2015/11/luie-ict-er-automatiseert-alles.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "4365"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700682111"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/11/luie-ict-er-automatiseert-alles-e1448811399571-825x363.jpeg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-11-30 06:35:31+00:00
+dsq_thread_id:
+- '5700682111'
+hits:
+- '4365'
+image: https://vandersluijs.resultants-e.nl/2015/11/luie-ict-er-automatiseert-alles-e1448811399571-825x363.jpeg
+layout: post
+permalink: /2015/11/luie-ict-er-automatiseert-alles.html
+title: Luie ict-er automatiseert alles
+
 ---
 Het is ook nooit goed hé! Iedereen heeft het er altijd over dat het zo lang moet duren bij de afdeling IT, wat denk je&#8230; is er eindelijk een IT-er die alles automatiseert, is het weer niet goed! En noemen ze hem nog lui ook!
 

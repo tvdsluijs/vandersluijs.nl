@@ -1,23 +1,20 @@
 ---
-layout: post
-title: Local month name in Jekyll Github site
-author: Theo van der Sluijs
-slug: /2018/07/local-month-name-in-jekyll-github-site/
+author: tvdsluijs
+categories:
+- Coding
+comments: 'true'
 date: 2018-07-08
-publish_date: 2018-07-08
-thumbnail: /Users/theovandersluijs/PycharmProjects/playground/itheo/images/local-month-name-in-jekyll-github-site_thumbnail.jpg
-image:
-  path: /images/local-month-name-in-jekyll-github-site.jpg
-  feature: local-month-name-in-jekyll-github-site.jpg
-  credit: negativespace.co 
-  creditlink: http://negativespace.co/photos/computer-and-notebook/
-categories: ['Coding']
-tags: 
- - Liquid
- - Jekyll
- - Github
-comments: true
 excerpt_separator: <!--more-->
+image: /images/local-month-name-in-jekyll-github-site.jpg
+layout: post
+publish_date: 2018-07-08
+slug: /2018/07/local-month-name-in-jekyll-github-site/
+tags:
+- Liquid
+- Jekyll
+- Github
+title: Local month name in Jekyll Github site
+
 ---
 GitHub is a great place to create your own site with Jekyll. But when you host your site with Jekyll on Github you do not have alle possibilities that Jekyll has. As a Dutch guy with Dutch sites I did not want the date to show up in an English way, so I wrote a little piece of code to show the Dutch month names.
 

@@ -6,7 +6,8 @@ slug: 'passion-calculator'
 date: '2010-02-05 12:02'
 publish_date: '2010-02-05 12:02'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*J-EERFdGbxoXeSn-.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*J-EERFdGbxoXeSn-.gif'
+  feature: 0*J-EERFdGbxoXeSn-.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

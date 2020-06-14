@@ -1,29 +1,15 @@
 ---
-id: 127
-title: Blogwereld gaat drastisch veranderen
-date: 2013-04-28T13:33:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/04/28/blogwereld-gaat-drastisch-veranderen/
-permalink: /2013/04/blogwereld-gaat-drastisch-veranderen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2587953541536059190"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/04/blogwereld-gaat-drastisch-veranderen.html
-hits:
-  - "999"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2013-04-28 13:33:00+00:00
+hits:
+- '999'
+layout: post
+permalink: /2013/04/blogwereld-gaat-drastisch-veranderen.html
+title: Blogwereld gaat drastisch veranderen
+
 ---
 Bloggen, miljoenen mensen doen het. Ik doe het. Ik heb al jaren plezier in het overbrengen van mijn gedachten, tips en tricks op internet in de vorm van een blog.
 

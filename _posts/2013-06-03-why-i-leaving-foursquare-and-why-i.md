@@ -1,31 +1,17 @@
 ---
-id: 109
-title: 'Why I&#39;m leaving Foursquare, and why I&#39;m happy about it.'
-date: 2013-06-03T06:15:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/06/03/why-i-leaving-foursquare-and-why-i/
-permalink: /2013/06/why-i-leaving-foursquare-and-why-i.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5241300365698612395"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/06/why-i-leaving-foursquare-and-why-i.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2013/06/foursquare.jpg
-hits:
-  - "1874"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2013-06-03 06:15:00+00:00
+hits:
+- '1874'
+layout: post
+permalink: /2013/06/why-i-leaving-foursquare-and-why-i.html
 tags:
-  - Social Media
+- Social Media
+title: Why I&#39;m leaving Foursquare, and why I&#39;m happy about it.
+
 ---
 [<img class="alignleft  wp-image-788" alt="foursquare" src="https://vandersluijs.resultants-e.nl/2013/06/foursquare.jpg" width="180" height="180" />](https://vandersluijs.resultants-e.nl/2013/06/foursquare.jpg)Foursquare, I&#8217;ve been on it since 2010.
 

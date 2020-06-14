@@ -1,44 +1,16 @@
 ---
-id: 1216
-title: Promixx uitpak party, mijn eerste VLOG
-date: 2015-08-23T09:24:20+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/?p=1216
-permalink: /2015/08/promixx-uitpak-party-mijn-eerste-vlog.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "529"
-itrr_another_apply:
-  - 'no'
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/08/promixx1.jpg
+author: tvdsluijs
 categories:
-  - Tech
-format: video
+- Tech
+comments: 'true'
+date: 2015-08-23 09:24:20+00:00
+hits:
+- '529'
+image: https://vandersluijs.resultants-e.nl/2015/08/promixx1.jpg
+layout: post
+permalink: /2015/08/promixx-uitpak-party-mijn-eerste-vlog.html
+title: Promixx uitpak party, mijn eerste VLOG
+
 ---
 Sinds kort zijn er nogal wat bedrijven die me vragen of ik een review wil maken van hun producten. Zo stuurde de importeur van PROMiXX mij laatst de PROMiXX.
 

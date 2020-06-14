@@ -1,41 +1,18 @@
 ---
-id: 2538
-title: Silvana Support kussen tegen nekklachten
-date: 2016-03-01T07:00:37+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2538
-permalink: /2016/03/silvana-support-kussen-tegen-nekklachten.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "836"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5704087805"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-03-01 07:00:37+00:00
+dsq_thread_id:
+- '5704087805'
+hits:
+- '836'
+image: https://vandersluijs.resultants-e.nl/2016/02/IMG_3267-1-e1456602346649-825x501.jpg
+layout: post
+permalink: /2016/03/silvana-support-kussen-tegen-nekklachten.html
+title: Silvana Support kussen tegen nekklachten
+
 ---
 Nachtrust is voor iedereen heel belangrijk. Niet alleen verwerk je wat je overdag mee gemaakt hebt, ook geef je je lichaam de rust en kans om beschadigingen door bijvoorbeeld sport te herstellen. Heb je echter een verkeerd kussen dan kan je lichaam niet herstellen en kan een klacht alleen nog maar erger worden, zoals bijvoorbeeld nekklachten. En daar komt het Silvana Support kussen om de hoek kijken.<!--more-->
 

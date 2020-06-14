@@ -1,31 +1,17 @@
 ---
-id: 106
-title: Why you should not buy a MacBook!
-date: 2013-06-10T06:01:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/06/10/why-you-should-not-buy-macbook/
-permalink: /2013/06/why-you-should-not-buy-macbook.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4700753136871448206"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/06/why-you-should-not-buy-macbook.html
-hits:
-  - "1604"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2013-06-10 06:01:00+00:00
+hits:
+- '1604'
+layout: post
+permalink: /2013/06/why-you-should-not-buy-macbook.html
 tags:
-  - Apple
+- Apple
+title: Why you should not buy a MacBook!
+
 ---
 Apple, I guess they are one of the most expensive computer/laptop/tablet and phone manufacturers from the world!
 

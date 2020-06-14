@@ -1,57 +1,24 @@
 ---
-id: 1191
-title: 'Review: Imperial Belvedere Hotel Kreta'
-date: 2015-08-22T22:59:35+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/?p=1191
-permalink: /2015/08/review-imperial-belvedere-hotel-kreta.html
-wp_review_custom_location:
-  - "1"
-wp_review_custom_colors:
-  - "1"
-vw_review_summary:
-  - Het is all-inclusive en erg massaal. Maar als je je daar op instelt is het een prima hotel waar jij en je kinderen zich prima kunnen vermaken!
-vw_review_average_score:
-  - "8.9"
-vw_review_score_0_label:
- - Ligging
-vw_review_score_0_score:
- - 18
-vw_review_score_1_label:
- - Service
-vw_review_score_1_score:
- - 18
-vw_review_score_2_label:
- - Eten
-vw_review_score_2_score:
- - 16
-vw_review_score_3_label:
- - Kamers
-vw_review_score_3_score:
- - 18
-vw_review_score_4_label:
- - Kindvriendelijk
-vw_review_score_4_score:
- - 20
-vw_review_score_5_label:
- - Zwembad
-vw_review_score_5_score:
- - 16
-vw_review_score_6_label:
- - Prijs / kwaliteit
-vw_review_score_6_score:
- - 18
-video_post_url:
-  - ""
-dsq_thread_id:
-  - "5709848224"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/08/belvedere-hotels-kreta1.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
-  - Travel
-format: image
+- Lifestyle
+- Travel
+comments: 'true'
+date: 2015-08-22 22:59:35+00:00
+description:
+- Het is all-inclusive en erg massaal. Maar als je je daar op instelt is het een prima
+  hotel waar jij en je kinderen zich prima kunnen vermaken!
+dsq_thread_id:
+- '5709848224'
+image: https://vandersluijs.resultants-e.nl/2015/08/belvedere-hotels-kreta1.jpg
+layout: post
+permalink: /2015/08/review-imperial-belvedere-hotel-kreta.html
+title: 'Review: Imperial Belvedere Hotel Kreta'
+wp_review_custom_colors:
+- '1'
+wp_review_custom_location:
+- '1'
+
 ---
 Afgelopen week ben ik 7 dagen naar het all inclusive Imperial Belvedere hotel op Kreta geweest.
 

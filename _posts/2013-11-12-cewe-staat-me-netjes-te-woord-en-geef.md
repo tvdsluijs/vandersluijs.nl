@@ -1,62 +1,18 @@
 ---
-id: 88
-title: CeWe staat me netjes te woord en geeft me ter compensatie een mooi fotoboek gratis!
-date: 2013-11-12T05:20:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/11/12/cewe-staat-me-netjes-te-woord-en-geef/
-permalink: /2013/11/cewe-staat-me-netjes-te-woord-en-geef.html
-blogger_bid:
-  - "7319082336334478150"
-  - "7319082336334478150"
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-  - blog.vandersluijs.nl
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8925385960815374822"
-  - "8925385960815374822"
-  - "8925385960815374822"
-blogger_author:
-  - g104814725400115166555
-  - g104814725400115166555
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-  - "0"
-  - "0"
-blogger_permalink:
-  - /2013/11/cewe-staat-me-netjes-te-woord-en-geeft.html
-  - /2013/11/cewe-staat-me-netjes-te-woord-en-geeft.html
-  - /2013/11/cewe-staat-me-netjes-te-woord-en-geeft.html
-wp_review_location:
-  - bottom
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-  - '#e7e7e7'
-hits:
-  - "1573"
-dsq_thread_id:
-  - "6272039378"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-11-12 05:20:00+00:00
+dsq_thread_id:
+- '6272039378'
+hits:
+- '1573'
+layout: post
+permalink: /2013/11/cewe-staat-me-netjes-te-woord-en-geef.html
+title: CeWe staat me netjes te woord en geeft me ter compensatie een mooi fotoboek
+  gratis!
+
 ---
 Vandaag kreeg ik een mailtje van CeWe fotoboeken.
 

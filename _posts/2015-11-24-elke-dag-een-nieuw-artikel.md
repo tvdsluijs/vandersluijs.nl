@@ -1,41 +1,16 @@
 ---
-id: 1736
-title: Elke dag een nieuw artikel
-date: 2015-11-24T06:55:37+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1736
-permalink: /2015/11/elke-dag-een-nieuw-artikel.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "595"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/11/16821448686_7346aa4abd_b-e1448398519994.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2015-11-24 06:55:37+00:00
+hits:
+- '595'
+image: https://vandersluijs.resultants-e.nl/2015/11/16821448686_7346aa4abd_b-e1448398519994.jpg
+layout: post
+permalink: /2015/11/elke-dag-een-nieuw-artikel.html
+title: Elke dag een nieuw artikel
+
 ---
 Via facebook las ik het blog artikel van <a href="http://bjarnvidar.nl/elke-dag-bloggen/" target="_blank">Bjarne-Vidar</a> over het feit dat hij tot het einde van het jaar iedere werkdag ging bloggen!
 

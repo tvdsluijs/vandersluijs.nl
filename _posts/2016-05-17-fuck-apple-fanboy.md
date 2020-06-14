@@ -1,19 +1,19 @@
 ---
-id: 2075
-title: Fuck! Ik ben een Apple Fanboy
-date: 2016-05-17T09:30:30+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://itheo.nl/?p=2075
-permalink: /2016/05/fuck-apple-fanboy.html
-hits:
-  - "171"
-dsq_thread_id:
-  - "5820151032"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-05-17 09:30:30+00:00
+dsq_thread_id:
+- '5820151032'
+hits:
+- '171'
+layout: post
+permalink: /2016/05/fuck-apple-fanboy.html
 tags:
-  - iPhone
+- iPhone
+title: Fuck! Ik ben een Apple Fanboy
+
 ---
 Nog geen 2 maanden heb ik de nieuwe Samsung S7 gehad. Daarvoor had ik een iPhone 5s wat een super toestel was maar ik was het meer dan zat om voor ieder kabeltje 30 euro neer te tellen. Ik dacht ik stap over op een Android toestel met kabels die ik voor een euro uit china laat komen. Maar na 2 maanden van gebruik kwam ik er achter dat ik gewoon een Apple Fanboy ben!
 

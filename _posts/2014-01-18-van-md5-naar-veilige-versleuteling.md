@@ -1,36 +1,20 @@
 ---
-id: 75
-title: Van MD5 naar veilige versleuteling
-date: 2014-01-18T12:38:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/01/18/van-md5-naar-veilige-versleuteling/
-permalink: /2014/01/van-md5-naar-veilige-versleuteling.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6729092774489993126"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/01/van-md5-naar-veilige-versleuteling.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2014/01/34164244_d529aee319_m.jpg
-hits:
-  - "1740"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5735421086"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-01-18 12:38:00+00:00
+dsq_thread_id:
+- '5735421086'
+hits:
+- '1740'
+layout: post
+permalink: /2014/01/van-md5-naar-veilige-versleuteling.html
 tags:
-  - Code
-  - php
+- Code
+- php
+title: Van MD5 naar veilige versleuteling
+
 ---
 <table cellpadding="0" cellspacing="0" style="float: left; margin-right: 1em; text-align: left;">
   <tr>

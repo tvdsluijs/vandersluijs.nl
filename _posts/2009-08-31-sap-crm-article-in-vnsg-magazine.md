@@ -1,27 +1,15 @@
 ---
-id: 393
-title: SAP CRM Article in the VNSG Magazine
-date: 2009-08-31T17:16:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/08/31/sap-crm-article-in-vnsg-magazine/
-permalink: /2009/08/sap-crm-article-in-vnsg-magazine.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5375165297968387920"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/08/sap-crm-article-in-vnsg-magazine.html
-hits:
-  - "1323"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2009-08-31 17:16:00+00:00
+hits:
+- '1323'
+layout: post
+permalink: /2009/08/sap-crm-article-in-vnsg-magazine.html
+title: SAP CRM Article in the VNSG Magazine
+
 ---
 Today my collegue emailed me about the VNSG magazine.
 

@@ -1,31 +1,17 @@
 ---
-id: 510
-title: TomTom 930 Telefoonboek oplossing
-date: 2008-06-16T07:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/06/16/tomtom-930-telefoonboek-oplossing/
-permalink: /2008/06/tomtom-930-telefoonboek-oplossing.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4586991582874646065"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/06/tomtom-930-telefoonboek-oplossing.html
-hits:
-  - "806"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5951642289"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-06-16 07:00:00+00:00
+dsq_thread_id:
+- '5951642289'
+hits:
+- '806'
+layout: post
+permalink: /2008/06/tomtom-930-telefoonboek-oplossing.html
+title: TomTom 930 Telefoonboek oplossing
+
 ---
 Zoals je weet heb ik een probleem met mijn TomTom 930 HD Traffic.
 

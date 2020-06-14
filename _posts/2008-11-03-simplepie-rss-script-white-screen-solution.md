@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-11-03 00:00
 excerpt_separator: <!--more-->
-title: 'Simplepie RSS script white screen solution'
-slug: 'simplepie-rss-script-white-screen-solution'
-date: '2008-11-03 00:00'
-publish_date: '2008-11-03 00:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-11-03 00:00
+slug: simplepie-rss-script-white-screen-solution
+tags:
+- Coding
+title: Simplepie RSS script white screen solution
+
 ---
 Well, I was working on my home server with the Simplepie script
 (<http://simplepie.org>) to get some RSS feeds on a site.  

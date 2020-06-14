@@ -1,46 +1,18 @@
 ---
-id: 484
-title: Lightroom CheatSheet
-date: 2008-10-26T14:31:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/10/26/lightroom-cheatshee/
-permalink: /2008/10/lightroom-cheatshee.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "9195716526842941743"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/10/lightroom-cheatsheet.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "517"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2008-10-26 14:31:00+00:00
+hits:
+- '517'
+layout: post
+permalink: /2008/10/lightroom-cheatshee.html
 tags:
-  - Adobe
-  - Lightroom
+- Adobe
+- Lightroom
+title: Lightroom CheatSheet
+
 ---
 Een geweldige Cheatsheet voor Lightroom. Binnenkort zal ik hem verder aanvullen.
   

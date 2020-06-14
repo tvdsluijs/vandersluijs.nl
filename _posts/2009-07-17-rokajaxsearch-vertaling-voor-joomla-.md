@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-07-17 16:26
 excerpt_separator: <!--more-->
-title: 'RokAjaxSearch vertaling voor Joomla! 1.5x'
-slug: 'rokajaxsearch-vertaling-voor-joomla-'
-date: '2009-07-17 16:26'
-publish_date: '2009-07-17 16:26'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-07-17 16:26
+slug: rokajaxsearch-vertaling-voor-joomla-
+tags:
+- Coding
+title: RokAjaxSearch vertaling voor Joomla! 1.5x
+
 ---
 Op dit moment ben ik druk bezig met Mark om Goesweb om te zetten naar Joomla!
 1.5. Dat is een hels karwei en kost dus veel tijd. Maar het mooie er van is

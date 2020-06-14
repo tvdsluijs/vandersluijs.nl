@@ -1,31 +1,17 @@
 ---
-id: 468
-title: KPN Mobiel internet via Ubuntu / Kubuntu via Dongel
-date: 2008-12-03T20:09:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/12/03/kpn-mobiel-internet-via-ubuntu-kubuntu/
-permalink: /2008/12/kpn-mobiel-internet-via-ubuntu-kubuntu.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8896570839913036133"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/12/kpn-mobiel-internet-via-ubuntu-kubuntu.html
-hits:
-  - "1027"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6448663801"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-12-03 20:09:00+00:00
+dsq_thread_id:
+- '6448663801'
+hits:
+- '1027'
+layout: post
+permalink: /2008/12/kpn-mobiel-internet-via-ubuntu-kubuntu.html
+title: KPN Mobiel internet via Ubuntu / Kubuntu via Dongel
+
 ---
 Gisteren heb ik eens Kubuntu ipv Ubuntu op mijn Laptop geïnstalleerd. Kubuntu ziet er erg goed uit en op mijn laptop draait het dan ook erg goed. Omdat ik veel met de trein reis wil ik natuurlijk ook wel internet hebben. Mijn KPN Mobiel internet werkt onder XP erg goed&#8230; maar dacht ik&#8230; zou het ook draaien onder Linux of in mijn geval Ubuntu /  Kubuntu ?
 

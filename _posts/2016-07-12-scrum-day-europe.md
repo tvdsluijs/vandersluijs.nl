@@ -1,15 +1,18 @@
 ---
-layout: post
-
-title: 'Scrum Day Europe 2016'
-slug: 'scrum-day-europe'
-excerpt_separator: < !--more -->
+author: tvdsluijs
+category:
+- Management
+comments: 'true'
 date: '2016-07-12 10:30:25+00:00'
+excerpt_separator: < !--more -->
+layout: post
 publish_date: '2016-07-12 10:30:25+00:00'
-category: ['Management']
+slug: scrum-day-europe
 tags:
- - 'Agile'
- - 'Scrum'
+- Agile
+- Scrum
+title: Scrum Day Europe 2016
+
 ---
 Op 7 juli 2016 vond de vijfde editie van Scrum Day Europe plaats in Pakhuis de
 Zwijger te Amsterdam.

@@ -1,38 +1,20 @@
 ---
-id: 1849
-title: Watt kosten berekenen
-date: 2014-12-03T11:08:06+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1849
-permalink: /2014/12/watt-kosten-berekenen.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-factory_shortcodes_assets:
-  - 'a:0:{}'
-hits:
-  - "131403"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700416192"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-12-03 11:08:06+00:00
+dsq_thread_id:
+- '5700416192'
+hits:
+- '131403'
+layout: post
+permalink: /2014/12/watt-kosten-berekenen.html
 tags:
-  - Zonne-energie
-  - Zonnepanelen
+- Zonne-energie
+- Zonnepanelen
+title: Watt kosten berekenen
+
 ---
 ## Wat kosten eigenlijk de Watt kosten?
 

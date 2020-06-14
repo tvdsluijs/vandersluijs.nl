@@ -1,31 +1,17 @@
 ---
-id: 98
-title: Pomodoro gaat hierdoor pas echt werken!
-date: 2013-08-07T17:23:00+00:00
-author: Theo.
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/08/07/pomodoro-gaat-hierdoor-pas-echt-werken/
-permalink: /2013/08/pomodoro-gaat-hierdoor-pas-echt-werken.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7468171842431435967"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/08/pomodoro-gaat-hierdoor-pas-echt-werken.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2013/08/pomodoro-technique-300x239.jpg
-hits:
-  - "1291"
-dsq_thread_id:
-  - "6026258934"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2013-08-07 17:23:00+00:00
+dsq_thread_id:
+- '6026258934'
+hits:
+- '1291'
+layout: post
+permalink: /2013/08/pomodoro-gaat-hierdoor-pas-echt-werken.html
+title: Pomodoro gaat hierdoor pas echt werken!
+
 ---
 <div style="clear: both; text-align: center;">
   <a href=https://vandersluijs.resultants-e.nl/2013/08/pomodoro-technique.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="159" src="https://vandersluijs.resultants-e.nl/2013/08/pomodoro-technique-300x239.jpg" width="200" /></a>

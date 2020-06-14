@@ -1,31 +1,17 @@
 ---
-id: 65
-title: Waarom de winkels het verliezen van internet
-date: 2014-06-09T09:59:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/06/09/waarom-de-winkels-het-verliezen-van_59/
-permalink: /2014/06/waarom-de-winkels-het-verliezen-van_59.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7579144642476855025"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/06/waarom-de-winkels-het-verliezen-van_59.html
-blogger_thumbnail:
-  - /images/2014/Jun/mediamarkt.jpg
-hits:
-  - "648"
-dsq_thread_id:
-  - "5755046564"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2014-06-09 09:59:00+00:00
+dsq_thread_id:
+- '5755046564'
+hits:
+- '648'
+layout: post
+permalink: /2014/06/waarom-de-winkels-het-verliezen-van_59.html
+title: Waarom de winkels het verliezen van internet
+
 ---
 ![Mediamarkt knettergek](https://vandersluijs.resultants-e.nl/2014/Jun/mediamarkt.jpg)
 

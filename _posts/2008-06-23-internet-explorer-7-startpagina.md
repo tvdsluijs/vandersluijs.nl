@@ -1,31 +1,17 @@
 ---
-id: 509
-title: Internet Explorer 7 Startpagina verwijderen
-date: 2008-06-23T21:02:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/06/23/internet-explorer-7-startpagina/
-permalink: /2008/06/internet-explorer-7-startpagina.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7341531723529296005"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/06/internet-explorer-7-startpagina.html
-hits:
-  - "1228"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5891429847"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-06-23 21:02:00+00:00
+dsq_thread_id:
+- '5891429847'
+hits:
+- '1228'
+layout: post
+permalink: /2008/06/internet-explorer-7-startpagina.html
+title: Internet Explorer 7 Startpagina verwijderen
+
 ---
 Heb jij dat ook….
 

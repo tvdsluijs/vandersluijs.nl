@@ -1,29 +1,17 @@
 ---
-id: 317
-title: Ik Pleur het er wel op (uitspraak Yvon Roompot Weerterbergen)
-date: 2010-02-16T10:54:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/02/16/ik-pleur-het-er-wel-op-uitspraak-yvon/
-permalink: /2010/02/ik-pleur-het-er-wel-op-uitspraak-yvon.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7513014214855236117"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/02/ik-pleur-het-er-wel-op-uitspraak-yvon.html
-hits:
-  - "1104"
-dsq_thread_id:
-  - "5743580058"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2010-02-16 10:54:00+00:00
+dsq_thread_id:
+- '5743580058'
+hits:
+- '1104'
+layout: post
+permalink: /2010/02/ik-pleur-het-er-wel-op-uitspraak-yvon.html
+title: Ik Pleur het er wel op (uitspraak Yvon Roompot Weerterbergen)
+
 ---
 [[image:roompot.gif::center:0]]
 

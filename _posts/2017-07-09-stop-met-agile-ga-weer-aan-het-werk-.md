@@ -1,15 +1,20 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: 'Stop met Agile! Ga weer aan het werk!'
-slug: 'stop-met-agile-ga-weer-aan-het-werk-'
+author: tvdsluijs
+category:
+- Agile
+comments: 'true'
 date: '2017-07-09 06:25:16+00:00'
+excerpt_separator: <!--more-->
+image: https://vandersluijs.resultants-e.nl/1*snWq_plHQNlM-A65kUknug.png
+layout: post
 publish_date: '2017-07-09 06:25:16+00:00'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*snWq_plHQNlM-A65kUknug.png'
-  feature: 1*snWq_plHQNlM-A65kUknug.png'
-category: ['Agile']
-tags: ['Agile', 'Scrum', 'Agility']
+slug: stop-met-agile-ga-weer-aan-het-werk-
+tags:
+- Agile
+- Scrum
+- Agility
+title: Stop met Agile! Ga weer aan het werk!
+
 ---
 Agile! Het is geweldig! Het gaat al je problemen in je bedrijf oplossen!
 Development gaat weer sneller, beter en er komen weer dingen af. Teams werken

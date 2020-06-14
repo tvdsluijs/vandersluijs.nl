@@ -1,29 +1,15 @@
 ---
-id: 87
-title: Ipod Deathclock
-date: 2013-12-02T05:45:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/12/02/ipod-deathclock/
-permalink: /2013/12/ipod-deathclock.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "538213731996011506"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/12/ipod-deathclock.html
-hits:
-  - "815"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2013-12-02 05:45:00+00:00
+hits:
+- '815'
+layout: post
+permalink: /2013/12/ipod-deathclock.html
+title: Ipod Deathclock
+
 ---
 Tja… als ik om me heen kijk heeft bijna iedereen wel een ipod. Er lopen natuurlijk nog steeds mensen rond met een andere mp3 speler, maar ook die stappen steeds vaker over naar een ipod. 
 

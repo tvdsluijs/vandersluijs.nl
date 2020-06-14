@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2007-05-25 14:27
 excerpt_separator: <!--more-->
-title: 'Mijn eerste extentie op Joomla!'
-slug: 'mijn-eerste-extentie-op-joomla-'
-date: '2007-05-25 14:27'
-publish_date: '2007-05-25 14:27'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2007-05-25 14:27
+slug: mijn-eerste-extentie-op-joomla-
+tags:
+- Coding
+title: Mijn eerste extentie op Joomla!
+
 ---
 Module wel te verstaan.  
   

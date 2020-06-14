@@ -1,36 +1,20 @@
 ---
-id: 2372
-title: Sony Alpha 6000 uitpak party
-date: 2016-02-15T22:26:43+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://dezeeuwsefotograaf.nl/?p=2372
-permalink: /2016/02/sony-alpha-6000-uitpak-party.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "703"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5783365228"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2016-02-15 22:26:43+00:00
+dsq_thread_id:
+- '5783365228'
+hits:
+- '703'
+layout: post
+permalink: /2016/02/sony-alpha-6000-uitpak-party.html
 tags:
-  - Camera
-  - Sony
+- Camera
+- Sony
+title: Sony Alpha 6000 uitpak party
+
 ---
 Natuurlijk was ik blij toen ik de Sony Alpha 6000 binnenkreeg! Ik wilde hem zo snel mogelijk uitpakken. Natuurlijk heb ik dat opgenomen en er een uitpak party van gemaakt.
 

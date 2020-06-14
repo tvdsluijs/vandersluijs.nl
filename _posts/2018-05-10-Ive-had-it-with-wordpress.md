@@ -1,17 +1,17 @@
 ---
-layout: post
-title: I've had it with Wordpress
+author: tvdsluijs
+categories:
+- Tech
+comments: 'true'
 excerpt_separator: <!--more-->
-image:
-  path: '/images/1*kmdeXXsE5g3ViZqicLhwSQ.jpeg'
-  feature: '1*kmdeXXsE5g3ViZqicLhwSQ.jpeg'
-  credit: 'Pixabay'
-  creditlink:  'https://pixabay.com/en/wordpress-blogging-writing-typing-923188/'
-categories: ['Tech']
-tags: 
- - 'jekyll'
- - 'wordpress'
- - 'hacked'
+image: /images/1*kmdeXXsE5g3ViZqicLhwSQ.jpeg
+layout: post
+tags:
+- jekyll
+- wordpress
+- hacked
+title: I've had it with Wordpress
+
 ---
 I really really really had it with Wordpress.
 

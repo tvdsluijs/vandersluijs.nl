@@ -1,30 +1,18 @@
 ---
-id: 104
-title: De developer maakt zich belachelijk! (op zijn CV)
-date: 2013-06-11T22:20:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/06/11/de-developer-maakt-zich-belachelijk-op/
-permalink: /2013/06/de-developer-maakt-zich-belachelijk-op.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6263028517662399212"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/06/de-developer-maakt-zich-belachelijk-op.html
-hits:
-  - "777"
-dsq_thread_id:
-  - "5783340273"
+author: tvdsluijs
 categories:
-  - Grumpy
-  - Tech
+- Grumpy
+- Tech
+comments: 'true'
+date: 2013-06-11 22:20:00+00:00
+dsq_thread_id:
+- '5783340273'
+hits:
+- '777'
+layout: post
+permalink: /2013/06/de-developer-maakt-zich-belachelijk-op.html
+title: De developer maakt zich belachelijk! (op zijn CV)
+
 ---
 Nee natuurlijk maakt niet elke developer zich belachelijk! Maar ik vond de titel wel grappig en mocht je je voelen aangesproken dan is het wellicht een goed om in de spiegel te kijken en te denken&#8230;. &#8220;Maak ik me zelf belachelijk?&#8221;, &#8220;Hoe dan?&#8221;.
 

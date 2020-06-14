@@ -1,12 +1,21 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Agile
+- Scrum
+- Nieuwe Werken
+comments: 'true'
+date: 2014-09-11 20:24
 excerpt_separator: <!--more-->
-title: 'Ga muiten binnen het bedrijf en vraag daarna om vergeving!'
-slug: 'ga-muiten-binnen-het-bedrijf-en-vraag-daarna-om-vergeving-'
-date: '2014-09-11 20:24'
-publish_date: '2014-09-11 20:24'
-category: ['Agile', 'Scrum', 'Nieuwe Werken']
-tags: ['Agile', 'Scrum', 'Nieuwe Werken']
+layout: post
+publish_date: 2014-09-11 20:24
+slug: ga-muiten-binnen-het-bedrijf-en-vraag-daarna-om-vergeving-
+tags:
+- Agile
+- Scrum
+- Nieuwe Werken
+title: Ga muiten binnen het bedrijf en vraag daarna om vergeving!
+
 ---
 Dus je hebt een geweldig idee? Maar je baas vindt het helemaal niks?  
   

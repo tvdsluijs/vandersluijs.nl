@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+- Zend
+comments: 'true'
+date: 2010-10-28 17:10
 excerpt_separator: <!--more-->
-title: 'Zend Insert Update ON Duplicate'
-slug: 'zend-insert-update-on-duplicate'
-date: '2010-10-28 17:10'
-publish_date: '2010-10-28 17:10'
-category: ['Coding', 'Zend']
-tags: ['Coding', 'Zend']
+layout: post
+publish_date: 2010-10-28 17:10
+slug: zend-insert-update-on-duplicate
+tags:
+- Coding
+- Zend
+title: Zend Insert Update ON Duplicate
+
 ---
 Many people struggle with the Insert / Update on duplicate feature of MySQL
 within Zend.  

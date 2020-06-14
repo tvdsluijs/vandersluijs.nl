@@ -1,29 +1,15 @@
 ---
-id: 451
-title: 'MS Live Writer gives &quot;Server Error 801 Occurred&quot; on Joomla!'
-date: 2009-01-12T10:31:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/01/12/ms-live-writer-gives-error-801-occurred/
-permalink: /2009/01/ms-live-writer-gives-error-801-occurred.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7752642290358522876"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/01/ms-live-writer-gives-error-801-occurred.html
-hits:
-  - "702"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-01-12 10:31:00+00:00
+hits:
+- '702'
+layout: post
+permalink: /2009/01/ms-live-writer-gives-error-801-occurred.html
+title: MS Live Writer gives &quot;Server Error 801 Occurred&quot; on Joomla!
+
 ---
 If you are updating your Joomla! site / blog with Microsoft Live Writer and you get a &#8220;Server Error 801 Occurred&#8221; when updating you could aks yourself &#8220;did I delete a category or section from your joomla! site?&#8221;.  
 If you did youre MS Live Writer cannot find some of the categories anymore and you cannot blog with Live Writer anymore.  

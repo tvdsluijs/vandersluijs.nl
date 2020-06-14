@@ -1,61 +1,20 @@
 ---
-id: 20
-title: Polar M400 activiteiten crossfit bootcamp horloge
-date: 2015-02-14T22:07:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2015/02/14/polar-m400-activiteiten-crossfi/
-permalink: /2015/02/polar-m400-activiteiten-crossfi.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1969345144996857271"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2015/02/polar-m400-activiteiten-crossfit.html
-blogger_thumbnail:
-  - https://farm8.staticflickr.com/7356/16529171321_c93fdbd62b_c.jpg
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "1136"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5707080961"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/02/16529171321_c93fdbd62b_c.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2015-02-14 22:07:00+00:00
+dsq_thread_id:
+- '5707080961'
+hits:
+- '1136'
+image: https://vandersluijs.resultants-e.nl/2015/02/16529171321_c93fdbd62b_c.jpg
+layout: post
+permalink: /2015/02/polar-m400-activiteiten-crossfi.html
 tags:
-  - Polar
+- Polar
+title: Polar M400 activiteiten crossfit bootcamp horloge
+
 ---
 <div class="separator" style="clear: both; text-align: left;">
   De kogel is door de kerk, de buit is binnen, de deal is gedaan, het activiteiten crossfit bootcamp horloge is gekocht.

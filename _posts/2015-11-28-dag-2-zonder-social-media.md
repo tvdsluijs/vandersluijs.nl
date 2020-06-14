@@ -1,36 +1,21 @@
 ---
-id: 1765
-title: Dag 2 zonder Social Media
-date: 2015-11-28T05:54:13+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1765
-permalink: /2015/11/dag-2-zonder-social-media.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "527"
-dsq_thread_id:
-  - "5715223821"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/11/social_media-e1449262641636.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2015-11-28 05:54:13+00:00
+dsq_thread_id:
+- '5715223821'
+hits:
+- '527'
+image: https://vandersluijs.resultants-e.nl/2015/11/social_media-e1449262641636.jpg
+layout: post
+permalink: /2015/11/dag-2-zonder-social-media.html
 tags:
-  - GTD
-  - Social Media
+- GTD
+- Social Media
+title: Dag 2 zonder Social Media
+
 ---
 Facebook, Twitter, Linkedin, Instagram, Flipboard, Nu.nl, Nos.nl, Tweakers.net zijn allemaal voorbeelden van mijn tijd verslinders.
 

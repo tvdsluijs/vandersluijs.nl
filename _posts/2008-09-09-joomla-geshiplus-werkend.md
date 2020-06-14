@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-09-09 05:00
 excerpt_separator: <!--more-->
-title: 'Joomla! GeShiPlus Werkend'
-slug: 'joomla-geshiplus-werkend'
-date: '2008-09-09 05:00'
-publish_date: '2008-09-09 05:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-09-09 05:00
+slug: joomla-geshiplus-werkend
+tags:
+- Coding
+title: Joomla! GeShiPlus Werkend
+
 ---
 Omdat ik nogal wat code op mijn site plaats leek het mij handig om hiervoor
 een zogenaamde code displayer te gebruiken.  

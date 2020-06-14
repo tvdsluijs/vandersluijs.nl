@@ -1,30 +1,16 @@
 ---
-id: 537
-title: Problems with Vista and older Logitech Webcams
-date: 2007-07-05T08:49:00+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2007/07/05/problems-with-vista-and-older-logitec/
-permalink: /2007/07/problems-with-vista-and-older-logitec.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1813449145430391962"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2007/07/problems-with-vista-and-older-logitech.html
-hits:
-  - "429"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2007-07-05 08:49:00+00:00
+excerpt_separator: <!--more-->
+hits:
+- '429'
+layout: post
+permalink: /2007/07/problems-with-vista-and-older-logitec.html
+title: Problems with Vista and older Logitech Webcams
+
 ---
 Like I told you before, I have Vista working on my new PC.   
 I have a Logitech Zoom webcam, which worked just fine with Windows XP

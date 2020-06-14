@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-05 12:02
 excerpt_separator: <!--more-->
-title: 'Passion Calculator'
-slug: 'passion-calculator'
-date: '2010-02-05 12:02'
-publish_date: '2010-02-05 12:02'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*J-EERFdGbxoXeSn-.gif'
-  feature: 0*J-EERFdGbxoXeSn-.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*J-EERFdGbxoXeSn-.gif
+layout: post
+publish_date: 2010-02-05 12:02
+slug: passion-calculator
+tags:
+- Coding
+title: Passion Calculator
+
 ---
 This little love calculator evaluates the compatibility of two people based on
 names.  

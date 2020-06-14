@@ -1,29 +1,15 @@
 ---
-id: 503
-title: MMS Blog Importer 1.x naar 2.x
-date: 2008-07-14T15:44:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/07/14/mms-blog-importer-1x-naar-2x/
-permalink: /2008/07/mms-blog-importer-1x-naar-2x.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "276163564404192025"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/07/mms-blog-importer-1x-naar-2x.html
-hits:
-  - "1559"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-07-14 15:44:00+00:00
+hits:
+- '1559'
+layout: post
+permalink: /2008/07/mms-blog-importer-1x-naar-2x.html
+title: MMS Blog Importer 1.x naar 2.x
+
 ---
 Sinds kort van Joomla! 1.0.x naar Joomla! 1.5 overgestapt ?
 

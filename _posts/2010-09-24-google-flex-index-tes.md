@@ -1,31 +1,15 @@
 ---
-id: 271
-title: Google Flex index test
-date: 2010-09-24T21:04:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/09/24/google-flex-index-tes/
-permalink: /2010/09/google-flex-index-tes.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3049173323587774260"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/09/google-flex-index-test.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2010/09/get_flash_player.gif
-hits:
-  - "597"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2010-09-24 21:04:00+00:00
+hits:
+- '597'
+layout: post
+permalink: /2010/09/google-flex-index-tes.html
+title: Google Flex index test
+
 ---
 I wanted to see if google would actually index this page and if google will index the text inside the flex app shown below.  
 So this somewhat strange app with strange words in it, should be searched for within a day from google search.  

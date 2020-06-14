@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-08-13 08:13
 excerpt_separator: <!--more-->
-title: 'Flex textArea Popup'
-slug: 'flex-textarea-popup'
-date: '2009-08-13 08:13'
-publish_date: '2009-08-13 08:13'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*osOpnjnAIOLmd4ek.gif'
-  feature: 0*osOpnjnAIOLmd4ek.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*osOpnjnAIOLmd4ek.gif
+layout: post
+publish_date: 2009-08-13 08:13
+slug: flex-textarea-popup
+tags:
+- Coding
+title: Flex textArea Popup
+
 ---
 Okay, you flex programmer must have had this problem.  
   

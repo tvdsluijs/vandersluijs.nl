@@ -1,43 +1,15 @@
 ---
-id: 47
-title: Mini en GoPro, slimme marketing actie
-date: 2014-09-11T20:11:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/slimme-marketing-actie-mini-en-gopro/
-permalink: /2014/09/mini-en-gopro-slimme-marketing-actie.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1918670443830719490"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/slimme-marketing-actie-mini-en-gopro.html
-blogger_thumbnail:
-  - /images/2014/Sep/IMG_1081.JPG
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "541"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2014-09-11 20:11:00+00:00
+hits:
+- '541'
+layout: post
+permalink: /2014/09/mini-en-gopro-slimme-marketing-actie.html
+title: Mini en GoPro, slimme marketing actie
+
 ---
 Geniaal wil ik het nog net niet noemen, maar een erg slimme marketing actie is het wel.
 

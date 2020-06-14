@@ -1,27 +1,15 @@
 ---
-id: 214
-title: Bedrijven met een heel fout email adres
-date: 2012-01-22T00:38:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/01/22/bedrijven-met-een-heel-fout-email-adres/
-permalink: /2012/01/bedrijven-met-een-heel-fout-email-adres.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1199417903194221667"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/01/bedrijven-met-een-heel-fout-email-adres.html
-hits:
-  - "689"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2012-01-22 00:38:00+00:00
+hits:
+- '689'
+layout: post
+permalink: /2012/01/bedrijven-met-een-heel-fout-email-adres.html
+title: Bedrijven met een heel fout email adres
+
 ---
 Tja, eigenlijk is dit een beetje technisch verhaal en hoort het op mijn www.iamboredsoiblog.com site, maar ja dat is engelstalig en dit lijkt meer een nederlands probleem.
 

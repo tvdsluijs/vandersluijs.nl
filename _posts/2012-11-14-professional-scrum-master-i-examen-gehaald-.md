@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Agile
+comments: 'true'
+date: 2012-11-14 19:51
 excerpt_separator: <!--more-->
-title: 'Professional Scrum Master I examen gehaald!'
-slug: 'professional-scrum-master-i-examen-gehaald-'
-date: '2012-11-14 19:51'
-publish_date: '2012-11-14 19:51'
-category: ['Agile']
-tags: ['Scrum']
+layout: post
+publish_date: 2012-11-14 19:51
+slug: professional-scrum-master-i-examen-gehaald-
+tags:
+- Scrum
+title: Professional Scrum Master I examen gehaald!
+
 ---
 Het “Professional Scrum Master I” examen is gebaseerd op het Scrum raamwerk en
 wordt onderhouden door Scrum makers, Ken Schwaber en Jeff Sutherland.

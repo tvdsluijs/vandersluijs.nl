@@ -1,49 +1,22 @@
 ---
-id: 2380
-title: Fotofabriek fotoboek review
-date: 2016-03-25T16:21:39+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://dezeeuwsefotograaf.nl/?p=2380
-permalink: /2016/03/fotofabriek-fotoboek-review.html
-vw_review_summary:
-  - Fotofabriek.nl levert zeer goede kwaliteit fotoboeken. De kwaliteit is overall heel goed. Met de software hebben ze nog wel wat stappen te maken maar ik verwacht dat dit naar aanleiding van dit artikel wel verbeterd gaat worden. Ik zou zeker aanraden om de afdruk service van fotofabriek gebruiken bij fotoboeken.
-vw_review_average_score:
-  - "8.7"
-wp_review_user_review_type:
-  - star
-vw_review_score_0_label:
- - Software
-vw_review_score_0_score:
- - 10
-vw_review_score_1_label:
- - Kwaliteit afdrukken
-vw_review_score_1_score:
- - 18
-vw_review_score_2_label:
- - Kwaliteit kaft
-vw_review_score_2_score:
- - 18
-vw_review_score_3_label:
- - Kwaliteit fotopapier
-vw_review_score_3_score:
- - 18
-vw_review_score_4_label:
- - Service
-vw_review_score_4_score:
- - 18
-vw_review_score_5_label:
- - Prijs/Kwaliteit
-vw_review_score_5_score:
- - 20
-vw_review_score_6_label:
- - Snelheid levering
-vw_review_score_6_score:
- - 20
-dsq_thread_id:
-  - "5701840516"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-03-25 16:21:39+00:00
+description:
+- Fotofabriek.nl levert zeer goede kwaliteit fotoboeken. De kwaliteit is overall heel
+  goed. Met de software hebben ze nog wel wat stappen te maken maar ik verwacht dat
+  dit naar aanleiding van dit artikel wel verbeterd gaat worden. Ik zou zeker aanraden
+  om de afdruk service van fotofabriek gebruiken bij fotoboeken.
+dsq_thread_id:
+- '5701840516'
+layout: post
+permalink: /2016/03/fotofabriek-fotoboek-review.html
+title: Fotofabriek fotoboek review
+wp_review_user_review_type:
+- star
+
 ---
 Toen ik werd benaderd door Fotofabriek om een review te schrijven over hun fotoboek was ik verbaasd. Niet omdat ik werd benaderd door een bedrijf, dat gebeurd wel vaker, maar omdat ik nog nooit van het bedrijf Fotofabriek gehoord had. Die aanvraag greep ik natuurlijk met twee handen aan want ik wilde wel eens of ze de Radar Fotoboeken test ook waar konden maken.<!--more-->
 

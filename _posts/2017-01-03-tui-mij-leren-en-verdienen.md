@@ -1,55 +1,21 @@
 ---
-id: 3640
-title: TUI kan wat van mij leren en verdienen!
-date: 2017-01-03T21:46:28+00:00
-excerpt_separator: <!--more-->
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=3640
-permalink: /2017/01/tui-mij-leren-en-verdienen.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "692"
-dsq_thread_id:
-  - "5700425983"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2017/01/tui_Dreamliner-e1483472432278-825x510.jpg
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2017-01-03 21:46:28+00:00
+dsq_thread_id:
+- '5700425983'
+excerpt_separator: <!--more-->
+hits:
+- '692'
+image: https://vandersluijs.resultants-e.nl/2017/01/tui_Dreamliner-e1483472432278-825x510.jpg
+layout: post
+permalink: /2017/01/tui-mij-leren-en-verdienen.html
 tags:
-  - vliegtuig
-format: image
+- vliegtuig
+title: TUI kan wat van mij leren en verdienen!
+
 ---
 Tja, ik heb het geluk dat ik zo nu en dan naar Curaçao mag voor mijn werk om daar het één en ander te regelen bij mijn Collega&#8217;s daar ter plaatse. De vorige keer vloog ik met [KLM](https://www.vandersluijs.nl/endorses/klm) maar omdat er wat collega&#8217;s mee gaan en die al via [TUI](https://www.vandersluijs.nl/endorses/tui) hadden geboekt vlieg ik ook maar eens een keer met TUI. En voor dat de reis reeds is begonnen kunnen ze bij TUI al wat van me leren en ook nog eens extra aan mij verdienen. Maar dat laatste wilden ze niet.<!--more-->
 <!--more-->

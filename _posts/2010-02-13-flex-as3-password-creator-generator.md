@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-13 10:23
 excerpt_separator: <!--more-->
-title: 'Flex AS3 Password Creator / Generator'
-slug: 'flex-as3-password-creator-generator'
-date: '2010-02-13 10:23'
-publish_date: '2010-02-13 10:23'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-02-13 10:23
+slug: flex-as3-password-creator-generator
+tags:
+- Coding
+title: Flex AS3 Password Creator / Generator
+
 ---
 Ever wanted to create or generate passwords within Adobe Flex / Flash Builder
 or AS3 ?  

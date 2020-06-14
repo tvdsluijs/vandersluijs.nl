@@ -1,29 +1,15 @@
 ---
-id: 52
-title: Ghost, digital ocean en Node.js dag twee
-date: 2014-09-11T20:02:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/ghost-digital-ocean-en-nodejs-dag-twee_11/
-permalink: /2014/09/ghost-digital-ocean-en-nodejs-dag-twee_11.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3678535854156946499"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/ghost-digital-ocean-en-nodejs-dag-twee_11.html
-hits:
-  - "954"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 20:02:00+00:00
+hits:
+- '954'
+layout: post
+permalink: /2014/09/ghost-digital-ocean-en-nodejs-dag-twee_11.html
+title: Ghost, digital ocean en Node.js dag twee
+
 ---
 Ik heb nu twee dagen zitten spelen met Ghost en Node.js en om eerlijk te zijn ben ik nogal verdeeld over de uitkomst.
 

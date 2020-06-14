@@ -1,29 +1,15 @@
 ---
-id: 520
-title: Snelle DosPrompt Hier !
-date: 2008-02-14T20:03:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/02/14/snelle-dosprompt-hier/
-permalink: /2008/02/snelle-dosprompt-hier.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4230904015013092040"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/02/snelle-dosprompt-hier.html
-hits:
-  - "1351"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-02-14 20:03:00+00:00
+hits:
+- '1351'
+layout: post
+permalink: /2008/02/snelle-dosprompt-hier.html
+title: Snelle DosPrompt Hier !
+
 ---
 Dus… je werkt met verkenner ? (eigenlijk hoop ik dat je met Total Commander werkt, das veel beter)
 

@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-03-11 09:29
 excerpt_separator: <!--more-->
-title: 'AIR Application Descriptor Manager'
-slug: 'air-application-descriptor-manager'
-date: '2009-03-11 09:29'
-publish_date: '2009-03-11 09:29'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-03-11 09:29
+slug: air-application-descriptor-manager
+tags:
+- Coding
+title: AIR Application Descriptor Manager
+
 ---
 Do you also hate editting the AIR Application XML for you AIR Application.  
 Well that is over now ! Just use AIR Application Descriptor Manager to edit

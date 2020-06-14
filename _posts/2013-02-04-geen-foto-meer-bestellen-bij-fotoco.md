@@ -1,29 +1,17 @@
 ---
-id: 134
-title: 'Geen foto&#39;s meer bestellen bij foto.com'
-date: 2013-02-04T16:43:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/02/04/geen-foto-meer-bestellen-bij-fotoco/
-permalink: /2013/02/geen-foto-meer-bestellen-bij-fotoco.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3853201980543987606"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/02/geen-foto-meer-bestellen-bij-fotocom.html
-hits:
-  - "620"
-dsq_thread_id:
-  - "6229727718"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-02-04 16:43:00+00:00
+dsq_thread_id:
+- '6229727718'
+hits:
+- '620'
+layout: post
+permalink: /2013/02/geen-foto-meer-bestellen-bij-fotoco.html
+title: Geen foto&#39;s meer bestellen bij foto.com
+
 ---
 Ik dacht, laat ik eens op internet uitzoeken waar ik een beetje goedkoop mijn digitale vakantie foto’s kan laten afdrukken.
 

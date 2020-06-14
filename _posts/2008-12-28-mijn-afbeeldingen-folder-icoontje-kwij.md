@@ -1,29 +1,15 @@
 ---
-id: 458
-title: Mijn Afbeeldingen folder icoontje kwijt
-date: 2008-12-28T13:35:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/12/28/mijn-afbeeldingen-folder-icoontje-kwij/
-permalink: /2008/12/mijn-afbeeldingen-folder-icoontje-kwij.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1528542765125107094"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/12/mijn-afbeeldingen-folder-icoontje-kwijt.html
-hits:
-  - "912"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-12-28 13:35:00+00:00
+hits:
+- '912'
+layout: post
+permalink: /2008/12/mijn-afbeeldingen-folder-icoontje-kwij.html
+title: Mijn Afbeeldingen folder icoontje kwijt
+
 ---
 Tja. als ik bij mijn ouders ben komt het geregeld voor dat mijn moeder iets heeft gedaan op haar PC, wat ze beter niet had kunnen doen.
 

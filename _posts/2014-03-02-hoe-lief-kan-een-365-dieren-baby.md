@@ -1,31 +1,17 @@
 ---
-id: 70
-title: Hoe lief kan een 365 dieren baby kalender zijn?
-date: 2014-03-02T09:32:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/03/02/hoe-lief-kan-een-365-dieren-baby/
-permalink: /2014/03/hoe-lief-kan-een-365-dieren-baby.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "762735047002937019"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/03/hoe-lief-kan-een-365-dieren-baby.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2014/03/IMG_0058.jpg
-hits:
-  - "574"
-dsq_thread_id:
-  - "5771964121"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2014-03-02 09:32:00+00:00
+dsq_thread_id:
+- '5771964121'
+hits:
+- '574'
+layout: post
+permalink: /2014/03/hoe-lief-kan-een-365-dieren-baby.html
+title: Hoe lief kan een 365 dieren baby kalender zijn?
+
 ---
 <div style="clear: both; text-align: center;">
   <a href=https://vandersluijs.resultants-e.nl/2014/03/IMG_0058.jpg" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" src="https://vandersluijs.resultants-e.nl/2014/03/IMG_0058.jpg" height="200" width="198" /></a>

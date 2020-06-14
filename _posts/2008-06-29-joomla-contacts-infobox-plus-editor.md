@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-06-29 17:13
 excerpt_separator: <!--more-->
-title: 'Joomla! Contacts Infobox plus editor'
-slug: 'joomla-contacts-infobox-plus-editor'
-date: '2008-06-29 17:13'
-publish_date: '2008-06-29 17:13'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-06-29 17:13
+slug: joomla-contacts-infobox-plus-editor
+tags:
+- Coding
+title: Joomla! Contacts Infobox plus editor
+
 ---
 Stel je draait Joomla 1.0.15 en je gebruikt het contacts component om al je
 contacten te tonen.  

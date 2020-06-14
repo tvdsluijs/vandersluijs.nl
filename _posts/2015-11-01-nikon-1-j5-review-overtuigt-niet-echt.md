@@ -1,60 +1,23 @@
 ---
-id: 1668
-title: Nikon 1 J5 review overtuigt niet echt!
-date: 2015-11-01T14:34:10+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1668
-permalink: /2015/11/nikon-1-j5-review-overtuigt-niet-echt.html
-video_post_url:
-  - ""
-vw_review_summary:
-  - De Nikon 1 J5 overtuigd mij niet. Alhoewel de camera erg snel is, is het objectief enorm traag. Even inzoomen is er niet bij. De body ziet er prachtig uit en is licht, maar hij voelt bij mij in mijn hand vreemd zwaar aan. Het scherm is scherm en naar twee kanten te draaien, dat is voor mij een pluspunt!
-vw_review_average_score:
-  - "3.7"
-vw_review_score_0_label:
- - Gebruiksgemak
-vw_review_score_0_score:
- - 8
-vw_review_score_1_label:
- - Degelijkheid
-vw_review_score_1_score:
- - 10
-vw_review_score_2_label:
- - Gewicht
-vw_review_score_2_score:
- - 6
-vw_review_score_3_label:
- - Instellingen
-vw_review_score_3_score:
- - 8
-vw_review_score_4_label:
- - Fotokwaliteit
-vw_review_score_4_score:
- - 6
-vw_review_score_5_label:
- - Design
-vw_review_score_5_score:
- - 10
-vw_review_score_6_label:
- - Snelheid
-vw_review_score_6_score:
- - 4
-vw_review_score_7_label:
- - Bedieningsgemak
-vw_review_score_7_score:
- - 6
-vw_review_score_8_label:
- - Prijs
-vw_review_score_8_score:
- - 8
-dsq_thread_id:
-  - "5715751391"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2015-11-01 14:34:10+00:00
+description:
+- De Nikon 1 J5 overtuigd mij niet. Alhoewel de camera erg snel is, is het objectief
+  enorm traag. Even inzoomen is er niet bij. De body ziet er prachtig uit en is licht,
+  maar hij voelt bij mij in mijn hand vreemd zwaar aan. Het scherm is scherm en naar
+  twee kanten te draaien, dat is voor mij een pluspunt!
+dsq_thread_id:
+- '5715751391'
+layout: post
+permalink: /2015/11/nikon-1-j5-review-overtuigt-niet-echt.html
 tags:
-  - Camera
-  - Nikon
+- Camera
+- Nikon
+title: Nikon 1 J5 review overtuigt niet echt!
+
 ---
 Van de week kreeg ik de Nikon 1 J5 opgestuurd van Nikon om te testen en te reviewen. En ik was opgewonden, want als ik de reclames op TV zie dan krijg ik altijd zo&#8217;n &#8220;daar wil ik bijhoren&#8221; gevoel.
 

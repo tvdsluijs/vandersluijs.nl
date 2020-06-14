@@ -1,29 +1,19 @@
 ---
-id: 160
-title: |
-  What if patents only where valid for 10 years and could not be
-  prolonged?
-date: 2012-10-18T06:51:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/10/18/what-if-patents-only-where-valid-for-10/
-permalink: /2012/10/what-if-patents-only-where-valid-for-10.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6175337128394869142"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/10/what-if-patents-only-where-valid-for-10.html
-hits:
-  - "1198"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2012-10-18 06:51:00+00:00
+hits:
+- '1198'
+layout: post
+permalink: /2012/10/what-if-patents-only-where-valid-for-10.html
+title: 'What if patents only where valid for 10 years and could not be
+
+  prolonged?
+
+  '
+
 ---
 <div>
 </div>

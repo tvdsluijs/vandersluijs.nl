@@ -1,45 +1,17 @@
 ---
-id: 93
-title: Gedeeltelijk zwartwit foto met Gimp
-date: 2013-08-31T01:16:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/08/31/gedeeltelijk-zwartwit-foto/
-permalink: /2013/08/gedeeltelijk-zwartwit-foto-met-gimp.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8717031615319807988"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/08/gedeeltelijk-zwartwit-foto.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "528"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5710209837"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2013-08-31 01:16:00+00:00
+dsq_thread_id:
+- '5710209837'
+hits:
+- '528'
+layout: post
+permalink: /2013/08/gedeeltelijk-zwartwit-foto-met-gimp.html
+title: Gedeeltelijk zwartwit foto met Gimp
+
 ---
 Heb je dat ook wel eens gezien ?
 

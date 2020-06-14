@@ -1,31 +1,17 @@
 ---
-id: 223
-title: Overstappen naar Kubuntu, Kubuntu installeren;
-date: 2011-09-26T03:05:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/09/26/overstappen-naar-kubuntu-kubuntu/
-permalink: /2011/09/overstappen-naar-kubuntu-kubuntu.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "113046587421559759"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/09/overstappen-naar-kubuntu-kubuntu.html
-hits:
-  - "603"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5943102085"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-09-26 03:05:00+00:00
+dsq_thread_id:
+- '5943102085'
+hits:
+- '603'
+layout: post
+permalink: /2011/09/overstappen-naar-kubuntu-kubuntu.html
+title: Overstappen naar Kubuntu, Kubuntu installeren;
+
 ---
 Het installeren van Kubuntu is eigenlijk heel makkelijk… zou je denken. Maar de pret begon bij mij al aan het maken van de CD. Met mijn Dell Studio 1749 kreeg ik met geen mogelijkheid een ISO gebrand. Tuurlijk heb ik de laatste versie van Kubuntu eerst van de site gehaald en daarna met het open source pakket CDBurnerXP de Iso geprobeerd te branden… maar ook al zei CDBurnerXp dat hij hem netjes gebrand had, opstarten van CD deed hij niet.
 

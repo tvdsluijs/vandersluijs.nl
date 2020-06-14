@@ -1,15 +1,21 @@
 ---
-layout: post
-excerpt_separator: <!--more-->
-title: 'Waarom kilometerheffing onvermijdelijk is'
-slug: 'waarom-kilometerheffing-onvermijdelijk-is'
+author: tvdsluijs
+category:
+- Tech
+comments: 'true'
 date: '2017-06-20 17:56:05+00:00'
+excerpt_separator: <!--more-->
+image: https://vandersluijs.resultants-e.nl/1*RGMiFk43GguyiJHfyWrQ-g.jpeg
+layout: post
 publish_date: '2017-06-20 17:56:05+00:00'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/1*RGMiFk43GguyiJHfyWrQ-g.jpeg'
-  feature: 1*RGMiFk43GguyiJHfyWrQ-g.jpeg'
-category: ['Tech']
-tags: ['Future', 'AI', 'Self Driving Cars', 'Tesla']
+slug: waarom-kilometerheffing-onvermijdelijk-is
+tags:
+- Future
+- AI
+- Self Driving Cars
+- Tesla
+title: Waarom kilometerheffing onvermijdelijk is
+
 ---
 
 De staatskas moet gevuld worden. Daar heb je allerlei belastingen voor zoals

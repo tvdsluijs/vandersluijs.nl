@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-01-18 19:25
 excerpt_separator: <!--more-->
-title: 'Calculator Plus Joomla! Module'
-slug: 'calculator-plus-joomla-module'
-date: '2010-01-18 19:25'
-publish_date: '2010-01-18 19:25'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-01-18 19:25
+slug: calculator-plus-joomla-module
+tags:
+- Coding
+title: Calculator Plus Joomla! Module
+
 ---
 Small but complete calculator module, nothing more nothing less.  
   

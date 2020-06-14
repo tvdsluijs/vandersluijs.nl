@@ -1,29 +1,17 @@
 ---
-id: 394
-title: Rookmelders… waarom ‘s nachts
-date: 2009-08-27T12:57:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/08/27/rookmelders-waarom-s-nachts/
-permalink: /2009/08/rookmelders-waarom-s-nachts.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6074706114101500614"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/08/rookmelders-waarom-s-nachts.html
-hits:
-  - "689"
-dsq_thread_id:
-  - "5720207387"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2009-08-27 12:57:00+00:00
+dsq_thread_id:
+- '5720207387'
+hits:
+- '689'
+layout: post
+permalink: /2009/08/rookmelders-waarom-s-nachts.html
+title: "Rookmelders\u2026 waarom \u2018s nachts"
+
 ---
 Zoals veel mensen heb ik rookmelders in huis. Een stuk of 4, volgens een familie brandweerman is dat het meest veilige.
 

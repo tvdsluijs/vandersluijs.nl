@@ -1,53 +1,19 @@
 ---
-id: 3593
-title: Stoppen met Social Media
-date: 2016-12-23T17:25:36+00:00
-author: Theo van der Sluijs
-layout: post
-excerpt_separator: <!--more-->
-guid: http://vandersluijs.nl/?p=3593
-permalink: /2016/12/stoppen-met-social-media.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "487"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/12/Socialmedia-pm-825x510.png
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-12-23 17:25:36+00:00
+excerpt_separator: <!--more-->
+hits:
+- '487'
+image: https://vandersluijs.resultants-e.nl/2016/12/Socialmedia-pm-825x510.png
+layout: post
+permalink: /2016/12/stoppen-met-social-media.html
 tags:
-  - Social Media
-format: image
+- Social Media
+title: Stoppen met Social Media
+
 ---
 Social media&#8230; het lijkt zo leuk, maar is dat het ook? Laatst las ik iets over het feit dat mensen steeds vaker bezig zijn met het zich zelf te bewijzen voor anderen en dat ze er eigenlijk heel ongelukkig van worden.
 <!--more-->

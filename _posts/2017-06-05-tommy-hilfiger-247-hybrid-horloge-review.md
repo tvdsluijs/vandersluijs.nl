@@ -1,24 +1,22 @@
 ---
-id: 4328
-title: Tommy Hilfiger 24/7 hybrid horloge review
-date: 2017-06-05T17:02:04+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: https://www.vandersluijs.nl/?p=4328
-permalink: /2017/06/tommy-hilfiger-247-hybrid-horloge-review.html
-hits:
-  - "320"
-dsq_thread_id:
-  - "5914232019"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2017/06/Tommy_Hilfiger_24_7_hybrid_watch_-_2-825x510.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2017-06-05 17:02:04+00:00
+dsq_thread_id:
+- '5914232019'
+excerpt_separator: <!--more-->
+hits:
+- '320'
+image: https://vandersluijs.resultants-e.nl/2017/06/Tommy_Hilfiger_24_7_hybrid_watch_-_2-825x510.jpg
+layout: post
+permalink: /2017/06/tommy-hilfiger-247-hybrid-horloge-review.html
 tags:
-  - smartwatch
-  - sportwatch
-format: image
+- smartwatch
+- sportwatch
+title: Tommy Hilfiger 24/7 hybrid horloge review
+
 ---
 
 Tja&#8230; wat moet je als je Polar V800 kapot is en terug is gestuurd naar de fabrikant. Niks had ik meer om om mijn pols te doen en na 2 dagen ging het jeuken&#8230; dus kocht ik een Tommy Hilfiger 24/7 hybrid horloge.

@@ -1,16 +1,19 @@
 ---
-layout: post
-
-title: 'Agility killed the ICT Manager'
-slug: 'agility-killed-the-ict-manager'
-excerpt_separator: < !--more -->
+author: tvdsluijs
+category:
+- Management
+comments: 'true'
 date: '2016-07-18 18:41:01+00:00'
+excerpt_separator: < !--more -->
+layout: post
 publish_date: '2016-07-18 18:41:01+00:00'
-category: ['Management']
-tags: 
- - 'Agile'
- - 'Scrum'
- - 'Agility'
+slug: agility-killed-the-ict-manager
+tags:
+- Agile
+- Scrum
+- Agility
+title: Agility killed the ICT Manager
+
 ---
 Het is officieel! De ICT of IT Manager zoals we die kenden is officieel dood!
 Niet de persoon natuurlijk maar de functie!

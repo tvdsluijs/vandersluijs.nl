@@ -1,29 +1,17 @@
 ---
-id: 136
-title: Buma/Stemra gaat te ver
-date: 2013-01-18T22:53:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/01/18/bumastemra-gaat-te-ver/
-permalink: /2013/01/bumastemra-gaat-te-ver.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3869058581501998873"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/01/bumastemra-gaat-te-ver.html
-hits:
-  - "631"
-dsq_thread_id:
-  - "5778391617"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-01-18 22:53:00+00:00
+dsq_thread_id:
+- '5778391617'
+hits:
+- '631'
+layout: post
+permalink: /2013/01/bumastemra-gaat-te-ver.html
+title: Buma/Stemra gaat te ver
+
 ---
 <div>
    

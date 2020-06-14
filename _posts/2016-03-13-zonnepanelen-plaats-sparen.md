@@ -1,44 +1,21 @@
 ---
-id: 2626
-title: Zonnepanelen of sparen met spaarrekening
-date: 2016-03-13T13:50:42+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2626
-permalink: /2016/03/zonnepanelen-plaats-sparen.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-hits:
-  - "847"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5707851374"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-825x249.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-03-13 13:50:42+00:00
+dsq_thread_id:
+- '5707851374'
+hits:
+- '847'
+image: https://vandersluijs.resultants-e.nl/2015/10/IMG_5729-e1445942152415-825x249.jpg
+layout: post
+permalink: /2016/03/zonnepanelen-plaats-sparen.html
 tags:
-  - Zonne-energie
-  - Zonnepanelen
+- Zonne-energie
+- Zonnepanelen
+title: Zonnepanelen of sparen met spaarrekening
+
 ---
 Sinds juni 2015 heb ik zonnepanelen op mijn dak liggen. 18 Trina Solar Energy TSM-265PC05A.08 zonnepanelen met een SMA  SB 3600TL 21 omvormer. Er liggen er 13 op het  zuid-westen en 5 op het zuiden. Ik had het geld ook op een spaarrekening kunnen zetten en lekker van kunnen sparen! Toch?
 

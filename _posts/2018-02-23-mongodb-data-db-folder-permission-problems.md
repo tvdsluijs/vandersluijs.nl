@@ -1,21 +1,21 @@
 ---
-layout: post
-title: 'MongoDB /data/db folder permission problems'
-slug: 'mongodb-data-db-folder-permission-problems'
+author: tvdsluijs
+categories:
+- Tech
+comments: 'true'
 date: '2018-02-23 08:01:01.606000+00:00'
 excerpt_separator: < !--more -->
+image: /images/1*pGpT2epd3Wo_-dkqfRW0tg.jpeg
+layout: post
 publish_date: '2018-02-23 08:01:01.606000+00:00'
-image:
-  path: '/images/1*pGpT2epd3Wo_-dkqfRW0tg.jpeg'
-  feature: "1*pGpT2epd3Wo_-dkqfRW0tg.jpeg"
-  credit: 'George Becker'
-  creditlink:  'https://www.pexels.com/u/eye4dtail/'
-categories: ['Tech']
-tags: 
- - 'Mongodb'
- - 'Database'
- - 'Development'
- - 'Coding'
+slug: mongodb-data-db-folder-permission-problems
+tags:
+- Mongodb
+- Database
+- Development
+- Coding
+title: MongoDB /data/db folder permission problems
+
 ---
 MongoDB is a document database with the scalability and flexibility that you
 want with the querying and indexing that you need. And I think…

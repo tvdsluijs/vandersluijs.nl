@@ -1,31 +1,17 @@
 ---
-id: 224
-title: Overstappen naar Kubuntu, werkzaamheden vooraf
-date: 2011-09-25T17:45:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/09/25/overstappen-naar-kubuntu-werkzaamheden/
-permalink: /2011/09/overstappen-naar-kubuntu-werkzaamheden.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8891971056182149192"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/09/overstappen-naar-kubuntu-werkzaamheden.html
-hits:
-  - "1662"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2011-09-25 17:45:00+00:00
+hits:
+- '1662'
+layout: post
+permalink: /2011/09/overstappen-naar-kubuntu-werkzaamheden.html
 tags:
-  - Ubuntu
+- Ubuntu
+title: Overstappen naar Kubuntu, werkzaamheden vooraf
+
 ---
 Okay je hebt dit artikel waarschijnlijk gelezen en je denkt… ja ik loop er ook al een paar jaar mee in mijn hoofd om de overstap te gaan maken naar Ubuntu of Kubunto.
 

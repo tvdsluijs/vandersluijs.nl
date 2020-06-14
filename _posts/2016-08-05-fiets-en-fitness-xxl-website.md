@@ -1,56 +1,22 @@
 ---
-id: 3126
-title: Fiets en Fitness XXL Website
-date: 2016-08-05T11:10:50+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=3126
-permalink: /2016/08/fiets-en-fitness-xxl-website.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "731"
-dsq_thread_id:
-  - "5784698989"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/08/10155650_675206205861216_3668084276270738087_n-825x510.jpg
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-08-05 11:10:50+00:00
+dsq_thread_id:
+- '5784698989'
+hits:
+- '731'
+image: https://vandersluijs.resultants-e.nl/2016/08/10155650_675206205861216_3668084276270738087_n-825x510.jpg
+layout: post
+permalink: /2016/08/fiets-en-fitness-xxl-website.html
 tags:
-  - ecommerce
-  - mtb
-  - webshop
-format: image
+- ecommerce
+- mtb
+- webshop
+title: Fiets en Fitness XXL Website
+
 ---
 Afgelopen zaterdag ben ik op zoek gegaan naar een nieuwe fiets bij Fiets en Fitness XXL. Zoals je wellicht weet sport ik redelijk veel en ben ik na 1,5 jaar Freeletics toe aan iets nieuws, of meer iets er bij. Ik wil het fietsen dus eigenlijk naast het freeletics gaan doen ook mede omdat ik wat problemen door het rennen met mijn knie heb. Dus op zoek naar een nieuwe fiets en wel bij Fiets & Fitness by Jeremiasse in Goes.
   

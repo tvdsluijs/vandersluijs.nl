@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-02-28 18:48
 excerpt_separator: <!--more-->
-title: 'Adobe Flex Insert met PhP en Json'
-slug: 'adobe-flex-insert-met-php-en-json'
-date: '2008-02-28 18:48'
-publish_date: '2008-02-28 18:48'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-02-28 18:48
+slug: adobe-flex-insert-met-php-en-json
+tags:
+- Coding
+title: Adobe Flex Insert met PhP en Json
+
 ---
 Tja, data laten zien is natuurlijk heel erg leuk.  
   

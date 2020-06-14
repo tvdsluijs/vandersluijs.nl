@@ -1,33 +1,17 @@
 ---
-id: 49
-title: Gearman en Raspberry pi
-date: 2014-09-11T20:09:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/gearman-en-raspberry-pi/
-permalink: /2014/09/gearman-en-raspberry-pi.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6021633109725173235"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/gearman-en-raspberry-pi.html
-blogger_thumbnail:
-  - /images/2014/Sep/RaspberryPi.jpg
-hits:
-  - "898"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6182276536"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 20:09:00+00:00
+dsq_thread_id:
+- '6182276536'
+hits:
+- '898'
+layout: post
+permalink: /2014/09/gearman-en-raspberry-pi.html
+title: Gearman en Raspberry pi
+
 ---
 ![raspberrypi](https://vandersluijs.resultants-e.nl/2014/Sep/RaspberryPi.jpg)  
 Op mijn werk hebben we een jaar geleden gekozen om bepaalde data verwerkingen en test&#8217;s buiten het bedrijf te gaan doen. Na een half jaar de AWS service te hebben gebruikt van Amazon wilden we het anders gaan aanpakken.

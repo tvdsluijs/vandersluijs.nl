@@ -1,31 +1,17 @@
 ---
-id: 506
-title: Negatieven inscannen met Canon MP 970
-date: 2008-07-01T00:31:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/07/01/negatieven-inscannen-met-canon-mp-970/
-permalink: /2008/07/negatieven-inscannen-met-canon-mp-970.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7875611027377632108"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/07/negatieven-inscannen-met-canon-mp-970.html
-hits:
-  - "1231"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5725492944"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-07-01 00:31:00+00:00
+dsq_thread_id:
+- '5725492944'
+hits:
+- '1231'
+layout: post
+permalink: /2008/07/negatieven-inscannen-met-canon-mp-970.html
+title: Negatieven inscannen met Canon MP 970
+
 ---
 Sinds een paar maanden heb ik een nieuwe Multifunctional van Canon.
 

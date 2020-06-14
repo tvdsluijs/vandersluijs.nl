@@ -1,27 +1,15 @@
 ---
-id: 419
-title: No Adobe Max in Europe !!!!!
-date: 2009-04-27T12:03:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/04/27/no-adobe-max-in-europe/
-permalink: /2009/04/no-adobe-max-in-europe.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6862753647292060276"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/04/no-adobe-max-in-europe.html
-hits:
-  - "1077"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2009-04-27 12:03:00+00:00
+hits:
+- '1077'
+layout: post
+permalink: /2009/04/no-adobe-max-in-europe.html
+title: No Adobe Max in Europe !!!!!
+
 ---
 Finally !! This year (2009) I could go to the Adobe Max event. My colleagues that went last year called me like every day to tell me that is was just great to be there.
 

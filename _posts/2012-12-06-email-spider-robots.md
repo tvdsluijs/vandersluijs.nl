@@ -1,31 +1,17 @@
 ---
-id: 142
-title: Email Spider Robots
-date: 2012-12-06T23:14:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/12/06/email-spider-robots/
-permalink: /2012/12/email-spider-robots.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "59197516552967444"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/12/email-spider-robots.html
-hits:
-  - "529"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6495026788"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-12-06 23:14:00+00:00
+dsq_thread_id:
+- '6495026788'
+hits:
+- '529'
+layout: post
+permalink: /2012/12/email-spider-robots.html
+title: Email Spider Robots
+
 ---
 Ja het is een schande maar het gebeurt.  
 Diverse organisaties hebben zogenaamde Email Spider Robots.  

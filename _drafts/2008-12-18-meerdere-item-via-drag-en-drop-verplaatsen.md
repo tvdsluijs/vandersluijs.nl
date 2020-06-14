@@ -6,7 +6,8 @@ slug: 'meerdere-item-via-drag-en-drop-verplaatsen'
 date: '2008-12-18 14:44'
 publish_date: '2008-12-18 14:44'
 image:
-  feature: 'https://vandersluijs.resultants-e.nl/0*BQVpRbC-pqkra7OE.gif'
+  path: 'https://vandersluijs.resultants-e.nl/0*BQVpRbC-pqkra7OE.gif'
+  feature: 0*BQVpRbC-pqkra7OE.gif'
 category: ['Coding']
 tags: ['Coding']
 ---

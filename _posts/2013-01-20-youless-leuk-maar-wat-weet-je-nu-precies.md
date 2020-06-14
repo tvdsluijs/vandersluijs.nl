@@ -1,33 +1,17 @@
 ---
-id: 135
-title: Youless, leuk maar wat weet je nu precies?
-date: 2013-01-20T15:13:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/01/20/youless-leuk-maar-wat-weet-je-nu-precies/
-permalink: /2013/01/youless-leuk-maar-wat-weet-je-nu-precies.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1293351570233382054"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/01/youless-leuk-maar-wat-weet-je-nu-precies.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2013/01/energie_verbruik-300x201.png
-hits:
-  - "1016"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5708678180"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2013-01-20 15:13:00+00:00
+dsq_thread_id:
+- '5708678180'
+hits:
+- '1016'
+layout: post
+permalink: /2013/01/youless-leuk-maar-wat-weet-je-nu-precies.html
+title: Youless, leuk maar wat weet je nu precies?
+
 ---
 <div>
    

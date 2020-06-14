@@ -1,52 +1,18 @@
 ---
-id: 3555
-title: Hoe kies je de beste logo generator
-date: 2016-10-06T09:56:15+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=3555
-permalink: /2016/10/hoe-kies-beste-logo-generator.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "180"
-dsq_thread_id:
-  - "5707760928"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/10/Picture1-825x494.png
+author: tvdsluijs
 categories:
-  - Lifestyle
-format: image
+- Lifestyle
+comments: 'true'
+date: 2016-10-06 09:56:15+00:00
+dsq_thread_id:
+- '5707760928'
+hits:
+- '180'
+image: https://vandersluijs.resultants-e.nl/2016/10/Picture1-825x494.png
+layout: post
+permalink: /2016/10/hoe-kies-beste-logo-generator.html
+title: Hoe kies je de beste logo generator
+
 ---
 Op een dag krijg je een geweldige ingeving, een idee waarvan je niet denkt, maar wéét dat het een succesvolle business kan opleveren. Je stopt waar je mee bezig bent en rent naar je laptop en begint te werken. Je plan verloopt op stelten, en op een gegeven moment kom je bij een cruciale keuze, hoe ga je jouw logo maken? Huur je een logo designer in en [waar moet je nu opletten](http://www.startersinformatiecentrum.nl/logo-en-huisstijl-waar-moet-je-op-letten/)? Of maak je er zelf één of ga je gebruik maken een logogenerator?
  <!--more-->

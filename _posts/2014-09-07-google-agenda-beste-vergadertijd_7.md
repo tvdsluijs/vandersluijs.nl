@@ -1,33 +1,17 @@
 ---
-id: 61
-title: Google Agenda beste vergadertijd uitzoeken
-date: 2014-09-07T12:46:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/07/google-agenda-beste-vergadertijd_7/
-permalink: /2014/09/google-agenda-beste-vergadertijd_7.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6514683591473528562"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/google-agenda-beste-vergadertijd_7.html
-blogger_thumbnail:
-  - /images/2014/Sep/planning_1.png
-hits:
-  - "588"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "6035666904"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-07 12:46:00+00:00
+dsq_thread_id:
+- '6035666904'
+hits:
+- '588'
+layout: post
+permalink: /2014/09/google-agenda-beste-vergadertijd_7.html
+title: Google Agenda beste vergadertijd uitzoeken
+
 ---
 Gek werd ik er van! Ik dacht dat Google een dom bedrijf was geworden doordat ik nog geen vergadering of meeting kon inplannen zonder dat ik door andere mensen hun agenda heen liep waardoor ik dus alleen maar dubbele afspraken bij hun neer zette.
 

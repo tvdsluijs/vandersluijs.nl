@@ -1,31 +1,16 @@
 ---
-id: 445
-title: iMac Donation update
-date: 2009-01-22T22:43:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/01/22/imac-donation-update/
-permalink: /2009/01/imac-donation-update.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6956311482215485460"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/01/imac-donation-update.html
-blogger_thumbnail:
-  - https://www.paypal.com/nl_NL/i/scr/pixel.gif
-hits:
-  - "1067"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2009/01/pixel2.gif
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2009-01-22 22:43:00+00:00
+hits:
+- '1067'
+image: https://vandersluijs.resultants-e.nl/2009/01/pixel2.gif
+layout: post
+permalink: /2009/01/imac-donation-update.html
+title: iMac Donation update
+
 ---
 Until now it is going very well with the donations for my iMac. I started this  Donations for an iMac 8 days ago and until now I have gotten a nice amount of donations. The exact amount is    
 <a name="more"></a>  

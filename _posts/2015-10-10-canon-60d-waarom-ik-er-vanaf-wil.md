@@ -1,48 +1,21 @@
 ---
-id: 1512
-title: Canon 60D, waarom ik er vanaf wil
-date: 2015-10-10T14:05:50+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1512
-permalink: /2015/10/canon-60d-waarom-ik-er-vanaf-wil.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "1"
-pmc_featured_post:
-  - "1"
-hits:
-  - "739"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5700423670"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2015/10/1200px-Canon_Powershot_G12-e1444485935176-1.jpg
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2015-10-10 14:05:50+00:00
+dsq_thread_id:
+- '5700423670'
+hits:
+- '739'
+image: https://vandersluijs.resultants-e.nl/2015/10/1200px-Canon_Powershot_G12-e1444485935176-1.jpg
+layout: post
+permalink: /2015/10/canon-60d-waarom-ik-er-vanaf-wil.html
 tags:
-  - Camera
-  - Canon
+- Camera
+- Canon
+title: Canon 60D, waarom ik er vanaf wil
+
 ---
 Ik ben maar een hobbyfotograaf. Ik vind het leuk om plaatjes te schieten en er iets creatief mee te doen. Dit doe ik met mijn Canon 60D
 

@@ -1,35 +1,19 @@
 ---
-id: 2705
-title: Verborgen RAW bestanden op Canon Camera
-date: 2009-05-18T01:39:36+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://dezeeuwsefotograaf.nl/?p=16
-permalink: /2009/05/verborgen-raw-bestanden-op-canon-camera.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "563"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5768624218"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2009-05-18 01:39:36+00:00
+dsq_thread_id:
+- '5768624218'
+hits:
+- '563'
+layout: post
+permalink: /2009/05/verborgen-raw-bestanden-op-canon-camera.html
 tags:
-  - Canon
+- Canon
+title: Verborgen RAW bestanden op Canon Camera
+
 ---
 Als je op vakantie bent met Canon en laptop is het wel fijn om de foto’s even te bekijken.
 

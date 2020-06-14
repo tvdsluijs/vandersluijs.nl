@@ -1,29 +1,17 @@
 ---
-id: 125
-title: Fringe season finale is totally WRONG!!!
-date: 2013-05-11T13:16:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/05/11/fringe-season-finale-is-totally-wrong/
-permalink: /2013/05/fringe-season-finale-is-totally-wrong.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7229799404744597814"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/05/fringe-season-finale-is-totally-wrong.html
-hits:
-  - "504"
-dsq_thread_id:
-  - "6057535393"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-05-11 13:16:00+00:00
+dsq_thread_id:
+- '6057535393'
+hits:
+- '504'
+layout: post
+permalink: /2013/05/fringe-season-finale-is-totally-wrong.html
+title: Fringe season finale is totally WRONG!!!
+
 ---
 The last Fringe season is not a very good season!
 

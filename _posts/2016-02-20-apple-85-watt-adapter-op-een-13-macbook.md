@@ -1,21 +1,19 @@
 ---
-id: 2940
-title: 'Apple 85W adapter op een 13&#8243; macbook'
-date: 2016-02-20T22:19:39+00:00
-author: Theo van der Sluijs
-layout: post
-guid: https://itheo.nl/?p=2022
-permalink: /2016/02/apple-85-watt-adapter-op-een-13-macbook.html
-hits:
-  - "89"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5820144542"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-02-20 22:19:39+00:00
+dsq_thread_id:
+- '5820144542'
+hits:
+- '89'
+layout: post
+permalink: /2016/02/apple-85-watt-adapter-op-een-13-macbook.html
 tags:
-  - Apple
+- Apple
+title: Apple 85W adapter op een 13&#8243; macbook
+
 ---
 Waar is mijn adapter&#8230;. mijn Macbook geeft 6% aan. Ik begin het al warm te krijgen. Waar is mijn adapter voor mijn 13 inch Macbook pro. Hij schiet naar 5%&#8230;. okay&#8230; het zweet breekt me uit.
 

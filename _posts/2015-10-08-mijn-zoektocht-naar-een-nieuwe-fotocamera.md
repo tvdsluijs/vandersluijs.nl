@@ -1,47 +1,21 @@
 ---
-id: 1515
-title: Mijn zoektocht naar een nieuwe fotocamera
-date: 2015-10-08T19:23:15+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=1515
-permalink: /2015/10/mijn-zoektocht-naar-een-nieuwe-fotocamera.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-video_post_url:
-  - ""
-link_post_url:
-  - ""
-audio_post_url:
-  - ""
-pmc_featured_category:
-  - "0"
-pmc_featured_post:
-  - "0"
-hits:
-  - "638"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5852102951"
+author: tvdsluijs
 categories:
-  - Fotografie
+- Fotografie
+comments: 'true'
+date: 2015-10-08 19:23:15+00:00
+dsq_thread_id:
+- '5852102951'
+hits:
+- '638'
+layout: post
+permalink: /2015/10/mijn-zoektocht-naar-een-nieuwe-fotocamera.html
 tags:
-  - Camera
-  - Canon
-  - Nikon
+- Camera
+- Canon
+- Nikon
+title: Mijn zoektocht naar een nieuwe fotocamera
+
 ---
 Ik ben echt bereid afstand te gaan doen van mijn Canon 60D mits ik er de juiste camera er voor terug kan vinden. Daarom start ik een zoektocht naar een nieuwe fotocamera.
 

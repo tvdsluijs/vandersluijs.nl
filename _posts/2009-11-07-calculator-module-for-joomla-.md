@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-11-07 12:51
 excerpt_separator: <!--more-->
-title: 'Calculator Module for Joomla! 1.5'
-slug: 'calculator-module-for-joomla-'
-date: '2009-11-07 12:51'
-publish_date: '2009-11-07 12:51'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2009-11-07 12:51
+slug: calculator-module-for-joomla-
+tags:
+- Coding
+title: Calculator Module for Joomla! 1.5
+
 ---
 Wanna let your visitors calculate something ?  
   

@@ -1,47 +1,19 @@
 ---
-id: 268
-title: GIMP en GTK installatie
-date: 2010-10-15T13:20:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/10/15/installatie-van-gtk-gimp/
-permalink: /2010/10/gimp-en-gtk-installatie.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6935346434689949612"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/10/installatie-van-gtk-gimp.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-hits:
-  - "555"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5897190377"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2010-10-15 13:20:00+00:00
+dsq_thread_id:
+- '5897190377'
+hits:
+- '555'
+layout: post
+permalink: /2010/10/gimp-en-gtk-installatie.html
 tags:
-  - Gimp
+- Gimp
+title: GIMP en GTK installatie
+
 ---
 Veel mensen verslikken zich in de installatie van GIMP. Er is bijvoorbeeld geen weet van dat ook de GTK+ geïnstalleerd moet worden. En daardoor gaat vaak de installatie fout.
 

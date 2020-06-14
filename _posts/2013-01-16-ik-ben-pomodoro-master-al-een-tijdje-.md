@@ -1,12 +1,19 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Agile
+comments: 'true'
+date: 2013-01-16 21:10
 excerpt_separator: <!--more-->
-title: 'Ik ben Pomodoro Master (al een tijdje!)'
-slug: 'ik-ben-pomodoro-master-al-een-tijdje-'
-date: '2013-01-16 21:10'
-publish_date: '2013-01-16 21:10'
-category: ['Agile']
-tags: ['Pomodoro', 'Certification', 'Development']
+layout: post
+publish_date: 2013-01-16 21:10
+slug: ik-ben-pomodoro-master-al-een-tijdje-
+tags:
+- Pomodoro
+- Certification
+- Development
+title: Ik ben Pomodoro Master (al een tijdje!)
+
 ---
 Ik had het al een tijd geleden ingeleverd op de [Pomodoro
 Technique®](http://www.pomodorotechnique.com/) site, mijn rapport met 6

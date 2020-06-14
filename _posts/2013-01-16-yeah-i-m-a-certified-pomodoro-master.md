@@ -1,12 +1,20 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Personal
+comments: 'true'
+date: 2013-01-16 22:07
 excerpt_separator: < !--more -->
-title: 'Yeah!!! I’m a certified Pomodoro Master'
-slug: 'yeah-i-m-a-certified-pomodoro-master'
-date: '2013-01-16 22:07'
-publish_date: '2013-01-16 22:07'
-category: ['Personal']
-tags: ['Pomodoro Technique', 'Pomodoro', 'Certification', 'Development']
+layout: post
+publish_date: 2013-01-16 22:07
+slug: yeah-i-m-a-certified-pomodoro-master
+tags:
+- Pomodoro Technique
+- Pomodoro
+- Certification
+- Development
+title: "Yeah!!! I\u2019m a certified Pomodoro Master"
+
 ---
 Well I could not believe it at first, but my colleague [Harrie
 Verveer](http://www.harrieverveer.nl/) was right. I’m a certified Pomodoro

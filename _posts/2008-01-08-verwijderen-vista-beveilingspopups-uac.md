@@ -1,35 +1,23 @@
 ---
-id: 523
-title: Verwijderen Vista beveilingspopups UAC
-date: 2008-01-08T01:53:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/01/08/verwijderen-vista-beveilingspopups-uac/
-permalink: /2008/01/verwijderen-vista-beveilingspopups-uac.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5401676852479999366"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/01/verwijderen-vista-beveilingspopups-uac.html
-enclosure:
-  - |
-    http://www.istartedsomething.com/uploads/uac.mov
-    2322507
-    video/quicktime
-    
-hits:
-  - "540"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-01-08 01:53:00+00:00
+enclosure:
+- 'http://www.istartedsomething.com/uploads/uac.mov
+
+  2322507
+
+  video/quicktime
+
+  '
+hits:
+- '540'
+layout: post
+permalink: /2008/01/verwijderen-vista-beveilingspopups-uac.html
+title: Verwijderen Vista beveilingspopups UAC
+
 ---
 Tja… Microsoft Vista…. ik raak er niet over uitgepraat.
 

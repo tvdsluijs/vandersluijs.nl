@@ -1,22 +1,22 @@
 ---
-layout: post
-title: 'Using Ubuntu on Windows 10 without Admin Rights'
-slug: 'using-ubuntu-on-windows'
+author: tvdsluijs
+categories:
+- Tech
+comments: 'true'
 date: '2018-03-15 06:33:37.815000+00:00'
 excerpt_separator: < !--more -->
+image: /images/1*EgBzZbiwvFoUyXiVPEvuuw.jpeg
+layout: post
 publish_date: '2018-03-15 06:33:37.815000+00:00'
-image:
-  path: '/images/1*EgBzZbiwvFoUyXiVPEvuuw.jpeg'
-  feature: '1*EgBzZbiwvFoUyXiVPEvuuw.jpeg'
-  credit: 'pixabay.com'
-  creditlink:  'https://pixabay.com/en/hacking-hacker-computer-internet-1685092/'
-categories: ['Tech']
-tags: 
- - 'Ubuntu'
- - 'Windows 10'
- - 'Bash'
- - 'Terminal'
- - 'Command Line'
+slug: using-ubuntu-on-windows
+tags:
+- Ubuntu
+- Windows 10
+- Bash
+- Terminal
+- Command Line
+title: Using Ubuntu on Windows 10 without Admin Rights
+
 ---
 So you want to use Linux at work but you are bound to work on a Windows 10
 Machine? Did you know you can actually install Ubuntu together…

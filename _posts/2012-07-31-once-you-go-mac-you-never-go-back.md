@@ -1,31 +1,17 @@
 ---
-id: 185
-title: Once you go Mac you never go Back!
-date: 2012-07-31T00:04:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/07/31/once-you-go-mac-you-never-go-back/
-permalink: /2012/07/once-you-go-mac-you-never-go-back.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1473730837299700281"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/07/once-you-go-mac-you-never-go-back.html
-hits:
-  - "1054"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5744635562"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-07-31 00:04:00+00:00
+dsq_thread_id:
+- '5744635562'
+hits:
+- '1054'
+layout: post
+permalink: /2012/07/once-you-go-mac-you-never-go-back.html
+title: Once you go Mac you never go Back!
+
 ---
 Dus….. was ik een paar weken geleden op een php conference en zag ik allemaal mooie macbook pro’s…. tja en ik heb een groot dik zwaar Dell Ding.
 

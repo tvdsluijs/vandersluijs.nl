@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2008-12-23 08:19
 excerpt_separator: <!--more-->
-title: 'Adres zoeken via Postcode'
-slug: 'adres-zoeken-via-postcode'
-date: '2008-12-23 08:19'
-publish_date: '2008-12-23 08:19'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2008-12-23 08:19
+slug: adres-zoeken-via-postcode
+tags:
+- Coding
+title: Adres zoeken via Postcode
+
 ---
 Een paar weken geleden kwam ik er achter dat er een organisatie is die een
 open source postcode bestand aan het maken is. Ze zijn daar eigenlijk al

@@ -1,29 +1,15 @@
 ---
-id: 215
-title: TomTom 930 HD Traffic is binnen
-date: 2012-01-15T03:19:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/01/15/tomtom-930-hd-traffic-is-binnen/
-permalink: /2012/01/tomtom-930-hd-traffic-is-binnen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4354584626151993152"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/01/tomtom-930-hd-traffic-is-binnen.html
-hits:
-  - "1125"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2012-01-15 03:19:00+00:00
+hits:
+- '1125'
+layout: post
+permalink: /2012/01/tomtom-930-hd-traffic-is-binnen.html
+title: TomTom 930 HD Traffic is binnen
+
 ---
 Vanmorgen kreeg ik een sms-je binnen… ik schrok er van want wie smst me nu zo vroeg.
 

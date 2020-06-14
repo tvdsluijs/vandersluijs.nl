@@ -1,43 +1,15 @@
 ---
-id: 241
-title: Greenchoice, bedankt! NOT!
-date: 2011-03-29T14:26:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2011/03/29/greenchoice-bedankt-no/
-permalink: /2011/03/greenchoice-bedankt-no.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6186445863707902712"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2011/03/greenchoice-bedankt-not.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-factory_shortcodes_assets:
-  - 'a:0:{}'
-hits:
-  - "1557"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2011-03-29 14:26:00+00:00
+hits:
+- '1557'
+layout: post
+permalink: /2011/03/greenchoice-bedankt-no.html
+title: Greenchoice, bedankt! NOT!
+
 ---
 Een klein jaar geleden bedacht ik een geweldig idee waarbij Greenchoice voor een groot deel zijn eigen groene stroom zou kunnen opwekken op de daken van hun eigen klanten.
 

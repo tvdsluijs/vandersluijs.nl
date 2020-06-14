@@ -1,17 +1,18 @@
 ---
-layout: post
-excerpt_separator: < !--more -->
-title: 'Display recent Wordpress Posts links on another WordPress Blog'
-slug: 'display-recent-wordpress-posts-links-on-another-wordpress-blog'
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
 date: '2016-03-27 07:07:43+00:00'
+excerpt_separator: < !--more -->
+image: /images/1*ElZM2hjwYLDE29GCAmYxoA.jpeg
+layout: post
 publish_date: '2016-03-27 07:07:43+00:00'
-image:
-  path: '/images/1*ElZM2hjwYLDE29GCAmYxoA.jpeg'
-  feature: '1*ElZM2hjwYLDE29GCAmYxoA.jpeg'
-  credit: 'Pixabay'
-  creditlink:  'https://www.pexels.com/u/pixabay/'
-category: ['Coding']
-tags: ['WordPress']
+slug: display-recent-wordpress-posts-links-on-another-wordpress-blog
+tags:
+- WordPress
+title: Display recent Wordpress Posts links on another WordPress Blog
+
 ---
 
 So you’ve got a lot of Blogs or sites in Wordpress and you want to share links

@@ -1,52 +1,20 @@
 ---
-id: 4397
-title: Stoppen met Social Media
-date: 2016-12-23T10:24:16+00:00
-author: Theo van der Sluijs
-excerpt_separator: <!--more-->
-layout: post
-guid: https://www.vandersluijs.nl/?p=4397
-permalink: /2016/12/stoppen-social-media.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "53"
-dsq_thread_id:
-  - "5892206793"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2016-12-23 10:24:16+00:00
+dsq_thread_id:
+- '5892206793'
+excerpt_separator: <!--more-->
+hits:
+- '53'
+layout: post
+permalink: /2016/12/stoppen-social-media.html
 tags:
-  - Social Media
+- Social Media
+title: Stoppen met Social Media
+
 ---
 <section class="gh-view"> <section id="ember2767" class="ember-view view-container view-editor"> <section class="entry-preview js-entry-preview "> <section class="entry-preview-content js-entry-preview-content"> 
 

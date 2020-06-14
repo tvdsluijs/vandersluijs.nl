@@ -1,31 +1,17 @@
 ---
-id: 82
-title: Waarom klanten idioten lijken en waarom je ze niet zo moet behandelen.
-date: 2014-01-11T10:14:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/01/11/waarom-klanten-idioten-lijken-en-waaro/
-permalink: /2014/01/waarom-klanten-idioten-lijken-en-waaro.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "929526927853138493"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/01/waarom-klanten-idioten-lijken-en-waarom.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2014/01/idiots-300x225.jpg
-hits:
-  - "920"
-dsq_thread_id:
-  - "5910093737"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2014-01-11 10:14:00+00:00
+dsq_thread_id:
+- '5910093737'
+hits:
+- '920'
+layout: post
+permalink: /2014/01/waarom-klanten-idioten-lijken-en-waaro.html
+title: Waarom klanten idioten lijken en waarom je ze niet zo moet behandelen.
+
 ---
 <table cellpadding="0" cellspacing="0" style="float: left; margin-right: 1em; text-align: left;">
   <tr>

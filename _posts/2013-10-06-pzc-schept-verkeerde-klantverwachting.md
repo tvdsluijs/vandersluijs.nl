@@ -1,29 +1,15 @@
 ---
-id: 90
-title: PZC schept verkeerde klantverwachting en krijgt daardoor gefrustreerde klanten.
-date: 2013-10-06T01:18:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/10/06/pzc-schept-verkeerde-klantverwachting/
-permalink: /2013/10/pzc-schept-verkeerde-klantverwachting.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1933935448692317421"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/10/pzc-schept-verkeerde-klantverwachting.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2013/10/pcz_klant_verwachting.png
-hits:
-  - "798"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-10-06 01:18:00+00:00
+hits:
+- '798'
+layout: post
+permalink: /2013/10/pzc-schept-verkeerde-klantverwachting.html
+title: PZC schept verkeerde klantverwachting en krijgt daardoor gefrustreerde klanten.
+
 ---
 <div style="clear: both; text-align: left;">
   <a href=https://vandersluijs.resultants-e.nl/2013/10/pcz_klant_verwachting.png" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img border="0" height="88" src="https://vandersluijs.resultants-e.nl/2013/10/pcz_klant_verwachting.png" width="200" /></a>

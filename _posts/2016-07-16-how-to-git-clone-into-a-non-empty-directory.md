@@ -1,20 +1,19 @@
 ---
-layout: post
-
-title: 'How to git clone into a non-empty directory'
-slug: 'how-to-git-clone-into-a-non-empty-directory'
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
 date: '2016-07-16 13:52:53+00:00'
 excerpt_separator: < !--more -->
+image: /images/1*Ut9MHyKtDDHspQat8gKqVQ.jpeg
+layout: post
 publish_date: '2016-07-16 13:52:53+00:00'
-image:
-  path: '/images/1*Ut9MHyKtDDHspQat8gKqVQ.jpeg'
-  feature: '1*Ut9MHyKtDDHspQat8gKqVQ.jpeg'
-  credit: 'https://www.pexels.com/photo/apple-code-coding-computer-574069/'
-  creditlink:  'https://www.pexels.com/photo/apple-code-coding-computer-574069/'
-category: ['Coding']
-tags: 
- - 'Git'
- - 'Development'
+slug: how-to-git-clone-into-a-non-empty-directory
+tags:
+- Git
+- Development
+title: How to git clone into a non-empty directory
+
 ---
 I’m building a few new projects. Some in just plain good old PHP and some with
 a nice framework like Slim 3. I’ve got a good working shared hosting solution

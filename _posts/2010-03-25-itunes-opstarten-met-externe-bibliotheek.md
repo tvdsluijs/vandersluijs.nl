@@ -1,31 +1,17 @@
 ---
-id: 302
-title: iTunes opstarten met externe Bibliotheek
-date: 2010-03-25T06:14:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2010/03/25/itunes-opstarten-met-externe-bibliotheek/
-permalink: /2010/03/itunes-opstarten-met-externe-bibliotheek.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "8724880664946350195"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2010/03/itunes-opstarten-met-externe-bibliotheek.html
-hits:
-  - "656"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5707475815"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2010-03-25 06:14:00+00:00
+dsq_thread_id:
+- '5707475815'
+hits:
+- '656'
+layout: post
+permalink: /2010/03/itunes-opstarten-met-externe-bibliotheek.html
+title: iTunes opstarten met externe Bibliotheek
+
 ---
 Ik ben veel onderweg en gebruik dan weer een laptop voor mijn werk of dan weer een desktop en ik luister graag muziek tijdens het werk maar heb geen zin om overal mijn iTunes Bibliotheek / Library opnieuw op te bouwen. 
 

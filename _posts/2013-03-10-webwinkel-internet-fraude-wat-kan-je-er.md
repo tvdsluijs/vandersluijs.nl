@@ -1,29 +1,15 @@
 ---
-id: 131
-title: Webwinkel / Internet fraude, wat kan je er aan doen?
-date: 2013-03-10T16:38:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/03/10/webwinkel-internet-fraude-wat-kan-je-er/
-permalink: /2013/03/webwinkel-internet-fraude-wat-kan-je-er.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2525830698982042278"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/03/webwinkel-internet-fraude-wat-kan-je-er.html
-hits:
-  - "962"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2013-03-10 16:38:00+00:00
+hits:
+- '962'
+layout: post
+permalink: /2013/03/webwinkel-internet-fraude-wat-kan-je-er.html
+title: Webwinkel / Internet fraude, wat kan je er aan doen?
+
 ---
 <div>
    

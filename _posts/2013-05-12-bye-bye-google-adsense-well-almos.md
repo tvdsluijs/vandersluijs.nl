@@ -1,27 +1,15 @@
 ---
-id: 124
-title: Bye Bye Google Adsense, well almost!
-date: 2013-05-12T18:56:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2013/05/12/bye-bye-google-adsense-well-almos/
-permalink: /2013/05/bye-bye-google-adsense-well-almos.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "1228769484064903687"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2013/05/bye-bye-google-adsense-well-almost.html
-hits:
-  - "840"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2013-05-12 18:56:00+00:00
+hits:
+- '840'
+layout: post
+permalink: /2013/05/bye-bye-google-adsense-well-almos.html
+title: Bye Bye Google Adsense, well almost!
+
 ---
 So, I&#8217;ve had Google Adsense for like almost 10 years on my site. And now I&#8217;m about to removed them!
 

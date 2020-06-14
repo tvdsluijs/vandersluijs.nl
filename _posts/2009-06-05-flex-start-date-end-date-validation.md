@@ -1,15 +1,18 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2009-06-05 10:46
 excerpt_separator: <!--more-->
-title: 'Flex Start Date End Date Validation'
-slug: 'flex-start-date-end-date-validation'
-date: '2009-06-05 10:46'
-publish_date: '2009-06-05 10:46'
-image:
-  path: 'https://vandersluijs.resultants-e.nl/0*ti7JN9sPc-PIyLLV.gif'
-  feature: 0*ti7JN9sPc-PIyLLV.gif'
-category: ['Coding']
-tags: ['Coding']
+image: https://vandersluijs.resultants-e.nl/0*ti7JN9sPc-PIyLLV.gif
+layout: post
+publish_date: 2009-06-05 10:46
+slug: flex-start-date-end-date-validation
+tags:
+- Coding
+title: Flex Start Date End Date Validation
+
 ---
 Today I really needed a validator for a Start End date check, working on a
 Project Application at [NL4B](http://www.nl4b.com/). As in many applications

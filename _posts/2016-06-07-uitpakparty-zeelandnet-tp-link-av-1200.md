@@ -1,56 +1,21 @@
 ---
-id: 2846
-title: Uitpakparty Zeelandnet TP-Link AV-1200
-date: 2016-06-07T21:18:16+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=2846
-permalink: /2016/06/uitpakparty-zeelandnet-tp-link-av-1200.html
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "323"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5712864988"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/06/314708316_5da594f811_o-e1465334253411-825x510.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-06-07 21:18:16+00:00
+dsq_thread_id:
+- '5712864988'
+hits:
+- '323'
+image: https://vandersluijs.resultants-e.nl/2016/06/314708316_5da594f811_o-e1465334253411-825x510.jpg
+layout: post
+permalink: /2016/06/uitpakparty-zeelandnet-tp-link-av-1200.html
 tags:
-  - WiFi
-  - Zeelandnet
+- WiFi
+- Zeelandnet
+title: Uitpakparty Zeelandnet TP-Link AV-1200
+
 ---
 <img class="alignright wp-image-2855 size-medium" title="Zeelandnet TP-Link AV1200" src="https://vandersluijs.resultants-e.nl/2016/06/TL-WPA8630_KIT_un_V1_1163_normal_3_20160013104705-300x225.jpg" alt="TL-WPA8630_KIT_un_V1_1163_normal_3_20160013104705" width="300" height="225" srcset="https://vandersluijs.resultants-e.nl/2016/06/TL-WPA8630_KIT_un_V1_1163_normal_3_20160013104705-300x225.jpg 300w, https://vandersluijs.resultants-e.nl/2016/06/TL-WPA8630_KIT_un_V1_1163_normal_3_20160013104705-533x400.jpg 533w, https://vandersluijs.resultants-e.nl/2016/06/TL-WPA8630_KIT_un_V1_1163_normal_3_20160013104705.jpg 590w" sizes="(max-width: 300px) 100vw, 300px" />Naar aanleiding van het Omroep Zeeland item over problemen met Wifi werd ik uitgenodigd door ZeelandNet / Delta om eens te komen praten waar ik natuurlijk geen moment over hoefde na te denken! Natuurlijk ga ik langs!
 

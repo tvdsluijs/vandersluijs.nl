@@ -1,59 +1,23 @@
 ---
-id: 3485
-title: Solution Polar V800 M400 Heart rate H7 Connection problem
-date: 2016-08-20T12:26:57+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/?p=3485
-permalink: /2016/08/solution-polar-v800-m400-heart-rate-h7-connection-problem.html
-itrr_another_apply:
-  - 'no'
-wp_review_location:
-  - bottom
-wp_review_desc_title:
-  - Samenvatting
-wp_review_through_comment:
-  - "1"
-wp_review_color:
-  - '#1e73be'
-wp_review_fontcolor:
-  - '#555555'
-wp_review_bgcolor1:
-  - '#e7e7e7'
-wp_review_bgcolor2:
-  - '#ffffff'
-wp_review_bordercolor:
-  - '#e7e7e7'
-wp_review_width:
-  - "100"
-wp_review_align:
-  - left
-asalah_show_meta:
-  - "0"
-asalah_show_share:
-  - "0"
-asalah_show_title:
-  - "0"
-show_author_box:
-  - "0"
-asalah_custom_description:
-  - ""
-asalah_sidebar_position:
-  - "0"
-hits:
-  - "589"
-dsq_thread_id:
-  - "5705076177"
-image: 
-  path: https://vandersluijs.resultants-e.nl/2016/08/polar_h7_connection_problem-825x510.jpg
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2016-08-20 12:26:57+00:00
+dsq_thread_id:
+- '5705076177'
+hits:
+- '589'
+image: https://vandersluijs.resultants-e.nl/2016/08/polar_h7_connection_problem-825x510.jpg
+layout: post
+permalink: /2016/08/solution-polar-v800-m400-heart-rate-h7-connection-problem.html
 tags:
-  - h7
-  - m400
-  - Polar
-  - v800
-format: image
+- h7
+- m400
+- Polar
+- v800
+title: Solution Polar V800 M400 Heart rate H7 Connection problem
+
 ---
 So you&#8217;re ready for a new workout! Biking, Walking, Running, Crossfit&#8230; you press the button to start on your V800 or M400&#8230;. and you wait until it connects to your heart rate band Polar H7. And you wait&#8230; and wait&#8230;. wait! It does not connect? What ever you try it just does not connect. But I&#8217;ve got Solution Polar V800 M400 Heart rate H7 Connection problem!<!--more-->
 

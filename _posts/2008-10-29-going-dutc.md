@@ -1,27 +1,15 @@
 ---
-id: 481
-title: Going Dutch
-date: 2008-10-29T06:27:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/10/29/going-dutc/
-permalink: /2008/10/going-dutc.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "2580661122758889409"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/10/going-dutch.html
-hits:
-  - "648"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2008-10-29 06:27:00+00:00
+hits:
+- '648'
+layout: post
+permalink: /2008/10/going-dutc.html
+title: Going Dutch
+
 ---
 No no no&#8230;.. Iam not getting cheap&#8230;.  
 But a lot of my regular visitors on www.vandersluijs.nl asked me to go Dutch again.  

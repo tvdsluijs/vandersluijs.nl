@@ -32,7 +32,8 @@ pmc_featured_post:
   - "1"
 hits:
   - "595"
-feature-img: https://vandersluijs.resultants-e.nl/2015/11/16821448686_7346aa4abd_b-e1448398519994.jpg
+image: 
+  path: https://vandersluijs.resultants-e.nl/2015/11/16821448686_7346aa4abd_b-e1448398519994.jpg
 categories:
   - Lifestyle
 ---

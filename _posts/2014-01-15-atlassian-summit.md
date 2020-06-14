@@ -1,12 +1,21 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Jira
+- Atlassian
+- Development
+comments: 'true'
+date: 2014-01-15 12:10
 excerpt_separator: <!--more-->
-title: 'Atlassian Summit 2013 Dag 2'
-slug: 'atlassian-summit'
-date: '2014-01-15 12:10'
-publish_date: '2014-01-15 12:10'
-category: ['Jira', 'Atlassian', 'Development']
-tags: ['Jira', 'Atlassian', 'Development']
+layout: post
+publish_date: 2014-01-15 12:10
+slug: atlassian-summit
+tags:
+- Jira
+- Atlassian
+- Development
+title: Atlassian Summit 2013 Dag 2
+
 ---
 ### Ontbijt
 

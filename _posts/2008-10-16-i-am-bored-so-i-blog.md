@@ -1,27 +1,15 @@
 ---
-id: 488
-title: I am Bored So I Blog
-date: 2008-10-16T17:24:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/10/16/i-am-bored-so-i-blog/
-permalink: /2008/10/i-am-bored-so-i-blog.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "6321507758786746466"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/10/i-am-bored-so-i-blog.html
-hits:
-  - "469"
+author: tvdsluijs
 categories:
-  - Grumpy
+- Grumpy
+comments: 'true'
+date: 2008-10-16 17:24:00+00:00
+hits:
+- '469'
+layout: post
+permalink: /2008/10/i-am-bored-so-i-blog.html
+title: I am Bored So I Blog
+
 ---
 So&#8230;. am I really bored ?
 

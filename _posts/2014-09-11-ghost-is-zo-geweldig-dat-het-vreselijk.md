@@ -1,29 +1,15 @@
 ---
-id: 50
-title: Ghost is zo geweldig dat het vreselijk is!
-date: 2014-09-11T20:04:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/ghost-is-zo-geweldig-dat-het-vreselijk/
-permalink: /2014/09/ghost-is-zo-geweldig-dat-het-vreselijk.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "4652855975668612467"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/ghost-is-zo-geweldig-dat-het-vreselijk.html
-hits:
-  - "1042"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 20:04:00+00:00
+hits:
+- '1042'
+layout: post
+permalink: /2014/09/ghost-is-zo-geweldig-dat-het-vreselijk.html
+title: Ghost is zo geweldig dat het vreselijk is!
+
 ---
 In de dagen dat ik met Ghost werk ben ik er echt van gaan houden&#8230; en tegelijkertijd haat ik het (een beetje).
 

@@ -1,31 +1,17 @@
 ---
-id: 371
-title: KPN dashboard installatie error
-date: 2009-11-04T13:55:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2009/11/04/kpn-dashboard-installatie-error/
-permalink: /2009/11/kpn-dashboard-installatie-error.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3094810872723242091"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2009/11/kpn-dashboard-installatie-error.html
-hits:
-  - "536"
-itrr_another_apply:
-  - 'no'
-dsq_thread_id:
-  - "5946602365"
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2009-11-04 13:55:00+00:00
+dsq_thread_id:
+- '5946602365'
+hits:
+- '536'
+layout: post
+permalink: /2009/11/kpn-dashboard-installatie-error.html
+title: KPN dashboard installatie error
+
 ---
 Ik zag gisteren dat de nieuwe versie van het KPN Dashboard uit was en nu ook zou moeten werken voor Windows 7. Ik helemaal blij !!! 
 

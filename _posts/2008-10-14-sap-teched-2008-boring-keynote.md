@@ -1,29 +1,15 @@
 ---
-id: 491
-title: Sap Teched 2008 Boring keynote
-date: 2008-10-14T00:00:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2008/10/14/sap-teched-2008-boring-keynote/
-permalink: /2008/10/sap-teched-2008-boring-keynote.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "3854870540037548945"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2008/10/sap-teched-2008-boring-keynote.html
-hits:
-  - "986"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2008-10-14 00:00:00+00:00
+hits:
+- '986'
+layout: post
+permalink: /2008/10/sap-teched-2008-boring-keynote.html
+title: Sap Teched 2008 Boring keynote
+
 ---
 Well, today I had to wake up at 5 AM to go to the SAP Teched 2008 Keynote. It is a big presentation about SAP, where they are now, where they will be tomorrow, and where they want to go in the future.
 

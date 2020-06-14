@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-02-05 07:28
 excerpt_separator: <!--more-->
-title: 'Twitter Friends Module'
-slug: 'twitter-friends-module'
-date: '2010-02-05 07:28'
-publish_date: '2010-02-05 07:28'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-02-05 07:28
+slug: twitter-friends-module
+tags:
+- Coding
+title: Twitter Friends Module
+
 ---
 With this little module you can show pictures (avatars) of People that YOU are
 following on Twitter.

@@ -1,29 +1,15 @@
 ---
-id: 51
-title: Ghost, er mist nogal wat
-date: 2014-09-11T20:03:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2014/09/11/ghost-er-mist-nogal-wa/
-permalink: /2014/09/ghost-er-mist-nogal-wa.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "5156536940013437182"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2014/09/ghost-er-mist-nogal-wat.html
-hits:
-  - "1475"
-itrr_another_apply:
-  - 'no'
+author: tvdsluijs
 categories:
-  - Tech
+- Tech
+comments: 'true'
+date: 2014-09-11 20:03:00+00:00
+hits:
+- '1475'
+layout: post
+permalink: /2014/09/ghost-er-mist-nogal-wa.html
+title: Ghost, er mist nogal wat
+
 ---
 Op dit moment ben ik zo&#8217;n drie dagen onderweg met Ghost. Ghost is een nieuw CMS waarmee de schrijver zich alleen maar hoeft te focussen op het&#8230; jawel schrijven!
 

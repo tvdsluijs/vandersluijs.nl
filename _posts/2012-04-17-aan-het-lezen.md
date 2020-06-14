@@ -1,29 +1,15 @@
 ---
-id: 199
-title: Aan het lezen!
-date: 2012-04-17T19:05:00+00:00
-author: Theo van der Sluijs
-layout: post
-guid: http://vandersluijs.nl/blog/index.php/2012/04/17/aan-het-lezen/
-permalink: /2012/04/aan-het-lezen.html
-blogger_bid:
-  - "7319082336334478150"
-blogger_blog:
-  - blog.vandersluijs.nl
-blogger_id:
-  - "7668316687185615768"
-blogger_author:
-  - g104814725400115166555
-blogger_comments:
-  - "0"
-blogger_permalink:
-  - /2012/04/aan-het-lezen.html
-blogger_thumbnail:
-  - https://vandersluijs.resultants-e.nl/2012/04/tumblr_m2mspilLIe1rpqrb1o1_1280-300x300.jpg
-hits:
-  - "469"
+author: tvdsluijs
 categories:
-  - Lifestyle
+- Lifestyle
+comments: 'true'
+date: 2012-04-17 19:05:00+00:00
+hits:
+- '469'
+layout: post
+permalink: /2012/04/aan-het-lezen.html
+title: Aan het lezen!
+
 ---
 <div>
   <img alt="" src="https://vandersluijs.resultants-e.nl/2012/04/tumblr_m2mspilLIe1rpqrb1o1_1280-300x300.jpg" />

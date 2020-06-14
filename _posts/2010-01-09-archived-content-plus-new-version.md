@@ -1,12 +1,17 @@
 ---
-layout: post
+author: tvdsluijs
+category:
+- Coding
+comments: 'true'
+date: 2010-01-09 21:00
 excerpt_separator: <!--more-->
-title: 'Archived Content Plus New Version'
-slug: 'archived-content-plus-new-version'
-date: '2010-01-09 21:00'
-publish_date: '2010-01-09 21:00'
-category: ['Coding']
-tags: ['Coding']
+layout: post
+publish_date: 2010-01-09 21:00
+slug: archived-content-plus-new-version
+tags:
+- Coding
+title: Archived Content Plus New Version
+
 ---
 This new version of the Archived Content Plus for Joomla 1.5 has a lot of
 bugfixes and a new javascript core.  
