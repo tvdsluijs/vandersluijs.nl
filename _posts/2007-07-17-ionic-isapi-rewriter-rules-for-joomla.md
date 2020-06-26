@@ -4,7 +4,7 @@ categories:
 - Tech
 comments: 'true'
 date: 2007-07-17 13:41:00+00:00
-excerpt_separator: <!--more-->
+
 hits:
 - '842'
 layout: post

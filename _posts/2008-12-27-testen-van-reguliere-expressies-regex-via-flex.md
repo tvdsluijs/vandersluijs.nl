@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2008-12-27 14:21
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-12-27 14:21
 slug: testen-van-reguliere-expressies-regex-via-flex

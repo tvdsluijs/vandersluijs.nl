@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2008-10-27 18:14
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-10-27 18:14
 slug: juiste-datum-in-php

@@ -6,7 +6,7 @@ comments: 'true'
 date: 2017-04-01 16:32:26+00:00
 dsq_thread_id:
 - '5882247989'
-excerpt_separator: <!--more-->
+
 hits:
 - '139'
 image: https://vandersluijs.resultants-e.nl/2017/06/polar-v650-8-825x510.jpg

@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-01-19 08:19
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-01-19 08:19
 slug: riaforge-open-source-projects-built-on-adobe-technology-

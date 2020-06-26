@@ -4,7 +4,7 @@ categories:
 - Lifestyle
 comments: 'true'
 date: 2007-10-01 16:53:00+00:00
-excerpt_separator: <!--more-->
+
 hits:
 - '749'
 layout: post

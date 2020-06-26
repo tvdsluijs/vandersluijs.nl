@@ -7,7 +7,7 @@ category:
 - Agile Transformation
 comments: 'true'
 date: '2016-02-12 15:14:56+00:00'
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: '2016-02-12 15:14:56+00:00'
 slug: agile-worden-kan-niet-met-shortcuts

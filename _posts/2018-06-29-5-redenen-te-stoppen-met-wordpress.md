@@ -4,7 +4,7 @@ categories:
 - Tech
 comments: 'true'
 date: 2018-06-29
-excerpt_separator: <!--more-->
+
 image: https://www.vandersluijs.nl/images/5-redenen-te-stoppen-met-wordpress.jpeg
 layout: post
 permalink: /2018/06/5-redenen-te-stoppen-met-wordpress

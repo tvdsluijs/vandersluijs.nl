@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-12-10 21:35
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-12-10 21:35
 slug: born-on-this-day-joomla-module

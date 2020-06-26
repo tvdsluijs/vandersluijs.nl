@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-05-25 14:43
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-05-25 14:43
 slug: donate-plus-nederlandse-vertaling

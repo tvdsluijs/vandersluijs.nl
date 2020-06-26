@@ -7,7 +7,7 @@ category:
 - Agility
 comments: 'true'
 date: '2015-12-09 20:00:23+00:00'
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: '2015-12-09 20:00:23+00:00'
 slug: game-master-van-mijn-eerste-agile-spel

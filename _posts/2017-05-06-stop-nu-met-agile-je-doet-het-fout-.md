@@ -4,7 +4,7 @@ category:
 - Agile
 comments: 'true'
 date: '2017-05-06 14:22:27+00:00'
-excerpt_separator: <!--more-->
+
 image: https://vandersluijs.resultants-e.nl/1*CM0RAFUO3RXyiurXQHucjA.jpeg
 layout: post
 publish_date: '2017-05-06 14:22:27+00:00'

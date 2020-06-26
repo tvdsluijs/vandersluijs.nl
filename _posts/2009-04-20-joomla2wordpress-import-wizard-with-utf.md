@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-04-20 06:01
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-04-20 06:01
 slug: joomla2wordpress-import-wizard-with-utf

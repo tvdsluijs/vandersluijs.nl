@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2012-04-23 21:39
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-04-23 21:39
 slug: ip-adressen-opslaan-in-mysql

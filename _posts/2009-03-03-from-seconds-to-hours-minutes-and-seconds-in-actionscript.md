@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-03-03 19:50
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-03-03 19:50
 slug: from-seconds-to-hours-minutes-and-seconds-in-actionscript

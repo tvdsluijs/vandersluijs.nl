@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2008-12-23 08:19
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-12-23 08:19
 slug: adres-zoeken-via-postcode

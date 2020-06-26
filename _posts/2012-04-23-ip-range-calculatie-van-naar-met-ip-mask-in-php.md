@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2012-04-23 22:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-04-23 22:00
 slug: ip-range-calculatie-van-naar-met-ip-mask-in-php

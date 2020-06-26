@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-11-24 17:45
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-11-24 17:45
 slug: artisteer

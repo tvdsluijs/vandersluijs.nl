@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-03-18 20:38
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-03-18 20:38
 slug: wordpress-about-the-author-box

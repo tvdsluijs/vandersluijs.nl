@@ -4,7 +4,7 @@ category:
 - Agile
 comments: 'true'
 date: 2012-11-14 19:51
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-11-14 19:51
 slug: professional-scrum-master-i-examen-gehaald-

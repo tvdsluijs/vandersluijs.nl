@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2008-02-13 06:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-02-13 06:00
 slug: mijn-tweede-flex-applicatie

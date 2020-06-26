@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2008-06-29 17:13
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-06-29 17:13
 slug: joomla-contacts-infobox-plus-editor

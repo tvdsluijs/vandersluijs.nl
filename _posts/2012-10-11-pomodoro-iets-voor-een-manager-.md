@@ -4,7 +4,7 @@ category:
 - Agile
 comments: 'true'
 date: 2012-10-11 19:15
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-10-11 19:15
 slug: pomodoro-iets-voor-een-manager-

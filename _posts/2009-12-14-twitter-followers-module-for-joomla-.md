@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-12-14 20:35
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-12-14 20:35
 slug: twitter-followers-module-for-joomla-

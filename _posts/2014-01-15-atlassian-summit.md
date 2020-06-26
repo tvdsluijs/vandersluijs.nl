@@ -6,10 +6,10 @@ category:
 - Development
 comments: 'true'
 date: 2014-01-15 12:10
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2014-01-15 12:10
-slug: atlassian-summit
+slug: atlassian-summit-3
 tags:
 - Jira
 - Atlassian

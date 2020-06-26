@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2008-12-25 11:29
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-12-25 11:29
 slug: flex-vervang-replacer

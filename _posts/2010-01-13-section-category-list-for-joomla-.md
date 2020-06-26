@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-01-13 21:14
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-01-13 21:14
 slug: section-category-list-for-joomla-

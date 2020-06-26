@@ -5,7 +5,7 @@ categories:
 - Lifestyle
 comments: 'true'
 date: 2018-07-13
-excerpt_separator: <!--more-->
+
 image: https://www.vandersluijs.nl/images/images/garmin-forerunner-645-tommy-hilfiger_0.jpg
 layout: post
 permalink: /2018/07/smartwatches-en-sportwatches-door-de-jaren-heen

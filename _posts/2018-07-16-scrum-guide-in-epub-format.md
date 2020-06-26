@@ -4,7 +4,7 @@ categories:
 - Management
 comments: 'true'
 date: 2018-07-16
-excerpt_separator: <!--more-->
+
 image: /images/scrum-guide-in-epub-format.jpeg
 layout: post
 permalink: /2018/07/scrum-guide-in-epub-format/

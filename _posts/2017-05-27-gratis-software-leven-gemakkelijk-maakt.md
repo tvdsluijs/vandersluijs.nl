@@ -6,7 +6,7 @@ comments: 'true'
 date: 2017-05-27 15:13:53+00:00
 dsq_thread_id:
 - '5855287438'
-excerpt_separator: <!--more-->
+
 hits:
 - '109'
 image: https://vandersluijs.resultants-e.nl/2017/05/vandersluijs-not-as-geeky-825x510.png

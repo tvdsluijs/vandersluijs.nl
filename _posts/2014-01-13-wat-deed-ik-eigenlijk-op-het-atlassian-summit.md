@@ -6,7 +6,7 @@ category:
 - Development
 comments: 'true'
 date: 2014-01-13 18:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2014-01-13 18:00
 slug: wat-deed-ik-eigenlijk-op-het-atlassian-summit

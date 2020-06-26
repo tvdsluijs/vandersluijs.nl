@@ -4,7 +4,7 @@ category:
 - Scrum
 comments: 'true'
 date: 2012-10-15 22:14
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-10-15 22:14
 slug: scrum-master-worden-let-dan-even-op-

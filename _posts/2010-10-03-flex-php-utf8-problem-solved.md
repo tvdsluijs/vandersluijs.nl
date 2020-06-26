@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-10-03 21:50
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-10-03 21:50
 slug: flex-php-utf8-problem-solved

@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-02-16 18:32
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-02-16 18:32
 slug: soon-new-version-of-section-category-list-module

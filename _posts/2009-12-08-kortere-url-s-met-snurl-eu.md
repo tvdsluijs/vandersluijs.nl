@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-12-08 02:43
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-12-08 02:43
 slug: kortere-url-s-met-snurl-eu

@@ -5,7 +5,7 @@ category:
 - Scrum
 comments: 'true'
 date: 2012-10-05 15:34
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-10-05 15:34
 slug: het-nieuwe-werken-moet-van-twee-kanten-komen

@@ -4,7 +4,7 @@ categories:
 - Agile
 comments: 'true'
 date: 2018-07-16
-excerpt_separator: <!--more-->
+
 image: https://www.vandersluijs.nl/images/scrum-guide-in-epub-formaat.jpeg
 layout: post
 permalink: /2018/07/scrum-guide-in-epub-formaat

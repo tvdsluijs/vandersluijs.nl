@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-06-11 12:14
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-06-11 12:14
 slug: mysql-veld-autoincrement-resetten

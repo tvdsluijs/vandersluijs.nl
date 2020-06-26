@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2007-05-25 14:27
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2007-05-25 14:27
 slug: mijn-eerste-extentie-op-joomla-

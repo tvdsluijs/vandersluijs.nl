@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-11-06 07:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-11-06 07:00
 slug: loading-local-xml-file-in-flash-builder

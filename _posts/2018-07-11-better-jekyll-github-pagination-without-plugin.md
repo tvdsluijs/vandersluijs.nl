@@ -4,7 +4,7 @@ categories:
 - Coding
 comments: 'true'
 date: 2018-07-11
-excerpt_separator: <!--more-->
+
 image: /images/better-jekyll-github-pagination-without-plugin.jpeg
 layout: post
 publish_date: 2018-07-11

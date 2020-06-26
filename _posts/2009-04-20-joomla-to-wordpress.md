@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-04-20 06:11
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-04-20 06:11
 slug: joomla-to-wordpress

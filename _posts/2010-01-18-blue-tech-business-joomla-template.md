@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-01-18 20:35
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-01-18 20:35
 slug: blue-tech-business-joomla-template

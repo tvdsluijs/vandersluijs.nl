@@ -6,7 +6,7 @@ comments: 'true'
 date: 2017-03-04 16:23:31+00:00
 dsq_thread_id:
 - '5882215962'
-excerpt_separator: <!--more-->
+
 hits:
 - '21'
 image: https://vandersluijs.resultants-e.nl/2017/06/samsung-gear-s3-geen-sporthorloge-825x510.jpg

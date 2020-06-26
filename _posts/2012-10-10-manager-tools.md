@@ -5,7 +5,7 @@ category:
 - Software
 comments: 'true'
 date: 2012-10-10 18:36
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-10-10 18:36
 slug: manager-tools

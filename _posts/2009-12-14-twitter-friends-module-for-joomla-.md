@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-12-14 20:30
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-12-14 20:30
 slug: twitter-friends-module-for-joomla-

@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2011-01-12 16:50
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2011-01-12 16:50
 slug: flex-swiz-workshop-deel

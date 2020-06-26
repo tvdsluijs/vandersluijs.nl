@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-11-06 22:46
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-11-06 22:46
 slug: mootools-upgrade-in-joomla

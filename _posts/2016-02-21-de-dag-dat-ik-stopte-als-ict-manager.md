@@ -8,7 +8,7 @@ category:
 - Management
 comments: 'true'
 date: '2016-02-21 21:29:44+00:00'
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: '2016-02-21 21:29:44+00:00'
 slug: de-dag-dat-ik-stopte-als-ict-manager

@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-01-12 07:01
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-01-12 07:01
 slug: flex-formatter-source-code-formatting

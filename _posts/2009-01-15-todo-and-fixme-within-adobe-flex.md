@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-01-15 17:35
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-01-15 17:35
 slug: todo-and-fixme-within-adobe-flex

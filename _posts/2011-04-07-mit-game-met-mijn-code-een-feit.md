@@ -5,7 +5,7 @@ category:
 - Code
 comments: 'true'
 date: 2011-04-07 01:45
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2011-04-07 01:45
 slug: mit-game-met-mijn-code-een-feit

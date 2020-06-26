@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2008-09-09 05:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-09-09 05:00
 slug: joomla-geshiplus-werkend

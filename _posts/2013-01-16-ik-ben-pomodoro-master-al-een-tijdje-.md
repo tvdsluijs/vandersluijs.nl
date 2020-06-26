@@ -4,7 +4,7 @@ category:
 - Agile
 comments: 'true'
 date: 2013-01-16 21:10
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2013-01-16 21:10
 slug: ik-ben-pomodoro-master-al-een-tijdje-

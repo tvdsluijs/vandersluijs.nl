@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-04-23 12:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-04-23 12:00
 slug: joomla-to-wordpress-htaccess-url-rewrite

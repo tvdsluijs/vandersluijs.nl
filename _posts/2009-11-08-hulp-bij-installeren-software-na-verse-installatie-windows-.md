@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-11-08 20:01
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-11-08 20:01
 slug: hulp-bij-installeren-software-na-verse-installatie-windows-

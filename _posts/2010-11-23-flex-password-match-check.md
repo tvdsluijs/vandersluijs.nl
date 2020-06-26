@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-11-23 09:54
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-11-23 09:54
 slug: flex-password-match-check

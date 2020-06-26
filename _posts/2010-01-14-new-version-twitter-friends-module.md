@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-01-14 14:05
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-01-14 14:05
 slug: new-version-twitter-friends-module

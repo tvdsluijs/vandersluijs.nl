@@ -6,7 +6,7 @@ category:
 - Agile Methodology
 comments: 'true'
 date: 2011-04-25 20:33
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2011-04-25 20:33
 slug: scrum-workshop-is-geen-enge-ziekte-

@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-03-11 09:29
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-03-11 09:29
 slug: air-application-descriptor-manager

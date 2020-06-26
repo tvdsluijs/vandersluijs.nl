@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-11-12 21:20
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-11-12 21:20
 slug: disable-adobe-reader-toolbar-in-webdynpro

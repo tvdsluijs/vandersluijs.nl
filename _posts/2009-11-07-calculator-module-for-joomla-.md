@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-11-07 12:51
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-11-07 12:51
 slug: calculator-module-for-joomla-

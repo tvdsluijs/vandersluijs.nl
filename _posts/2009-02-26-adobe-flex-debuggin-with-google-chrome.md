@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-02-26 19:50
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-02-26 19:50
 slug: adobe-flex-debuggin-with-google-chrome

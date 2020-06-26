@@ -3,7 +3,7 @@ author: tvdsluijs
 categories:
 - Tech
 comments: 'true'
-excerpt_separator: <!--more-->
+
 image: /images/1*kmdeXXsE5g3ViZqicLhwSQ.jpeg
 layout: post
 tags:

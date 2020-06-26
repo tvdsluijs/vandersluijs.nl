@@ -4,7 +4,7 @@ categories:
 - Coding
 comments: 'true'
 date: 2018-07-14
-excerpt_separator: <!--more-->
+
 image: /images/toon-factuur-nummer-in-woocommerce-bestel-overzicht.jpeg
 layout: post
 permalink: /2018/07/toon-factuur-nummer-in-woocommerce-bestel-overzicht

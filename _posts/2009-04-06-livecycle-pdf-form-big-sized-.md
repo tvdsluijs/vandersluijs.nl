@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-04-06 13:35
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-04-06 13:35
 slug: livecycle-pdf-form-big-sized-

@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-03-20 14:36
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-03-20 14:36
 slug: nice-sap-adobe-flex-air-banner

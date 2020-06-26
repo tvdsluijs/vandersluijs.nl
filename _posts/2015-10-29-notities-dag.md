@@ -6,7 +6,7 @@ category:
 - Agile Methodology
 comments: 'true'
 date: '2015-10-29 21:39:27+00:00'
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: '2015-10-29 21:39:27+00:00'
 slug: notities-dag

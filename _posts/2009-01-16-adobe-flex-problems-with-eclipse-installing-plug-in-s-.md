@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-01-16 17:45
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-01-16 17:45
 slug: adobe-flex-problems-with-eclipse-installing-plug-in-s-

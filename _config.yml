@@ -1,26 +1,65 @@
 # Site
+theme: jekyll-theme-so-simple
+skin: "/assets/css/skins/default.css"
+locale: nl-NL
+baseurl: # the subpath of your site, e.g. "/blog"
+url: https://www.vandersluijs.nl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+logo: "/assets/images/logo.png"
+date_format: "%A, %e %B %Y"
+read_time: # reading time estimates, e.g. true
+words_per_minute: # 200
+mathjax:
+  enable: # MathJax equations, e.g. true, false (default)
+  combo: # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
+  tags: # "none", "ams" (default), "all"
+google_fonts:
+  - name: "Source Sans Pro"
+    weights: "400,400i,700,700i"
+  - name: "Lora"
+    weights: "400,400i,700,700i"
+google_analytics: "UA-1497722-5"
+disqus:
+  shortname: vdsluijs # Disqus shortname, e.g. "my_disqus_shortname"
+twitter:
+  username: # site's Twitter username, e.g. "mmistakes"
+
 name: "van der Sluijs"
 title: "van der Sluijs"
-description: "To boldly go where no blog has gone before!"
-logo: "assets/images/logo.png"
-favicon: "assets/images/logo.png"
-baseurl: ""
-google_analytics: "UA-1497722-5"
-disqus: "vdsluijs"
-mailchimp-list: ""
+description: "Dit is mijn oude site!!"
+favicon: "/assets/images/logo.png"
+
 include: ["_pages"]
 permalink: /:title/
 
-# Authors
-authors:
-  tvdsluijs:
-    name: Theo van der Sluijs
-    display_name: iTheo
-    gravatar: b40d3b7da056fcc44bf7792e4ed4bda3
-    email: theo@vandersluijs.nl
-    web: https://www.itheo.nl
-    twitter: https://twitter.com/tvdsluijs
-    description: "Theo van der Sluijs 'tvdsluijs' is a Dutch professional Agile Servant Leader and Programmer, who has worked for Bax music and Glencore Agriculture. As a kid, he started developing software on a Commodore 64."
+liquid:
+  error_mode: strict
+
+# Front Matter Defaults
+defaults:
+  # Posts defaults
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      share: true
+
+# Site Author
+author:
+  name: Theo van der Sluijs
+  picture:
+  email: theo@vandersluijs.nl
+  twitter:
+  links:
+    - title:
+      url:
+      icon:
+
+# Footer Links
+footer_links:
+  - title: Feed
+    url: atom.xml
+    icon: fas fa-rss-square
 
 # Plugins
 plugins:
@@ -44,9 +83,9 @@ jekyll-archives:
   permalinks:
     category: "/category/:name/"
 
-# Pagination
-paginate: 6
-paginate_path: /page:num/
+# # Pagination
+# paginate: 6
+# paginate_path: /page:num/
 
 # Other
 markdown: kramdown

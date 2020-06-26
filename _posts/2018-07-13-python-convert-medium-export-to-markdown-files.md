@@ -4,7 +4,7 @@ categories:
 - Coding
 comments: 'true'
 date: 2018-07-13
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2018-07-13
 slug: /2018/07/python-convert-medium-export-to-markdown-files/

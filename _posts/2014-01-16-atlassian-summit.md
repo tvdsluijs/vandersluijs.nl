@@ -7,7 +7,7 @@ category:
 - Development
 comments: 'true'
 date: 2014-01-16 20:56
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2014-01-16 20:56
 slug: atlassian-summit

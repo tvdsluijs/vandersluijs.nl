@@ -6,7 +6,7 @@ comments: 'true'
 date: 2007-07-02 14:01:00+00:00
 dsq_thread_id:
 - '5884893373'
-excerpt_separator: <!--more-->
+
 hits:
 - '1726'
 layout: post

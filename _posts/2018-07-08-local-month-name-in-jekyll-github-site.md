@@ -4,7 +4,7 @@ categories:
 - Coding
 comments: 'true'
 date: 2018-07-08
-excerpt_separator: <!--more-->
+
 image: /images/local-month-name-in-jekyll-github-site.jpg
 layout: post
 publish_date: 2018-07-08

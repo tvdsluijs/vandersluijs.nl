@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-03-26 08:47
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-03-26 08:47
 slug: it-s-alive-alive-alivepdf

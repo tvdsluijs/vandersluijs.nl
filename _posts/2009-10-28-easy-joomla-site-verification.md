@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-10-28 07:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-10-28 07:00
 slug: easy-joomla-site-verification

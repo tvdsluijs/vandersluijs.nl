@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2008-09-22 11:31
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-09-22 11:31
 slug: joomla-marketplace-nl-vertaling

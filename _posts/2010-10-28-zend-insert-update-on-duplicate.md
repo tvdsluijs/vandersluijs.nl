@@ -5,7 +5,7 @@ category:
 - Zend
 comments: 'true'
 date: 2010-10-28 17:10
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-10-28 17:10
 slug: zend-insert-update-on-duplicate

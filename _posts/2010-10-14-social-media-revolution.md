@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-10-14 13:06
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-10-14 13:06
 slug: social-media-revolution

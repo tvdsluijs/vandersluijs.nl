@@ -5,7 +5,7 @@ category:
 - Management
 comments: 'true'
 date: 2012-10-12 22:10
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-10-12 22:10
 slug: hoe-blijft-je-als-manager-bij-een-ict-managers-verhaal

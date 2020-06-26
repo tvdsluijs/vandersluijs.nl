@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-03-05 08:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-03-05 08:00
 slug: new-version-of-calculator-plus-module

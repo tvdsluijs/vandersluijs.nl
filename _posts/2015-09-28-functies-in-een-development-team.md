@@ -5,7 +5,7 @@ category:
 - Work
 comments: 'true'
 date: '2015-09-28 17:43:22+00:00'
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: '2015-09-28 17:43:22+00:00'
 slug: functies-in-een-development-team

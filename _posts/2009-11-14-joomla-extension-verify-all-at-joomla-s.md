@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-11-14 20:55
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-11-14 20:55
 slug: joomla-extension-verify-all-at-joomla-s

@@ -4,7 +4,7 @@ category:
 - Development
 comments: 'true'
 date: 2012-11-10 11:31
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-11-10 11:31
 slug: pomodoro-gtd-met-wunderlist-of-evernote

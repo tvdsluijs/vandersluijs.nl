@@ -5,7 +5,7 @@ category:
 - Action Script
 comments: 'true'
 date: 2008-02-15 00:15
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-02-15 00:15
 slug: selecteer-een-provincie

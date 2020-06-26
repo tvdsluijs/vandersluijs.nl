@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-05-20 02:11
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-05-20 02:11
 slug: wolphaartsdijk-op-de-kaart-

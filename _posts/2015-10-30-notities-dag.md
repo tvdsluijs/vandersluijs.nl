@@ -7,10 +7,10 @@ category:
 - Scrum
 comments: 'true'
 date: '2015-10-30 18:43:17+00:00'
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: '2015-10-30 18:43:17+00:00'
-slug: notities-dag
+slug: notities-dag-leading-agile-1
 tags:
 - Agile
 - Agile Transformation

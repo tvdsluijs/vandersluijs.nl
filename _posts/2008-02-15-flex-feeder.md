@@ -4,7 +4,7 @@ category:
 - Tech
 comments: 'true'
 date: 2008-02-15 06:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-02-15 06:00
 slug: flex-feeder

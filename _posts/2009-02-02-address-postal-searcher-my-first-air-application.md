@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-02-02 14:29
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-02-02 14:29
 slug: address-postal-searcher-my-first-air-application

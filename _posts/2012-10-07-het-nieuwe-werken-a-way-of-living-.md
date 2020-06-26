@@ -4,7 +4,7 @@ category:
 - Agile
 comments: 'true'
 date: 2012-10-07 11:53
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-10-07 11:53
 slug: het-nieuwe-werken-a-way-of-living-

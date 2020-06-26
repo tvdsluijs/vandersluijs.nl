@@ -4,7 +4,7 @@ category:
 - Agile
 comments: 'true'
 date: 2014-09-11 20:22
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2014-09-11 20:22
 slug: waarom-blijven-grote-bedrijven-in-het-verleden-hangen-

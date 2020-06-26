@@ -1,0 +1,20 @@
+# Sample Authors
+# Remove file or replace with your own
+
+tvdsluijs:
+  name: Theo van der Sluijs
+  picture: /assets/style-images/theo-van-der-sluijs-250px.gif
+  twitter: "@itheo_nl"
+  links:
+    - title: Twitter
+      url: https://twitter.com/itheo_nl
+      icon: fab fa-twitter-square
+    - title: Linkendin
+      url: https://www.linkedin.com/in/tvandersluijs/
+      icon: fab fa-linkedin-square
+    - title: Github
+      url: https://github.com/tvdsluijs
+      icon: fab fa-github-square
+    - title: email
+      url: mailto:theo@vandersluijs.nl
+      icon: fab fa-email-square

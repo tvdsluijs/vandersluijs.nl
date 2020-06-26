@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-02-13 13:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-02-13 13:00
 slug: flex-auto-select-combobox

@@ -6,7 +6,7 @@ comments: 'true'
 date: 2016-12-27 14:10:50+00:00
 dsq_thread_id:
 - '5700416049'
-excerpt_separator: <!--more-->
+
 hits:
 - '1782'
 image: https://vandersluijs.resultants-e.nl/2016/12/samsung-gear-s3-frontier-8-825x510.jpg

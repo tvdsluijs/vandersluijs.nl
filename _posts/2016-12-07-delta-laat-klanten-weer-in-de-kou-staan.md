@@ -6,7 +6,7 @@ comments: 'true'
 date: 2016-12-07 22:02:40+00:00
 dsq_thread_id:
 - '5708280567'
-excerpt_separator: <!--more-->
+
 hits:
 - '391'
 image: https://vandersluijs.resultants-e.nl/2016/12/alle-pakketten_2-825x449.png

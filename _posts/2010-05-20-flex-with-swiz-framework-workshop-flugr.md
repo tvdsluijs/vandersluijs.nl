@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-05-20 11:50
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-05-20 11:50
 slug: flex-with-swiz-framework-workshop-flugr

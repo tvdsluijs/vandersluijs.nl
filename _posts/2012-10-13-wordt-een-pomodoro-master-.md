@@ -4,7 +4,7 @@ category:
 - Development
 comments: 'true'
 date: 2012-10-13 10:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-10-13 10:00
 slug: wordt-een-pomodoro-master-

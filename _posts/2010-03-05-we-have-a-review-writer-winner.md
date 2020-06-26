@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-03-05 08:53
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-03-05 08:53
 slug: we-have-a-review-writer-winner

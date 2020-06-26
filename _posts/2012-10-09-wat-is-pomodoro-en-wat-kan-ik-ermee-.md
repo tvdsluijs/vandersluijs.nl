@@ -4,7 +4,7 @@ category:
 - Development
 comments: 'true'
 date: 2012-10-09 17:52
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-10-09 17:52
 slug: wat-is-pomodoro-en-wat-kan-ik-ermee-

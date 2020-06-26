@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-12-10 23:59
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-12-10 23:59
 slug: twitter-updates-for

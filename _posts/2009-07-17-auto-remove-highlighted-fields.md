@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-07-17 11:38
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-07-17 11:38
 slug: auto-remove-highlighted-fields

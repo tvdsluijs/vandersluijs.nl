@@ -6,7 +6,7 @@ category:
 - Nieuwe Werken
 comments: 'true'
 date: 2014-09-11 20:24
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2014-09-11 20:24
 slug: ga-muiten-binnen-het-bedrijf-en-vraag-daarna-om-vergeving-

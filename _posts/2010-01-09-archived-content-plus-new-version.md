@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-01-09 21:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-01-09 21:00
 slug: archived-content-plus-new-version

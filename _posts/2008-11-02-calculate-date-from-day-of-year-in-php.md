@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2008-11-02 00:00
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-11-02 00:00
 slug: calculate-date-from-day-of-year-in-php

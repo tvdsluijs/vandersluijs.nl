@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-03-02 19:15
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-03-02 19:15
 slug: read-out-system-memory-using-adobe-flex

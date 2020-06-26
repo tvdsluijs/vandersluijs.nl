@@ -7,7 +7,7 @@ category:
 - Development
 comments: 'true'
 date: 2012-11-20 20:07
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-11-20 20:07
 slug: gtd-of-pomodoro-met-trello-

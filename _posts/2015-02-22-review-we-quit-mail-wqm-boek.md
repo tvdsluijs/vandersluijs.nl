@@ -8,7 +8,7 @@ category:
 - Development
 comments: 'true'
 date: 2015-02-22 15:26
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2015-02-22 15:26
 slug: review-we-quit-mail-wqm-boek

@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-12-16 21:46
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-12-16 21:46
 slug: gratis-en-voor-niks-van-microsoft-

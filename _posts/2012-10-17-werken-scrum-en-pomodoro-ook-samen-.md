@@ -6,7 +6,7 @@ category:
 - Scrum
 comments: 'true'
 date: 2012-10-17 18:16
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2012-10-17 18:16
 slug: werken-scrum-en-pomodoro-ook-samen-

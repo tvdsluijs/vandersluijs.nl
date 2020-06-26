@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-11-13 19:28
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-11-13 19:28
 slug: verify-all-wp-plugin-in-plugin-directory

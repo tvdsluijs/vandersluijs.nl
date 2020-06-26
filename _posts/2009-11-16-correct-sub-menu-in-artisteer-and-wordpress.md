@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-11-16 20:22
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-11-16 20:22
 slug: correct-sub-menu-in-artisteer-and-wordpress

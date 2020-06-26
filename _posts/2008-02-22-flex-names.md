@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2008-02-22 20:24
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2008-02-22 20:24
 slug: flex-names

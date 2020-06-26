@@ -4,7 +4,7 @@ categories:
 - Grumpy
 comments: 'true'
 date: 2007-08-20 10:41:00+00:00
-excerpt_separator: <!--more-->
+
 hits:
 - '1361'
 layout: post

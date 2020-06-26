@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-01-06 19:27
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-01-06 19:27
 slug: timer-class-for-time-logs

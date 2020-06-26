@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2010-02-05 05:52
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2010-02-05 05:52
 slug: new-twitter-friends-followers-version

@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2016-01-01 22:56
-excerpt_separator: <!--more-->
+
 image: https://vandersluijs.resultants-e.nl/1*ElZM2hjwYLDE29GCAmYxoA.jpeg
 layout: post
 publish_date: 2016-01-01 22:56

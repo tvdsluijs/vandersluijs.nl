@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-11-13 18:11
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-11-13 18:11
 slug: drop-down-list-text-value-in-livecycle-designer

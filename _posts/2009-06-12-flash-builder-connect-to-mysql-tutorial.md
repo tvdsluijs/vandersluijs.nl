@@ -4,7 +4,7 @@ category:
 - Coding
 comments: 'true'
 date: 2009-06-12 06:34
-excerpt_separator: <!--more-->
+
 layout: post
 publish_date: 2009-06-12 06:34
 slug: flash-builder-connect-to-mysql-tutorial
