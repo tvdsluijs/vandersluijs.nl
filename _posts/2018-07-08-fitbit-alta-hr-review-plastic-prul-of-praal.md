@@ -14,7 +14,7 @@ tags:
   - Fitbit
   - Tracker
 comments: true
-excerpt_separator: < !--more -->
+excerpt_separator: <!--more-->
 vw_review_score_0_label:
   - Gebruiksgemak
 vw_review_score_0_score:
