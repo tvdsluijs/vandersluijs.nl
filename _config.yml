@@ -2,7 +2,7 @@
 theme: jekyll-theme-so-simple
 skin: "/assets/css/skins/default.css"
 locale: nl-NL
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: ""
 url: https://www.vandersluijs.nl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: "/assets/images/logo.png"
 date_format: "%A, %e %B %Y"
@@ -84,8 +84,8 @@ jekyll-archives:
     category: "/category/:name/"
 
 # # Pagination
-# paginate: 6
-# paginate_path: /page:num/
+paginate: 6
+paginate_path: /page:num/
 
 # Other
 markdown: kramdown
