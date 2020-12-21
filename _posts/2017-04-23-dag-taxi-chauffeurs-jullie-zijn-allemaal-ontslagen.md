@@ -2,6 +2,7 @@
 author: tvdsluijs
 sitemap: false
 redirect_to: https://vandersluijs.xyz/dag-taxi-chauffeurs-jullie-zijn-allemaal-ontslagen/
+hidden: true
 category:
   - Tech
 comments: "true"

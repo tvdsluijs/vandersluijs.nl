@@ -6,6 +6,7 @@ comments: "true"
 date: 2018-07-16
 sitemap: false
 redirect_to: https://itheo.nl/scrum-guide-in-epub-format/
+hidden: true
 image: /images/scrum-guide-in-epub-format.jpeg
 layout: post
 permalink: /2018/07/scrum-guide-in-epub-format/

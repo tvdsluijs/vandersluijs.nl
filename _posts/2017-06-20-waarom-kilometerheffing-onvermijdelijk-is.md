@@ -2,7 +2,7 @@
 author: tvdsluijs
 sitemap: false
 redirect_to: https://vandersluijs.xyz/waarom-kilometerheffing-onvermijdelijk-is/
-
+hidden: true
 category:
   - Tech
 comments: "true"
